@@ -11,13 +11,13 @@ h1, h2 {
 .page {
   margin: 2em auto;
   width: 41em;
-  border: 5px double #007c00;
+  border: 5px double #4169e1;
   padding: 1em;
   background: white;
 }
 
 .heading {
-  border-bottom: 2px solid #007c00;
+  border-bottom: 2px solid #4169e1;
   text-align: center;
   margin-bottom: 1em;
   padding-bottom: 1em;
@@ -50,7 +50,7 @@ tr:hover {
   text-decoration: none;
   background: rgba(0,124,0,0.8);
   color: #ffffff;
-  border-bottom: solid 4px #007c00;
+  border-bottom: solid 4px #4169e1;
   border-radius: 3px;
 }
 
@@ -172,7 +172,7 @@ tr:hover {
 	cursor: pointer;
 }
 .tabmenu-head input[type="radio"]:checked + em{
-	background: #007c00;
+	background: #4169e1;
 	color: #fff;
 }
 .tabmenu-head input[type="radio"]:checked + em::after {
