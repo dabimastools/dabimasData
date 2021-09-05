@@ -954,7 +954,7 @@ function backShow() {
 }
 
 function initShow() {
-	header.innerHTML = getFooter();
+	header.innerHTML = getHeader();
 	$("#hosi-5").prop('checked',true);
 
 	var sql_base = 'SELECT * FROM ? h  where sei = 0 and hosi =  5 order by hosi desc ,name';
