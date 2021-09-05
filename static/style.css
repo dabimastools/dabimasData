@@ -315,8 +315,9 @@ tr:hover {
   color          : #aaa;
 }
 .btn2_wrap input:checked + label{
-  background     : #4169e1;             /* 背景色             */
+  background     : #78bd78;             /* 背景色             */
   box-shadow     : none;                /* 影を消す           */
+  color          : #fff;                /* 文字色             */
 }
 .btn2_wrap input:checked + label  span:after{
   color          : #fff;                /* 文字色             */
@@ -341,8 +342,9 @@ tr:hover {
     cursor: pointer;
 }
 .btn3_wrap input:checked + label{
-  background     : #4169e1;             /* 背景色             */
+  background     : #78bd78;             /* 背景色             */
   box-shadow     : none;                /* 影を消す           */
+  color          : #fff;                /* 文字色             */
 }
 
 .btn3_wrap input:checked + label  span:after{
