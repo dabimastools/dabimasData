@@ -315,12 +315,12 @@ tr:hover {
   color          : #aaa;
 }
 .btn2_wrap input:checked + label{
-  color          : #ffffff;             /* 文字色             */
-  background     : #4169e1;             /* 背景色             */
-  box-shadow     : none;                /* 影を消す           */
+  color          : #ffffff;
+  background     : #4169e1;
+  box-shadow     : none;
 }
 .btn2_wrap input:checked + label  span:after{
-  color          : #fff;                /* 文字色             */
+  color          : #fff;
 }
 
 
@@ -342,13 +342,13 @@ tr:hover {
     cursor: pointer;
 }
 .btn3_wrap input:checked + label{
-  color          : #ffffff;             /* 文字色             */
-  background     : #4169e1;             /* 背景色             */
-  box-shadow     : none;                /* 影を消す           */
+  color          : #ffffff;
+  background     : #4169e1;
+  box-shadow     : none;
 }
 
 .btn3_wrap input:checked + label  span:after{
-  color          : #fff;                /* 文字色             */
+  color          : #fff;
 }
 
 .horsedata {
