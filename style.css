@@ -316,7 +316,6 @@ tr:hover {
 }
 .btn2_wrap input:checked + label{
   background     : #4169e1;
-  color          : #ffffff;
   box-shadow     : none;
 }
 .btn2_wrap input:checked + label  span:after{
@@ -343,7 +342,6 @@ tr:hover {
 }
 .btn3_wrap input:checked + label{
   background     : #4169e1;
-  color          : #ffffff;
   box-shadow     : none;
 }
 
