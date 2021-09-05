@@ -315,8 +315,8 @@ tr:hover {
   color          : #aaa;
 }
 .btn2_wrap input:checked + label{
-  color          : #ffffff;
   background     : #4169e1;
+  color          : #ffffff;
   box-shadow     : none;
 }
 .btn2_wrap input:checked + label  span:after{
@@ -342,8 +342,8 @@ tr:hover {
     cursor: pointer;
 }
 .btn3_wrap input:checked + label{
-  color          : #ffffff;
   background     : #4169e1;
+  color          : #ffffff;
   box-shadow     : none;
 }
 
