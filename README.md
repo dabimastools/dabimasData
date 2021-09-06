@@ -1,4 +1,4 @@
-# ダビマス検索ツール
+# ダビ娘
 
-[ダビマス検索ツール](https://yasirosyokuhin.github.io/)
+[ダビ娘](https://yanaifarm.github.io/)
 ダビマスの血統を検索できるツールです。
