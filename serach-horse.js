@@ -2,6 +2,7 @@ var getHorselist = document.getElementById('getHorselist');
 var horselist = document.getElementById('horselist');
 var header = document.getElementById('header');
 var footer = document.getElementById('footer');
+var tabHorse = document.getElementById('tabHorse');
 
 var detailHorse = '';
 var factorlist = '';
@@ -947,20 +948,24 @@ return tag;
 
 
 function backShow() {
-	header.innerHTML = sessionStorage.getItem('header');
-	horselist.innerHTML = sessionStorage.getItem('contents');
-	footer.innerHTML =  sessionStorage.getItem('footer');
+    header.innerHTML = sessionStorage.getItem('header');
+    tabHorse.innerHTML = sessionStorage.getItem('tabHorse');
+    horselist.innerHTML = sessionStorage.getItem('contents');
+    footer.innerHTML =  sessionStorage.getItem('footer');
 
 }
 
 function initShow() {
-	header.innerHTML = getHeader();
-	$("#hosi-5").prop('checked',true);
+    header.innerHTML = getHeader();
+    $("#hosi-5").prop('checked',true);
 
-	footer.innerHTML = getFooter();
-	var sql_base = 'SELECT * FROM ? h  where sei = 0 and hosi =  5 order by hosi desc ,name';
-	var j_horselist = alasql(sql_base, [horse]);
-	horselist.innerHTML = formatHorse(j_horselist);
+    tabHorse.innerHTML = getTabHorse();
+
+    var sql_base = 'SELECT * FROM ? h  where sei = 0 and hosi =  5 order by hosi desc ,name';
+    var j_horselist = alasql(sql_base, [horse]);
+    horselist.innerHTML = formatHorse(j_horselist);
+
+    footer.innerHTML = getFooter();
 }
 
 function getFactorList() {
@@ -1003,9 +1008,7 @@ function getFactorList() {
 	tag += '</div></div>';
 	tag += '</div>';
     tag += '</span></label>';
-    tag += '</div><div class="footertxt">';
-    tag += '<a class="tw_share" href="http://twitter.com/share?url=https://yasirosyokuhin.github.io/index.html&text=ダビマス検索ツール&hashtags=ダビマス検索ツール" target="_blank">共有</a>';
-	tag += 'ダビマス検索ツール<a href="https://twitter.com/papayuki2016">@ふじろん牧場</a></div>';
+    tag += '</div>';
 	
 	return tag
 }
@@ -1276,8 +1279,17 @@ function getHeader() {
 	return tag;
 }
 
+function getTabHorse() {
+    let tag = '<div class="tabmenu-head"><div class="footer"><label><input name="tab-head" id="0" type="radio" checked="" class="sei"><em>種牡馬</em></label><label><input name="tab-head" id="1" type="radio" class="sei"><em>牝馬</em></label></div></div>';
+    sessionStorage.setItem('tabHorse', tag);
+    return tag;
+}
+
 function getFooter() {
-	let tag = '<div class="tabmenu-head"><div class="footer"><label><input name="tab-head" id="0" type="radio" checked="" class="sei"><em>種牡馬</em></label><label><input name="tab-head" id="1" type="radio" class="sei"><em>牝馬</em></label></div></div>';
-	sessionStorage.setItem('footer', tag);	
-	return tag;
+    let tag = '<div class="footertxt">';
+    tag += '<a class="tw_share" href="http://twitter.com/share?url=https://yanaifarm.github.io/index.html&text=ダビ検&hashtags=ダビ検索" target="_blank">共有</a>';
+    tag += 'ダビ検索<a href="https://twitter.com/yanaiFarm">@やないあいこ牧場</a>　thanks to ふじろん牧場さま</div>';
+
+    sessionStorage.setItem('footer', tag);	
+    return tag;
 }

@@ -1,6 +1,6 @@
 {
-    "short_name": "ダビマス検索ツール",
-    "name": "ダビマス検索ツール",
+    "short_name": "ダビ検",
+    "name": "ダビ検",
     "display": "standalone",
     "start_url": "/index.html",
      "icons": [
