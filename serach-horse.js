@@ -452,9 +452,7 @@ function getContentsDetail() {
 	tag += '<td class="omoshiro_1" width="60">'
 	tag += 'Ro'; //親系統
 	tag += '</td>'
-	tag += '<td class="omoshiro">';
 	tag += getFactorImg(detailHorse.t -1);
-	tag += '</td>'
 	tag += '</tr>';
 	
 	//父父
@@ -502,9 +500,7 @@ function getContentsDetail() {
 	tag += '<td class="migoto_1" width="60">'
 	tag += 'St'; //親系統
 	tag += '</td>'
-	tag += '<td class="migoto">';
 	tag += getFactorImg(detailHorse.ttht -1);
-	tag += '</td>'
 	tag += '</tr>';
 	
 	//父母父（面白）
@@ -519,9 +515,7 @@ function getContentsDetail() {
 	tag += '<td class="omoshiro_2" width="60">'
 	tag += 'He'; //親系統
 	tag += '</td>'
-	tag += '<td class="omoshiro">';
 	tag += getFactorImg(detailHorse.tht -1);
-	tag += '</td>'
 	tag += '</tr>';
 	
 	//父母父父
@@ -547,9 +541,7 @@ function getContentsDetail() {
 	tag += '<td class="migoto_1" width="60">'
 	tag += 'Te'; //親系統
 	tag += '</td>'
-	tag += '<td class="migoto">';
 	tag += getFactorImg(detailHorse.thht -1);
-	tag += '</td>'
 	tag += '</tr>';
 	
 	//母父（面白）
@@ -564,9 +556,7 @@ function getContentsDetail() {
 	tag += '<td class="omoshiro_1" width="60">'
 	tag += 'Sw'; //親系統
 	tag += '</td>'
-	tag += '<td class="omoshiro">';
 	tag += getFactorImg(detailHorse.ht -1);
-	tag += '</td>'
 	tag += '</tr>';
 
 	//母父父
@@ -603,9 +593,7 @@ function getContentsDetail() {
 	tag += '<td class="migoto_1" width="60">'
 	tag += 'Ha'; //親系統
 	tag += '</td>'
-	tag += '<td class="migoto">';
 	tag += getFactorImg(detailHorse.htht -1);
-	tag += '</td>'
 	tag += '</tr>';
 
 	//母母父（面白）
@@ -620,9 +608,7 @@ function getContentsDetail() {
 	tag += '<td class="omoshiro_2" width="60">'
 	tag += 'Ne'; //親系統
 	tag += '</td>'
-	tag += '<td class="omoshiro">';
 	tag += getFactorImg(detailHorse.hht -1);
-	tag += '</td>'
 	tag += '</tr>';
 
 	//母母父父
@@ -648,9 +634,7 @@ function getContentsDetail() {
 	tag += '<td class="migoto_1" width="60">'
 	tag += 'Ns'; //親系統
 	tag += '</td>'
-	tag += '<td class="migoto">';
 	tag += getFactorImg(detailHorse.hhht -1);
-	tag += '</td>'
 	tag += '</tr>';
 
 	tag += '</tbody>';
