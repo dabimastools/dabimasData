@@ -592,7 +592,30 @@ ul li, ol li {
   border: none;
   border-bottom: 1px solid #DDDDDD; }
 
+.content .factor_horse {
+  border: none;
+  border-bottom: 1px solid #DDDDDD; 
+  }
+
+.content .factor_omoshiro {
+  background: #b6ffbd;
+  border: none;
+  border-bottom: 1px solid #DDDDDD; 
+  }
+
+.content .factor_migoto {
+  background: #fffcaa;
+  border: none;
+  border-bottom: 1px solid #DDDDDD; 
+  }
+
+
 .content .horse {
+  border-right: none; 
+  font-weight: bold;  }
+
+.content .horse_1 {
+  border-left: none; 
   border-right: none; 
   font-weight: bold;  }
 
