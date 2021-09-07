@@ -604,12 +604,14 @@ ul li, ol li {
 .content .omoshiro_1 {
   background: #b6ffbd;
   border-right: none; 
+  border-left: none; 
   text-align: left;
   font-weight: bold;  }
 
 .content .omoshiro_2 {
   background: #b6ffbd;
   border-right: none; 
+  border-left: none; 
   text-align: center;
   font-weight: bold;  }
 
@@ -620,6 +622,7 @@ ul li, ol li {
 
 .content .migoto_1 {
   background: #fffcaa;
+  border-left: none; 
   border-right: none; 
   text-align: right;
   font-weight: bold;  }
