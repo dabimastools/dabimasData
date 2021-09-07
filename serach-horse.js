@@ -166,62 +166,63 @@ function getSelfFactorImg(factor, name) {
 }
 
 
-function getFactorImg(id) {
+function getFactorImg(id,kbn) {
 	var tag = '';
 	var cnt = 0;
 	if (factorlist[id].temper == 1) {
-		tag +=  '<td class="factor" width="64"><img src="static/img/rfactor_10.png" alt=""></td>';
+		tag +=  '<td class="factor_' + kbn + '" width="64"><img src="static/img/rfactor_10.png" alt=""></td>';
 		cnt++;;
 	}
 	
 	if (factorlist[id].joubu == 1) {
-		tag +=  '<td class="factor" width="64"><img src="static/img/rfactor_06.png" alt=""></td>';
+		tag +=  '<td class="factor_' + kbn + '" width="64"><img src="static/img/rfactor_06.png" alt=""></td>';
 		cnt++;
 	}
 	
 	if (factorlist[id].st == 1) {
-		tag +=  '<td class="factor" width="64"><img src="static/img/rfactor_03.png" alt=""></td>';
+		tag +=  '<td class="factor_' + kbn + '" width="64"><img src="static/img/rfactor_03.png" alt=""></td>';
 		cnt++;
 	}
+	
 	if (factorlist[id].dart == 1) {
-		tag +=  '<td class="factor" width="64"><img src="static/img/rfactor_05.png" alt=""></td>';
+		tag +=  '<td class="factor_' + kbn + '" width="64"><img src="static/img/rfactor_05.png" alt=""></td>';
 		cnt++;
 	}
 	
 	if (factorlist[id].soujuku == 1) {
-		tag +=  '<td class="factor" width="64"><img src="static/img/rfactor_07.png" alt=""></td>';
+		tag +=  '<td class="factor_' + kbn + '" width="64"><img src="static/img/rfactor_07.png" alt=""></td>';
 		cnt++;
 	}
-
 	
 	if (factorlist[id].bansei == 1) {
-		tag +=  '<td class="factor" width="64"><img src="static/img/rfactor_08.png" alt=""></td>';
-		cnt++;
-	}
-	if (factorlist[id].ken == 1) {
-		tag +=  '<td class="factor" width="64"><img src="static/img/rfactor_09.png" alt=""></td>';
-		cnt++;
-	}
-	if (factorlist[id].stp == 1) {
-		tag +=  '<td class="factor" width="64"><img src="static/img/rfactor_04.png" alt=""></td>';
+		tag +=  '<td class="factor_' + kbn + '" width="64"><img src="static/img/rfactor_08.png" alt=""></td>';
 		cnt++;
 	}
 	
+	if (factorlist[id].ken == 1) {
+		tag +=  '<td class="factor_' + kbn + '" width="64"><img src="static/img/rfactor_09.png" alt=""></td>';
+		cnt++;
+	}
+	
+	if (factorlist[id].stp == 1) {
+		tag +=  '<td class="factor_' + kbn + '" width="64"><img src="static/img/rfactor_04.png" alt=""></td>';
+		cnt++;
+	}
 	
 	if (factorlist[id].spp == 1) {
-		tag +=  '<td class="factor" width="64"><img src="static/img/rfactor_01.png" alt=""></td>';
+		tag +=  '<td class="factor_' + kbn + '" width="64"><img src="static/img/rfactor_01.png" alt=""></td>';
 		cnt++;
 	}
 	
 	if (factorlist[id].sp == 1) {
-		tag +=  '<td class="factor" width="64"><img src="static/img/rfactor_02.png" alt=""></td>';
+		tag +=  '<td class="factor_' + kbn + '" width="64"><img src="static/img/rfactor_02.png" alt=""></td>';
 		cnt++;
 	}
 	
 	if (cnt == 1) {
-		tag =   '<td class="factor" width="64"></td>' + tag;
+		tag =   '<td class="factor_' + kbn + '" width="64"></td>' + tag;
 	} else if (cnt == 0) {
-		tag = '<td class="factor" width="64"></td><td class="factor" width="64"></td>';
+		tag = '<td class="factor_' + kbn + '" width="64"></td><td class="factor_' + kbn + '" width="64"></td>';
 	}
 	return tag;
 }
@@ -452,7 +453,7 @@ function getContentsDetail() {
 	tag += '<td class="omoshiro_1" width="60">'
 	tag += 'Ro'; //親系統
 	tag += '</td>'
-	tag += getFactorImg(detailHorse.t -1);
+	tag += getFactorImg(detailHorse.t -1 ,'omoshiro');
 	tag += '</tr>';
 	
 	//父父
@@ -462,8 +463,8 @@ function getContentsDetail() {
 	tag += '<td class="horse" colspan="3">';
 	tag += factorlist[detailHorse.tt -1].name;
 	tag += '</td>';
-	tag += '<td class="horse" width="60"></td>'
-	tag += getFactorImg(detailHorse.tt -1)	;
+	tag += '<td class="horse_1" width="60"></td>'
+	tag += getFactorImg(detailHorse.tt -1 ,'horse');
 	tag += '</tr>';
 	
 	//父父父
@@ -473,8 +474,8 @@ function getContentsDetail() {
 	tag += '<td class="horse" colspan="2">';
 	tag += factorlist[detailHorse.ttt -1].name;
 	tag += '</td>';
-	tag += '<td class="horse" width="60"></td>'
-	tag += getFactorImg(detailHorse.ttt -1)	;
+	tag += '<td class="horse_1" width="60"></td>'
+	tag += getFactorImg(detailHorse.ttt -1 ,'horse')	;
 	tag += '</tr>';
 	
 	//父父父父
@@ -484,8 +485,8 @@ function getContentsDetail() {
 	tag += '<td class="horse">';
 	tag += factorlist[detailHorse.tttt -1].name;
 	tag += '</td>';
-	tag += '<td class="horse" width="60"></td>'
-	tag += getFactorImg(detailHorse.tttt -1);
+	tag += '<td class="horse_1" width="60"></td>'
+	tag += getFactorImg(detailHorse.tttt -1 ,'horse');
 	tag += '</tr>';
 	
 	//父父母父（見事）
@@ -500,7 +501,7 @@ function getContentsDetail() {
 	tag += '<td class="migoto_1" width="60">'
 	tag += 'St'; //親系統
 	tag += '</td>'
-	tag += getFactorImg(detailHorse.ttht -1);
+	tag += getFactorImg(detailHorse.ttht -1 ,'migoto');
 	tag += '</tr>';
 	
 	//父母父（面白）
@@ -515,7 +516,7 @@ function getContentsDetail() {
 	tag += '<td class="omoshiro_2" width="60">'
 	tag += 'He'; //親系統
 	tag += '</td>'
-	tag += getFactorImg(detailHorse.tht -1);
+	tag += getFactorImg(detailHorse.tht -1 ,'omoshiro');
 	tag += '</tr>';
 	
 	//父母父父
@@ -525,8 +526,8 @@ function getContentsDetail() {
 	tag += '<td class="horse">';
 	tag += factorlist[detailHorse.thtt -1].name;
 	tag += '</td>';
-	tag += '<td class="horse" width="60"></td>'
-	tag += getFactorImg(detailHorse.thtt -1);
+	tag += '<td class="horse_1" width="60"></td>'
+	tag += getFactorImg(detailHorse.thtt -1 ,'horse');
 	tag += '</tr>';
 	
 	//父母母父（見事）
@@ -541,7 +542,7 @@ function getContentsDetail() {
 	tag += '<td class="migoto_1" width="60">'
 	tag += 'Te'; //親系統
 	tag += '</td>'
-	tag += getFactorImg(detailHorse.thht -1);
+	tag += getFactorImg(detailHorse.thht -1 ,'migoto');
 	tag += '</tr>';
 	
 	//母父（面白）
@@ -556,7 +557,7 @@ function getContentsDetail() {
 	tag += '<td class="omoshiro_1" width="60">'
 	tag += 'Sw'; //親系統
 	tag += '</td>'
-	tag += getFactorImg(detailHorse.ht -1);
+	tag += getFactorImg(detailHorse.ht -1 ,'omoshiro');
 	tag += '</tr>';
 
 	//母父父
@@ -566,8 +567,8 @@ function getContentsDetail() {
 	tag += '<td class="horse" colspan="2">';
 	tag += factorlist[detailHorse.htt -1].name;
 	tag += '</td>';
-	tag += '<td class="horse" width="60"></td>'
-	tag += getFactorImg(detailHorse.htt -1);
+	tag += '<td class="horse_1" width="60"></td>'
+	tag += getFactorImg(detailHorse.htt -1 ,'horse');
 	tag += '</tr>';
 
 	//母父父父
@@ -577,8 +578,8 @@ function getContentsDetail() {
 	tag += '<td class="horse">';
 	tag += factorlist[detailHorse.httt -1].name;
 	tag += '</td>';
-	tag += '<td class="horse" width="60"></td>'
-	tag += getFactorImg(detailHorse.httt -1);
+	tag += '<td class="horse_1" width="60"></td>'
+	tag += getFactorImg(detailHorse.httt -1 ,'horse');
 	tag += '</tr>';
 
 	//母父母父（見事）
@@ -593,7 +594,7 @@ function getContentsDetail() {
 	tag += '<td class="migoto_1" width="60">'
 	tag += 'Ha'; //親系統
 	tag += '</td>'
-	tag += getFactorImg(detailHorse.htht -1);
+	tag += getFactorImg(detailHorse.htht -1 ,'migoto');
 	tag += '</tr>';
 
 	//母母父（面白）
@@ -608,7 +609,7 @@ function getContentsDetail() {
 	tag += '<td class="omoshiro_2" width="60">'
 	tag += 'Ne'; //親系統
 	tag += '</td>'
-	tag += getFactorImg(detailHorse.hht -1);
+	tag += getFactorImg(detailHorse.hht -1 ,'omoshiro');
 	tag += '</tr>';
 
 	//母母父父
@@ -618,8 +619,8 @@ function getContentsDetail() {
 	tag += '<td class="horse">';
 	tag += factorlist[detailHorse.hhtt -1].name;
 	tag += '</td>'
-	tag += '<td class="horse" width="60"></td>'
-	tag += getFactorImg(detailHorse.hhtt -1);
+	tag += '<td class="horse_1" width="60"></td>'
+	tag += getFactorImg(detailHorse.hhtt -1 ,'horse');
 	tag += '</tr>';
 
 	//母母母父（見事）
@@ -634,7 +635,7 @@ function getContentsDetail() {
 	tag += '<td class="migoto_1" width="60">'
 	tag += 'Ns'; //親系統
 	tag += '</td>'
-	tag += getFactorImg(detailHorse.hhht -1);
+	tag += getFactorImg(detailHorse.hhht -1 ,'migoto');
 	tag += '</tr>';
 
 	tag += '</tbody>';
