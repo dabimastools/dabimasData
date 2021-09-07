@@ -3,6 +3,7 @@
     "name": "ダビ娘",
     "display": "standalone",
     "start_url": "dabimas/index.html",
+    "background_color": "#4169e1",
      "icons": [
     {
       "src": "static/apple-touch-icon-48x48.png",
