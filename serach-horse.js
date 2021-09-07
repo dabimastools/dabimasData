@@ -441,508 +441,247 @@ function getContentsDetail() {
 	
 	var tag = '<div class="content"><table class="pedigree" width="100%">';
 	tag += '<tbody>';
+	//父↓
 	tag += '<tr>';
 	tag += '<td align="center" class="father" rowspan="8" width="30">';
 	tag += '父</td>';
-	tag += '<td class="horse" colspan="4">';
+	tag += '<td class="omoshiro" colspan="4">';
 	tag += factorlist[detailHorse.t -1].name;
-	tag += '</td>';
+
+	tag += '<td width="30">'
+	tag += 'St'; //親系統
+	tag += '</td>'
+	tag += '<td width="30"></td>'
+	tag += '<td width="30"></td>'
+
 	tag += getFactorImg(detailHorse.t -1);
+	tag += '</td>';
 	tag += '</tr>';
+	//父父
 	tag += '<tr>';
 	tag += '<td class="father" rowspan="4" width="30">';
 	tag += '父</td>';
 	tag += '<td class="horse" colspan="3">';
 	tag += factorlist[detailHorse.tt -1].name;
-	tag += '</td>';
+	tag += '<td width="30"></td>'
+	tag += '<td width="30"></td>'
+	tag += '<td width="30"></td>'
 	tag += getFactorImg(detailHorse.tt -1)	;
+	tag += '</td>';
 	tag += '</tr>';
+	//父父父
 	tag += '<tr>';
 	tag += '<td class="father" rowspan="2" width="30">';
 	tag += '父</td>';
 	tag += '<td class="horse" colspan="2">';
 	tag += factorlist[detailHorse.ttt -1].name;
-	tag += '</td>';
+
+	tag += '<td width="30"></td>'
+	tag += '<td width="30"></td>'
+	tag += '<td width="30"></td>'
+
 	tag += getFactorImg(detailHorse.ttt -1)	;
+	tag += '</td>';
 	tag += '</tr>';
+	//父父父父
 	tag += '<tr>';
 	tag += '<td class="father" width="30">';
 	tag += '父</td>';
 	tag += '<td class="horse">';
 	tag += factorlist[detailHorse.tttt -1].name;
-	tag += '</td>';
+
+	tag += '<td width="30"></td>'
+	tag += '<td width="30"></td>'
+	tag += '<td width="30"></td>'
+
 	tag += getFactorImg(detailHorse.tttt -1);
+	tag += '</td>';
 	tag += '</tr>';
+	//父父母父
 	tag += '<tr>';
 	tag += '<td class="mother">';
 	tag += '母</td>';
 	tag += '<td class="father">';
 	tag += '父</td>';
-	tag += '<td class="horse">';
+	tag += '<td class="migoto">';
 	tag += factorlist[detailHorse.ttht -1].name;
-	tag += '</td>';
+
+	tag += '<td width="30"></td>'
+	tag += '<td width="30"></td>'
+	tag += '<td width="30">'
+	tag += 'St'; //親系統
+	tag += '</td>'
+
 	tag += getFactorImg(detailHorse.ttht -1);
+	tag += '</td>';
 	tag += '</tr>';
+	//父母父
 	tag += '<tr>';
 	tag += '<td class="mother" rowspan="3">';
 	tag += '母</td>';
 	tag += '<td class="father" rowspan="2">';
 	tag += '父</td>';
-	tag += '<td class="horse" colspan="2">';
+	tag += '<td class="omoshiro" colspan="2">';
 	tag += factorlist[detailHorse.tht -1].name;
-	tag += '</td><td class="factor" width="50">';
-	tag += '</td>';
-	tag += '<td class="factor" width="50">';
+
+	tag += '<td width="30"></td>'
+	tag += '<td width="30">'
+	tag += 'St'; //親系統
+	tag += '</td>'
+	tag += '<td width="30"></td>'
+
+	tag += getFactorImg(detailHorse.tht -1);
 	tag += '</td>';
 	tag += '</tr>';
+	//父母父父
 	tag += '<tr>';
 	tag += '<td class="father">';
 	tag += '父</td>';
 	tag += '<td class="horse">';
 	tag += factorlist[detailHorse.thtt -1].name;
-	tag += '</td>';
+
+	tag += '<td width="30"></td>'
+	tag += '<td width="30"></td>'
+	tag += '<td width="30"></td>'
+	
 	tag += getFactorImg(detailHorse.thtt -1);
+	tag += '</td>';
 	tag += '</tr>';
+	//父母母父
 	tag += '<tr>';
 	tag += '<td class="mother">';
 	tag += '母</td>';
 	tag += '<td class="father">';
 	tag += '父</td>';
-	tag += '<td class="horse">';
+	tag += '<td class="migoto">';
 	tag += factorlist[detailHorse.thht -1].name;
-	tag += '</td>';
+
+	tag += '<td width="30"></td>'
+	tag += '<td width="30"></td>'
+	tag += '<td width="30">'
+	tag += 'St'; //親系統
+	tag += '</td>'
+
 	tag += getFactorImg(detailHorse.thht -1);
+	tag += '</td>';
 	tag += '</tr>';
+	//母父
 	tag += '<tr>';
 	tag += '<td class="mother" rowspan="7">';
 	tag += '母</td>';
 	tag += '<td class="father" rowspan="4">';
 	tag += '父</td>';
-	tag += '<td class="horse" colspan="3">';
+	tag += '<td class="omoshiro" colspan="3">';
 	tag += factorlist[detailHorse.ht -1].name;
-	tag += '</td>';
+
+	tag += '<td width="30">'
+	tag += 'St'; //親系統
+	tag += '</td>'
+	tag += '<td width="30"></td>'
+	tag += '<td width="30"></td>'
+
 	tag += getFactorImg(detailHorse.ht -1);
+	tag += '</td>';
 	tag += '</tr>';
+	//母父父
 	tag += '<tr>';
 	tag += '<td class="father" rowspan="2">';
 	tag += '父</td>';
 	tag += '<td class="horse" colspan="2">';
 	tag += factorlist[detailHorse.htt -1].name;
-	tag += '</td>';
+
+	tag += '<td width="30"></td>'
+	tag += '<td width="30"></td>'
+	tag += '<td width="30"></td>'
+
 	tag += getFactorImg(detailHorse.htt -1);
+	tag += '</td>';
 	tag += '</tr>';
+	//母父父父
 	tag += '<tr>';
 	tag += '<td class="father">';
 	tag += '父</td>';
 	tag += '<td class="horse">';
 	tag += factorlist[detailHorse.httt -1].name;
-	tag += '</td>';
+
+	tag += '<td width="30"></td>'
+	tag += '<td width="30"></td>'
+	tag += '<td width="30"></td>'
+
 	tag += getFactorImg(detailHorse.httt -1);
+	tag += '</td>';
 	tag += '</tr>';
+	//母父母父
 	tag += '<tr>';
 	tag += '<td class="mother">';
 	tag += '母</td>';
 	tag += '<td class="father">';
 	tag += '父</td>';
-	tag += '<td class="horse">';
+	tag += '<td class="migoto">';
 	tag += factorlist[detailHorse.htht -1].name;
-	tag += '</td>';
+
+	tag += '<td width="30"></td>'
+	tag += '<td width="30"></td>'
+	tag += '<td width="30">'
+	tag += 'St'; //親系統
+	tag += '</td>'
+
 	tag += getFactorImg(detailHorse.htht -1);
+	tag += '</td>';
 	tag += '</tr>';
+	//母母父
 	tag += '<tr>';
 	tag += '<td class="mother" rowspan="3">';
 	tag += '母</td>';
 	tag += '<td class="father" rowspan="2">';
 	tag += '父</td>';
-	tag += '<td class="horse" colspan="2">';
+	tag += '<td class="omoshiro" colspan="2">';
 	tag += factorlist[detailHorse.hht -1].name;
-	tag += '</td>';
+
+	tag += '<td width="30"></td>'
+	tag += '<td width="30">'
+	tag += 'St'; //親系統
+	tag += '</td>'
+	tag += '<td width="30"></td>'
+
 	tag += getFactorImg(detailHorse.hht -1);
+	tag += '</td>';
 	tag += '</tr>';
+	//母母父父
 	tag += '<tr>';
 	tag += '<td class="father">';
 	tag += '父</td>';
 	tag += '<td class="horse">';
 	tag += factorlist[detailHorse.hhtt -1].name;
-	tag += '</td>';
-	tag += getFactorImg(detailHorse.hhtt -1);
-	tag += '</tr>';
-	tag += '<tr>';
-	tag += '<td class="mother">';
-	tag += '母</td>';
-	tag += '<td class="father">';
-	tag += '父</td>';
-	tag += '<td class="horse">';
-	tag += factorlist[detailHorse.hhht -1].name;;
-	tag += '</td>';
-	tag += getFactorImg(detailHorse.hhht -1);
-	tag += '</tr>';
-	tag += '</tbody>';
-	tag += '</table>';
-// 親血統
-	tag += '<h3>親血統</h3>';
-	tag += '<table class="pedigree" width="100%">';
-	tag += '<tbody>';
-	tag += '<tr>';
-	tag += '<td align="center" class="father" rowspan="8" width="30">';
-	tag += '父</td>';
-	tag += '<td class="horse" colspan="4">';
-	tag += factorlist[detailHorse.t -1].p_ped;
-	tag += '</td><td class="factor" width="50">';
-	tag += '</td>';
-	tag += '<td class="factor" width="50">';
-	tag += '</td>';
-	tag += '</tr>';
-	tag += '<tr>';
-	tag += '<td class="father" rowspan="4" width="30">';
-	tag += '父</td>';
-	tag += '<td class="horse" colspan="3">';
-	tag += factorlist[detailHorse.tt -1].p_ped;
-	tag += '</td><td class="factor" width="50">';
-	tag += '</td>';
-	tag += '<td class="factor" width="50">';
-	tag += '</td>';
-	tag += '</tr>';
-	tag += '<tr>';
-	tag += '<td class="father" rowspan="2" width="30">';
-	tag += '父</td>';
-	tag += '<td class="horse" colspan="2">';
-	tag += factorlist[detailHorse.ttt -1].p_ped;
-	tag += '</td><td class="factor" width="50">';
-	tag += '<img src="" alt="">';
-	tag += '</td>';
-	tag += '<td class="factor" width="50">';
-	tag += '<img src="" alt="">';
-	tag += '</td>';
-	tag += '</tr>';
-	tag += '<tr>';
-	tag += '<td class="father" width="30">';
-	tag += '父</td>';
-	tag += '<td class="horse">';
-	tag += factorlist[detailHorse.tttt -1].p_ped;
-	tag += '</td><td class="factor" width="50">';
-	tag += '</td>';
-	tag += '<td class="factor" width="50">';
-	tag += '<img src="" alt="">';
-	tag += '</td>';
-	tag += '</tr>';
-	tag += '<tr>';
-	tag += '<td class="mother">';
-	tag += '母</td>';
-	tag += '<td class="father">';
-	tag += '父</td>';
-	tag += '<td class="horse">';
-	tag += factorlist[detailHorse.ttht -1].p_ped;
-	tag += '</td><td class="factor" width="50">';
-	tag += '</td>';
-	tag += '<td class="factor" width="50">';
-	tag += '<img src="" alt="">';
-	tag += '</td>';
-	tag += '</tr>';
-	tag += '<tr>';
-	tag += '<td class="mother" rowspan="3">';
-	tag += '母</td>';
-	tag += '<td class="father" rowspan="2">';
-	tag += '父</td>';
-	tag += '<td class="horse" colspan="2">';
-	tag += factorlist[detailHorse.tht -1].p_ped;
-	tag += '</td><td class="factor" width="50">';
-	tag += '</td>';
-	tag += '<td class="factor" width="50">';
-	tag += '</td>';
-	tag += '</tr>';
-	tag += '<tr>';
-	tag += '<td class="father">';
-	tag += '父</td>';
-	tag += '<td class="horse">';
-	tag += factorlist[detailHorse.thtt -1].p_ped;
-	tag += '</td><td class="factor" width="50">';
-	tag += '<img src="" alt="">';
-	tag += '</td>';
-	tag += '<td class="factor" width="50">';
-	tag += '<img src="" alt="">';
-	tag += '</td>';
-	tag += '</tr>';
-	tag += '<tr>';
-	tag += '<td class="mother">';
-	tag += '母</td>';
-	tag += '<td class="father">';
-	tag += '父</td>';
-	tag += '<td class="horse">';
-	tag += factorlist[detailHorse.thht -1].p_ped;
-	tag += '</td><td class="factor" width="50">';
-	tag += '</td>';
-	tag += '<td class="factor" width="50">';
-	tag += '</td>';
-	tag += '</tr>';
-	tag += '<tr>';
-	tag += '<td class="mother" rowspan="7">';
-	tag += '母</td>';
-	tag += '<td class="father" rowspan="4">';
-	tag += '父</td>';
-	tag += '<td class="horse" colspan="3">';
-	tag += factorlist[detailHorse.ht -1].p_ped;
-	tag += '</td><td class="factor" width="50">';
-	tag += '</td>';
-	tag += '<td class="factor" width="50">';
-	tag += '<img src="" alt="">';
-	tag += '</td>';
-	tag += '</tr>';
-	tag += '<tr>';
-	tag += '<td class="father" rowspan="2">';
-	tag += '父</td>';
-	tag += '<td class="horse" colspan="2">';
-	tag += factorlist[detailHorse.htt -1].p_ped;
-	tag += '</td><td class="factor" width="50">';
-	tag += '</td>';
-	tag += '<td class="factor" width="50">';
-	tag += '<img src="" alt="">';
-	tag += '</td>';
-	tag += '</tr>';
-	tag += '<tr>';
-	tag += '<td class="father">';
-	tag += '父</td>';
-	tag += '<td class="horse">';
-	tag += factorlist[detailHorse.httt -1].p_ped;
-	tag += '</td><td class="factor" width="50">';
-	tag += '</td>';
-	tag += '<td class="factor" width="50">';
-	tag += '</td>';
-	tag += '</tr>';
-	tag += '<tr>';
-	tag += '<td class="mother">';
-	tag += '母</td>';
-	tag += '<td class="father">';
-	tag += '父</td>';
-	tag += '<td class="horse">';
-	tag += factorlist[detailHorse.htht -1].p_ped;
-	tag += '</td>';
-	tag += '<td class="factor" width="50">';
-	tag += '</td>';
-	tag += '<td class="factor" width="50">';
-	tag += '</td>';
-	tag += '</tr>';
-	tag += '<tr>';
-	tag += '<td class="mother" rowspan="3">';
-	tag += '母</td>';
-	tag += '<td class="father" rowspan="2">';
-	tag += '父</td>';
-	tag += '<td class="horse" colspan="2">';
-	tag += factorlist[detailHorse.hht -1].p_ped;
-	tag += '</td><td class="factor" width="50">';
-	tag += '</td>';
-	tag += '<td class="factor" width="50">';
-	tag += '</td>';
-	tag += '</tr>';
-	tag += '<tr>';
-	tag += '<td class="father">';
-	tag += '父</td>';
-	tag += '<td class="horse">';
-	tag += factorlist[detailHorse.hhtt -1].p_ped;
-	tag += '</td><td class="factor" width="50">';
-	tag += '<img src="" alt="">';
-	tag += '</td>';
-	tag += '<td class="factor" width="50">';
-	tag += '<img src="" alt="">';
-	tag += '</td>';
-	tag += '</tr>';
-	tag += '<tr>';
-	tag += '<td class="mother">';
-	tag += '母</td>';
-	tag += '<td class="father">';
-	tag += '父</td>';
-	tag += '<td class="horse">';
-	tag += factorlist[detailHorse.hhht -1].p_ped;;
-	tag += '</td><td class="factor" width="50">';
-	tag += '</td>';
-	tag += '<td class="factor" width="50">';
-	tag += '</td>';
-	tag += '</tr>';
-	tag += '</tbody>';
-	tag += '</table>';
 
-// 子血統
-	tag += '<h3>子血統</h3>';
-	tag += '<table class="pedigree" width="100%">';
-	tag += '<tbody>';
-	tag += '<tr>';
-	tag += '<td align="center" class="father" rowspan="8" width="30">';
-	tag += '父</td>';
-	tag += '<td class="horse" colspan="4">';
-	tag += factorlist[detailHorse.t -1].c_ped;
-	tag += '</td><td class="factor" width="50">';
-	tag += '</td>';
-	tag += '<td class="factor" width="50">';
+	tag += '<td width="30"></td>'
+	tag += '<td width="30"></td>'
+	tag += '<td width="30"></td>'
+
+	tag += getFactorImg(detailHorse.hhtt -1);
 	tag += '</td>';
 	tag += '</tr>';
-	tag += '<tr>';
-	tag += '<td class="father" rowspan="4" width="30">';
-	tag += '父</td>';
-	tag += '<td class="horse" colspan="3">';
-	tag += factorlist[detailHorse.tt -1].c_ped;
-	tag += '</td><td class="factor" width="50">';
-	tag += '</td>';
-	tag += '<td class="factor" width="50">';
-	tag += '</td>';
-	tag += '</tr>';
-	tag += '<tr>';
-	tag += '<td class="father" rowspan="2" width="30">';
-	tag += '父</td>';
-	tag += '<td class="horse" colspan="2">';
-	tag += factorlist[detailHorse.ttt -1].c_ped;
-	tag += '</td><td class="factor" width="50">';
-	tag += '<img src="" alt="">';
-	tag += '</td>';
-	tag += '<td class="factor" width="50">';
-	tag += '<img src="" alt="">';
-	tag += '</td>';
-	tag += '</tr>';
-	tag += '<tr>';
-	tag += '<td class="father" width="30">';
-	tag += '父</td>';
-	tag += '<td class="horse">';
-	tag += factorlist[detailHorse.tttt -1].c_ped;
-	tag += '</td><td class="factor" width="50">';
-	tag += '</td>';
-	tag += '<td class="factor" width="50">';
-	tag += '<img src="" alt="">';
-	tag += '</td>';
-	tag += '</tr>';
+	//母母母父
 	tag += '<tr>';
 	tag += '<td class="mother">';
 	tag += '母</td>';
 	tag += '<td class="father">';
 	tag += '父</td>';
-	tag += '<td class="horse">';
-	tag += factorlist[detailHorse.ttht -1].c_ped;
-	tag += '</td><td class="factor" width="50">';
-	tag += '</td>';
-	tag += '<td class="factor" width="50">';
-	tag += '<img src="" alt="">';
-	tag += '</td>';
-	tag += '</tr>';
-	tag += '<tr>';
-	tag += '<td class="mother" rowspan="3">';
-	tag += '母</td>';
-	tag += '<td class="father" rowspan="2">';
-	tag += '父</td>';
-	tag += '<td class="horse" colspan="2">';
-	tag += factorlist[detailHorse.tht -1].c_ped;
-	tag += '</td><td class="factor" width="50">';
-	tag += '</td>';
-	tag += '<td class="factor" width="50">';
-	tag += '</td>';
-	tag += '</tr>';
-	tag += '<tr>';
-	tag += '<td class="father">';
-	tag += '父</td>';
-	tag += '<td class="horse">';
-	tag += factorlist[detailHorse.thtt -1].c_ped;
-	tag += '</td><td class="factor" width="50">';
-	tag += '<img src="" alt="">';
-	tag += '</td>';
-	tag += '<td class="factor" width="50">';
-	tag += '<img src="" alt="">';
-	tag += '</td>';
-	tag += '</tr>';
-	tag += '<tr>';
-	tag += '<td class="mother">';
-	tag += '母</td>';
-	tag += '<td class="father">';
-	tag += '父</td>';
-	tag += '<td class="horse">';
-	tag += factorlist[detailHorse.thht -1].c_ped;
-	tag += '</td><td class="factor" width="50">';
-	tag += '</td>';
-	tag += '<td class="factor" width="50">';
-	tag += '</td>';
-	tag += '</tr>';
-	tag += '<tr>';
-	tag += '<td class="mother" rowspan="7">';
-	tag += '母</td>';
-	tag += '<td class="father" rowspan="4">';
-	tag += '父</td>';
-	tag += '<td class="horse" colspan="3">';
-	tag += factorlist[detailHorse.ht -1].c_ped;
-	tag += '</td><td class="factor" width="50">';
-	tag += '</td>';
-	tag += '<td class="factor" width="50">';
-	tag += '<img src="" alt="">';
-	tag += '</td>';
-	tag += '</tr>';
-	tag += '<tr>';
-	tag += '<td class="father" rowspan="2">';
-	tag += '父</td>';
-	tag += '<td class="horse" colspan="2">';
-	tag += factorlist[detailHorse.htt -1].c_ped;
-	tag += '</td><td class="factor" width="50">';
-	tag += '</td>';
-	tag += '<td class="factor" width="50">';
-	tag += '<img src="" alt="">';
-	tag += '</td>';
-	tag += '</tr>';
-	tag += '<tr>';
-	tag += '<td class="father">';
-	tag += '父</td>';
-	tag += '<td class="horse">';
-	tag += factorlist[detailHorse.httt -1].c_ped;
-	tag += '</td><td class="factor" width="50">';
-	tag += '</td>';
-	tag += '<td class="factor" width="50">';
-	tag += '</td>';
-	tag += '</tr>';
-	tag += '<tr>';
-	tag += '<td class="mother">';
-	tag += '母</td>';
-	tag += '<td class="father">';
-	tag += '父</td>';
-	tag += '<td class="horse">';
-	tag += factorlist[detailHorse.htht -1].c_ped;
-	tag += '</td>';
-	tag += '<td class="factor" width="50">';
-	tag += '</td>';
-	tag += '<td class="factor" width="50">';
-	tag += '</td>';
-	tag += '</tr>';
-	tag += '<tr>';
-	tag += '<td class="mother" rowspan="3">';
-	tag += '母</td>';
-	tag += '<td class="father" rowspan="2">';
-	tag += '父</td>';
-	tag += '<td class="horse" colspan="2">';
-	tag += factorlist[detailHorse.hht -1].c_ped;
-	tag += '</td><td class="factor" width="50">';
-	tag += '</td>';
-	tag += '<td class="factor" width="50">';
-	tag += '</td>';
-	tag += '</tr>';
-	tag += '<tr>';
-	tag += '<td class="father">';
-	tag += '父</td>';
-	tag += '<td class="horse">';
-	tag += factorlist[detailHorse.hhtt -1].c_ped;
-	tag += '</td><td class="factor" width="50">';
-	tag += '<img src="" alt="">';
-	tag += '</td>';
-	tag += '<td class="factor" width="50">';
-	tag += '<img src="" alt="">';
-	tag += '</td>';
-	tag += '</tr>';
-	tag += '<tr>';
-	tag += '<td class="mother">';
-	tag += '母</td>';
-	tag += '<td class="father">';
-	tag += '父</td>';
-	tag += '<td class="horse">';
-	tag += factorlist[detailHorse.hhht -1].c_ped;;
-	tag += '</td><td class="factor" width="50">';
-	tag += '</td>';
-	tag += '<td class="factor" width="50">';
+	tag += '<td class="migoto">';
+	tag += factorlist[detailHorse.hhht -1].name;;
+
+	tag += '<td width="30"></td>'
+	tag += '<td width="30"></td>'
+	tag += '<td width="30">'
+	tag += 'St'; //親系統
+	tag += '</td>'
+
+	tag += getFactorImg(detailHorse.hhht -1);
 	tag += '</td>';
 	tag += '</tr>';
 	tag += '</tbody>';
 	tag += '</table>';
-return tag;
+	return tag;
 
 }
 
