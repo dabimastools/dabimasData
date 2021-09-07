@@ -449,10 +449,12 @@ function getContentsDetail() {
 	tag += '<td class="omoshiro" colspan="4">';
 	tag += factorlist[detailHorse.t -1].name;
 	tag += '</td>';
-	tag += '<td class="omoshiro_1" width="50">'
-	tag += 'St'; //親系統
+	tag += '<td class="omoshiro_1" width="60">'
+	tag += 'Ro'; //親系統
 	tag += '</td>'
+	tag += '<td class="omoshiro">';
 	tag += getFactorImg(detailHorse.t -1);
+	tag += '</td>'
 	tag += '</tr>';
 	
 	//父父
@@ -462,7 +464,6 @@ function getContentsDetail() {
 	tag += '<td class="horse" colspan="3">';
 	tag += factorlist[detailHorse.tt -1].name;
 	tag += '</td>';
-	tag += '<td width="50"></td>'
 	tag += getFactorImg(detailHorse.tt -1)	;
 	tag += '</tr>';
 	
@@ -473,7 +474,6 @@ function getContentsDetail() {
 	tag += '<td class="horse" colspan="2">';
 	tag += factorlist[detailHorse.ttt -1].name;
 	tag += '</td>';
-	tag += '<td width="50"></td>'
 	tag += getFactorImg(detailHorse.ttt -1)	;
 	tag += '</tr>';
 	
@@ -484,7 +484,6 @@ function getContentsDetail() {
 	tag += '<td class="horse">';
 	tag += factorlist[detailHorse.tttt -1].name;
 	tag += '</td>';
-	tag += '<td width="50"></td>'
 	tag += getFactorImg(detailHorse.tttt -1);
 	tag += '</tr>';
 	
@@ -497,10 +496,12 @@ function getContentsDetail() {
 	tag += '<td class="migoto">';
 	tag += factorlist[detailHorse.ttht -1].name;
 	tag += '</td>';
-	tag += '<td class="migoto_1" width="50">'
+	tag += '<td class="migoto_1" width="60">'
 	tag += 'St'; //親系統
 	tag += '</td>'
+	tag += '<td class="migoto">';
 	tag += getFactorImg(detailHorse.ttht -1);
+	tag += '</td>'
 	tag += '</tr>';
 	
 	//父母父（面白）
@@ -512,10 +513,12 @@ function getContentsDetail() {
 	tag += '<td class="omoshiro" colspan="2">';
 	tag += factorlist[detailHorse.tht -1].name;
 	tag += '</td>';
-	tag += '<td class="omoshiro_2" width="50">'
-	tag += 'St'; //親系統
+	tag += '<td class="omoshiro_2" width="60">'
+	tag += 'He'; //親系統
 	tag += '</td>'
+	tag += '<td class="omoshiro">';
 	tag += getFactorImg(detailHorse.tht -1);
+	tag += '</td>'
 	tag += '</tr>';
 	
 	//父母父父
@@ -525,7 +528,6 @@ function getContentsDetail() {
 	tag += '<td class="horse">';
 	tag += factorlist[detailHorse.thtt -1].name;
 	tag += '</td>';
-	tag += '<td width="50"></td>'
 	tag += getFactorImg(detailHorse.thtt -1);
 	tag += '</tr>';
 	
@@ -538,10 +540,12 @@ function getContentsDetail() {
 	tag += '<td class="migoto">';
 	tag += factorlist[detailHorse.thht -1].name;
 	tag += '</td>';
-	tag += '<td class="migoto_1" width="50">'
-	tag += 'St'; //親系統
+	tag += '<td class="migoto_1" width="60">'
+	tag += 'Te'; //親系統
 	tag += '</td>'
+	tag += '<td class="migoto">';
 	tag += getFactorImg(detailHorse.thht -1);
+	tag += '</td>'
 	tag += '</tr>';
 	
 	//母父（面白）
@@ -553,10 +557,12 @@ function getContentsDetail() {
 	tag += '<td class="omoshiro" colspan="3">';
 	tag += factorlist[detailHorse.ht -1].name;
 	tag += '</td>';
-	tag += '<td class="omoshiro_1" width="50">'
-	tag += 'St'; //親系統
+	tag += '<td class="omoshiro_1" width="60">'
+	tag += 'Sw'; //親系統
 	tag += '</td>'
+	tag += '<td class="omoshiro">';
 	tag += getFactorImg(detailHorse.ht -1);
+	tag += '</td>'
 	tag += '</tr>';
 
 	//母父父
@@ -566,7 +572,6 @@ function getContentsDetail() {
 	tag += '<td class="horse" colspan="2">';
 	tag += factorlist[detailHorse.htt -1].name;
 	tag += '</td>';
-	tag += '<td width="50"></td>'
 	tag += getFactorImg(detailHorse.htt -1);
 	tag += '</tr>';
 
@@ -577,7 +582,6 @@ function getContentsDetail() {
 	tag += '<td class="horse">';
 	tag += factorlist[detailHorse.httt -1].name;
 	tag += '</td>';
-	tag += '<td width="50"></td>'
 	tag += getFactorImg(detailHorse.httt -1);
 	tag += '</tr>';
 
@@ -590,10 +594,12 @@ function getContentsDetail() {
 	tag += '<td class="migoto">';
 	tag += factorlist[detailHorse.htht -1].name;
 	tag += '</td>'
-	tag += '<td class="migoto_1" width="50">'
-	tag += 'St'; //親系統
+	tag += '<td class="migoto_1" width="60">'
+	tag += 'Ha'; //親系統
 	tag += '</td>'
+	tag += '<td class="migoto">';
 	tag += getFactorImg(detailHorse.htht -1);
+	tag += '</td>'
 	tag += '</tr>';
 
 	//母母父（面白）
@@ -605,10 +611,12 @@ function getContentsDetail() {
 	tag += '<td class="omoshiro" colspan="2">';
 	tag += factorlist[detailHorse.hht -1].name;
 	tag += '</td>'
-	tag += '<td class="omoshiro_2" width="50">'
-	tag += 'St'; //親系統
+	tag += '<td class="omoshiro_2" width="60">'
+	tag += 'Ne'; //親系統
 	tag += '</td>'
+	tag += '<td class="omoshiro">';
 	tag += getFactorImg(detailHorse.hht -1);
+	tag += '</td>'
 	tag += '</tr>';
 
 	//母母父父
@@ -618,7 +626,6 @@ function getContentsDetail() {
 	tag += '<td class="horse">';
 	tag += factorlist[detailHorse.hhtt -1].name;
 	tag += '</td>'
-	tag += '<td width="50"></td>'
 	tag += getFactorImg(detailHorse.hhtt -1);
 	tag += '</tr>';
 
@@ -631,10 +638,12 @@ function getContentsDetail() {
 	tag += '<td class="migoto">';
 	tag += factorlist[detailHorse.hhht -1].name;;
 	tag += '</td>'
-	tag += '<td class="migoto_1" width="50">'
-	tag += 'St'; //親系統
+	tag += '<td class="migoto_1" width="60">'
+	tag += 'Ns'; //親系統
 	tag += '</td>'
+	tag += '<td class="migoto">';
 	tag += getFactorImg(detailHorse.hhht -1);
+	tag += '</td>'
 	tag += '</tr>';
 
 	tag += '</tbody>';
