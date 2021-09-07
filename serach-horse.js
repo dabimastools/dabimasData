@@ -464,6 +464,7 @@ function getContentsDetail() {
 	tag += '<td class="horse" colspan="3">';
 	tag += factorlist[detailHorse.tt -1].name;
 	tag += '</td>';
+	tag += '<td class="horse" width="60"></td>'
 	tag += getFactorImg(detailHorse.tt -1)	;
 	tag += '</tr>';
 	
@@ -474,6 +475,7 @@ function getContentsDetail() {
 	tag += '<td class="horse" colspan="2">';
 	tag += factorlist[detailHorse.ttt -1].name;
 	tag += '</td>';
+	tag += '<td class="horse" width="60"></td>'
 	tag += getFactorImg(detailHorse.ttt -1)	;
 	tag += '</tr>';
 	
@@ -484,6 +486,7 @@ function getContentsDetail() {
 	tag += '<td class="horse">';
 	tag += factorlist[detailHorse.tttt -1].name;
 	tag += '</td>';
+	tag += '<td class="horse" width="60"></td>'
 	tag += getFactorImg(detailHorse.tttt -1);
 	tag += '</tr>';
 	
@@ -528,6 +531,7 @@ function getContentsDetail() {
 	tag += '<td class="horse">';
 	tag += factorlist[detailHorse.thtt -1].name;
 	tag += '</td>';
+	tag += '<td class="horse" width="60"></td>'
 	tag += getFactorImg(detailHorse.thtt -1);
 	tag += '</tr>';
 	
@@ -572,6 +576,7 @@ function getContentsDetail() {
 	tag += '<td class="horse" colspan="2">';
 	tag += factorlist[detailHorse.htt -1].name;
 	tag += '</td>';
+	tag += '<td class="horse" width="60"></td>'
 	tag += getFactorImg(detailHorse.htt -1);
 	tag += '</tr>';
 
@@ -582,6 +587,7 @@ function getContentsDetail() {
 	tag += '<td class="horse">';
 	tag += factorlist[detailHorse.httt -1].name;
 	tag += '</td>';
+	tag += '<td class="horse" width="60"></td>'
 	tag += getFactorImg(detailHorse.httt -1);
 	tag += '</tr>';
 
@@ -626,6 +632,7 @@ function getContentsDetail() {
 	tag += '<td class="horse">';
 	tag += factorlist[detailHorse.hhtt -1].name;
 	tag += '</td>'
+	tag += '<td class="horse" width="60"></td>'
 	tag += getFactorImg(detailHorse.hhtt -1);
 	tag += '</tr>';
 
