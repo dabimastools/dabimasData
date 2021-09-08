@@ -244,23 +244,6 @@ function getContentsDetailNavi(houseIdList) {
 		idxNext = horse_idx_arr[idx + 1];
 	}
 	
-	if (idxBefore.match (/[0-9]{1,}/)) { //Pはページ送りの場合は、非凡表示を維持するための設定
-		tag += '<td width="25%" class="align_left" "clickable-row" data-href="detail.htm?horse=' + idxBefore + ',' +  (idx -1) +  ',P'+ '">&lt;&lt;前</td>';
-		//tag += '<td width="25%"><img src="static/btn01-10.png" alt=""></td>';
-	} else {
-		tag += '<td width="25%" class="align_lef"></td>';
-	}
-	//tag += '<td class="align_center" "clickable-row" data-href="index.html">一覧に戻る</td>';
-	tag += '<td class="align_center" "clickable-row" data-href="index.html">一覧に戻る</td>';
-	//tag += '<td class="align_center"><img src="static/btn01-11.png" alt=""></td>';
-	
-	if (idxNext.match (/[0-9]{1,}/)) {
-		tag += '<td width="25%" class="align_right" "clickable-row" data-href="detail.htm?horse=' + idxNext +','+  (idx +1)   +',P' + '">次&gt;&gt;</td>';
-		//tag += '<td width="25%" class="align_right"><img src="static/btn01-12.png" alt=""></td>';
-	} else {
-		tag += '<td width="25%" class="align_right"></td>';
-		
-	}
 	tag += '</tr></tbody></table></div>';
 	return tag;
 }
@@ -655,13 +638,8 @@ function backShow() {
 
 function initShow() {
     header.innerHTML = getHeader();
-    $("#hosi-5").prop('checked',true);
 
     tabHorse.innerHTML = getTabHorse();
-
-    var sql_base = 'SELECT * FROM ? h  where sei = 0 and hosi =  5 order by hosi desc ,name';
-    var j_horselist = alasql(sql_base, [horse]);
-    horselist.innerHTML = formatHorse(j_horselist);
 
     footer.innerHTML = getFooter();
 }
@@ -734,7 +712,6 @@ function filterHorse(t_arr,tht_arr,ht_arr,hht_arr, ashi_arr, hosi_arr, sei, hibo
 			sql_filter += ' hibon_id <> 0';
 		}
 	}
-	sql_filter = filterSql('hosi', hosi_arr, sql_filter, 0);
 	sql_filter = filterSqlFactor(sql_filter, factor);
 	
 	sql += sql_base;
@@ -955,22 +932,6 @@ function getHeader() {
 	tag += '<label><input name="tab" type="radio" id="1"><em>母父</em><span><div class="btn2_wrap"><input value="Ro" id="tht-Ro" type="checkbox"><label for="tht-Ro">Ro</label></div><div class="btn2_wrap"><input value="Ne" id="tht-Ne" type="checkbox"><label for="tht-Ne">Ne</label></div><div class="btn2_wrap"><input value="Ns" id="tht-Ns" type="checkbox"><label for="tht-Ns">Ns</label></div><div class="btn2_wrap"><input value="Na" id="tht-Na" type="checkbox"><label for="tht-Na">Na</label></div><div class="btn2_wrap"><input value="Ha" id="tht-Ha" type="checkbox"><label for="tht-Ha">Ha</label></div><div class="btn2_wrap"><input value="St" id="tht-St" type="checkbox"><label for="tht-St">St</label></div><div class="btn2_wrap"><input value="He" id="tht-He" type="checkbox"><label for="tht-He">He</label></div><div class="btn2_wrap"><input value="Te" id="tht-Te" type="checkbox"><label for="tht-Te">Te</label></div><div class="btn2_wrap"><input value="Ph" id="tht-Ph" type="checkbox"><label for="tht-Ph">Ph</label></div><div class="btn2_wrap"><input value="Ma" id="tht-Ma" type="checkbox"><label for="tht-Ma">Ma</label></div><div class="btn2_wrap"><input value="Hi" id="tht-Hi" type="checkbox"><label for="tht-Hi">Hi</label></div><div class="btn2_wrap"><input value="Sw" id="tht-Sw" type="checkbox"><label for="tht-Sw">Sw</label></div><div class="btn2_wrap"><input value="Fa" id="tht-Fa" type="checkbox"><label for="tht-Fa">Fa</label></div><div class="btn2_wrap"><input value="To" id="tht-To" type="checkbox"><label for="tht-To">To</label></div><div class="btn2_wrap"><input value="Ec" id="tht-Ec" type="checkbox"><label for="tht-Ec">Ec</label></div></span></label>';
 	tag += '<label><input name="tab" type="radio" id="3"><em>見事</em><span><div class="btn2_wrap"><input value="Ro" id="ht-Ro" type="checkbox"><label for="ht-Ro">Ro</label></div><div class="btn2_wrap"><input value="Ne" id="ht-Ne" type="checkbox"><label for="ht-Ne">Ne</label></div><div class="btn2_wrap"><input value="Ns" id="ht-Ns" type="checkbox"><label for="ht-Ns">Ns</label></div><div class="btn2_wrap"><input value="Na" id="ht-Na" type="checkbox"><label for="ht-Na">Na</label></div><div class="btn2_wrap"><input value="Ha" id="ht-Ha" type="checkbox"><label for="ht-Ha">Ha</label></div><div class="btn2_wrap"><input value="St" id="ht-St" type="checkbox"><label for="ht-St">St</label></div><div class="btn2_wrap"><input value="He" id="ht-He" type="checkbox"><label for="ht-He">He</label></div><div class="btn2_wrap"><input value="Te" id="ht-Te" type="checkbox"><label for="ht-Te">Te</label></div><div class="btn2_wrap"><input value="Ph" id="ht-Ph" type="checkbox"><label for="ht-Ph">Ph</label></div><div class="btn2_wrap"><input value="Ma" id="ht-Ma" type="checkbox"><label for="ht-Ma">Ma</label></div><div class="btn2_wrap"><input value="Hi" id="ht-Hi" type="checkbox"><label for="ht-Hi">Hi</label></div><div class="btn2_wrap"><input value="Sw" id="ht-Sw" type="checkbox"><label for="ht-Sw">Sw</label></div><div class="btn2_wrap"><input value="Fa" id="ht-Fa" type="checkbox"><label for="ht-Fa">Fa</label></div><div class="btn2_wrap"><input value="To" id="ht-To" type="checkbox"><label for="ht-To">To</label></div><div class="btn2_wrap"><input value="Ec" id="ht-Ec" type="checkbox"><label for="ht-Ec">Ec</label></div></span></label>';
 	tag += '<label><input name="tab" type="radio" id="4"><em>１薄め</em><span><div class="btn2_wrap"><input value="Ro" id="hht-Ro" type="checkbox"><label for="hht-Ro">Ro</label></div><div class="btn2_wrap"><input value="Ne" id="hht-Ne" type="checkbox"><label for="hht-Ne">Ne</label></div><div class="btn2_wrap"><input value="Ns" id="hht-Ns" type="checkbox"><label for="hht-Ns">Ns</label></div><div class="btn2_wrap"><input value="Na" id="hht-Na" type="checkbox"><label for="hht-Na">Na</label></div><div class="btn2_wrap"><input value="Ha" id="hht-Ha" type="checkbox"><label for="hht-Ha">Ha</label></div><div class="btn2_wrap"><input value="St" id="hht-St" type="checkbox"><label for="hht-St">St</label></div><div class="btn2_wrap"><input value="He" id="hht-He" type="checkbox"><label for="hht-He">He</label></div><div class="btn2_wrap"><input value="Te" id="hht-Te" type="checkbox"><label for="hht-Te">Te</label></div><div class="btn2_wrap"><input value="Ph" id="hht-Ph" type="checkbox"><label for="hht-Ph">Ph</label></div><div class="btn2_wrap"><input value="Ma" id="hht-Ma" type="checkbox"><label for="hht-Ma">Ma</label></div><div class="btn2_wrap"><input value="Hi" id="hht-Hi" type="checkbox"><label for="hht-Hi">Hi</label></div><div class="btn2_wrap"><input value="Sw" id="hht-Sw" type="checkbox"><label for="hht-Sw">Sw</label></div><div class="btn2_wrap"><input value="Fa" id="hht-Fa" type="checkbox"><label for="hht-Fa">Fa</label></div><div class="btn2_wrap"><input value="To" id="hht-To" type="checkbox"><label for="hht-To">To</label></div><div class="btn2_wrap"><input value="Ec" id="hht-Ec" type="checkbox"><label for="hht-Ec">Ec</label></div></span></label>';
-	tag += '</div>';
-	// 脚質
-	tag += '<div class="tabmenu2">';
-    tag += '<label><span>';
-    tag += '<div class="btn3_wrap"><input value="自在" id="ashi-jizai" type="checkbox"/><label for="ashi-jizai">自</label></div>';
-    tag += '<div class="btn3_wrap"><input value="逃げ" id="ashi-nige" type="checkbox"/><label for="ashi-nige">逃</label></div>';
-    tag += '<div class="btn3_wrap"><input value="先行" id="ashi-senko" type="checkbox"/><label for="ashi-senko">先</label></div>';
-    tag += '<div class="btn3_wrap"><input value="差し" id="ashi-sashi" type="checkbox"/><label for="ashi-sashi">差</label></div>';
-    tag += '<div class="btn3_wrap"><input value="追込" id="ashi-oikomi" type="checkbox"/><label for="ashi-oikomi">追</label></div>';
-    tag += '<div class="btn3_wrap"><input value="1" id="hibon" type="checkbox"/><label for="hibon">非</label></div>';
-    tag += '<div class="btn3_wrap"><input value="5" id="hosi-5" type="checkbox"><label for="hosi-5">５</label></div>';
-    tag += '<div class="btn3_wrap"><input value="4" id="hosi-4" type="checkbox"><label for="hosi-4">４</label></div>';
-    tag += '<div class="btn3_wrap"><input value="3" id="hosi-3" type="checkbox"><label for="hosi-3">３</label></div>';
-    tag += '<div class="btn3_wrap"><input value="2" id="hosi-2" type="checkbox"><label for="hosi-2">２</label></div>';
-    tag += '<div class="btn3_wrap"><input value="1" id="hosi-1" type="checkbox"><label for="hosi-1">１</label></div>';
-    tag += '</span></label>';
 	tag += '</div>';
 	tag += getFactorList();
 	sessionStorage.setItem('header', tag);
