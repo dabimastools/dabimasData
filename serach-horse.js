@@ -670,7 +670,7 @@ function filterHorse(t_arr,ht_arr,mig_arr,jik_arr, ashi_arr, hosi_arr, sei, hibo
 	var sql = '';
 	var sql_base  = 'SELECT * FROM ? h';
 	var sql_order = ' order by No';
-	const sql_where = ' where ';
+	const sql_where = ' where 0 = 0';
 	var sql_filter = '';
 	
 	// 父
@@ -686,7 +686,7 @@ function filterHorse(t_arr,ht_arr,mig_arr,jik_arr, ashi_arr, hosi_arr, sei, hibo
 	
 	sql += sql_base;
 	sql += sql_where;
-	sql += 'sei = ' + sei ;
+	//sql += 'sei = ' + sei ;
 	
 	if (sql_filter.length > 0) {	
 		sql += ' AND ';
