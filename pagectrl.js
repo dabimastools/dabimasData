@@ -230,9 +230,9 @@ function loadSession() {
  //フロントに表示する関数
 function dispHorse(chk, sei, ped, factor) {
   var t_arr = [];
-  var tht_arr = [];
   var ht_arr = [];
-  var hht_arr = [];
+  var mig_arr = [];
+  var jik_arr = [];
   var ashi_arr = [];
   var hosi_arr = [];
   var chk_idx = [];
@@ -247,13 +247,13 @@ function dispHorse(chk, sei, ped, factor) {
           if ( chk[i].id.match(/^t\-/) != null) {
           	t_arr.push(chk[i].value);
           }
-          if ( chk[i].id.match(/^tht\-/) != null) {
-         	tht_arr.push(chk[i].value);
-          }
           if ( chk[i].id.match(/^ht\-/) != null) {
          	ht_arr.push(chk[i].value);
           }
-          if ( chk[i].id.match(/^hht\-/) != null) {
+          if ( chk[i].id.match(/^mig\-/) != null) {
+         	tht_arr.push(chk[i].value);
+          }
+          if ( chk[i].id.match(/^jik\-/) != null) {
           	hht_arr.push(chk[i].value);
           }
           if ( chk[i].id.match(/^ashi\-/) != null) {
@@ -282,5 +282,5 @@ function dispHorse(chk, sei, ped, factor) {
      sessionStorage.setItem('factor_idx', factor.selectedIndex);
      
      // 絞り込み実施
-     filterHorse(t_arr, tht_arr, ht_arr, hht_arr,ashi_arr, hosi_arr, sei, hibon_arr,factor.value);
+     filterHorse(t_arr, ht_arr, mig_arr, jik_arr,ashi_arr, hosi_arr, sei, hibon_arr,factor.value);
 }
