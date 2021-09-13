@@ -416,7 +416,7 @@ function getContentsDetail(j_horse) {
 	tag += '<tr>';
 	tag += '<td class="mother">';
 	tag += '母</td>';
-	tag += '<td class="father" rowspan="2">';
+	tag += '<td class="father" rowspan="1">';
 	tag += '父</td>';
 	tag += '<td class="omoshiro" colspan="2">';
 	tag += j_horse.Ped_tht;
@@ -522,7 +522,7 @@ function getContentsDetail(j_horse) {
 	tag += '<td class="omoshiro_2" width="60">'
 	tag += j_horse.Paternal_hht; //親系統
 	tag += '</td>'
-	tag += getFactorImg('horse',j_horse.Factor_hht_1,j_horse.Factor_hht_2);
+	tag += getFactorImg('omoshiro',j_horse.Factor_hht_1,j_horse.Factor_hht_2);
 	tag += '</tr>';
 
 	//母母父父
