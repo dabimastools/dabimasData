@@ -251,10 +251,10 @@ function dispHorse(chk, sei, ped, factor) {
          	ht_arr.push(chk[i].value);
           }
           if ( chk[i].id.match(/^mig\-/) != null) {
-         	tht_arr.push(chk[i].value);
+         	mig_arr.push(chk[i].value);
           }
           if ( chk[i].id.match(/^jik\-/) != null) {
-          	hht_arr.push(chk[i].value);
+          	jik_arr.push(chk[i].value);
           }
           if ( chk[i].id.match(/^ashi\-/) != null) {
           	ashi_arr.push(chk[i].value);
