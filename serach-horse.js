@@ -375,7 +375,7 @@ function getContentsDetail(j_horse) {
 	
 	//父父父
 	tag += '<tr>';
-	tag += '<td align="center" class="father_1" rowspan="2" width="30">';
+	tag += '<td align="center" class="father_1" rowspan="3" width="30">';
 	tag += '<td class="father" width="30">';
 	tag += '父</td>';
 	tag += '<td class="horse" colspan="2">';
