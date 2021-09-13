@@ -625,7 +625,7 @@ function getFactorList() {
 function filterHorse(t_arr,ht_arr,mig_arr,jik_arr, ashi_arr, hosi_arr, sei, hibon_arr, factor) {
 	var sql = '';
 	var sql_base  = 'SELECT * FROM ? h';
-	var sql_order = ' order by SerialNumber';
+	var sql_order = ' order by SerialNumber ASC';
 	const sql_where = ' where 0 = 0';
 	var sql_filter = '';
 	
@@ -942,7 +942,7 @@ function formatHorse(j_horselist) {
 		var j_horse = j_horselist[cnt];	
 		
 		//ヘッダ部作成
-		tag = getHeaderDetail(j_horse)
+		tag += getHeaderDetail(j_horse)
 		//血統部作成
 		tag += getContentsDetail(j_horse)
 		
