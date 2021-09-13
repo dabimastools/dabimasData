@@ -783,89 +783,27 @@ function filterSql_mig(arr, sql_filter, string) {
 	if (sql_filter.length > 0 ) {
 		sql_filter += ' AND ';
 	}
-	
-	//父父母父
-	cnt = 0;
-	sql_filter += 'Paternal_ttht';
-	sql_filter += ' in (';
-	
-	while (arr.length > cnt) {
-		var value = arr[cnt];
-		
-		if (string == 1 ) {
-			sql_filter+= '"' + value + '"';
-		} else {
-			sql_filter+=  value;
-		}
-				
-		if(arr.length != cnt + 1) {
-			sql_filter+= ',';
-		}
-		cnt++;
-	}
-	sql_filter += ')';
 
-	//父母母父
 	cnt = 0;
-	sql_filter += ' AND Paternal_thht';
-	sql_filter += ' in (';
-	
-	while (arr.length > cnt) {
-		var value = arr[cnt];
-		
-		if (string == 1 ) {
-			sql_filter+= '"' + value + '"';
-		} else {
-			sql_filter+=  value;
-		}
-				
-		if(arr.length != cnt + 1) {
-			sql_filter+= ',';
-		}
-		cnt++;
-	}
-	sql_filter += ')';
 
-	//母父母父
-	cnt = 0;
-	sql_filter += ' AND Paternal_htht';
-	sql_filter += ' in (';
-	
+	sql_filter += '(';
 	while (arr.length > cnt) {
 		var value = arr[cnt];
 		
-		if (string == 1 ) {
-			sql_filter+= '"' + value + '"';
-		} else {
-			sql_filter+=  value;
-		}
-				
-		if(arr.length != cnt + 1) {
-			sql_filter+= ',';
-		}
-		cnt++;
-	}
-	sql_filter += ')';
+		sql_filter += 'Paternal_mig like ';
 
-	//母母母父
-	cnt = 0;
-	sql_filter += ' AND Paternal_hhht';
-	sql_filter += ' in (';
-	
-	while (arr.length > cnt) {
-		var value = arr[cnt];
-		
 		if (string == 1 ) {
-			sql_filter+= '"' + value + '"';
+			sql_filter+= '"%' + value + '%"';
 		} else {
 			sql_filter+=  value;
 		}
 				
 		if(arr.length != cnt + 1) {
-			sql_filter+= ',';
+			sql_filter+= ' AND ';
 		}
 		cnt++;
 	}
+
 	sql_filter += ')';
 
 	return sql_filter;
@@ -885,46 +823,26 @@ function filterSql_jik(arr, sql_filter, string) {
 		sql_filter += ' AND ';
 	}
 	
-	//父母父
 	cnt = 0;
-	sql_filter += 'Paternal_tht';
-	sql_filter += ' in (';
-	
-	while (arr.length > cnt) {
-		var value = arr[cnt];
-		
-		if (string == 1 ) {
-			sql_filter+= '"' + value + '"';
-		} else {
-			sql_filter+=  value;
-		}
-				
-		if(arr.length != cnt + 1) {
-			sql_filter+= ',';
-		}
-		cnt++;
-	}
-	sql_filter += ')';
 
-	//母母父
-	cnt = 0;
-	sql_filter += ' AND Paternal_hht';
-	sql_filter += ' in (';
-	
+	sql_filter += '(';	
 	while (arr.length > cnt) {
 		var value = arr[cnt];
 		
+		sql_filter += 'Paternal_jik like ';
+
 		if (string == 1 ) {
-			sql_filter+= '"' + value + '"';
+			sql_filter+= '"%' + value + '%"';
 		} else {
 			sql_filter+=  value;
 		}
 				
 		if(arr.length != cnt + 1) {
-			sql_filter+= ',';
+			sql_filter+= ' AND ';
 		}
 		cnt++;
 	}
+
 	sql_filter += ')';
 
 	return sql_filter;
