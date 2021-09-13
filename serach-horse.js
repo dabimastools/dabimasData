@@ -669,7 +669,7 @@ function getFactorList() {
 function filterHorse(t_arr,ht_arr,mig_arr,jik_arr, ashi_arr, hosi_arr, sei, hibon_arr, factor) {
 	var sql = '';
 	var sql_base  = 'SELECT * FROM ? h';
-	var sql_order = ' order by No';
+	var sql_order = ' order by SerialNumber';
 	const sql_where = ' where 0 = 0';
 	var sql_filter = '';
 	
