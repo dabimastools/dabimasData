@@ -40,65 +40,21 @@ function detailShow(horse_id) {
 	footer.innerHTML = "";
 }
 
-function getSelfFactorImg(factor, name) {
+function getSelfFactorImg(Factor1, Factor2) {
 	var tag = '';
 	var cnt = 0;
-	
-	if ( name.match(/極走/)) {
-		tag +=  '<img src="static/img/rfactor_02.png" alt="">';
-		tag +=  '<img src="static/img/rfactor_02.png" alt="">';
-		tag +='&nbsp';
-		return tag;
-	
+
+	if(Factor1 <> '') {
+		tag +=  '<img src="static/img/rfactor_' + Factor1 + '.png" alt="">';
 	}
-	var result = factor.split('-');
-	
-	// 元データがずれているので、補正
-	if (result.length ==2 && result[0] == 'sp') {
-		var wk = result[0];
-		result[0] = result[1];
-		result[1] = wk;
+
+	if(Factor2 <> '') {
+		tag +=  '<img src="static/img/rfactor_' + Factor2 + '.png" alt="">';
 	}
 	
-	while (result.length > cnt) {
-		if (result[cnt] == 'temper') {
-			tag +=  '<img src="static/img/rfactor_10.png" alt="">';
-		}
-		else if (result[cnt] == 'joubu') {
-			tag +=  '<img src="static/img/rfactor_06.png" alt="">';
-		}
-		else if (result[cnt] == 'st') {
-			tag +=  '<img src="static/img/rfactor_03.png" alt="">';
-		}
-		else if (result[cnt] == 'dart') {
-			tag +=  '<img src="static/img/rfactor_05.png" alt="">';
-		}
-		else if (result[cnt] == 'soujuku') {
-			tag +=  '<img src="static/img/rfactor_07.png" alt="">';
-		}
-		else if (result[cnt] == 'bansei') {
-			tag +=  '<img src="static/img/rfactor_08.png" alt="">';
-		}
-		else if (result[cnt] == 'ken') {
-			tag +=  '<img src="static/img/rfactor_09.png" alt="">';
-		}
-		else if (result[cnt] == 'stp') {
-			tag +=  '<img src="static/img/rfactor_04.png" alt="">';
-		}
-		else if (result[cnt] == 'spp') {
-			tag +=  '<img src="static/img/rfactor_01.png" alt="">';
-		}
-		else if (result[cnt] == 'sp') {
-			tag +=  '<img src="static/img/rfactor_02.png" alt="">';	
-		}
-		cnt++;
-	}
 	tag +='&nbsp';
 	return tag;
 }
-
-
-
 
 
 function getContentsDetailNavi(houseIdList) {
@@ -992,7 +948,7 @@ function formatHorse(j_horselist) {
 		
 		cnt++;
 	}
-	tag += '</div></nav>';
+
 	// 表示状態を維持
 	sessionStorage.setItem('contents', tag);
 	// 条件保存 チェックボックス
