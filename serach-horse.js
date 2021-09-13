@@ -44,11 +44,11 @@ function getSelfFactorImg(Factor1, Factor2) {
 	var tag = '';
 	var cnt = 0;
 
-	if(Factor1 <> '') {
+	if(Factor1 != '') {
 		tag +=  '<img src="static/img/rfactor_' + Factor1 + '.png" alt="">';
 	}
 
-	if(Factor2 <> '') {
+	if(Factor2 != '') {
 		tag +=  '<img src="static/img/rfactor_' + Factor2 + '.png" alt="">';
 	}
 	
