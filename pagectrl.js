@@ -51,11 +51,11 @@ function loadjs(){
       let sei = 0;
       let ped = 0;
     
-  	  for (let i = 0; i < sei_radio.length; i++) {
-  		if (sei_radio[i].id == "1" && sei_radio[i].checked ) {
-  			sei = 1;
-  		}
-  	  }
+  	  //for (let i = 0; i < sei_radio.length; i++) {
+  		//if (sei_radio[i].id == "1" && sei_radio[i].checked ) {
+  		//	sei = 1;
+  		//}
+  	  //}
   	  for (let i = 0; i < ped_radio.length; i++) {
   		if ( ped_radio[i].checked ) {
   			ped =  i;
@@ -67,21 +67,21 @@ function loadjs(){
   }
   
   // 全てチェックボックスを選択した際のイベント取得
-  for (let i = 0; i < sei_radio.length; i++) {
-  
-  	sei_radio[i].addEventListener('change', (event) => {
-  		let sei = 0;
-      	
-  		for (let i = 0; i < sei_radio.length; i++) {
-  			if (sei_radio[i].id == "1" && sei_radio[i].checked ) {
-  				sei = 1;
-  			}
-  		}
-  		for (let i = 0; i < ped_radio.length; i++) {
-  			if ( ped_radio[i].checked ) {
-  				ped =  i;
-  			}
-  		}
+  //for (let i = 0; i < sei_radio.length; i++) {
+  //
+  //	sei_radio[i].addEventListener('change', (event) => {
+  //		let sei = 0;
+  //    	
+  //		for (let i = 0; i < sei_radio.length; i++) {
+  //			if (sei_radio[i].id == "1" && sei_radio[i].checked ) {
+  //				sei = 1;
+  //			}
+  //		}
+  //		for (let i = 0; i < ped_radio.length; i++) {
+  //			if ( ped_radio[i].checked ) {
+  //				ped =  i;
+  //			}
+  //		}
   		dispHorse(chk , sei, ped, select);
   		lisnerLink();
   	
