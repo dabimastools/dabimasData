@@ -633,9 +633,6 @@ function filterHorse(t_arr,ht_arr,mig_arr,jik_arr, ashi_arr, hosi_arr, sei, hibo
 	const sql_where_M = ' where Gender = "1"';
 	const sql_where_F = ' where Gender = "2"';
 
-	sql += sql_base;
-	sql += sql_where;
-	
 	var sql_filter = '';
 	
 	// 父
@@ -659,8 +656,8 @@ function filterHorse(t_arr,ht_arr,mig_arr,jik_arr, ashi_arr, hosi_arr, sei, hibo
 		sqlTmp += sqlOrderFactor(factor);	
 	}
 	
-	sql_M = sql_base + sql_where_M + sqlTmp
-	sql_F = sql_base + sql_where_F + sqlTmp
+	sql_M = sql_base + sql_where_M + sqlTmp;
+	sql_F = sql_base + sql_where_F + sqlTmp;
 	
 	//種牡馬リストの取得
 	var j_horselist_M = alasql(sql_M, [horse]);
