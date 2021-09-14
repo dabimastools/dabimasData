@@ -83,6 +83,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HeNe",
+  "Paternal_mig": "StTeHaNs",
   "Ped_All": "アイシラヌユエ20XXトーホウエンペラーブライアンズタイムRobertoHail to ReasonグロースタークノーリュートリュティエマッチウォンモンズーンKonigsstuhlDschingis KhanSurumuファーディナンドニジンスキーアイリッシュリヴァー"
  },
  {
@@ -168,6 +170,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaTe",
+  "Paternal_mig": "StEcMaEc",
   "Ped_All": "アイスカペイド1973NearcticNearcoPharosPhalarisHavresacHyperionGainsboroughAbbots TraceNative DancerPolynesianUnbreakableDiscoveryFighting FoxSir GallahadTransmute"
  },
  {
@@ -253,6 +257,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "ToToNsNs",
   "Ped_All": "アイナドイラヌ20XXスターリングローズアフリートミスタープロスペクターRaise a NativeVenetian JesterダンチヒNorthern DancerBuckpasserエーピーインディシアトルスルーBold ReasoningセクレタリアトSpectacular BidBold Bidderリヴァーマン"
  },
  {
@@ -338,6 +344,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "SwSw",
+  "Paternal_mig": "PhFaHaSw",
   "Ped_All": "アイネスフウジンシーホークエルバジェVandalePlassyEscamilloFree ManNorsemanOcean SwellテスコボーイPrincely GiftNasrullahHyperionモンタヴァルNorsemanトサミドリ"
  },
  {
@@ -423,6 +431,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "EcNt",
+  "Paternal_mig": "SwHaHaHe",
   "Ped_All": "アイランドホワールPago PagoMatriceMastheadBlue PeterSt.MagnusAbbots FellFelsteadTalkingYour AlibhaiAlibhaiHyperionBeau PereNative DancerPolynesianAmbiorix"
  },
  {
@@ -508,6 +518,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "EcNt",
+  "Paternal_mig": "SwHaHaHe",
   "Ped_All": "アイランドホワール-瞬発-Pago PagoMatriceMastheadBlue PeterSt.MagnusAbbots FellFelsteadTalkingYour AlibhaiAlibhaiHyperionBeau PereNative DancerPolynesianAmbiorix"
  },
  {
@@ -593,6 +605,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StHa",
+  "Paternal_mig": "HeTeEcTe",
   "Ped_All": "アイリッシュリヴァー-覇走-リヴァーマンNever BendNasrullahNearcoDjeddahPrince JohnPrincequilloRomanKlaironClarionDjebelKantarEast SideOrwellBlack Devil"
  },
  {
@@ -678,6 +692,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "SwSt",
+  "Paternal_mig": "HaStTeFa",
   "Ped_All": "アウザール1992ShergarGreat NephewHoneywayFairwayAdmiral's WalkVal de LoirVieux ManoirCharlottesvilleニジンスキーNorthern DancerNearcticBull PageCharlottesvillePrince ChevalierBotticelli"
  },
  {
@@ -763,6 +779,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeHe",
+  "Paternal_mig": "HaHaPhEc",
   "Ped_All": "アカテナンゴSurumuLiteratBirkhahnAlchimistMasettoリライアンスTantiemeHyperionAggressorCombatBig GameNearcoMr.JinksTetratemaHe"
  },
  {
@@ -848,6 +866,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HiSt",
+  "Paternal_mig": "TePhEcPh",
   "Ped_All": "アクアク-瞬発-Battle JoinedArmageddonAlsabGood GoodsSir GallahadRevokedBlue LarkspurReaping RewardTurn-toRoyal ChargerNearcoAdmiral DrakePrincequilloPrince RoseSickle"
  },
  {
@@ -933,6 +953,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeSw",
+  "Paternal_mig": "PhHaMaHa",
   "Ped_All": "アグネスタキオンサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseロイヤルスキーRaja BabaBold RulerInvolvementリマンドアルサイドSallymount"
  },
  {
@@ -1018,6 +1040,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeSw",
+  "Paternal_mig": "PhHaMaHa",
   "Ped_All": "アグネスタキオン2008サンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseロイヤルスキーRaja BabaBold RulerInvolvementリマンドアルサイドSallymount"
  },
  {
@@ -1103,6 +1127,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeNe",
+  "Paternal_mig": "NtFaStNt",
   "Ped_All": "アグネスワールドダンチヒNorthern DancerNearcticNearcoNative DancerAdmiral's VoyageCrafty AdmiralPetitionシアトルスルーBold ReasoningBoldnesianPokerリファールNorthern DancerGyr"
  },
  {
@@ -1188,6 +1214,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "StTo",
+  "Paternal_mig": "NtNsHaHa",
   "Ped_All": "アサティス1989TopsiderNorthern DancerNearcticNearcoNative DancerRound TablePrincequilloNasrullahグロースタークRibotTeneraniAlibhaiBuckpasserTom FoolSwaps"
  },
  {
@@ -1273,6 +1301,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NsTo",
+  "Paternal_mig": "TeHaTeNs",
   "Ped_All": "アジュディミツオー2006アジュディケーティングダンチヒNorthern DancerNearcticAdmiral's VoyageReviewerBold RulerSwapsジャッジアンジェルーチHonest PleasureWhat a PleasureVictoria ParkトンピオンTom Foolネヴァービート"
  },
  {
@@ -1358,6 +1388,8 @@ horse=
   "Paternal_hhht": "To",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "PhNe",
+  "Paternal_mig": "ToHaHaTo",
   "Ped_All": "アドマイヤソンティンバーカントリーウッドマンミスタープロスペクターRaise a NativeBuckpasserPretenseEndeavourSwapsトニービンカンパラカラムーンHornbeamNorthern DancerNearcticTom Fool"
  },
  {
@@ -1443,6 +1475,8 @@ horse=
   "Paternal_hhht": "To",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "TeNe",
+  "Paternal_mig": "PhHaHaTo",
   "Ped_All": "アドマイヤベガサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseトニービンカンパラカラムーンHornbeamNorthern DancerNearcticTom Fool"
  },
  {
@@ -1528,6 +1562,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNt",
+  "Paternal_mig": "StEcTeNe",
   "Ped_All": "アドマイヤムーンエンドスウィープフォーティナイナーミスタープロスペクターRaise a NativeトムロルフDance SpellNorthern DancerThinking CapサンデーサイレンスヘイローHail to ReasonアンダースタンディングKrisシャーペンアップノノアルコ"
  },
  {
@@ -1613,6 +1649,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNt",
+  "Paternal_mig": "StEcTeNe",
   "Ped_All": "アドマイヤムーン2007エンドスウィープフォーティナイナーミスタープロスペクターRaise a NativeトムロルフDance SpellNorthern DancerThinking CapサンデーサイレンスヘイローHail to ReasonアンダースタンディングKrisシャーペンアップノノアルコ"
  },
  {
@@ -1698,6 +1736,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HeNe",
+  "Paternal_mig": "NeHaSwPh",
   "Ped_All": "アニマルキングダムLeroidesanimauxCandy StripesブラッシンググルームRed GodリファールアホヌーラロレンザッチオHigh LineアカテナンゴSurumuLiteratAggressorダンシングブレーヴリファールAspros"
  },
  {
@@ -1783,6 +1823,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsHa",
+  "Paternal_mig": "TeEcStEc",
   "Ped_All": "アフリートミスタープロスペクターRaise a NativeNative DancerPolynesianCase AceNashuaNasrullahCount FleetVenetian JesterTom FoolMenowPrincequilloGreen TicketTraffic JudgeThinking Cap"
  },
  {
@@ -1868,6 +1910,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "08",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HaSt",
+  "Paternal_mig": "StNsPhSt",
   "Ped_All": "アブクマポーロ1997クリスタルグリッターズブラッシンググルームRed GodNasrullahWild RiskDonut KingDetermineFleet NasrullahペールMilesianMy BabuPharisプロントPrince Tajヒンドスタン"
  },
  {
@@ -1953,6 +1997,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HiNs",
+  "Paternal_mig": "HaNsStHa",
   "Ped_All": "アベシプレザントコロニーヒズマジェスティRibotTeneraniAlibhaiSunrise FlightDouble JayCockrullahキートゥザミントグロースタークRibotPrincequilloOn-and-OnNasrullahPonder"
  },
  {
@@ -2038,6 +2084,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "EcEc",
+  "Paternal_mig": "EcSwFaTe",
   "Ped_All": "アホヌーラ1987ロレンザッチオKlaironClarionDjebelKantarThe PhoenixChateau BouscautBig GameMartialHill GailBull LeaCourt MartialWhistlerPanoramaBorealis"
  },
  {
@@ -2123,6 +2171,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtRo",
+  "Paternal_mig": "HeTeStNt",
   "Ped_All": "アマヲカケルシーザスターズケープクロスグリーンデザートダンチヒアホヌーラミスワキミスタープロスペクターLombardシルバーチャームシルバーバックBuckpasserPokerブライアンズタイムRobertoダンサーズイメージ"
  },
  {
@@ -2208,6 +2258,8 @@ horse=
   "Paternal_hhht": "To",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "FaNt",
+  "Paternal_mig": "NeNsNsTo",
   "Ped_All": "アメリカンファラオ-覇走-Pioneerof the NileエンパイアメーカーUnbridledファピアノエルグランセニョールLord at WarGeneralKey to the KingdomYankee GentlemanストームキャットStorm BirdFlying PasterEclipticalExclusive NativeTri Jet"
  },
  {
@@ -2293,6 +2345,8 @@ horse=
   "Paternal_hhht": "To",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "FaNt",
+  "Paternal_mig": "NeNsNsTo",
   "Ped_All": "アメリカンファラオ2015Pioneerof the NileエンパイアメーカーUnbridledファピアノエルグランセニョールLord at WarGeneralKey to the KingdomYankee GentlemanストームキャットStorm BirdFlying PasterEclipticalExclusive NativeTri Jet"
  },
  {
@@ -2378,6 +2432,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "07",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "TeStRoRo",
   "Ped_All": "アメリカンポストBeringArctic TernSea-BirdDan CupidHasty RoadリファールNorthern DancerLe FabuleuxサドラーズウェルズNorthern DancerNearcticBold Reasonシャーリーハイツミルリーフハビタット"
  },
  {
@@ -2463,6 +2519,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StHa",
+  "Paternal_mig": "StEcEcEc",
   "Ped_All": "アメリゴ-覇走-NearcoPharosPhalarisPolymelusChaucerHavresacRabelaisSpearmintPrecipitationHurry OnMarcovilBachelor's DoubleHyperionGainsboroughGrand Parade"
  },
  {
@@ -2548,6 +2606,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "06",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "TeHa",
+  "Paternal_mig": "MaMaTeTe",
   "Ped_All": "アリダー1990Raise a NativeNative DancerPolynesianUnbreakableDiscoveryCase AceTeddyAmerican FlagOn-and-OnNasrullahNearcoBull LeaPonderPensiveBull Lea"
  },
  {
@@ -2633,6 +2693,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NeHi",
+  "Paternal_mig": "TeSwStSt",
   "Ped_All": "アルアインディープインパクトサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドEssence of DubaiPulpitエーピーインディSummingGreat AboveMinnesota Macヒズマジェスティ"
  },
  {
@@ -2718,6 +2780,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "HaEc",
+  "Paternal_mig": "EcEcEcFa",
   "Ped_All": "アルコルチャイナロックRockefellaHyperionGainsboroughFelsteadRustom PashaSon-in-LawFriar MarcusGrey SovereignNasrullahNearcoBaytownGolden CloudGold BridgeCourt Martial"
  },
  {
@@ -2803,6 +2867,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HaPh",
+  "Paternal_mig": "EcSwStHa",
   "Ped_All": "アルサイド1958AlycidonDonatelloBlenheimBlandfordClarissimusHyperionGainsboroughSwynfordKing SalmonSalmon-TroutThe TetrarchCharles O'MalleyCameronianPharosSon-in-Law"
  },
  {
@@ -2888,6 +2954,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HaPh",
+  "Paternal_mig": "EcSwStHa",
   "Ped_All": "アルサイド1959AlycidonDonatelloBlenheimBlandfordClarissimusHyperionGainsboroughSwynfordKing SalmonSalmon-TroutThe TetrarchCharles O'MalleyCameronianPharosSon-in-Law"
  },
  {
@@ -2973,6 +3041,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "FaTe",
+  "Paternal_mig": "NtHeSwSt",
   "Ped_All": "アルザオ-覇走-リファールNorthern DancerNearcticNearcoNative DancerCourt MartialFair TrialFormorサーアイヴァーSir GaylordTurn-toMr.TroubleRomanSir GallahadPrincequillo"
  },
  {
@@ -3058,6 +3128,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoFa",
+  "Paternal_mig": "NsStRoNs",
   "Ped_All": "アルムタワケル1999マキャベリアンミスタープロスペクターRaise a NativeNative DancerNashuaヘイローHail to ReasonHoist the FlagグリーンデザートダンチヒNorthern DancerサーアイヴァーEla-Mana-MouピットカーンTyrant"
  },
  {
@@ -3143,6 +3215,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "MaHa",
+  "Paternal_mig": "TeHeEcMa",
   "Ped_All": "アレッジド1977Hoist the FlagトムロルフRibotTeneraniRomanWar AdmiralMan o'WarTourbillonPrince JohnPrincequilloPrince RoseCount FleetDetermineAlibhaiWar Admiral"
  },
  {
@@ -3228,6 +3302,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeSt",
+  "Paternal_mig": "PhStRoHe",
   "Ped_All": "アレミロードトムロルフRibotTeneraniBelliniEl GrecoRomanSir GallahadPrincequilloBold ReasoningBoldnesianBold RulerHail to ReasonPappa FourwayPappagenoTournoi"
  },
  {
@@ -3313,6 +3389,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "StHaNeSt",
   "Ped_All": "アロゲート2016アンブライドルズソングUnbridledファピアノミスタープロスペクターLe FabuleuxカロフォルティノLucky MelDistorted humorフォーティナイナーミスタープロスペクターダンチヒデピュティミニスターVice RegentMeadowlake"
  },
  {
@@ -3398,6 +3476,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "SwTe",
+  "Paternal_mig": "EcEcHiEc",
   "Ped_All": "アンダースタンディング-覇走-Promised LandPalestinianSun AgainSun TeddyWhiskawayMahmoudBlenheimToroStymieEquestrianEquipoiseOn WatchBull LeaBull DogWesty Hogan"
  },
  {
@@ -3483,6 +3563,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "06",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "TeSt",
+  "Paternal_mig": "NtHaTeTe",
   "Ped_All": "アンバーシャダイノーザンテーストNorthern DancerNearcticNearcoNative DancerVictoria ParkChop ChopHyperionAmbiopoiseAmbiorixTourbillonBull LeaGallant ManMigoliBull Lea"
  },
  {
@@ -3568,6 +3650,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StHa",
+  "Paternal_mig": "HiMaMaSt",
   "Ped_All": "アンブライドルズソング-覇走-UnbridledファピアノミスタープロスペクターRaise a NativeドクターフェイガーLe FabuleuxWild RiskインリアリティカロフォルティノGrey SovereignChamossaireLucky MelOlympiaPrince Blessed"
  },
  {
@@ -3653,6 +3737,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhHa",
+  "Paternal_mig": "EcEcMaEc",
   "Ped_All": "アーツアンドレターズ1969RibotTeneraniBelliniCavaliere d'ArpinoApelleEl GrecoPharosPapyrusBattlefieldWar RelicMan o'WarDisplayHeliopolisHyperionPilate"
  },
  {
@@ -3738,6 +3824,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "EcHa",
+  "Paternal_mig": "EcEcSwSt",
   "Ped_All": "アーティアスRound TablePrincequilloPrince RoseRose PrincePapyrusSir CosmoThe BossFriar MarcusMy BabuDjebelTourbillonBadruddinHyperionGainsboroughAtout Maitre"
  },
  {
@@ -3823,6 +3911,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "HaTo",
+  "Paternal_mig": "StNtNtHi",
   "Ped_All": "アーミジャー1992レインボウクエストブラッシンググルームRed GodNasrullahWild RiskエルバジェVandaleRaise a NativeNorthern DancerNearcticNearcoNative DancerBuckpasserTom FoolRough'n Tumble"
  },
  {
@@ -3908,6 +3998,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhMa",
+  "Paternal_mig": "SwTeMaEc",
   "Ped_All": "イエローゴッド1978Red GodNasrullahNearcoPharosBlenheimMenowPharamondBull DogFun FairFair TrialFairwayWalter GayCoronachHurry OnBuchan"
  },
  {
@@ -3993,6 +4085,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "MaHa",
+  "Paternal_mig": "PhMaHaSw",
   "Ped_All": "イシノヒカル1972マロツトRibotTeneraniBelliniEl GrecoNiccolo Dell'ArcaCoronachMiltonハロウェーFairwayPhalarisDark Legendトキノチカラトウルヌソルプリメロ"
  },
  {
@@ -4078,6 +4172,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeTo",
+  "Paternal_mig": "StNsHaSt",
   "Ped_All": "イッカクジュウタップダンスシチープレザントタッププレザントコロニーヒズマジェスティStage Door JohnnyNorthern DancerNearcticBold HourヌレイエフNorthern DancerNearcticフォルリBuckpasserTom FoolHill Prince"
  },
  {
@@ -4163,6 +4259,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StFa",
+  "Paternal_mig": "StNsMaHe",
   "Ped_All": "イナリアンミルジョージミルリーフNever BendNasrullahPrincequilloRagusaRibotGrey SovereignラークスパーNever Say DieNasrullahPrecipitationソロナウェーSolferinoセフト"
  },
  {
@@ -4248,6 +4346,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StFa",
+  "Paternal_mig": "StNsMaHe",
   "Ped_All": "イナリワン1988ミルジョージミルリーフNever BendNasrullahPrincequilloRagusaRibotGrey SovereignラークスパーNever Say DieNasrullahPrecipitationソロナウェーSolferinoセフト"
  },
  {
@@ -4333,6 +4433,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StFa",
+  "Paternal_mig": "StNsMaHe",
   "Ped_All": "イナリワン1989ミルジョージミルリーフNever BendNasrullahPrincequilloRagusaRibotGrey SovereignラークスパーNever Say DieNasrullahPrecipitationソロナウェーSolferinoセフト"
  },
  {
@@ -4418,6 +4520,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeHe",
+  "Paternal_mig": "NsPhHaHa",
   "Ped_All": "イフラージZafonicゴーンウェストミスタープロスペクターRaise a NativeセクレタリアトThe MinstrelNorthern DancerRight TackヌレイエフNorthern DancerNearcticフォルリアホヌーラロレンザッチオBalidar"
  },
  {
@@ -4503,6 +4607,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "StTo",
+  "Paternal_mig": "HeEcStSw",
   "Ped_All": "イブンベイ1990ミルリーフNever BendNasrullahNearcoDjeddahPrincequilloPrince RoseCount FleetハイトップDerring-DoDariusヴィミーSilly SeasonTom FoolAlycidon"
  },
  {
@@ -4588,6 +4694,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HeMa",
+  "Paternal_mig": "FaNsTeSt",
   "Ped_All": "イルミネーションウェルノールWelsh PageantTudor MelodyTudor MinstrelCourt MartialBlakeneyHethersettフォルティノトムロルフRibotTeneraniRomanSanta ClausChamossaireWild Risk"
  },
  {
@@ -4673,6 +4781,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "06",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "NsStRoHa",
   "Ped_All": "イレコンドルパサーキングマンボミスタープロスペクターRaise a NativeNative DancerNashuaヌレイエフNorthern DancerProve OutサドラーズウェルズNorthern DancerNearcticBold ReasonシアトルスルーBold Reasoningフォルリ"
  },
  {
@@ -4758,6 +4868,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsMa",
+  "Paternal_mig": "StStEcHa",
   "Ped_All": "インターメゾHornbeamHyperionGainsboroughBayardoChaucerNasrullahNearcoBois RousselPersian GulfBahramBlandfordBachelor's DoubleNiccolo Dell'ArcaCoronachBosworth"
  },
  {
@@ -4843,6 +4955,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HaNs",
+  "Paternal_mig": "HaEcNtHa",
   "Ped_All": "インディアンチャーリーin excesssiberian expressカロフォルティノWarfaresaulingoSing SingVilmorinleo castelliSovereign DancerNorthern DancerRaise a NativeDiplomat WayNashuaCreme Dela Creme"
  },
  {
@@ -4928,6 +5042,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "FaNt",
+  "Paternal_mig": "NsFaStSw",
   "Ped_All": "インペリアルダンサー2003Primo DominieDominionDerring-DoDariusPrincely GiftMy SwaneePetitionFalls of ClydeNordicoNorthern DancerNearcticGallant ManHello Gorgeousミスタープロスペクターパーシア"
  },
  {
@@ -5013,6 +5129,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "MaMa",
+  "Paternal_mig": "EcEcTeHi",
   "Ped_All": "インリアリティ1977IntentionallyIntentWar RelicMan o'WarBubbling OverDiscoveryDisplayPercentageRough'n TumbleFree for AllQuestionnaireBull DogWar RelicMan o'WarBalladier"
  },
  {
@@ -5098,6 +5216,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoSt",
+  "Paternal_mig": "TeNsTeHa",
   "Ped_All": "インヴィンシブルスピリットグリーンデザートダンチヒNorthern DancerNearcticAdmiral's VoyageサーアイヴァーSir GaylordNever BendKrisシャーペンアップエタンリライアンスアーティアスRound Tableバウンティアス"
  },
  {
@@ -5183,6 +5303,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HaTe",
+  "Paternal_mig": "NsTeHaSt",
   "Ped_All": "イーグルカフェガルチミスタープロスペクターRaise a NativeNative DancerNashuaRambunctiousRasperSeven CornersヌレイエフNorthern DancerNearcticフォルリDamascusSword DancerLe Fabuleux"
  },
  {
@@ -5268,6 +5390,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HaTe",
+  "Paternal_mig": "NsTeHaSt",
   "Ped_All": "イーグルカフェガルチミスタープロスペクターRaise a NativeNative DancerNashuaRambunctiousRasperSeven CornersヌレイエフNorthern DancerNearcticフォルリDamascusSword DancerLe Fabuleux"
  },
  {
@@ -5353,6 +5477,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HaTe",
+  "Paternal_mig": "NsTeHaSt",
   "Ped_All": "イーグルカフェ2002ガルチミスタープロスペクターRaise a NativeNative DancerNashuaRambunctiousRasperSeven CornersヌレイエフNorthern DancerNearcticフォルリDamascusSword DancerLe Fabuleux"
  },
  {
@@ -5438,6 +5564,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsHi",
+  "Paternal_mig": "TeHaMaEc",
   "Ped_All": "イージーゴア1989アリダーRaise a NativeNative DancerPolynesianCase AceOn-and-OnNasrullahPonderBuckpasserTom FoolMenowWar AdmiralTo MarketMarket WiseCounterpoint"
  },
  {
@@ -5523,6 +5651,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsTe",
+  "Paternal_mig": "RoHaStFa",
   "Ped_All": "ウィングドラヴ1995In the WingsサドラーズウェルズNorthern DancerNearcticBold ReasonシャーリーハイツミルリーフシーホークトップヴィルハイトップDerring-DoCharlottesvilleリライアンスTantiemeBotticelli"
  },
  {
@@ -5608,6 +5738,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "FaNs",
+  "Paternal_mig": "PhTeHaMa",
   "Ped_All": "ウェルノールWelsh PageantTudor MelodyTudor MinstrelOwen TudorDanteCourt MartialFair TrialBorealisBlakeneyHethersettHugh LupusHornbeamフォルティノGrey Sovereignpremonition"
  },
  {
@@ -5693,6 +5825,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeHa",
+  "Paternal_mig": "NsStStHa",
   "Ped_All": "ウォーエンブレムOur EmblemミスタープロスペクターRaise a NativeNative DancerNashuaプライヴェートアカウントDamascusHoist the FlagLord at WarGeneralBrigadier GerardCon BrioThe PrunerエルバジェSky High"
  },
  {
@@ -5778,6 +5912,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "ToNt",
+  "Paternal_mig": "HiHaNsPh",
   "Ped_All": "ウォーニングノウンファクトインリアリティIntentionallyIntentRough'n TumbleTim TamTom FoolTudor MinstrelRobertoHail to ReasonTurn-toNashuaRaise a NativeNative DancerMossborough"
  },
  {
@@ -5863,6 +5999,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "06",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "TeHa",
+  "Paternal_mig": "NtFaNeSt",
   "Ped_All": "ウォーフロント-瞬発-ダンチヒNorthern DancerNearcticNearcoNative DancerAdmiral's VoyageCrafty AdmiralPetitionRubianoファピアノミスタープロスペクターニジンスキーフォルリAristophanesRound Table"
  },
  {
@@ -5948,6 +6086,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "NsHa",
+  "Paternal_mig": "TeEcMaNs",
   "Ped_All": "ウッドマン-覇走-ミスタープロスペクターRaise a NativeNative DancerPolynesianCase AceNashuaNasrullahCount FleetBuckpasserTom FoolMenowWar AdmiralSwapsKhaledNasrullah"
  },
  {
@@ -6033,6 +6173,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "NsHa",
+  "Paternal_mig": "TeEcMaNs",
   "Ped_All": "ウッドマン1990ミスタープロスペクターRaise a NativeNative DancerPolynesianCase AceNashuaNasrullahCount FleetBuckpasserTom FoolMenowWar AdmiralSwapsKhaledNasrullah"
  },
  {
@@ -6118,6 +6260,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "TeSwNsSt",
   "Ped_All": "エイシンヒカリディープインパクトサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドストームキャットStorm BirdNorthern Dancerセクレタリアトカロフォルティノキートゥザミント"
  },
  {
@@ -6203,6 +6347,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "SwSt",
+  "Paternal_mig": "TeHiTeHi",
   "Ped_All": "エイシンプレストン2003グリーンダンサーニジンスキーNorthern DancerNearcticBull PageVal de LoirVieux ManoirSpy SongMonteverdiリファールNorthern DancerMatchBlood RoyalRibotBetter Self"
  },
  {
@@ -6288,6 +6434,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StTe",
+  "Paternal_mig": "TeToStHi",
   "Ped_All": "エクシードアンドエクセルデインヒルダンチヒNorthern DancerNearcticAdmiral's VoyageヒズマジェスティRibotBuckpasserLomondNorthern DancerNearcticPokerwatch your stepCitationCarry Back"
  },
  {
@@ -6373,6 +6521,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "07",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "StToNeRo",
   "Ped_All": "エピファネイア-覇走-シンボリクリスエスクリスエスRobertoHail to ReasonPrincequilloGold MeridianシアトルスルーTri JetスペシャルウィークサンデーサイレンスヘイローマルゼンスキーサドラーズウェルズNorthern Dancerハビタット"
  },
  {
@@ -6458,6 +6608,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoNt",
+  "Paternal_mig": "NsNeNsNe",
   "Ped_All": "エフフォーリア-闘覇-エピファネイアシンボリクリスエスクリスエスRobertoGold MeridianスペシャルウィークサンデーサイレンスサドラーズウェルズハーツクライサンデーサイレンスヘイロートニービンKrisシャーペンアップノノアルコ"
  },
  {
@@ -6543,6 +6695,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhHe",
+  "Paternal_mig": "SwSwHeHa",
   "Ped_All": "エリモジョージ1976セントクレスピンAureoleHyperionGainsboroughDonatelloNearcoPharosBlandfordワラビーFast FoxFastnetTourbillonセフトTetratemaトウルヌソル"
  },
  {
@@ -6628,6 +6782,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtHa",
+  "Paternal_mig": "HaSwMaMa",
   "Ped_All": "エルグランセニョール1984Northern DancerNearcticNearcoPharosHyperionNative DancerPolynesianMahmoudBuckpasserTom FoolMenowWar AdmiralTraffic JudgeAlibhaiMr.Busher"
  },
  {
@@ -6713,6 +6869,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "06",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "NsStRoHa",
   "Ped_All": "エルコンドルパサーキングマンボミスタープロスペクターRaise a NativeNative DancerNashuaヌレイエフNorthern DancerProve OutサドラーズウェルズNorthern DancerNearcticBold ReasonシアトルスルーBold Reasoningフォルリ"
  },
  {
@@ -6798,6 +6956,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "06",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "NsStRoHa",
   "Ped_All": "エルコンドルパサーキングマンボミスタープロスペクターRaise a NativeNative DancerNashuaヌレイエフNorthern DancerProve OutサドラーズウェルズNorthern DancerNearcticBold ReasonシアトルスルーBold Reasoningフォルリ"
  },
  {
@@ -6883,6 +7043,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "06",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "NsStRoHa",
   "Ped_All": "エルコンドルパサー-覇走-キングマンボミスタープロスペクターRaise a NativeNative DancerNashuaヌレイエフNorthern DancerProve OutサドラーズウェルズNorthern DancerNearcticBold ReasonシアトルスルーBold Reasoningフォルリ"
  },
  {
@@ -6968,6 +7130,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "06",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "NsStRoHa",
   "Ped_All": "エルコンドルパサー1999キングマンボミスタープロスペクターRaise a NativeNative DancerNashuaヌレイエフNorthern DancerProve OutサドラーズウェルズNorthern DancerNearcticBold ReasonシアトルスルーBold Reasoningフォルリ"
  },
  {
@@ -7053,6 +7217,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StSw",
+  "Paternal_mig": "TeToHiNs",
   "Ped_All": "エルヴストローム2005デインヒルダンチヒNorthern DancerNearcticAdmiral's VoyageヒズマジェスティRibotBuckpasserMarscaybiscayStar KingdomTo MarketZamazaanExburyGold Sovereign"
  },
  {
@@ -7138,6 +7304,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeFa",
+  "Paternal_mig": "NsNeNeHe",
   "Ped_All": "エレクトロキューショニスト2006レッドランサムRobertoHail to ReasonTurn-toNashuaDamascusSword DancerNearcticアラジブラッシンググルームRed GodNorthern DancerEla-Mana-MouピットカーンLevmoss"
  },
  {
@@ -7223,6 +7391,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StEc",
+  "Paternal_mig": "NsHiRoEc",
   "Ped_All": "エンドスウィープフォーティナイナーミスタープロスペクターRaise a NativeNative DancerNashuaトムロルフRibotDouble JayDance SpellNorthern DancerNearcticCyaneThinking CapRosemontLovely Night"
  },
  {
@@ -7308,6 +7478,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HiSt",
+  "Paternal_mig": "MaTeToHa",
   "Ped_All": "エースタナハシThe Irish LordBold RulerNasrullahNearcoDiscoveryDouble JayBalladierBold IrishmanDroneSir GaylordTurn-toTom FoolCharlottesvillePrince ChevalierArco"
  },
  {
@@ -7393,6 +7565,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "StTo",
+  "Paternal_mig": "RoSwStRo",
   "Ped_All": "エーピーインディ1992シアトルスルーBold ReasoningBoldnesianBold RulerHail to ReasonPokerRound TableJet ActionセクレタリアトBold RulerNasrullahPrincequilloBuckpasserTom FoolSir Gaylord"
  },
  {
@@ -7478,6 +7652,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "08",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "RoNs",
+  "Paternal_mig": "TeNsRoSw",
   "Ped_All": "オアシスドリームグリーンデザートダンチヒNorthern DancerNearcticAdmiral's VoyageサーアイヴァーSir GaylordNever BendダンシングブレーヴリファールNorthern DancerDroneミルリーフNever Bendバステッド"
  },
  {
@@ -7563,6 +7739,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "MaEcFaEc",
   "Ped_All": "オグリキャップ-覇煌-ダンシングキャップNative DancerPolynesianUnbreakableDiscoveryGrey SovereignNasrullahGolden CloudシルバーシャークBuisson ArdentRelicPalestineネヴァービートNever Say Dieガーサント"
  },
  {
@@ -7648,6 +7826,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "MaEcFaEc",
   "Ped_All": "オグリキャップ1990ダンシングキャップNative DancerPolynesianUnbreakableDiscoveryGrey SovereignNasrullahGolden CloudシルバーシャークBuisson ArdentRelicPalestineネヴァービートNever Say Dieガーサント"
  },
  {
@@ -7733,6 +7913,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "08",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "StHa",
+  "Paternal_mig": "StNsHaSt",
   "Ped_All": "オサイチジョージ1990ミルジョージミルリーフNever BendNasrullahPrincequilloRagusaRibotGrey SovereignファバージPrincely GiftNasrullahLegend of FranceチャイナロックRockefellaヒンドスタン"
  },
  {
@@ -7818,6 +8000,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StTe",
+  "Paternal_mig": "SwEcNtSw",
   "Ped_All": "オサムフォレストホームインヒカルタカイリンボーWar AdmiralハクリョウパールダイヴァーVatellorセントライトNorthern DancerNearcticNearcoNative DancerDamascusSword DancerAcropolis"
  },
  {
@@ -7903,6 +8087,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HeSw",
+  "Paternal_mig": "PhPhMaSt",
   "Ped_All": "オジジアン1986DamascusSword DancerSunglowSun AgainBy JimminyMy BabuDjebelSickleFrancis S.Royal ChargerNearcoWar AdmiralCorrelationFree AmericaPrincequillo"
  },
  {
@@ -7988,6 +8174,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HeTe",
+  "Paternal_mig": "HaNeNsSw",
   "Ped_All": "オトコノビガクドリームジャーニーステイゴールドサンデーサイレンスヘイローディクタスメジロマックイーンメジロティターンノーザンテーストストームキャットStorm BirdNorthern DancerセクレタリアトDamascusSword DancerAcropolis"
  },
  {
@@ -8073,6 +8261,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoHe",
+  "Paternal_mig": "NtHaStFa",
   "Ped_All": "オペラハウス-剛健-サドラーズウェルズNorthern DancerNearcticNearcoNative DancerBold ReasonHail to ReasonフォルリハイトップDerring-DoDariusヴィミーJimmy ReppinMidsummer NightMajority Blue"
  },
  {
@@ -8158,6 +8348,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoHe",
+  "Paternal_mig": "NtHaStFa",
   "Ped_All": "オペラハウス1993サドラーズウェルズNorthern DancerNearcticNearcoNative DancerBold ReasonHail to ReasonフォルリハイトップDerring-DoDariusヴィミーJimmy ReppinMidsummer NightMajority Blue"
  },
  {
@@ -8243,6 +8435,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "TeRo",
+  "Paternal_mig": "NeHeNeNe",
   "Ped_All": "オメガパフューム2019スウェプトオーヴァーボードエンドスウィープフォーティナイナーミスタープロスペクターDance SpellCutlassDamascusAmbehavingゴールドアリュールサンデーサイレンスヘイローヌレイエフリアルシャダイRobertoリファール"
  },
  {
@@ -8328,6 +8522,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNe",
+  "Paternal_mig": "TeNeSwNs",
   "Ped_All": "オルフェーヴルステイゴールドサンデーサイレンスヘイローHail to ReasonアンダースタンディングディクタスSanctusノーザンテーストメジロマックイーンメジロティターンメジロアサマリマンドノーザンテーストNorthern DancerLt.Stevens"
  },
  {
@@ -8413,6 +8609,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNe",
+  "Paternal_mig": "TeNeSwNs",
   "Ped_All": "オルフェーヴル-覇走-ステイゴールドサンデーサイレンスヘイローHail to ReasonアンダースタンディングディクタスSanctusノーザンテーストメジロマックイーンメジロティターンメジロアサマリマンドノーザンテーストNorthern DancerLt.Stevens"
  },
  {
@@ -8498,6 +8696,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNe",
+  "Paternal_mig": "TeNeSwNs",
   "Ped_All": "オルフェーヴル-覇靭-ステイゴールドサンデーサイレンスヘイローHail to ReasonアンダースタンディングディクタスSanctusノーザンテーストメジロマックイーンメジロティターンメジロアサマリマンドノーザンテーストNorthern DancerLt.Stevens"
  },
  {
@@ -8583,6 +8783,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNe",
+  "Paternal_mig": "TeNeSwNs",
   "Ped_All": "オルフェーヴル2013ステイゴールドサンデーサイレンスヘイローHail to ReasonアンダースタンディングディクタスSanctusノーザンテーストメジロマックイーンメジロティターンメジロアサマリマンドノーザンテーストNorthern DancerLt.Stevens"
  },
  {
@@ -8668,6 +8870,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "TeHaEcTe",
   "Ped_All": "カコイーシーズ1991アリダーRaise a NativeNative DancerPolynesianCase AceOn-and-OnNasrullahPonderJesterTom FoolMenowEight ThirtyNasrullahNearcoCount Gallahad"
  },
  {
@@ -8753,6 +8957,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "HaNs",
+  "Paternal_mig": "TeMaNsNe",
   "Ped_All": "カサンドラデンセツドクタースパートホスピタリテイテュデナムTudor MelodyアイアンリージタケシバオーチャイナロックロダンファルブラヴフェアリーキングNorthern DancerSlewpyトニービンカンパラNorthern Dancer"
  },
  {
@@ -8838,6 +9044,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "HeNe",
+  "Paternal_mig": "HaNeTeNs",
   "Ped_All": "カズタカイザープルフェーブルステイゴールドサンデーサイレンスヘイローディクタスメジロマックイーンメジロティターンノーザンテーストマンデーサイレンスヘイローHail to Reasonアンダースタンディングダンシングブレーヴリファールテスコボーイ"
  },
  {
@@ -8923,6 +9131,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "HeNe",
+  "Paternal_mig": "HaNeTeNs",
   "Ped_All": "カズタカイザープルフェーブルステイゴールドサンデーサイレンスヘイローディクタスメジロマックイーンメジロティターンノーザンテーストマンデーサイレンスヘイローHail to Reasonアンダースタンディングダンシングブレーヴリファールテスコボーイ"
  },
  {
@@ -9008,6 +9218,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeTo",
+  "Paternal_mig": "StNsHaSt",
   "Ped_All": "カズタカイザー？タップダンスシチープレザントタッププレザントコロニーヒズマジェスティStage Door JohnnyNorthern DancerNearcticBold HourヌレイエフNorthern DancerNearcticフォルリBuckpasserTom FoolHill Prince"
  },
  {
@@ -9093,6 +9305,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeTo",
+  "Paternal_mig": "StNsHaSt",
   "Ped_All": "カズタカイザー？タップダンスシチープレザントタッププレザントコロニーヒズマジェスティStage Door JohnnyNorthern DancerNearcticBold HourヌレイエフNorthern DancerNearcticフォルリBuckpasserTom FoolHill Prince"
  },
  {
@@ -9178,6 +9392,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "EcHe",
+  "Paternal_mig": "StPhPhSw",
   "Ped_All": "カツラギエースボイズィーボーイKing's TroopPrincely GiftNasrullahAtout MaitreThe PhoenixChateau BouscautNearcoヴェンチアRelicWar RelicPherozshahEntente CordialeDjebelUmidwar"
  },
  {
@@ -9263,6 +9479,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "EcHe",
+  "Paternal_mig": "StPhPhSw",
   "Ped_All": "カツラギエース-覇靭-ボイズィーボーイKing's TroopPrincely GiftNasrullahAtout MaitreThe PhoenixChateau BouscautNearcoヴェンチアRelicWar RelicPherozshahEntente CordialeDjebelUmidwar"
  },
  {
@@ -9348,6 +9566,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "EcHe",
+  "Paternal_mig": "StPhPhSw",
   "Ped_All": "カツラギエース1984ボイズィーボーイKing's TroopPrincely GiftNasrullahAtout MaitreThe PhoenixChateau BouscautNearcoヴェンチアRelicWar RelicPherozshahEntente CordialeDjebelUmidwar"
  },
  {
@@ -9433,6 +9653,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhHe",
+  "Paternal_mig": "HaHaHaSw",
   "Ped_All": "カツラノハイセイコハイセイコーチャイナロックRockefellaHyperionRustom PashaカリムNearcoBeau SonジャヴリンTulyarTehranHyperionタカクラヤマセフトトビサクラ"
  },
  {
@@ -9518,6 +9740,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNt",
+  "Paternal_mig": "TeMaMaNs",
   "Ped_All": "カネヒキリ2005フジキセキサンデーサイレンスヘイローHail to ReasonアンダースタンディングLe FabuleuxWild RiskインリアリティデピュティミニスターVice RegentNorthern DancerBunty's FlightミスタープロスペクターRaise a NativeRoad at Sea"
  },
  {
@@ -9603,6 +9827,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StEc",
+  "Paternal_mig": "SwPhEcSt",
   "Ped_All": "カブトシロー1967オーロイAureoleHyperionGainsboroughDonatelloMieuxceMassinePhideasイーストパレードアヅマダケトウルヌソルシアンモアカブトヤマシアンモアJack Atkin"
  },
  {
@@ -9688,6 +9914,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "FaFa",
+  "Paternal_mig": "StSwPhTe",
   "Ped_All": "カブラヤオー1975ファラモンドSicambrePrince BioPrince RoseRialtoFair TrialFairwayUmidwarダラノーアSunny BoyJockDanteハロウェーFairwayDogpatch"
  },
  {
@@ -9773,6 +10001,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "StHa",
+  "Paternal_mig": "RoSwTeNs",
   "Ped_All": "カポーティシアトルスルーBold ReasoningBoldnesianBold RulerHail to ReasonPokerRound TableJet ActionBald EagleNasrullahNearcoTigerDark StarRoyal GemNasrullah"
  },
  {
@@ -9858,6 +10088,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "EcFa",
+  "Paternal_mig": "EcEcHePh",
   "Ped_All": "カラムーン1974ゼダーンGrey SovereignNasrullahNearcoBaytownVilmorinGold BridgeMon TalismanPrince BioPrince RoseRose PrinceBacteriophagePalestineFair TrialNearco"
  },
  {
@@ -9943,6 +10175,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "NtHaNeRo",
   "Ped_All": "カリフォルニアクローム2014Lucky PulpitPulpitエーピーインディシアトルスルーミスタープロスペクターコジーンカロLucky MelNot for LoveミスタープロスペクターRaise a NativeNorthern DancerPolish Numbersダンチヒサーアイヴァー"
  },
  {
@@ -10028,6 +10262,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "MaHa",
+  "Paternal_mig": "EcHaPhPh",
   "Ped_All": "カロ1977フォルティノGrey SovereignNasrullahNearcoBaytownRelicWar RelicOrsenigoChamossairePrecipitationHurry OnCameronianSolarioGainsboroughManna"
  },
  {
@@ -10113,6 +10349,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeNt",
+  "Paternal_mig": "HaFaTeNs",
   "Ped_All": "カンパニー2009ミラクルアドマイヤトニービンカンパラカラムーンHornbeamサドラーズウェルズNorthern DancerイングリッシュプリンスノーザンテーストNorthern DancerNearcticVictoria ParkCrafty Prospectorミスタープロスペクターセクレタリアト"
  },
  {
@@ -10198,6 +10436,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoTe",
+  "Paternal_mig": "NtHaStSw",
   "Ped_All": "カーネギー1994サドラーズウェルズNorthern DancerNearcticNearcoNative DancerBold ReasonHail to ReasonフォルリリヴァーマンNever BendNasrullahPrince JohnSunny BoyJockNorseman"
  },
  {
@@ -10283,6 +10523,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeRo",
+  "Paternal_mig": "NtPhEcHi",
   "Ped_All": "カーリアンニジンスキーNorthern DancerNearcticNearcoNative DancerBull PageBull LeaMenowRound TablePrincequilloPrince RoseSir CosmoHail to ReasonTurn-toStymie"
  },
  {
@@ -10368,6 +10610,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeRo",
+  "Paternal_mig": "NtPhEcHi",
   "Ped_All": "カーリアン-瞬発-ニジンスキーNorthern DancerNearcticNearcoNative DancerBull PageBull LeaMenowRound TablePrincequilloPrince RoseSir CosmoHail to ReasonTurn-toStymie"
  },
  {
@@ -10453,6 +10697,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoRo",
+  "Paternal_mig": "NsHaMaTe",
   "Ped_All": "カーリン-覇走-スマートストライクミスタープロスペクターRaise a NativeNative DancerNashuaSmartenCyaneNodoubleデピュティミニスターVice RegentNorthern DancerBunty's Flightbates motelサーアイヴァーwise exchange"
  },
  {
@@ -10538,6 +10784,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoTe",
+  "Paternal_mig": "NtHaToSw",
   "Ped_All": "ガリレオサドラーズウェルズNorthern DancerNearcticNearcoNative DancerBold ReasonHail to ReasonフォルリミスワキミスタープロスペクターRaise a NativeBuckpasserLombardagioEspresso"
  },
  {
@@ -10623,6 +10871,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoTe",
+  "Paternal_mig": "NtHaToSw",
   "Ped_All": "ガリレオ-闘覇-サドラーズウェルズNorthern DancerNearcticNearcoNative DancerBold ReasonHail to ReasonフォルリミスワキミスタープロスペクターRaise a NativeBuckpasserLombardagioEspresso"
  },
  {
@@ -10708,6 +10958,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoTe",
+  "Paternal_mig": "NtHaToSw",
   "Ped_All": "ガリレオ2001サドラーズウェルズNorthern DancerNearcticNearcoNative DancerBold ReasonHail to ReasonフォルリミスワキミスタープロスペクターRaise a NativeBuckpasserLombardagioEspresso"
  },
  {
@@ -10793,6 +11045,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNt",
+  "Paternal_mig": "PhHaNtNs",
   "Ped_All": "ガリレオゴールドPaco BoyDesert StyleグリーンデザートダンチヒハイトップSandhurst PrincePampapaulMummy's PetガリレオサドラーズウェルズNorthern Dancerミスワキマキャベリアンミスタープロスペクターハイエストオナー"
  },
  {
@@ -10878,6 +11132,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsTe",
+  "Paternal_mig": "TeEcFaHi",
   "Ped_All": "ガルチ-瞬発-ミスタープロスペクターRaise a NativeNative DancerPolynesianCase AceNashuaNasrullahCount FleetRambunctiousRasperOwen TudorThe SolicitorSeven CornersRomanSnow Boots"
  },
  {
@@ -10963,6 +11219,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsTe",
+  "Paternal_mig": "TeEcFaHi",
   "Ped_All": "ガルチ1988ミスタープロスペクターRaise a NativeNative DancerPolynesianCase AceNashuaNasrullahCount FleetRambunctiousRasperOwen TudorThe SolicitorSeven CornersRomanSnow Boots"
  },
  {
@@ -11048,6 +11306,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "TeSt",
+  "Paternal_mig": "HaHaHeEc",
   "Ped_All": "ガンザリボルバーSurumuLiteratBirkhahnAlchimistMasettoリライアンスTantiemeHyperionNever BendNasrullahNearcoDjeddahPrincequilloPrince RoseCount Fleet"
  },
  {
@@ -11133,6 +11393,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NsNt",
+  "Paternal_mig": "HaNsNsNe",
   "Ped_All": "ガンランナー2017キャンディライドRide the RailsCryptoclearanceファピアノエルバジェCandy StripesブラッシンググルームFarnesioGiant's CausewayストームキャットStorm BirdラーイQuiet Americanファピアノリファール"
  },
  {
@@ -11218,6 +11480,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "MaHe",
+  "Paternal_mig": "EcEcEcEc",
   "Ped_All": "ガーサント1970BubblesLa FarinaSans SouciLe Roi SoleilIsinglassNeil GowMarcoChesterfieldBrantomeBlandfordSwynfordClarissimusTetratemaThe TetrarchSpearmint"
  },
  {
@@ -11303,6 +11567,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeTe",
+  "Paternal_mig": "TeSwNsSw",
   "Ped_All": "キズナ2014ディープインパクトサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドストームキャットStorm BirdNorthern DancerセクレタリアトDamascusSword DancerAcropolis"
  },
  {
@@ -11388,6 +11654,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "TeSwNeNe",
   "Ped_All": "キタサンブラックブラックタイドサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドサクラバクシンオーサクラユタカオーテスコボーイノーザンテーストジャッジアンジェルーチHonest Pleasureリファール"
  },
  {
@@ -11473,6 +11741,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "TeSwNeNe",
   "Ped_All": "キタサンブラックブラックタイドサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドサクラバクシンオーサクラユタカオーテスコボーイノーザンテーストジャッジアンジェルーチHonest Pleasureリファール"
  },
  {
@@ -11558,6 +11828,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "TeSwNeNe",
   "Ped_All": "キタサンブラック-闘煌-ブラックタイドサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドサクラバクシンオーサクラユタカオーテスコボーイノーザンテーストジャッジアンジェルーチHonest Pleasureリファール"
  },
  {
@@ -11643,6 +11915,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "TeSwNeNe",
   "Ped_All": "キタサンブラック2016ブラックタイドサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドサクラバクシンオーサクラユタカオーテスコボーイノーザンテーストジャッジアンジェルーチHonest Pleasureリファール"
  },
  {
@@ -11728,6 +12002,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "TeSwNeNe",
   "Ped_All": "キタサンブラック2017ブラックタイドサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドサクラバクシンオーサクラユタカオーテスコボーイノーザンテーストジャッジアンジェルーチHonest Pleasureリファール"
  },
  {
@@ -11813,6 +12089,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaEc",
+  "Paternal_mig": "FaHaPhEc",
   "Ped_All": "キタノカチドキ1974テスコボーイPrincely GiftNasrullahNearcoBlue PeterHyperionGainsboroughDasturライジングフレームThe PhoenixChateau BouscautNearcoダイオライトDiophonプライオリーパーク"
  },
  {
@@ -11898,6 +12176,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhNe",
+  "Paternal_mig": "RoSwNeNs",
   "Ped_All": "キャメロット2012モンジューサドラーズウェルズNorthern DancerNearcticBold ReasonトップヴィルハイトップTennysonキングマンボミスタープロスペクターRaise a NativeヌレイエフデインヒルダンチヒペルセポリスII"
  },
  {
@@ -11983,6 +12263,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "FaSt",
+  "Paternal_mig": "StHaFaFa",
   "Ped_All": "キャロルハウス1989Lord GayleSir GaylordTurn-toRoyal ChargerPrincequilloCourt MartialFair TrialHyperionシルバーシャークBuisson ArdentRelicPalestineヴィミーWild RiskOcean Swell"
  },
  {
@@ -12068,6 +12350,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNs",
+  "Paternal_mig": "StPhNeHe",
   "Ped_All": "キャンディライドRide the RailsCryptoclearanceファピアノミスタープロスペクターHoist the FlagエルバジェVandalePolynesianCandy StripesブラッシンググルームRed GodリファールFarnesioGood MannersUtopico"
  },
  {
@@ -12153,6 +12437,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HeNe",
+  "Paternal_mig": "StTeHaNs",
   "Ped_All": "キョウイチブレイブトーホウエンペラーブライアンズタイムRobertoHail to ReasonグロースタークノーリュートリュティエマッチウォンモンズーンKonigsstuhlDschingis KhanSurumuファーディナンドニジンスキーアイリッシュリヴァー"
  },
  {
@@ -12238,6 +12524,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "RoNt",
+  "Paternal_mig": "NtHaTeHa",
   "Ped_All": "キングオブキングス1998サドラーズウェルズNorthern DancerNearcticNearcoNative DancerBold ReasonHail to ReasonフォルリハビタットSir GaylordTurn-toOccupyクラウンドプリンスRaise a NativeAbernant"
  },
  {
@@ -12323,6 +12611,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoTe",
+  "Paternal_mig": "TeStToSw",
   "Ped_All": "キングオブチェーンランザガントレットトムロルフRibotTeneraniRomanFirst LandingTurn-toPrincequilloミスワキミスタープロスペクターRaise a NativeBuckpasserLombardagioEspresso"
  },
  {
@@ -12408,6 +12698,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeHe",
+  "Paternal_mig": "NsStNsNe",
   "Ped_All": "キングカメハメハキングマンボミスタープロスペクターRaise a NativeNative DancerNashuaヌレイエフNorthern DancerProve OutラストタイクーントライマイベストNorthern DancerミルリーフBlakeneyHethersettグリーンダンサー"
  },
  {
@@ -12493,6 +12785,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeHe",
+  "Paternal_mig": "NsStNsNe",
   "Ped_All": "キングカメハメハ-覇走-キングマンボミスタープロスペクターRaise a NativeNative DancerNashuaヌレイエフNorthern DancerProve OutラストタイクーントライマイベストNorthern DancerミルリーフBlakeneyHethersettグリーンダンサー"
  },
  {
@@ -12578,6 +12872,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeHe",
+  "Paternal_mig": "NsStNsNe",
   "Ped_All": "キングカメハメハ2012キングマンボミスタープロスペクターRaise a NativeNative DancerNashuaヌレイエフNorthern DancerProve OutラストタイクーントライマイベストNorthern DancerミルリーフBlakeneyHethersettグリーンダンサー"
  },
  {
@@ -12663,6 +12959,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "PhTe",
+  "Paternal_mig": "EcTeStHa",
   "Ped_All": "キングコングUp SpiritsTurn-toRoyal ChargerNearcoAdmiral DrakeMenowPharamondBull DogスノッブMourneVieux ManoirPrince BioPanAtysHyperion"
  },
  {
@@ -12748,6 +13046,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeSw",
+  "Paternal_mig": "NsStStHa",
   "Ped_All": "キングズベスト-闘覇-キングマンボミスタープロスペクターRaise a NativeNative DancerNashuaヌレイエフNorthern DancerProve OutLombardagioTantiemePrince ChevalierEspressoAcropolisBirkhahn"
  },
  {
@@ -12833,6 +13133,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeSw",
+  "Paternal_mig": "NsStStHa",
   "Ped_All": "キングズベスト2007キングマンボミスタープロスペクターRaise a NativeNative DancerNashuaヌレイエフNorthern DancerProve OutLombardagioTantiemePrince ChevalierEspressoAcropolisBirkhahn"
  },
  {
@@ -12918,6 +13220,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "HiSt",
+  "Paternal_mig": "FaNsHeNs",
   "Ped_All": "キングマカベ-瞬闘-キングコングニーフォルリAristophanesHyperionAdvocateDouble JayBalladierNasrullahDamascusSword DancerSunglowMy BabuRound TablePrincequilloBold Ruler"
  },
  {
@@ -13003,6 +13307,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NsSt",
+  "Paternal_mig": "TeEcHaHa",
   "Ped_All": "キングマンボ-覇煌-ミスタープロスペクターRaise a NativeNative DancerPolynesianCase AceNashuaNasrullahCount FleetヌレイエフNorthern DancerNearcticフォルリProve OutグロースタークSanctus"
  },
  {
@@ -13088,6 +13394,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NsSt",
+  "Paternal_mig": "TeEcHaHa",
   "Ped_All": "キングマンボ1993ミスタープロスペクターRaise a NativeNative DancerPolynesianCase AceNashuaNasrullahCount FleetヌレイエフNorthern DancerNearcticフォルリProve OutグロースタークSanctus"
  },
  {
@@ -13173,6 +13481,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NsSt",
+  "Paternal_mig": "TeEcHaHa",
   "Ped_All": "キングマンボ2001ミスタープロスペクターRaise a NativeNative DancerPolynesianCase AceNashuaNasrullahCount FleetヌレイエフNorthern DancerNearcticフォルリProve OutグロースタークSanctus"
  },
  {
@@ -13258,6 +13568,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNe",
+  "Paternal_mig": "TeMaHiHe",
   "Ped_All": "キンシャサノキセキ2010フジキセキサンデーサイレンスヘイローHail to ReasonアンダースタンディングLe FabuleuxWild RiskインリアリティプレザントコロニーヒズマジェスティRibotSunrise FlightリファールNorthern DancerViolon d'Ingres"
  },
  {
@@ -13343,6 +13655,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "HaMa",
+  "Paternal_mig": "PhHaEcHi",
   "Ped_All": "キートゥザミント1972グロースタークRibotTeneraniBelliniEl GrecoAlibhaiHyperionBeau PerePrincequilloPrince RoseRose PrincePapyrusWar AdmiralMan o'WarBlue Larkspur"
  },
  {
@@ -13428,6 +13742,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeNs",
+  "Paternal_mig": "NtHaEcHi",
   "Ped_All": "ギャロップダイナノーザンテーストNorthern DancerNearcticNearcoNative DancerVictoria ParkChop ChopHyperionエルセンタウロSideralSeductorPenny PostBold RulerNasrullahTo Market"
  },
  {
@@ -13513,6 +13829,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NtSt",
+  "Paternal_mig": "HeEcSwFa",
   "Ped_All": "ギルデッドタイム1992Timeless MomentDamascusSword DancerSunglowMy BabuNative DancerPolynesianCount FleetWhat a PleasureBold RulerNasrullahMahmoudPrincequilloPrince RoseFair Trial"
  },
  {
@@ -13598,6 +13916,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "TeHa",
+  "Paternal_mig": "MaMaHaSw",
   "Ped_All": "クラウンドプリンスRaise a NativeNative DancerPolynesianUnbreakableDiscoveryCase AceTeddyAmerican FlagRoyal ChargerNearcoPharosSolarioAlibhaiHyperionMahmoud"
  },
  {
@@ -13683,6 +14003,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "TeHa",
+  "Paternal_mig": "MaMaHaSw",
   "Ped_All": "クラウンドプリンスRaise a NativeNative DancerPolynesianUnbreakableDiscoveryCase AceTeddyAmerican FlagRoyal ChargerNearcoPharosSolarioAlibhaiHyperionMahmoud"
  },
  {
@@ -13768,6 +14090,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "StNs",
+  "Paternal_mig": "HeEcTeNs",
   "Ped_All": "クリエイターミルリーフNever BendNasrullahNearcoDjeddahPrincequilloPrince RoseCount FleetハビタットSir GaylordTurn-toOccupyKythnosNearulaNever Say Die"
  },
  {
@@ -13853,6 +14177,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsTe",
+  "Paternal_mig": "HiTeEcEc",
   "Ped_All": "クリスエス-闘志-RobertoHail to ReasonTurn-toRoyal ChargerBlue SwordsNashuaNasrullahBull LeaPrincequilloPrince RoseRose PrincePapyrusOccupyBull DogGold Bridge"
  },
  {
@@ -13938,6 +14264,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsTe",
+  "Paternal_mig": "HiTeEcEc",
   "Ped_All": "クリスエス1999RobertoHail to ReasonTurn-toRoyal ChargerBlue SwordsNashuaNasrullahBull LeaPrincequilloPrince RoseRose PrincePapyrusOccupyBull DogGold Bridge"
  },
  {
@@ -14023,6 +14351,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNs",
+  "Paternal_mig": "PhHaTeTe",
   "Ped_All": "クリスタルグリッターズブラッシンググルームRed GodNasrullahNearcoMenowWild RiskRialtoTudor MinstrelDonut KingDetermineAlibhaiBull DogFleet NasrullahNasrullahSilver Horde"
  },
  {
@@ -14108,6 +14438,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "TeNeNeSt",
   "Ped_All": "クリソベリル-砂煌-ゴールドアリュールサンデーサイレンスヘイローHail to ReasonアンダースタンディングヌレイエフNorthern DancerHostageエルコンドルパサーキングマンボミスタープロスペクターサドラーズウェルズリヴァーマンNever BendRibot"
  },
  {
@@ -14193,6 +14525,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "TeNeNeSt",
   "Ped_All": "クリソベリル2019ゴールドアリュールサンデーサイレンスヘイローHail to ReasonアンダースタンディングヌレイエフNorthern DancerHostageエルコンドルパサーキングマンボミスタープロスペクターサドラーズウェルズリヴァーマンNever BendRibot"
  },
  {
@@ -14278,6 +14612,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsEc",
+  "Paternal_mig": "TeHaHiTe",
   "Ped_All": "クリミナルタイプ1990アリダーRaise a NativeNative DancerPolynesianCase AceOn-and-OnNasrullahPonderNo RobberySwapsKhaledBimelechBeau GarCount FleetVezzano"
  },
  {
@@ -14363,6 +14699,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "07",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "StNe",
+  "Paternal_mig": "MaNsNsRo",
   "Ped_All": "クロフネフレンチデピュティデピュティミニスターVice RegentNorthern DancerBunty's FlightHold Your PeaceSpeak JohnBold RulerClassic Go GoPago PagoMatriceNever BendアイスカペイドNearcticRoberto"
  },
  {
@@ -14448,6 +14786,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "07",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "StNe",
+  "Paternal_mig": "MaNsNsRo",
   "Ped_All": "クロフネ-瞬走-フレンチデピュティデピュティミニスターVice RegentNorthern DancerBunty's FlightHold Your PeaceSpeak JohnBold RulerClassic Go GoPago PagoMatriceNever BendアイスカペイドNearcticRoberto"
  },
  {
@@ -14533,6 +14873,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "07",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "StNe",
+  "Paternal_mig": "MaNsNsRo",
   "Ped_All": "クロフネ2001フレンチデピュティデピュティミニスターVice RegentNorthern DancerBunty's FlightHold Your PeaceSpeak JohnBold RulerClassic Go GoPago PagoMatriceNever BendアイスカペイドNearcticRoberto"
  },
  {
@@ -14618,6 +14960,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "PhSt",
+  "Paternal_mig": "NsStTeNt",
   "Ped_All": "グラスワンダー-覇走-シルヴァーホークRobertoHail to ReasonTurn-toNashuaアメリゴNearcoMat de CocagneダンチヒNorthern DancerNearcticAdmiral's VoyageヒズマジェスティRibotRaise a Native"
  },
  {
@@ -14703,6 +15047,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "PhSt",
+  "Paternal_mig": "NsStTeNt",
   "Ped_All": "グラスワンダー1999シルヴァーホークRobertoHail to ReasonTurn-toNashuaアメリゴNearcoMat de CocagneダンチヒNorthern DancerNearcticAdmiral's VoyageヒズマジェスティRibotRaise a Native"
  },
  {
@@ -14788,6 +15134,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNs",
+  "Paternal_mig": "EcPhHaEc",
   "Ped_All": "グランディ1975Great NephewHoneywayFairwayPhalarisPapyrusAdmiral's WalkHyperionNearcoWordenWild RiskRialtoSindPrincely GiftNasrullahFlamingo"
  },
  {
@@ -14873,6 +15221,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "SwHa",
+  "Paternal_mig": "NsMaEcHe",
   "Ped_All": "グリーングラス-闘煌-インターメゾHornbeamHyperionGainsboroughNasrullahPersian GulfBahramNiccolo Dell'ArcaニンバスNearcoPharosBaytownゲイタイムRockefellaセフト"
  },
  {
@@ -14958,6 +15308,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "SwHa",
+  "Paternal_mig": "NsMaEcHe",
   "Ped_All": "グリーングラス1976インターメゾHornbeamHyperionGainsboroughNasrullahPersian GulfBahramNiccolo Dell'ArcaニンバスNearcoPharosBaytownゲイタイムRockefellaセフト"
  },
  {
@@ -15043,6 +15395,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "SwHa",
+  "Paternal_mig": "NsMaEcHe",
   "Ped_All": "グリーングラス1977インターメゾHornbeamHyperionGainsboroughNasrullahPersian GulfBahramNiccolo Dell'ArcaニンバスNearcoPharosBaytownゲイタイムRockefellaセフト"
  },
  {
@@ -15128,6 +15482,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "TeNs",
+  "Paternal_mig": "NtFaSwMa",
   "Ped_All": "グリーンデザート1994ダンチヒNorthern DancerNearcticNearcoNative DancerAdmiral's VoyageCrafty AdmiralPetitionサーアイヴァーSir GaylordTurn-toMr.TroubleNever BendNasrullahWar Admiral"
  },
  {
@@ -15213,6 +15569,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "StHe",
+  "Paternal_mig": "PhHaFaPh",
   "Ped_All": "グルームダンサー1987ブラッシンググルームRed GodNasrullahNearcoMenowWild RiskRialtoTudor MinstrelリファールNorthern DancerNearcticCourt MartialViolon d'IngresTourmentMossborough"
  },
  {
@@ -15298,6 +15656,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNs",
+  "Paternal_mig": "HeTeTePh",
   "Ped_All": "ケンダルジャンKendorケンマールカラムーンゼダーンMilesianゲイメセンヴェイグリーノーブルDjakaoLinamixメンデスベリファbretonBikalaカラムーンPretense"
  },
  {
@@ -15383,6 +15743,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "StNs",
+  "Paternal_mig": "EcFaHaSw",
   "Ped_All": "ケンマール-覇走-カラムーンゼダーンGrey SovereignNasrullahVilmorinPrince BioPrince RosePalestineMilesianMy BabuDjebelCoup de LyonNearulaNasrullahBig Game"
  },
  {
@@ -15468,6 +15830,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "08",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "RoHa",
+  "Paternal_mig": "TeNsTeHa",
   "Ped_All": "ケープクロスグリーンデザートダンチヒNorthern DancerNearcticAdmiral's VoyageサーアイヴァーSir GaylordNever BendアホヌーラロレンザッチオKlaironMartialBalidarWill Somersシーホーク"
  },
  {
@@ -15553,6 +15917,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeRo",
+  "Paternal_mig": "FaStNsHa",
   "Ped_All": "ゲームイズオーバーストリートセンスストリートクライマキャベリアンミスタープロスペクタートロイDixieland BandNorthern DancerヒズマジェスティシンボリクリスエスクリスエスRobertoGold Meridianディープインパクトサンデーサイレンスプラティニ"
  },
  {
@@ -15638,6 +16004,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoNs",
+  "Paternal_mig": "PhFaHeHe",
   "Ped_All": "コウカイテイオーシンボリルドルフパーソロンMilesianMy BabuPharisスピードシンボリロイヤルチャレンヂャーPalestineナイスダンサーNorthern DancerNearcticLe Beau PrinceファバージPrincely Giftアトランティス"
  },
  {
@@ -15723,6 +16091,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "MaRo",
+  "Paternal_mig": "MaHaEcSw",
   "Ped_All": "コジーン1996カロフォルティノGrey SovereignNasrullahRelicChamossairePrecipitationSolarioPrince JohnPrincequilloPrince RoseCount FleetSir GaylordTurn-toJet Pilot"
  },
  {
@@ -15808,6 +16178,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HeNe",
+  "Paternal_mig": "PhMaNsSt",
   "Ped_All": "コタシャーン1993ダルシャーンシャーリーハイツミルリーフNever BendハーディカヌートAbdosArbarヴェンチアElocutionistGallant RomeoGallant ManFleet NasrullahグリーンダンサーニジンスキーCambremont"
  },
  {
@@ -15893,6 +16265,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "TeNePhRo",
   "Ped_All": "コパノリッキーゴールドアリュールサンデーサイレンスヘイローHail to ReasonアンダースタンディングヌレイエフNorthern DancerHostageティンバーカントリーウッドマンミスタープロスペクターPretenseトニービンカンパラリアルシャダイ"
  },
  {
@@ -15978,6 +16352,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "RoNt",
+  "Paternal_mig": "FaFaNsPh",
   "Ped_All": "コマンダーインチーフダンシングブレーヴリファールNorthern DancerNearcticCourt MartialDroneSir GaylordPago PagoRobertoHail to ReasonTurn-toNashuaRaise a NativeNative DancerMossborough"
  },
  {
@@ -16063,6 +16439,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "RoNt",
+  "Paternal_mig": "FaFaNsPh",
   "Ped_All": "コマンダーインチーフ1993ダンシングブレーヴリファールNorthern DancerNearcticCourt MartialDroneSir GaylordPago PagoRobertoHail to ReasonTurn-toNashuaRaise a NativeNative DancerMossborough"
  },
  {
@@ -16148,6 +16526,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "StToNsSt",
   "Ped_All": "コングラッツエーピーインディシアトルスルーBold ReasoningBoldnesianPokerセクレタリアトBold RulerBuckpasserミスタープロスペクターRaise a NativeNative DancerNashuaNorthern DancerNearcticグロースターク"
  },
  {
@@ -16233,6 +16613,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "ToNs",
+  "Paternal_mig": "NsNsFaMa",
   "Ped_All": "コンサートボーイ1997カコイーシーズアリダーRaise a NativeNative DancerOn-and-OnJesterTom FoolNasrullahハンターコムDerring-DoDariusFair TrialSupreme SovereignSovereign PathChamossaire"
  },
  {
@@ -16318,6 +16700,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNt",
+  "Paternal_mig": "RoRoHaEc",
   "Ped_All": "コンサーン2001ブロードブラッシュアクアクBattle JoinedArmageddonTurn-toHoist the FlagトムロルフTurn-toTunerupThe PrunerエルバジェRocky RoyalePrincely NativeRaise a Nativespecialmante"
  },
  {
@@ -16403,6 +16787,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeMa",
+  "Paternal_mig": "TeSwNsNe",
   "Ped_All": "コントレイル-覇走-ディープインパクトサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドアンブライドルズソングUnbridledファピアノカロティズナウcee's tizzyストームキャット"
  },
  {
@@ -16488,6 +16874,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsTo",
+  "Paternal_mig": "MaNtSwPh",
   "Ped_All": "ゴーストザッパーAwesome AgainデピュティミニスターVice RegentNorthern DancerBunty's FlightブラッシンググルームRed GodミスタープロスペクターRelaunchインリアリティIntentionallyThe AxeTri JetJesterハワイ"
  },
  {
@@ -16573,6 +16961,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "MaNs",
+  "Paternal_mig": "MaHaEcSw",
   "Ped_All": "ゴールデンフェザントカロフォルティノGrey SovereignNasrullahRelicChamossairePrecipitationSolarioRound TablePrincequilloPrince RoseSir CosmoT.V.LarkIndian HempOil Capitol"
  },
  {
@@ -16658,6 +17048,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "06",
+  "Paternal_jik": "RoRo",
+  "Paternal_mig": "NeNeNeSt",
   "Ped_All": "ゴールドアクタースクリーンヒーローグラスワンダーシルヴァーホークRobertoダンチヒサンデーサイレンスヘイローノーザンテーストキョウワアリシバAlyshebaアリダーNorthern DancerマナードCaptain's Gigセダン"
  },
  {
@@ -16743,6 +17135,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "TeNe",
+  "Paternal_mig": "PhHaHaHa",
   "Ped_All": "ゴールドアリュールサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseヌレイエフNorthern DancerNearcticフォルリHostageニジンスキーヴェイグリーノーブル"
  },
  {
@@ -16828,6 +17222,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "TeNe",
+  "Paternal_mig": "PhHaHaHa",
   "Ped_All": "ゴールドアリュール-剛健-サンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseヌレイエフNorthern DancerNearcticフォルリHostageニジンスキーヴェイグリーノーブル"
  },
  {
@@ -16913,6 +17309,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "TeNe",
+  "Paternal_mig": "PhHaHaHa",
   "Ped_All": "ゴールドアリュール2002サンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseヌレイエフNorthern DancerNearcticフォルリHostageニジンスキーヴェイグリーノーブル"
  },
  {
@@ -16998,6 +17396,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNe",
+  "Paternal_mig": "TeNeSwNs",
   "Ped_All": "ゴールドシップステイゴールドサンデーサイレンスヘイローHail to ReasonアンダースタンディングディクタスSanctusノーザンテーストメジロマックイーンメジロティターンメジロアサマリマンドプルラリズムThe Minstrelトライバルチーフ"
  },
  {
@@ -17083,6 +17483,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNe",
+  "Paternal_mig": "TeNeSwNs",
   "Ped_All": "ゴールドシップ-剛健-ステイゴールドサンデーサイレンスヘイローHail to ReasonアンダースタンディングディクタスSanctusノーザンテーストメジロマックイーンメジロティターンメジロアサマリマンドプルラリズムThe Minstrelトライバルチーフ"
  },
  {
@@ -17168,6 +17570,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNe",
+  "Paternal_mig": "TeNeSwNs",
   "Ped_All": "ゴールドシップ-覇走-ステイゴールドサンデーサイレンスヘイローHail to ReasonアンダースタンディングディクタスSanctusノーザンテーストメジロマックイーンメジロティターンメジロアサマリマンドプルラリズムThe Minstrelトライバルチーフ"
  },
  {
@@ -17253,6 +17657,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNe",
+  "Paternal_mig": "TeNeSwNs",
   "Ped_All": "ゴールドシップ2012ステイゴールドサンデーサイレンスヘイローHail to ReasonアンダースタンディングディクタスSanctusノーザンテーストメジロマックイーンメジロティターンメジロアサマリマンドプルラリズムThe Minstrelトライバルチーフ"
  },
  {
@@ -17338,6 +17744,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNe",
+  "Paternal_mig": "TeNeSwNs",
   "Ped_All": "ゴールドシップ2013ステイゴールドサンデーサイレンスヘイローHail to ReasonアンダースタンディングディクタスSanctusノーザンテーストメジロマックイーンメジロティターンメジロアサマリマンドプルラリズムThe Minstrelトライバルチーフ"
  },
  {
@@ -17423,6 +17831,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NsTo",
+  "Paternal_mig": "TeEcStHa",
   "Ped_All": "ゴーンウェスト1990ミスタープロスペクターRaise a NativeNative DancerPolynesianCase AceNashuaNasrullahCount FleetセクレタリアトBold RulerNasrullahPrincequilloTim TamTom FoolTudor Minstrel"
  },
  {
@@ -17508,6 +17918,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HeNt",
+  "Paternal_mig": "NtNsRoNs",
   "Ped_All": "サイゴノショウスターマンワイズカウンセラーアレッジドHoist the FlagRaise a NativeダンディルートリュティエグレイモナークオジジアンDamascusSword DancerFrancis S.ミスワキミスタープロスペクターWell Decorated"
  },
  {
@@ -17593,6 +18005,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "TeHi",
+  "Paternal_mig": "PhHaToNs",
   "Ped_All": "サイレンスススズカサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseミスワキミスタープロスペクターRaise a NativeBuckpasserアクアクBattle JoinedNever Bend"
  },
  {
@@ -17678,6 +18092,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "TeHi",
+  "Paternal_mig": "PhHaToNs",
   "Ped_All": "サイレンススズカサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseミスワキミスタープロスペクターRaise a NativeBuckpasserアクアクBattle JoinedNever Bend"
  },
  {
@@ -17763,6 +18179,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "TeHi",
+  "Paternal_mig": "PhHaToNs",
   "Ped_All": "サイレンススズカ-覇禊-サンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseミスワキミスタープロスペクターRaise a NativeBuckpasserアクアクBattle JoinedNever Bend"
  },
  {
@@ -17848,6 +18266,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "TeHi",
+  "Paternal_mig": "PhHaToNs",
   "Ped_All": "サイレンススズカ-覇走-サンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseミスワキミスタープロスペクターRaise a NativeBuckpasserアクアクBattle JoinedNever Bend"
  },
  {
@@ -17933,6 +18353,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "TeHi",
+  "Paternal_mig": "PhHaToNs",
   "Ped_All": "サイレンススズカ1998サンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseミスワキミスタープロスペクターRaise a NativeBuckpasserアクアクBattle JoinedNever Bend"
  },
  {
@@ -18018,6 +18440,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "MaTe",
+  "Paternal_mig": "EcSwMaEc",
   "Ped_All": "サガス1984リュティエKlaironClarionDjebelKantarCranachCoronachBrantomeChaparralVal de LoirVieux ManoirNiccolo Dell'ArcaPantheonBorealisTicino"
  },
  {
@@ -18103,6 +18527,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "StToTeSt",
   "Ped_All": "サクセスブロッケンシンボリクリスエスクリスエスRobertoHail to ReasonPrincequilloGold MeridianシアトルスルーTri JetサンデーサイレンスヘイローHail to ReasonアンダースタンディングデピュティミニスターVice Regentプレザントコロニー"
  },
  {
@@ -18188,6 +18614,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "TeSwNtHe",
   "Ped_All": "サクソンウォリアー2018ディープインパクトサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドガリレオサドラーズウェルズNorthern DancerミスワキデインヒルダンチヒIndian Ridge"
  },
  {
@@ -18273,6 +18701,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhSt",
+  "Paternal_mig": "HaTeMaFa",
   "Ped_All": "サクラショウリ1978パーソロンMilesianMy BabuDjebelCoup de LyonPharisPharosAbjerフォルティノGrey SovereignNasrullahRelicTehranBois RousselFun Fair"
  },
  {
@@ -18358,6 +18788,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "PhStSwMa",
   "Ped_All": "サクラスターオーサクラショウリパーソロンMilesianMy BabuPharisフォルティノGrey SovereignTehranインターメゾHornbeamHyperionPersian GulfネヴァービートNever Say Dieユアハイネス"
  },
  {
@@ -18443,6 +18875,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NsHe",
+  "Paternal_mig": "HaMaTeSt",
   "Ped_All": "サクラバクシンオーサクラユタカオーテスコボーイPrincely GiftNasrullahHyperionネヴァービートNever Say DieユアハイネスノーザンテーストNorthern DancerNearcticVictoria ParkAmbiopoiseAmbiorixGallant Man"
  },
  {
@@ -18528,6 +18962,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NsHe",
+  "Paternal_mig": "HaMaTeSt",
   "Ped_All": "サクラバクシンオー-瞬発-サクラユタカオーテスコボーイPrincely GiftNasrullahHyperionネヴァービートNever Say DieユアハイネスノーザンテーストNorthern DancerNearcticVictoria ParkAmbiopoiseAmbiorixGallant Man"
  },
  {
@@ -18613,6 +19049,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NsHe",
+  "Paternal_mig": "HaMaTeSt",
   "Ped_All": "サクラバクシンオー1993サクラユタカオーテスコボーイPrincely GiftNasrullahHyperionネヴァービートNever Say DieユアハイネスノーザンテーストNorthern DancerNearcticVictoria ParkAmbiopoiseAmbiorixGallant Man"
  },
  {
@@ -18698,6 +19136,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NsHe",
+  "Paternal_mig": "HaMaTeSt",
   "Ped_All": "サクラバクシンオー1994サクラユタカオーテスコボーイPrincely GiftNasrullahHyperionネヴァービートNever Say DieユアハイネスノーザンテーストNorthern DancerNearcticVictoria ParkAmbiopoiseAmbiorixGallant Man"
  },
  {
@@ -18783,6 +19223,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "HaMa",
+  "Paternal_mig": "FaHaSwFa",
   "Ped_All": "サクラユタカオー-闘志-テスコボーイPrincely GiftNasrullahNearcoBlue PeterHyperionGainsboroughDasturネヴァービートNever Say DieNasrullahBig GameユアハイネスChamossaireハロウェー"
  },
  {
@@ -18868,6 +19310,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "HaMa",
+  "Paternal_mig": "FaHaSwFa",
   "Ped_All": "サクラユタカオー1989テスコボーイPrincely GiftNasrullahNearcoBlue PeterHyperionGainsboroughDasturネヴァービートNever Say DieNasrullahBig GameユアハイネスChamossaireハロウェー"
  },
  {
@@ -18953,6 +19397,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNs",
+  "Paternal_mig": "StNtNsFa",
   "Ped_All": "サクラローレルレインボウクエストブラッシンググルームRed GodNasrullahWild RiskエルバジェVandaleRaise a NativeSaint CyrienリュティエKlaironリヴァーマンボールドラッドBold RulerHigh Treason"
  },
  {
@@ -19038,6 +19484,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNs",
+  "Paternal_mig": "StNtNsFa",
   "Ped_All": "サクラローレル1996レインボウクエストブラッシンググルームRed GodNasrullahWild RiskエルバジェVandaleRaise a NativeSaint CyrienリュティエKlaironリヴァーマンボールドラッドBold RulerHigh Treason"
  },
  {
@@ -19123,6 +19571,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "PhMa",
+  "Paternal_mig": "EcHaHaHa",
   "Ped_All": "ササフラ1970SheshoonPrecipitationHurry OnMarcovilBachelor's DoubleNearcoPharosSingaporeラティフィケイションCourt MartialFair TrialSolarioCranachCoronachHyperion"
  },
  {
@@ -19208,6 +19658,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "PhNt",
+  "Paternal_mig": "HiSwNtNs",
   "Ped_All": "サザンヘイローヘイローHail to ReasonTurn-toRoyal ChargerBlue SwordsCosmic BombPharamondMahmoudNorthern DancerNearcticNearcoNative DancerSea-BirdDan CupidBold Ruler"
  },
  {
@@ -19293,6 +19745,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "PhNt",
+  "Paternal_mig": "HiSwNtNs",
   "Ped_All": "サザンヘイローヘイローHail to ReasonTurn-toRoyal ChargerBlue SwordsCosmic BombPharamondMahmoudNorthern DancerNearcticNearcoNative DancerSea-BirdDan CupidBold Ruler"
  },
  {
@@ -19378,6 +19832,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "PhNt",
+  "Paternal_mig": "HiSwNtNs",
   "Ped_All": "サザンヘイロー1994ヘイローHail to ReasonTurn-toRoyal ChargerBlue SwordsCosmic BombPharamondMahmoudNorthern DancerNearcticNearcoNative DancerSea-BirdDan CupidBold Ruler"
  },
  {
@@ -19463,6 +19919,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "StNs",
+  "Paternal_mig": "HePhTeSt",
   "Ped_All": "サッカーボーイディクタスSanctusFine TopFine ArtTourmentWordenWild RiskBozzettoノーザンテーストNorthern DancerNearcticVictoria ParkPrincely GiftNasrullahPrince Chevalier"
  },
  {
@@ -19548,6 +20006,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "StNs",
+  "Paternal_mig": "HePhTeSt",
   "Ped_All": "サッカーボーイ-覇走-ディクタスSanctusFine TopFine ArtTourmentWordenWild RiskBozzettoノーザンテーストNorthern DancerNearcticVictoria ParkPrincely GiftNasrullahPrince Chevalier"
  },
  {
@@ -19633,6 +20093,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "StNs",
+  "Paternal_mig": "HePhTeSt",
   "Ped_All": "サッカーボーイ1988ディクタスSanctusFine TopFine ArtTourmentWordenWild RiskBozzettoノーザンテーストNorthern DancerNearcticVictoria ParkPrincely GiftNasrullahPrince Chevalier"
  },
  {
@@ -19718,6 +20180,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "StNs",
+  "Paternal_mig": "HePhTeSt",
   "Ped_All": "サッカーボールディクタスSanctusFine TopFine ArtTourmentWordenWild RiskBozzettoノーザンテーストNorthern DancerNearcticVictoria ParkPrincely GiftNasrullahPrince Chevalier"
  },
  {
@@ -19803,6 +20267,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNt",
+  "Paternal_mig": "NsHaNeNs",
   "Ped_All": "サトノクラウン2016MarjuラストタイクーントライマイベストNorthern DancerミルリーフアーティアスRound TableWelsh PageantRossiniミスワキミスタープロスペクターhero's honorVettoriマキャベリアンPursuit of Love"
  },
  {
@@ -19888,6 +20354,8 @@ horse=
   "Paternal_hhht": "To",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeRo",
+  "Paternal_mig": "TeSwRoTo",
   "Ped_All": "サトノダイヤモンド2016ディープインパクトサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドOrpenLureダンチヒデヴィルズバッグサザンヘイローヘイローLogical"
  },
  {
@@ -19973,6 +20441,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtHa",
+  "Paternal_mig": "HaSwHeNs",
   "Ped_All": "サドラーズウェルズ-覇煌-Northern DancerNearcticNearcoPharosHyperionNative DancerPolynesianMahmoudBold ReasonHail to ReasonTurn-toDjeddahフォルリAristophanesNantallah"
  },
  {
@@ -20058,6 +20528,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtHa",
+  "Paternal_mig": "HaSwHeNs",
   "Ped_All": "サドラーズウェルズ1984Northern DancerNearcticNearcoPharosHyperionNative DancerPolynesianMahmoudBold ReasonHail to ReasonTurn-toDjeddahフォルリAristophanesNantallah"
  },
  {
@@ -20143,6 +20615,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNs",
+  "Paternal_mig": "NsTeSwEc",
   "Ped_All": "サニーブライアンブライアンズタイムRobertoHail to ReasonTurn-toNashuaグロースタークRibotHasty RoadスイフトスワローNorthern DancerNearcticAlycidonファバージPrincely Giftファイナルスコア"
  },
  {
@@ -20228,6 +20702,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNs",
+  "Paternal_mig": "NsTeSwEc",
   "Ped_All": "サニーブライアン1997ブライアンズタイムRobertoHail to ReasonTurn-toNashuaグロースタークRibotHasty RoadスイフトスワローNorthern DancerNearcticAlycidonファバージPrincely Giftファイナルスコア"
  },
  {
@@ -20313,6 +20789,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "PhHa",
+  "Paternal_mig": "HiSwHaHa",
   "Ped_All": "サムライゴエモンヘイローHail to ReasonTurn-toRoyal ChargerBlue SwordsCosmic BombPharamondMahmoudSovereign PathGrey SovereignNasrullahBobsleighAbernantOwen TudorRockefella"
  },
  {
@@ -20398,6 +20876,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "StPh",
+  "Paternal_mig": "NtNsEcTe",
   "Ped_All": "サルスTopsiderNorthern DancerNearcticNearcoNative DancerRound TablePrincequilloNasrullahPrince JohnPrincequilloPrince RoseCount FleetアメリゴNearcoBull Dog"
  },
  {
@@ -20483,6 +20963,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NsTe",
+  "Paternal_mig": "HiTeHaEc",
   "Ped_All": "サンシャインフォーエヴァーRobertoHail to ReasonTurn-toRoyal ChargerBlue SwordsNashuaNasrullahBull LeaグロースタークRibotTeneraniAlibhaiHasty RoadRomanEight Thirty"
  },
  {
@@ -20568,6 +21050,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "MaEc",
+  "Paternal_mig": "TeHiHaHa",
   "Ped_All": "サンタクロースBuckpasserTom FoolMenowPharamondBull DogWar AdmiralMan o'WarBlue LarkspurDariusDanteNearcoDasturNeckarTicinoRockefella"
  },
  {
@@ -20653,6 +21137,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhHa",
+  "Paternal_mig": "HiSwHiHa",
   "Ped_All": "サンデーサイレンス-極走-ヘイローHail to ReasonTurn-toRoyal ChargerBlue SwordsCosmic BombPharamondMahmoudアンダースタンディングPromised LandPalestinianStymieMontparnasseGulf StreamHillary"
  },
  {
@@ -20738,6 +21224,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhHa",
+  "Paternal_mig": "HiSwHiHa",
   "Ped_All": "サンデーサイレンス-覇煌-ヘイローHail to ReasonTurn-toRoyal ChargerBlue SwordsCosmic BombPharamondMahmoudアンダースタンディングPromised LandPalestinianStymieMontparnasseGulf StreamHillary"
  },
  {
@@ -20823,6 +21311,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhHa",
+  "Paternal_mig": "HiSwHiHa",
   "Ped_All": "サンデーサイレンス1989ヘイローHail to ReasonTurn-toRoyal ChargerBlue SwordsCosmic BombPharamondMahmoudアンダースタンディングPromised LandPalestinianStymieMontparnasseGulf StreamHillary"
  },
  {
@@ -20908,6 +21398,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhHa",
+  "Paternal_mig": "HiSwHiHa",
   "Ped_All": "サンデーサイレンス1995ヘイローHail to ReasonTurn-toRoyal ChargerBlue SwordsCosmic BombPharamondMahmoudアンダースタンディングPromised LandPalestinianStymieMontparnasseGulf StreamHillary"
  },
  {
@@ -20993,6 +21485,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "StPh",
+  "Paternal_mig": "EcEcTeMa",
   "Ped_All": "サーアイヴァー1968Sir GaylordTurn-toRoyal ChargerNearcoAdmiral DrakePrincequilloPrince RoseCarusoMr.TroubleMahmoudBlenheimSir GallahadPharamondPhalarisMan o'War"
  },
  {
@@ -21078,6 +21572,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "StNe",
+  "Paternal_mig": "MaHaNsHe",
   "Ped_All": "サーハリールイスアレッジドHoist the FlagトムロルフRibotWar AdmiralPrince JohnPrincequilloDetermineミスタープロスペクターRaise a NativeNative DancerNashuaNorthern DancerNearcticMy Babu"
  },
  {
@@ -21163,6 +21659,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "StNe",
+  "Paternal_mig": "MaHaNsHe",
   "Ped_All": "サーハリールイス-覇走-アレッジドHoist the FlagトムロルフRibotWar AdmiralPrince JohnPrincequilloDetermineミスタープロスペクターRaise a NativeNative DancerNashuaNorthern DancerNearcticMy Babu"
  },
  {
@@ -21248,6 +21746,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeMa",
+  "Paternal_mig": "HeHaHaEc",
   "Ped_All": "サーパーシーMark of EsteemダルシャーンシャーリーハイツミルリーフAbdosAjdalNorthern DancerヴェイグリーノーブルBlakeneyHethersettHugh LupusHornbeamササフラSheshoonPinza"
  },
  {
@@ -21333,6 +21833,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsPh",
+  "Paternal_mig": "TeEcMaMa",
   "Ped_All": "ザンテツケンミスタープロスペクターRaise a NativeNative DancerPolynesianCase AceNashuaNasrullahCount FleetVictoria ParkChop ChopFlaresWindfieldsStratusニンバスWindfields"
  },
  {
@@ -21418,6 +21920,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaRo",
+  "Paternal_mig": "NtNsFaFa",
   "Ped_All": "シアトリカル-覇走-ヌレイエフNorthern DancerNearcticNearcoNative DancerフォルリAristophanesNantallahササフラSheshoonPrecipitationラティフィケイションHail to ReasonTurn-toキングスベンチ"
  },
  {
@@ -21503,6 +22007,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaRo",
+  "Paternal_mig": "NtNsFaFa",
   "Ped_All": "シアトリカル1987ヌレイエフNorthern DancerNearcticNearcoNative DancerフォルリAristophanesNantallahササフラSheshoonPrecipitationラティフィケイションHail to ReasonTurn-toキングスベンチ"
  },
  {
@@ -21588,6 +22094,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoSw",
+  "Paternal_mig": "PhStNsHi",
   "Ped_All": "シアトルスルー1977Bold ReasoningBoldnesianBold RulerNasrullahPolynesianHail to ReasonTurn-toWait a BitPokerRound TablePrincequilloNasrullahJet ActionJet PilotAlsab"
  },
  {
@@ -21673,6 +22181,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "NsHa",
+  "Paternal_mig": "FaHiStFa",
   "Ped_All": "シェリフズスター1995ポッセフォルリAristophanesHyperionAdvocateBold RulerNasrullahBetter SelfカラムーンゼダーンGrey SovereignPrince BioRight RoyalOwen TudorCourt Martial"
  },
  {
@@ -21758,6 +22268,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StTe",
+  "Paternal_mig": "TeRoStPh",
   "Ped_All": "シガー1995パレスミュージックThe MinstrelNorthern DancerNearcticVictoria ParkPrince JohnPrincequilloTurn-toシアトルスルーBold ReasoningBoldnesianPokerSolazoBeau MaxClaro"
  },
  {
@@ -21843,6 +22355,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "HaEc",
+  "Paternal_mig": "EcEcEcFa",
   "Ped_All": "シチョウセイ20XXチャイナロックRockefellaHyperionGainsboroughFelsteadRustom PashaSon-in-LawFriar MarcusGrey SovereignNasrullahNearcoBaytownGolden CloudGold BridgeCourt Martial"
  },
  {
@@ -21928,6 +22442,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "FaNs",
+  "Paternal_mig": "TeHaRoSt",
   "Ped_All": "シビルウォーウォーエンブレムOur EmblemミスタープロスペクターRaise a NativeプライヴェートアカウントLord at WarGeneralThe PrunerサドラーズウェルズNorthern DancerNearcticBold ReasonリヴァーマンNever Bendグロースターク"
  },
  {
@@ -22013,6 +22529,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeTe",
+  "Paternal_mig": "NtFaMaHa",
   "Ped_All": "シャーディー1989ダンチヒNorthern DancerNearcticNearcoNative DancerAdmiral's VoyageCrafty AdmiralPetitionHoist the FlagトムロルフRibotWar AdmiralJohns JoyBull DogJamestown"
  },
  {
@@ -22098,6 +22616,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaTe",
+  "Paternal_mig": "MaStEcHe",
   "Ped_All": "シャーペンアップ1979エタンNative DancerPolynesianUnbreakableDiscoveryTudor MinstrelOwen TudorTehranRockefellaHyperionGainsboroughFelsteadMajanoDeiriGris Perle"
  },
  {
@@ -22183,6 +22703,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StSt",
+  "Paternal_mig": "HeEcSwFa",
   "Ped_All": "シャーリーハイツ-剛健-ミルリーフNever BendNasrullahNearcoDjeddahPrincequilloPrince RoseCount FleetハーディカヌートハードリドンHard SauceUmidwarGrandmasterAtout MaitreBlue Peter"
  },
  {
@@ -22268,6 +22790,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "TeNeRoNs",
   "Ped_All": "シュヴァルグランハーツクライサンデーサイレンスヘイローHail to ReasonアンダースタンディングトニービンカンパラリファールマキャベリアンミスタープロスペクターRaise a NativeヘイローヌレイエフNorthern Dancerブラッシンググルーム"
  },
  {
@@ -22353,6 +22877,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "TeNeRoNs",
   "Ped_All": "シュヴァルグランハーツクライサンデーサイレンスヘイローHail to ReasonアンダースタンディングトニービンカンパラリファールマキャベリアンミスタープロスペクターRaise a NativeヘイローヌレイエフNorthern Dancerブラッシンググルーム"
  },
  {
@@ -22438,6 +22964,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNt",
+  "Paternal_mig": "StSwStNe",
   "Ped_All": "シユーニPivotalpolar falconヌレイエフNorthern DancerjeffersonコジーンカロBustinoデインヒルダンチヒNorthern DancerヒズマジェスティConquistador Cieloミスタープロスペクターイクスプロウデント"
  },
  {
@@ -22523,6 +23051,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "PhPh",
+  "Paternal_mig": "HiHaHeSw",
   "Ped_All": "シルバーシャーク-覇走-Buisson ArdentRelicWar RelicMan o'WarBlack ToneyPherozshahPharosEastonPalestineFair TrialFairwayTetratemaNearcoPharosMahmoud"
  },
  {
@@ -22608,6 +23138,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoHi",
+  "Paternal_mig": "MaSwNsTe",
   "Ped_All": "シルバーチャーム-覇走-シルバーバックBuckpasserTom FoolMenowWar AdmiralHail to ReasonTurn-toMahmoudPokerRound TablePrincequilloNasrullahWise MarginMarket WiseFaultless"
  },
  {
@@ -22693,6 +23225,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoHi",
+  "Paternal_mig": "MaSwNsTe",
   "Ped_All": "シルバーチャーム1997シルバーバックBuckpasserTom FoolMenowWar AdmiralHail to ReasonTurn-toMahmoudPokerRound TablePrincequilloNasrullahWise MarginMarket WiseFaultless"
  },
  {
@@ -22778,6 +23312,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "MaSw",
+  "Paternal_mig": "TeHiHiHi",
   "Ped_All": "シルバーバックBuckpasserTom FoolMenowPharamondBull DogWar AdmiralMan o'WarBlue LarkspurHail to ReasonTurn-toRoyal ChargerBlue SwordsMahmoudBlenheimEquipoise"
  },
  {
@@ -22863,6 +23399,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "MaSw",
+  "Paternal_mig": "TeHiHiHi",
   "Ped_All": "シルバーバック-覇走-BuckpasserTom FoolMenowPharamondBull DogWar AdmiralMan o'WarBlue LarkspurHail to ReasonTurn-toRoyal ChargerBlue SwordsMahmoudBlenheimEquipoise"
  },
  {
@@ -22948,6 +23486,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsSt",
+  "Paternal_mig": "HiTeMaHe",
   "Ped_All": "シルヴァーホーク1997RobertoHail to ReasonTurn-toRoyal ChargerBlue SwordsNashuaNasrullahBull LeaアメリゴNearcoPharosPrecipitationMat de CocagneBirikilCoaraze"
  },
  {
@@ -23033,6 +23573,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaFa",
+  "Paternal_mig": "HeHaTeSt",
   "Ped_All": "シロッコモンズーンKonigsstuhlDschingis KhanTamerlaneTiepolettoSurumuLiteratAuthiThe MinstrelNorthern DancerNearcticVictoria ParkタップオンウッドSallustPrince Tenderfoot"
  },
  {
@@ -23118,6 +23660,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaFa",
+  "Paternal_mig": "HeHaTeSt",
   "Ped_All": "シロッコ-覇煌-モンズーンKonigsstuhlDschingis KhanTamerlaneTiepolettoSurumuLiteratAuthiThe MinstrelNorthern DancerNearcticVictoria ParkタップオンウッドSallustPrince Tenderfoot"
  },
  {
@@ -23203,6 +23747,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsHa",
+  "Paternal_mig": "RoHaPhSw",
   "Ped_All": "シングスピールIn the WingsサドラーズウェルズNorthern DancerNearcticBold ReasonシャーリーハイツミルリーフシーホークヘイローHail to ReasonTurn-toCosmic BombエルバジェVandaleCohoes"
  },
  {
@@ -23288,6 +23834,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsHa",
+  "Paternal_mig": "RoHaPhSw",
   "Ped_All": "シングスピール-剛健-In the WingsサドラーズウェルズNorthern DancerNearcticBold ReasonシャーリーハイツミルリーフシーホークヘイローHail to ReasonTurn-toCosmic BombエルバジェVandaleCohoes"
  },
  {
@@ -23373,6 +23921,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "RoNe",
+  "Paternal_mig": "NtHaStSt",
   "Ped_All": "シンコウキングフェアリーキングNorthern DancerNearcticNearcoNative DancerBold ReasonHail to ReasonフォルリアレッジドHoist the FlagトムロルフPrince JohnNorthern DancerNearcticSicambre"
  },
  {
@@ -23458,6 +24008,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StTo",
+  "Paternal_mig": "NsTeHiRo",
   "Ped_All": "シンボリクリスエス-覇走-クリスエスRobertoHail to ReasonTurn-toNashuaPrincequilloPrince RoseOccupyGold MeridianシアトルスルーBold ReasoningCrimson SatanTri JetJesterFrancis S."
  },
  {
@@ -23543,6 +24095,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StTo",
+  "Paternal_mig": "NsTeHiRo",
   "Ped_All": "シンボリクリスエス2002クリスエスRobertoHail to ReasonTurn-toNashuaPrincequilloPrince RoseOccupyGold MeridianシアトルスルーBold ReasoningCrimson SatanTri JetJesterFrancis S."
  },
  {
@@ -23628,6 +24182,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhFa",
+  "Paternal_mig": "HaTeHaSt",
   "Ped_All": "シンボリルドルフパーソロンMilesianMy BabuDjebelCoup de LyonPharisPharosAbjerスピードシンボリロイヤルチャレンヂャーRoyal ChargerライジングライトPalestineFair TrialMaravedis"
  },
  {
@@ -23713,6 +24269,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhFa",
+  "Paternal_mig": "HaTeHaSt",
   "Ped_All": "シンボリルドルフ-剛健-パーソロンMilesianMy BabuDjebelCoup de LyonPharisPharosAbjerスピードシンボリロイヤルチャレンヂャーRoyal ChargerライジングライトPalestineFair TrialMaravedis"
  },
  {
@@ -23798,6 +24356,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhFa",
+  "Paternal_mig": "HaTeHaSt",
   "Ped_All": "シンボリルドルフ-極走-パーソロンMilesianMy BabuDjebelCoup de LyonPharisPharosAbjerスピードシンボリロイヤルチャレンヂャーRoyal ChargerライジングライトPalestineFair TrialMaravedis"
  },
  {
@@ -23883,6 +24443,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhFa",
+  "Paternal_mig": "HaTeHaSt",
   "Ped_All": "シンボリルドルフ1984パーソロンMilesianMy BabuDjebelCoup de LyonPharisPharosAbjerスピードシンボリロイヤルチャレンヂャーRoyal ChargerライジングライトPalestineFair TrialMaravedis"
  },
  {
@@ -23968,6 +24530,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhFa",
+  "Paternal_mig": "HaTeHaSt",
   "Ped_All": "シンボリルドルフ1985パーソロンMilesianMy BabuDjebelCoup de LyonPharisPharosAbjerスピードシンボリロイヤルチャレンヂャーRoyal ChargerライジングライトPalestineFair TrialMaravedis"
  },
  {
@@ -24053,6 +24617,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsTe",
+  "Paternal_mig": "TeEcMaSw",
   "Ped_All": "シーキングザゴールドミスタープロスペクターRaise a NativeNative DancerPolynesianCase AceNashuaNasrullahCount FleetBuckpasserTom FoolMenowWar AdmiralHasty RoadRomanChalledon"
  },
  {
@@ -24138,6 +24704,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HeTe",
+  "Paternal_mig": "RoHaToSw",
   "Ped_All": "シーザスターズ2009ケープクロスグリーンデザートダンチヒNorthern DancerサーアイヴァーアホヌーラロレンザッチオBalidarミスワキミスタープロスペクターRaise a NativeBuckpasserLombardagioEspresso"
  },
  {
@@ -24223,6 +24791,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsHa",
+  "Paternal_mig": "TeEcTeNs",
   "Ped_All": "ジェイドロバリー1989ミスタープロスペクターRaise a NativeNative DancerPolynesianCase AceNashuaNasrullahCount FleetニジンスキーNorthern DancerNearcticBull PageフォルリAristophanesNantallah"
  },
  {
@@ -24308,6 +24878,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "NsStToNs",
   "Ped_All": "ジェイペグ2008Camden ParkエーピーインディシアトルスルーBold ReasoningセクレタリアトダンチヒNorthern DancerCougarAl MuftiRobertoHail to ReasonBuckpasserElliodorリファールCornish Prince"
  },
  {
@@ -24393,6 +24965,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "TeMa",
+  "Paternal_mig": "PhHaHiNe",
   "Ped_All": "ジェニュインサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseWhat LuckBold RulerNasrullahDouble JayTentamIntentionallyNorthern Dancer"
  },
  {
@@ -24478,6 +25052,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeHa",
+  "Paternal_mig": "PhHaStTe",
   "Ped_All": "ジゲンザガンナーサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnassePyjama HuntハンターコムDerring-DoCharlottesvilleHigh LineハイハットSunny Brae"
  },
  {
@@ -24563,6 +25139,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HaHi",
+  "Paternal_mig": "PhHaTeMa",
   "Ped_All": "ジムフレンチグロースタークRibotTeneraniBelliniEl GrecoAlibhaiHyperionBeau PereTom FoolMenowPharamondBull DogBlue LarkspurBlack ServantMan o'War"
  },
  {
@@ -24648,6 +25226,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HaHi",
+  "Paternal_mig": "PhHaTeMa",
   "Ped_All": "ジムフレンチグロースタークRibotTeneraniBelliniEl GrecoAlibhaiHyperionBeau PereTom FoolMenowPharamondBull DogBlue LarkspurBlack ServantMan o'War"
  },
  {
@@ -24733,6 +25313,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsRo",
+  "Paternal_mig": "TeHiRoNs",
   "Ped_All": "ジャイアンツコーズウェイ2000ストームキャットStorm BirdNorthern DancerNearcticNew ProvidenceセクレタリアトBold RulerCrimson SatanラーイブラッシンググルームRed GodヘイローRobertoHail to ReasonChieftain"
  },
  {
@@ -24818,6 +25400,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "SwNs",
+  "Paternal_mig": "MaHaToSt",
   "Ped_All": "ジャコモHoly BullGreat AboveMinnesota MacRough'n TumbleIntentionallyAl HattabThe AxeGrey DawnStop the MusicHail to ReasonTurn-toTom FoolTyrantBold RulerCambremont"
  },
  {
@@ -24903,6 +25487,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsHa",
+  "Paternal_mig": "TeNeHaHa",
   "Ped_All": "ジャスタウェイ-覇走-ハーツクライサンデーサイレンスヘイローHail to ReasonアンダースタンディングトニービンカンパラリファールワイルドアゲインアイスカペイドNearcticKhaledMo ExceptionHard WorkSir Wiggle"
  },
  {
@@ -24988,6 +25574,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsHa",
+  "Paternal_mig": "TeNeHaHa",
   "Ped_All": "ジャスタウェイ2014ハーツクライサンデーサイレンスヘイローHail to ReasonアンダースタンディングトニービンカンパラリファールワイルドアゲインアイスカペイドNearcticKhaledMo ExceptionHard WorkSir Wiggle"
  },
  {
@@ -25073,6 +25661,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtNs",
+  "Paternal_mig": "TeNeMaNe",
   "Ped_All": "ジャスティファイ-覇走-スキャットダディヨハネスブルグヘネシーストームキャットオジジアンミスタープロスペクターRaise a NativeニジンスキーゴーストザッパーAwesome AgainデピュティミニスターRelaunchPulpitエーピーインディBaldski"
  },
  {
@@ -25158,6 +25748,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtNs",
+  "Paternal_mig": "TeNeMaNe",
   "Ped_All": "ジャスティファイ2018スキャットダディヨハネスブルグヘネシーストームキャットオジジアンミスタープロスペクターRaise a NativeニジンスキーゴーストザッパーAwesome AgainデピュティミニスターRelaunchPulpitエーピーインディBaldski"
  },
  {
@@ -25243,6 +25835,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StTo",
+  "Paternal_mig": "HaMaTeSt",
   "Ped_All": "ジャワゴールド-闘志-キートゥザミントグロースタークRibotTeneraniAlibhaiPrincequilloPrince RoseWar AdmiralニジンスキーNorthern DancerNearcticBull PageTim TamTom FoolHill Prince"
  },
  {
@@ -25328,6 +25922,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNs",
+  "Paternal_mig": "NtNsEcHi",
   "Ped_All": "ジルザル1989ヌレイエフNorthern DancerNearcticNearcoNative DancerフォルリAristophanesNantallahLe FabuleuxWild RiskRialtoVersoボールドラッドBold RulerBetter Self"
  },
  {
@@ -25413,6 +26009,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "NeTo",
+  "Paternal_mig": "SwNtTeNs",
   "Ped_All": "スイーツマカベトーヨーリファールRelaunchインリアリティIntentionallyThe AxeリファールNorthern DancerミスタープロスペクターノーザンテーストNorthern DancerNearcticVictoria ParkモデルフールTom FoolRed God"
  },
  {
@@ -25498,6 +26096,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "06",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NtNt",
+  "Paternal_mig": "NsNsNsSt",
   "Ped_All": "スカイメサPulpitエーピーインディシアトルスルーBold ReasoningセクレタリアトミスタープロスペクターRaise a NativeHonest PleasureストームキャットStorm BirdNorthern DancerセクレタリアトAffirmedExclusive NativeRound Table"
  },
  {
@@ -25583,6 +26183,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeNe",
+  "Paternal_mig": "PhNtNsHa",
   "Ped_All": "スキャットダディヨハネスブルグヘネシーストームキャットStorm BirdハワイオジジアンDamascusミスタープロスペクターミスタープロスペクターRaise a NativeNative DancerNashuaニジンスキーNorthern DancerNo Robbery"
  },
  {
@@ -25668,6 +26270,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NsSt",
+  "Paternal_mig": "TeEcTeRo",
   "Ped_All": "スキャン-瞬発-ミスタープロスペクターRaise a NativeNative DancerPolynesianCase AceNashuaNasrullahCount FleetニジンスキーNorthern DancerNearcticBull PageRound TablePrincequilloHail to Reason"
  },
  {
@@ -25753,6 +26357,8 @@ horse=
   "Paternal_hhht": "To",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "PhStTeTo",
   "Ped_All": "スクリーンヒーローグラスワンダーシルヴァーホークRobertoHail to ReasonアメリゴダンチヒNorthern DancerヒズマジェスティサンデーサイレンスヘイローHail to ReasonアンダースタンディングノーザンテーストNorthern Dancerモデルフール"
  },
  {
@@ -25838,6 +26444,8 @@ horse=
   "Paternal_hhht": "To",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "PhStTeTo",
   "Ped_All": "スクリーンヒーロー2008グラスワンダーシルヴァーホークRobertoHail to ReasonアメリゴダンチヒNorthern DancerヒズマジェスティサンデーサイレンスヘイローHail to ReasonアンダースタンディングノーザンテーストNorthern Dancerモデルフール"
  },
  {
@@ -25923,6 +26531,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "08",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "TeSt",
+  "Paternal_mig": "SwEcHaSt",
   "Ped_All": "スズパレード1987ソルティンゴペティンゴPetitionFair TrialAlycidonOrvietoMacherioMistralロムルスRibotTeneraniTudor MinstrelヴィミーWild Riskヒンドスタン"
  },
  {
@@ -26008,6 +26618,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "TePh",
+  "Paternal_mig": "StSwHaSw",
   "Ped_All": "スティールハート1980ハビタットSir GaylordTurn-toRoyal ChargerPrincequilloOccupyBull DogChallengerAbernantOwen TudorHyperionRustom PashaDanteNearcoBlandford"
  },
  {
@@ -26093,6 +26705,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "TePh",
+  "Paternal_mig": "StSwHaSw",
   "Ped_All": "スティールハート1985ハビタットSir GaylordTurn-toRoyal ChargerPrincequilloOccupyBull DogChallengerAbernantOwen TudorHyperionRustom PashaDanteNearcoBlandford"
  },
  {
@@ -26178,6 +26792,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "07",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "TeNe",
+  "Paternal_mig": "PhHaStNs",
   "Ped_All": "ステイゴールドサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseディクタスSanctusFine TopWordenノーザンテーストNorthern DancerPrincely Gift"
  },
  {
@@ -26263,6 +26879,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "07",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "TeNe",
+  "Paternal_mig": "PhHaStNs",
   "Ped_All": "ステイゴールド-剛健-サンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseディクタスSanctusFine TopWordenノーザンテーストNorthern DancerPrincely Gift"
  },
  {
@@ -26348,6 +26966,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "07",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "TeNe",
+  "Paternal_mig": "PhHaStNs",
   "Ped_All": "ステイゴールド-極走-サンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseディクタスSanctusFine TopWordenノーザンテーストNorthern DancerPrincely Gift"
  },
  {
@@ -26433,6 +27053,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "07",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "TeNe",
+  "Paternal_mig": "PhHaStNs",
   "Ped_All": "ステイゴールド2001サンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseディクタスSanctusFine TopWordenノーザンテーストNorthern DancerPrincely Gift"
  },
  {
@@ -26518,6 +27140,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoNs",
+  "Paternal_mig": "NsStHaFa",
   "Ped_All": "ストリートクライマキャベリアンミスタープロスペクターRaise a NativeNative DancerNashuaヘイローHail to ReasonHoist the FlagトロイペティンゴPetitionHornbeamリヴァーマンNever BendPall Mall"
  },
  {
@@ -26603,6 +27227,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoNs",
+  "Paternal_mig": "NsStHaFa",
   "Ped_All": "ストリートクライ-瞬砂-マキャベリアンミスタープロスペクターRaise a NativeNative DancerNashuaヘイローHail to ReasonHoist the FlagトロイペティンゴPetitionHornbeamリヴァーマンNever BendPall Mall"
  },
  {
@@ -26688,6 +27314,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "FaNs",
+  "Paternal_mig": "RoNsRoEc",
   "Ped_All": "ストリートボスストリートクライマキャベリアンミスタープロスペクターRaise a NativeヘイロートロイペティンゴリヴァーマンオジジアンDamascusSword DancerFrancis S.ブラッシンググルームRed GodOrsini"
  },
  {
@@ -26773,6 +27401,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "EcHa",
+  "Paternal_mig": "TeHaHaSw",
   "Ped_All": "ストロベリーロードwhiskey roadニジンスキーNorthern DancerNearcticBull PageSailorEight ThirtyAlibhairich giftPrincely GiftNasrullahAbernantRed JesterRed MarsRegal Diamond"
  },
  {
@@ -26858,6 +27488,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "MaFa",
+  "Paternal_mig": "EcTeTeEc",
   "Ped_All": "ストロングエイト-覇走-アイアンリージBull LeaBull DogTeddyBallotWar AdmiralMan o'WarSir GallahadScratchPharisPharosAsterusFull SailFairwayTiepolo"
  },
  {
@@ -26943,6 +27575,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeHi",
+  "Paternal_mig": "NtTeStEc",
   "Ped_All": "ストームキャット-覇走-Storm BirdNorthern DancerNearcticNearcoNative DancerNew ProvidenceBull PageChop ChopセクレタリアトBold RulerNasrullahPrincequilloCrimson SatanSpy SongBolero"
  },
  {
@@ -27028,6 +27662,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeHi",
+  "Paternal_mig": "NtTeStEc",
   "Ped_All": "ストームキャット1999Storm BirdNorthern DancerNearcticNearcoNative DancerNew ProvidenceBull PageChop ChopセクレタリアトBold RulerNasrullahPrincequilloCrimson SatanSpy SongBolero"
  },
  {
@@ -27113,6 +27749,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaHa",
+  "Paternal_mig": "HaEcPhPh",
   "Ped_All": "スピードシンボリ1967ロイヤルチャレンヂャーRoyal ChargerNearcoPharosSolarioSingaporeGainsboroughGalloper LightライジングライトHyperionGainsboroughMannaOrthodoxHyperionColombo"
  },
  {
@@ -27198,6 +27836,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeRo",
+  "Paternal_mig": "NeNsNeRo",
   "Ped_All": "スプリットフィンガーエルコンドルパサーキングマンボミスタープロスペクターRaise a NativeヌレイエフサドラーズウェルズNorthern DancerシアトルスルーストリートセンスストリートクライマキャベリアンDixieland Bandシンボリクリスエスクリスエスディープインパクト"
  },
  {
@@ -27283,6 +27923,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "08",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "TeHa",
+  "Paternal_mig": "PhHaToSt",
   "Ped_All": "スペシャルウィークサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseマルゼンスキーニジンスキーNorthern DancerBuckpasserセントクレスピンAureoleヒンドスタン"
  },
  {
@@ -27368,6 +28010,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "08",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "TeHa",
+  "Paternal_mig": "PhHaToSt",
   "Ped_All": "スペシャルウィークサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseマルゼンスキーニジンスキーNorthern DancerBuckpasserセントクレスピンAureoleヒンドスタン"
  },
  {
@@ -27453,6 +28097,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "08",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "TeHa",
+  "Paternal_mig": "PhHaToSt",
   "Ped_All": "スペシャルウィーク-覇煌-サンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseマルゼンスキーニジンスキーNorthern DancerBuckpasserセントクレスピンAureoleヒンドスタン"
  },
  {
@@ -27538,6 +28184,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "08",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "TeHa",
+  "Paternal_mig": "PhHaToSt",
   "Ped_All": "スペシャルウィーク-覇走-サンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseマルゼンスキーニジンスキーNorthern DancerBuckpasserセントクレスピンAureoleヒンドスタン"
  },
  {
@@ -27623,6 +28271,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "08",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "TeHa",
+  "Paternal_mig": "PhHaToSt",
   "Ped_All": "スペシャルウィーク1999サンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseマルゼンスキーニジンスキーNorthern DancerBuckpasserセントクレスピンAureoleヒンドスタン"
  },
  {
@@ -27708,6 +28358,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNs",
+  "Paternal_mig": "MaStHeMa",
   "Ped_All": "スペンドアバック1985BuckarooBuckpasserTom FoolMenowWar AdmiralNo RobberySwapsPrince BioSpeak JohnPrince JohnPrincequilloTornadoJaipurNasrullahBattlefield"
  },
  {
@@ -27793,6 +28445,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNt",
+  "Paternal_mig": "TeNeHaMa",
   "Ped_All": "スマートファルコン-砂覇-ゴールドアリュールサンデーサイレンスヘイローHail to ReasonアンダースタンディングヌレイエフNorthern DancerHostageミシシッピアンヴェイグリーノーブルヴィエナDark StarクラウンドプリンスRaise a Nativeシルバーシャーク"
  },
  {
@@ -27878,6 +28532,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNt",
+  "Paternal_mig": "TeNeHaMa",
   "Ped_All": "スマートファルコン2011ゴールドアリュールサンデーサイレンスヘイローHail to ReasonアンダースタンディングヌレイエフNorthern DancerHostageミシシッピアンヴェイグリーノーブルヴィエナDark StarクラウンドプリンスRaise a Nativeシルバーシャーク"
  },
  {
@@ -27963,6 +28619,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoHa",
+  "Paternal_mig": "HiStPhSw",
   "Ped_All": "スミノココロアクアクBattle JoinedArmageddonAlsabRevokedTurn-toRoyal ChargerPrincequilloヘイローHail to ReasonTurn-toCosmic BombエルバジェVandaleCohoes"
  },
  {
@@ -28048,6 +28706,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NtNe",
+  "Paternal_mig": "StNeStTe",
   "Ped_All": "スラマニ2003HernandoNiniskiニジンスキーNorthern DancerトムロルフミスワキミスタープロスペクターリファールアレッジドHoist the FlagトムロルフPrince JohnNorthfieldsNorthern DancerRelko"
  },
  {
@@ -28133,6 +28793,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StSt",
+  "Paternal_mig": "RoSwMaHi",
   "Ped_All": "スルーオゴールドシアトルスルーBold ReasoningBoldnesianBold RulerHail to ReasonPokerRound TableJet ActionBuckpasserTom FoolMenowWar AdmiralHill PrincePrincequilloStimulus"
  },
  {
@@ -28218,6 +28880,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "TeNeNsNs",
   "Ped_All": "スワーヴリチャード2018ハーツクライサンデーサイレンスヘイローHail to ReasonアンダースタンディングトニービンカンパラリファールアンブライドルズソングUnbridledファピアノカロGeneral Meetingシアトルスルーリヴァーマン"
  },
  {
@@ -28303,6 +28967,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NsPh",
+  "Paternal_mig": "SwEcSwHa",
   "Ped_All": "スーパークリックノーアテンショングリーンダンサーニジンスキーNorthern DancerVal de LoirSovereign PathGrey SovereignOrsiniインターメゾHornbeamHyperionPersian GulfSayajiraoNearcoRockefella"
  },
  {
@@ -28388,6 +29054,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NsPh",
+  "Paternal_mig": "SwEcSwHa",
   "Ped_All": "スーパークリークノーアテンショングリーンダンサーニジンスキーNorthern DancerVal de LoirSovereign PathGrey SovereignOrsiniインターメゾHornbeamHyperionPersian GulfSayajiraoNearcoRockefella"
  },
  {
@@ -28473,6 +29141,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NsPh",
+  "Paternal_mig": "SwEcSwHa",
   "Ped_All": "スーパークリーク-剛健-ノーアテンショングリーンダンサーニジンスキーNorthern DancerVal de LoirSovereign PathGrey SovereignOrsiniインターメゾHornbeamHyperionPersian GulfSayajiraoNearcoRockefella"
  },
  {
@@ -28558,6 +29228,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NsPh",
+  "Paternal_mig": "SwEcSwHa",
   "Ped_All": "スーパークリーク1990ノーアテンショングリーンダンサーニジンスキーNorthern DancerVal de LoirSovereign PathGrey SovereignOrsiniインターメゾHornbeamHyperionPersian GulfSayajiraoNearcoRockefella"
  },
  {
@@ -28643,6 +29315,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "NsHaStHe",
   "Ped_All": "セイウンスカイ1998シェリフズスターポッセフォルリAristophanesBold RulerカラムーンゼダーンRight RoyalミルジョージミルリーフNever BendRagusaモガミリファールカーネルシンボリ"
  },
  {
@@ -28728,6 +29402,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "NsHaStHe",
   "Ped_All": "セイウンスカイ2002シェリフズスターポッセフォルリAristophanesBold RulerカラムーンゼダーンRight RoyalミルジョージミルリーフNever BendRagusaモガミリファールカーネルシンボリ"
  },
  {
@@ -28813,6 +29489,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "NsHaStHe",
   "Ped_All": "セイブンスゴイシェリフズスターポッセフォルリAristophanesBold RulerカラムーンゼダーンRight RoyalミルジョージミルリーフNever BendRagusaモガミリファールカーネルシンボリ"
  },
  {
@@ -28898,6 +29576,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "MaEc",
+  "Paternal_mig": "SwEcEcHa",
   "Ped_All": "セクレタリアト1973Bold RulerNasrullahNearcoPharosBlenheimDiscoveryDisplayPompeyPrincequilloPrince RoseRose PrincePapyrusCarusoPolymelianBrown Bud"
  },
  {
@@ -28983,6 +29663,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "MaEc",
+  "Paternal_mig": "SwEcEcHa",
   "Ped_All": "セクレタリアト1992Bold RulerNasrullahNearcoPharosBlenheimDiscoveryDisplayPompeyPrincequilloPrince RoseRose PrincePapyrusCarusoPolymelianBrown Bud"
  },
  {
@@ -29068,6 +29750,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HeTe",
+  "Paternal_mig": "HaEcStEc",
   "Ped_All": "セダンPrince BioPrince RoseRose PrincePrince PalatineGay CrusaderBacteriophageTetratemaCadumOrsenigoOleanderPrunusHavresacOrtelloTeddyMichelangelo"
  },
  {
@@ -29153,6 +29837,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "NsNeNeEc",
   "Ped_All": "セプテンシンケンセイウンスカイシェリフズスターポッセフォルリカラムーンミルジョージミルリーフモガミキングマンボミスタープロスペクターRaise a NativeヌレイエフシアトルスルーBold ReasoningPastiche"
  },
  {
@@ -29238,6 +29924,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "HeTe",
+  "Paternal_mig": "HeStFaHe",
   "Ped_All": "セプテンセイゴーリンドホシサンデイクリークペティンゴPetitionKlaironミステリーMilesianコダマリマンドアルサイドAlycidonPalestineラバージョンDamascusパーソロン"
  },
  {
@@ -29323,6 +30011,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhTe",
+  "Paternal_mig": "RoSwHaHa",
   "Ped_All": "セントニコラスアビー-闘覇-モンジューサドラーズウェルズNorthern DancerNearcticBold ReasonトップヴィルハイトップTennysonSure BladeKrisシャーペンアップHome GuardDesert WineDamascusSadair"
  },
  {
@@ -29408,6 +30098,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeRo",
+  "Paternal_mig": "NsNtNtNe",
   "Ped_All": "セントマークスバシリカ-瞬走-シユーニPivotalpolar falconヌレイエフコジーンデインヒルダンチヒConquistador CieloガリレオサドラーズウェルズNorthern DancerミスワキリアファンRobertoLomond"
  },
  {
@@ -29493,6 +30185,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "EcHa",
+  "Paternal_mig": "EcEcStEc",
   "Ped_All": "セントライト1941ダイオライトDiophonGrand ParadeOrbyDonovanRock SandSainfoinIsinglassFlamboyantTraceryRock SandSt.SimonRobert Le DiableAyrshireDonovan"
  },
  {
@@ -29578,6 +30272,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "EcEc",
+  "Paternal_mig": "SwSwFaEc",
   "Ped_All": "ゼダーン1968Grey SovereignNasrullahNearcoPharosBlenheimBaytownAchtoiHainaultVilmorinGold BridgeGolden BossFairwayMon TalismanCraig an EranAlcantara"
  },
  {
@@ -29663,6 +30359,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "TeNe",
+  "Paternal_mig": "PhHaToHa",
   "Ped_All": "ゼンノロブロイ2004サンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseマイニングミスタープロスペクターRaise a NativeBuckpasserClever TrickアイスカペイドPia Star"
  },
  {
@@ -29748,6 +30446,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "NsNtNtNt",
   "Ped_All": "ソットサス-剛健-シユーニPivotalpolar falconヌレイエフコジーンデインヒルダンチヒConquistador CieloガリレオサドラーズウェルズNorthern DancerミスワキGreen Tuneグリーンダンサーミスワキ"
  },
  {
@@ -29833,6 +30533,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaHa",
+  "Paternal_mig": "PhSwStMa",
   "Ped_All": "タイキシャトル-瞬発-デヴィルズバッグヘイローHail to ReasonTurn-toCosmic BombエルバジェVandaleCohoesカーリアンニジンスキーNorthern DancerRound TableThatchフォルリRoan Rocket"
  },
  {
@@ -29918,6 +30620,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaHa",
+  "Paternal_mig": "PhSwStMa",
   "Ped_All": "タイキシャトル1998デヴィルズバッグヘイローHail to ReasonTurn-toCosmic BombエルバジェVandaleCohoesカーリアンニジンスキーNorthern DancerRound TableThatchフォルリRoan Rocket"
  },
  {
@@ -30003,6 +30707,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StRo",
+  "Paternal_mig": "RoSwFaFa",
   "Ped_All": "タイキブリザードシアトルスルーBold ReasoningBoldnesianBold RulerHail to ReasonPokerRound TableJet ActionササフラSheshoonPrecipitationラティフィケイションHail to ReasonTurn-toキングスベンチ"
  },
  {
@@ -30088,6 +30794,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StRo",
+  "Paternal_mig": "RoSwFaFa",
   "Ped_All": "タイキブリザード1997シアトルスルーBold ReasoningBoldnesianBold RulerHail to ReasonPokerRound TableJet ActionササフラSheshoonPrecipitationラティフィケイションHail to ReasonTurn-toキングスベンチ"
  },
  {
@@ -30173,6 +30881,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNs",
+  "Paternal_mig": "PhHaFaHa",
   "Ped_All": "タイトスポットヒズマジェスティRibotTeneraniBelliniEl GrecoAlibhaiHyperionBeau PereリファールNorthern DancerNearcticCourt MartialNever BendNasrullahDumpty Humpty"
  },
  {
@@ -30258,6 +30968,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HeHa",
+  "Paternal_mig": "PhPhTeSt",
   "Ped_All": "タイムフォーアチェンジ1984DamascusSword DancerSunglowSun AgainBy JimminyMy BabuDjebelSickleReviewerBold RulerNasrullahHasty RoadSwapsKhaledPrincequillo"
  },
  {
@@ -30343,6 +31055,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaHa",
+  "Paternal_mig": "EcEcEcTe",
   "Ped_All": "タケシバオー-剛健-チャイナロックRockefellaHyperionGainsboroughFelsteadRustom PashaSon-in-LawFriar MarcusヤシママンナプリメロBlandfordシアンモアNice DayMid-day SunActor"
  },
  {
@@ -30428,6 +31142,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HaEc",
+  "Paternal_mig": "HaEcStSw",
   "Ped_All": "タケホープインディアナSayajiraoNearcoPharosDark LegendSolarioGainsboroughApelleタリヤートスTulyarTehranPrince ChevalierライジングフレームThe Phoenixプリメロ"
  },
  {
@@ -30513,6 +31229,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNs",
+  "Paternal_mig": "HiNsNtNs",
   "Ped_All": "タップダンスシチー-覇走-プレザントタッププレザントコロニーヒズマジェスティRibotSunrise FlightStage Door JohnnyPrince JohnNever BendNorthern DancerNearcticNearcoNative DancerBold HourBold RulerT.V.Lark"
  },
  {
@@ -30598,6 +31316,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaHa",
+  "Paternal_mig": "EcTeMaHa",
   "Ped_All": "タニノチカラ1974ブランブルーKlaironClarionDjebelKantarSindSolarioTeddyティエポロBlue PeterFairwayNiccolo Dell'ArcaAble SeamanAdmiral's WalkVermeer"
  },
  {
@@ -30683,6 +31403,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsPh",
+  "Paternal_mig": "TeHiHeEc",
   "Ped_All": "タバスコキャットストームキャットStorm BirdNorthern DancerNearcticNew ProvidenceセクレタリアトBold RulerCrimson SatanSauce BoatキートゥザミントグロースタークMy BabuBarbizonPolynesianNigromante"
  },
  {
@@ -30768,6 +31490,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NtNe",
+  "Paternal_mig": "NsNsStMa",
   "Ped_All": "タピットPulpitエーピーインディシアトルスルーBold ReasoningセクレタリアトミスタープロスペクターRaise a NativeHonest PleasureUnbridledファピアノミスタープロスペクターLe FabuleuxニジンスキーNorthern Dancerインリアリティ"
  },
  {
@@ -30853,6 +31577,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NtNe",
+  "Paternal_mig": "NsNsStMa",
   "Ped_All": "タピット-砂覇-PulpitエーピーインディシアトルスルーBold ReasoningセクレタリアトミスタープロスペクターRaise a NativeHonest PleasureUnbridledファピアノミスタープロスペクターLe FabuleuxニジンスキーNorthern Dancerインリアリティ"
  },
  {
@@ -30938,6 +31664,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NtNe",
+  "Paternal_mig": "NsNsStMa",
   "Ped_All": "タピット2014PulpitエーピーインディシアトルスルーBold ReasoningセクレタリアトミスタープロスペクターRaise a NativeHonest PleasureUnbridledファピアノミスタープロスペクターLe FabuleuxニジンスキーNorthern Dancerインリアリティ"
  },
  {
@@ -31023,6 +31751,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "08",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HeHa",
+  "Paternal_mig": "MaSwPhSt",
   "Ped_All": "タマノクロスシービークロスフォルティノGrey SovereignNasrullahRelicパーソロンMilesianタークスリライアンスシャトーゲイSwapsKhaledPolynesianテューダーペリオッドOwen Tudorヒンドスタン"
  },
  {
@@ -31108,6 +31838,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "08",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HeHa",
+  "Paternal_mig": "MaSwPhSt",
   "Ped_All": "タマモクロスシービークロスフォルティノGrey SovereignNasrullahRelicパーソロンMilesianタークスリライアンスシャトーゲイSwapsKhaledPolynesianテューダーペリオッドOwen Tudorヒンドスタン"
  },
  {
@@ -31193,6 +31925,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "08",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HeHa",
+  "Paternal_mig": "MaSwPhSt",
   "Ped_All": "タマモクロス-剛健-シービークロスフォルティノGrey SovereignNasrullahRelicパーソロンMilesianタークスリライアンスシャトーゲイSwapsKhaledPolynesianテューダーペリオッドOwen Tudorヒンドスタン"
  },
  {
@@ -31278,6 +32012,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "08",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HeHa",
+  "Paternal_mig": "MaSwPhSt",
   "Ped_All": "タマモクロス1988シービークロスフォルティノGrey SovereignNasrullahRelicパーソロンMilesianタークスリライアンスシャトーゲイSwapsKhaledPolynesianテューダーペリオッドOwen Tudorヒンドスタン"
  },
  {
@@ -31363,6 +32099,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeTo",
+  "Paternal_mig": "PhHaMaHi",
   "Ped_All": "タヤスツヨシサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseカロフォルティノGrey SovereignChamossaireBuckpasserTom FoolBetter Self"
  },
  {
@@ -31448,6 +32186,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaSw",
+  "Paternal_mig": "HaTeMaFa",
   "Ped_All": "ダイイシスシャーペンアップエタンNative DancerPolynesianTudor MinstrelRockefellaHyperionMajanoリライアンスTantiemeDeux Pour CentRelicCrepelloDonatelloHoneyway"
  },
  {
@@ -31533,6 +32273,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeFa",
+  "Paternal_mig": "HeEcSwTe",
   "Ped_All": "ダイタクヘリオス1991ビゼンニシキダンディルートリュティエKlaironプルーデントミンスキーNorthern DancerサウンドトラックネヴァービートNever Say DieNasrullahBig GameハロウェーFairwayDogpatch"
  },
  {
@@ -31618,6 +32360,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeFa",
+  "Paternal_mig": "HeEcSwTe",
   "Ped_All": "ダイタクヘリオス1992ビゼンニシキダンディルートリュティエKlaironプルーデントミンスキーNorthern DancerサウンドトラックネヴァービートNever Say DieNasrullahBig GameハロウェーFairwayDogpatch"
  },
  {
@@ -31703,6 +32447,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeSw",
+  "Paternal_mig": "NtHaStTe",
   "Ped_All": "ダイナガリバーノーザンテーストNorthern DancerNearcticNearcoNative DancerVictoria ParkChop ChopHyperionバウンティアスRockefellaHyperionMazarinCorrelationFree AmericaHasty Road"
  },
  {
@@ -31788,6 +32534,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "06",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "StHe",
+  "Paternal_mig": "HaFaMaSt",
   "Ped_All": "ダイヤモンドチャームハイトップDerring-DoDariusDanteAbernantヴィミーWild RiskCourt MartialNative DancerPolynesianUnbreakableDiscoveryMy BabuDjebelBois Roussel"
  },
  {
@@ -31873,6 +32621,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeHi",
+  "Paternal_mig": "PhHaTeTe",
   "Ped_All": "ダイワメジャーサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseノーザンテーストNorthern DancerNearcticVictoria ParkCrimson SatanSpy SongBeau Max"
  },
  {
@@ -31958,6 +32708,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeHi",
+  "Paternal_mig": "PhHaTeTe",
   "Ped_All": "ダイワメジャー-闘覇-サンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseノーザンテーストNorthern DancerNearcticVictoria ParkCrimson SatanSpy SongBeau Max"
  },
  {
@@ -32043,6 +32795,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeHi",
+  "Paternal_mig": "PhHaTeTe",
   "Ped_All": "ダイワメジャー2006サンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseノーザンテーストNorthern DancerNearcticVictoria ParkCrimson SatanSpy SongBeau Max"
  },
  {
@@ -32128,6 +32882,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HeNs",
+  "Paternal_mig": "PhMaToSw",
   "Ped_All": "ダラカニダルシャーンシャーリーハイツミルリーフNever BendハーディカヌートAbdosArbarヴェンチアミスワキミスタープロスペクターRaise a NativeBuckpasserクリスタルパレスカロCrepello"
  },
  {
@@ -32213,6 +32969,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HeNs",
+  "Paternal_mig": "PhMaToSw",
   "Ped_All": "ダラカニ-覇走-ダルシャーンシャーリーハイツミルリーフNever BendハーディカヌートAbdosArbarヴェンチアミスワキミスタープロスペクターRaise a NativeBuckpasserクリスタルパレスカロCrepello"
  },
  {
@@ -32298,6 +33056,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhMa",
+  "Paternal_mig": "StStSwHa",
   "Ped_All": "ダルシャーン1984シャーリーハイツミルリーフNever BendNasrullahPrincequilloハーディカヌートハードリドンGrandmasterAbdosArbarDjebelUmidwarヴェンチアRelicMarsyas"
  },
  {
@@ -32383,6 +33143,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "FaFa",
+  "Paternal_mig": "NtHeToTe",
   "Ped_All": "ダンシングブレーヴ1986リファールNorthern DancerNearcticNearcoNative DancerCourt MartialFair TrialFormorDroneSir GaylordTurn-toTom FoolPago PagoMatriceBeau Max"
  },
  {
@@ -32468,6 +33230,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "FaFa",
+  "Paternal_mig": "NtHeToTe",
   "Ped_All": "ダンシングブレーヴ1990リファールNorthern DancerNearcticNearcoNative DancerCourt MartialFair TrialFormorDroneSir GaylordTurn-toTom FoolPago PagoMatriceBeau Max"
  },
  {
@@ -32553,6 +33317,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "HaSw",
+  "Paternal_mig": "HaEcMaTe",
   "Ped_All": "ダンシングモスBallymossMossboroughNearcoPharosBobsleighSingaporeGainsboroughBuchanNative DancerPolynesianUnbreakableDiscoveryChallengerSwynfordSir Gallahad"
  },
  {
@@ -32638,6 +33404,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "HaSw",
+  "Paternal_mig": "HaEcMaTe",
   "Ped_All": "ダンシングモスBallymossMossboroughNearcoPharosBobsleighSingaporeGainsboroughBuchanNative DancerPolynesianUnbreakableDiscoveryChallengerSwynfordSir Gallahad"
  },
  {
@@ -32723,6 +33491,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "TeSt",
+  "Paternal_mig": "PhHaTeNt",
   "Ped_All": "ダンスインザダーク1996サンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseニジンスキーNorthern DancerNearcticBull PageキートゥザミントグロースタークRaise a Native"
  },
  {
@@ -32808,6 +33578,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtFa",
+  "Paternal_mig": "HaSwHaEc",
   "Ped_All": "ダンチヒ-瞬走-Northern DancerNearcticNearcoPharosHyperionNative DancerPolynesianMahmoudAdmiral's VoyageCrafty AdmiralFighting FoxOlympiaPetitionFair TrialFelstead"
  },
  {
@@ -32893,6 +33665,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtFa",
+  "Paternal_mig": "HaSwHaEc",
   "Ped_All": "ダンチヒ1992Northern DancerNearcticNearcoPharosHyperionNative DancerPolynesianMahmoudAdmiral's VoyageCrafty AdmiralFighting FoxOlympiaPetitionFair TrialFelstead"
  },
  {
@@ -32978,6 +33752,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HeNe",
+  "Paternal_mig": "NsNsRoPh",
   "Ped_All": "ダークエンジェルAcclamationroyal applauseワージブトライマイベストAuction RingアホヌーラロレンザッチオフロリバンダマキャベリアンミスタープロスペクターRaise a NativeヘイローNight ShiftNorthern DancerRight Tack"
  },
  {
@@ -33063,6 +33839,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "HaNsToTe",
   "Ped_All": "チャペルロイヤル2003モントブルックBuckarooBuckpasserTom FoolNo RobberyJet DiplomacyExplodentDiplomat WayCutlassDamascusSword DancerDunceNever BendNasrullahChop Chop"
  },
  {
@@ -33148,6 +33926,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "SwFa",
+  "Paternal_mig": "NtPhSwPh",
   "Ped_All": "チヤンピオンスタースイフトスワローNorthern DancerNearcticNearcoNative DancerAlycidonDonatelloSignal LightロードリージSir GaylordTurn-toMr.TroubleZeus BoyPalestineニンバス"
  },
  {
@@ -33233,6 +34013,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeTe",
+  "Paternal_mig": "NtFaStNs",
   "Ped_All": "チーフズクラウン-砂覇-ダンチヒNorthern DancerNearcticNearcoNative DancerAdmiral's VoyageCrafty AdmiralPetitionセクレタリアトBold RulerNasrullahPrincequilloSwoon's SonThe DogeT.V.Lark"
  },
  {
@@ -33318,6 +34100,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "MaNs",
+  "Paternal_mig": "FaSwStNs",
   "Ped_All": "ツインターボ1993ライラリッジリファールNorthern DancerNearcticCourt MartialSheshoonPrecipitationBig GameサンシーSanctusFine TopWordenファバージPrincely Giftダイハード"
  },
  {
@@ -33403,6 +34187,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "SwStStHa",
   "Ped_All": "ティズナウ-闘志-cee's tizzyRelaunchインリアリティIntentionallyThe AxeリファールNorthern Dancertrevieresseattle songシアトルスルーBold ReasoningPrince BlessedナイスダンサーNorthern DancerPia Star"
  },
  {
@@ -33488,6 +34274,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "SwStStHa",
   "Ped_All": "ティズナウ-闘覇-cee's tizzyRelaunchインリアリティIntentionallyThe AxeリファールNorthern Dancertrevieresseattle songシアトルスルーBold ReasoningPrince BlessedナイスダンサーNorthern DancerPia Star"
  },
  {
@@ -33573,6 +34361,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "SwStStHa",
   "Ped_All": "ティズナウ2001cee's tizzyRelaunchインリアリティIntentionallyThe AxeリファールNorthern Dancertrevieresseattle songシアトルスルーBold ReasoningPrince BlessedナイスダンサーNorthern DancerPia Star"
  },
  {
@@ -33658,6 +34448,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaMa",
+  "Paternal_mig": "SwSwTeHi",
   "Ped_All": "ティンガーラ-瞬走-MilesianMy BabuDjebelTourbillonBadruddinCoup de LyonWinalotBlandfordRough'n TumbleFree for AllQuestionnaireBull DogWar RelicMan o'WarBalladier"
  },
  {
@@ -33743,6 +34535,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "ToHa",
+  "Paternal_mig": "NsHaHaMa",
   "Ped_All": "ティンバーカントリーウッドマンミスタープロスペクターRaise a NativeNative DancerNashuaBuckpasserTom FoolSwapsPretenseEndeavourBritish EmpireHyperionSwapsKhaledWar Admiral"
  },
  {
@@ -33828,6 +34622,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhNs",
+  "Paternal_mig": "RoHeStRo",
   "Ped_All": "テイエムオペラオー-覇走-オペラハウスサドラーズウェルズNorthern DancerNearcticBold ReasonハイトップDerring-DoJimmy ReppinブラッシンググルームRed GodNasrullahWild RiskKey to the KingdomBold RulerDrone"
  },
  {
@@ -33913,6 +34709,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhNs",
+  "Paternal_mig": "RoHeStRo",
   "Ped_All": "テイエムオペラオー2000オペラハウスサドラーズウェルズNorthern DancerNearcticBold ReasonハイトップDerring-DoJimmy ReppinブラッシンググルームRed GodNasrullahWild RiskKey to the KingdomBold RulerDrone"
  },
  {
@@ -33998,6 +34796,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhNs",
+  "Paternal_mig": "RoHeStRo",
   "Ped_All": "テイエムオペラオー2001オペラハウスサドラーズウェルズNorthern DancerNearcticBold ReasonハイトップDerring-DoJimmy ReppinブラッシンググルームRed GodNasrullahWild RiskKey to the KingdomBold RulerDrone"
  },
  {
@@ -34083,6 +34883,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "FaHa",
+  "Paternal_mig": "SwSwStMa",
   "Ped_All": "テスコボーイ-瞬走-Princely GiftNasrullahNearcoPharosBlenheimBlue PeterFairwayBlandfordHyperionGainsboroughBayardoChaucerDasturSolarioHurry On"
  },
  {
@@ -34168,6 +34970,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "FaHa",
+  "Paternal_mig": "SwSwStMa",
   "Ped_All": "テスコボーイ1974Princely GiftNasrullahNearcoPharosBlenheimBlue PeterFairwayBlandfordHyperionGainsboroughBayardoChaucerDasturSolarioHurry On"
  },
  {
@@ -34253,6 +35057,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtNe",
+  "Paternal_mig": "NtNeHaHi",
   "Ped_All": "テスタマッタ2009タピットPulpitエーピーインディシアトルスルーミスタープロスペクターUnbridledファピアノニジンスキーコンサーンブロードブラッシュアクアクTunerupNorthern JoveNorthern Dancerドクターフェイガー"
  },
  {
@@ -34338,6 +35144,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "FaEc",
+  "Paternal_mig": "EcSwSwFa",
   "Ped_All": "テルテンリュウロングエースハードリドンHard SauceArdanAdmiral DrakeティエポロBlue PeterNormanガーサントBubblesLa FarinaBrantomeケリーPanoramaFairwell"
  },
  {
@@ -34423,6 +35231,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtRo",
+  "Paternal_mig": "HeTeStNt",
   "Ped_All": "テンニカエルシーザスターズケープクロスグリーンデザートダンチヒアホヌーラミスワキミスタープロスペクターLombardシルバーチャームシルバーバックBuckpasserPokerブライアンズタイムRobertoダンサーズイメージ"
  },
  {
@@ -34508,6 +35318,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "FaHe",
+  "Paternal_mig": "MaSwHiTe",
   "Ped_All": "テンポイント-闘覇-コントライトNever Say DieNasrullahNearcoWar AdmiralPetitionFair TrialThe Cobblerカバーラップ二世Cover UpAlibhaiHollyroodセフトTetratemaSir Gallahad"
  },
  {
@@ -34593,6 +35405,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "FaHe",
+  "Paternal_mig": "MaSwHiTe",
   "Ped_All": "テンポイント1976コントライトNever Say DieNasrullahNearcoWar AdmiralPetitionFair TrialThe Cobblerカバーラップ二世Cover UpAlibhaiHollyroodセフトTetratemaSir Gallahad"
  },
  {
@@ -34678,6 +35492,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "FaHe",
+  "Paternal_mig": "MaSwHiTe",
   "Ped_All": "テンポイント1977コントライトNever Say DieNasrullahNearcoWar AdmiralPetitionFair TrialThe Cobblerカバーラップ二世Cover UpAlibhaiHollyroodセフトTetratemaSir Gallahad"
  },
  {
@@ -34763,6 +35579,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhNs",
+  "Paternal_mig": "HaEcPhEc",
   "Ped_All": "ディアトレンチコートTeenosoYouthアクアクBattle JoinedDark StarBallymossMossboroughPinzaヘイローHail to ReasonTurn-toCosmic BombFleet NasrullahNasrullahRoyal Coinage"
  },
  {
@@ -34848,6 +35666,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HePh",
+  "Paternal_mig": "StSwHaSw",
   "Ped_All": "ディクタス-剛健-SanctusFine TopFine ArtArtist's ProofVatellorTourmentTourbillonMahmoudWordenWild RiskRialtoSindBozzettoPharosDonatello"
  },
  {
@@ -34933,6 +35753,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "TeSt",
+  "Paternal_mig": "StSwStNs",
   "Ped_All": "ディスタントリラティヴハビタットSir GaylordTurn-toRoyal ChargerPrincequilloOccupyBull DogChallengerclaudeHornbeamHyperionVatellorRibotTeneraniNasrullah"
  },
  {
@@ -35018,6 +35840,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "TeSt",
+  "Paternal_mig": "StSwStNs",
   "Ped_All": "ディスタントリラティヴハビタットSir GaylordTurn-toRoyal ChargerPrincequilloOccupyBull DogChallengerclaudeHornbeamHyperionVatellorRibotTeneraniNasrullah"
  },
  {
@@ -35103,6 +35927,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNs",
+  "Paternal_mig": "TeToTeRo",
   "Ped_All": "ディラントーマスデインヒルダンチヒNorthern DancerNearcticAdmiral's VoyageヒズマジェスティRibotBuckpasserダイイシスシャーペンアップエタンリライアンスMount HagenBold BidderFrancis S."
  },
  {
@@ -35188,6 +36014,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeSw",
+  "Paternal_mig": "PhHaRoFa",
   "Ped_All": "ディープインパクトサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseアルザオリファールNorthern DancerサーアイヴァーバステッドCrepelloQueen's Hussar"
  },
  {
@@ -35273,6 +36101,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeSw",
+  "Paternal_mig": "PhHaRoFa",
   "Ped_All": "ディープインパクト-覇煌-サンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseアルザオリファールNorthern DancerサーアイヴァーバステッドCrepelloQueen's Hussar"
  },
  {
@@ -35358,6 +36188,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeSw",
+  "Paternal_mig": "PhHaRoFa",
   "Ped_All": "ディープインパクト-覇走-サンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseアルザオリファールNorthern DancerサーアイヴァーバステッドCrepelloQueen's Hussar"
  },
  {
@@ -35443,6 +36275,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeSw",
+  "Paternal_mig": "PhHaRoFa",
   "Ped_All": "ディープインパクト2005サンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseアルザオリファールNorthern DancerサーアイヴァーバステッドCrepelloQueen's Hussar"
  },
  {
@@ -35528,6 +36362,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeSw",
+  "Paternal_mig": "PhHaRoFa",
   "Ped_All": "ディープインパクト2007サンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseアルザオリファールNorthern DancerサーアイヴァーバステッドCrepelloQueen's Hussar"
  },
  {
@@ -35613,6 +36449,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeSw",
+  "Paternal_mig": "PhHaRoFa",
   "Ped_All": "ディープインパクト2009サンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseアルザオリファールNorthern DancerサーアイヴァーバステッドCrepelloQueen's Hussar"
  },
  {
@@ -35698,6 +36536,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "TeSt",
+  "Paternal_mig": "NtFaNsRo",
   "Ped_All": "デイジュールダンチヒNorthern DancerNearcticNearcoNative DancerAdmiral's VoyageCrafty AdmiralPetitionミスタープロスペクターRaise a NativeNative DancerNashuaIllustriousRound TableHail to Reason"
  },
  {
@@ -35783,6 +36623,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HaNs",
+  "Paternal_mig": "StStToSw",
   "Ped_All": "デイラミ1999DoyounミルリーフNever BendNasrullahPrincequilloKashmirTudor MelodyPrince TajミスワキミスタープロスペクターRaise a NativeBuckpasserクリスタルパレスカロCrepello"
  },
  {
@@ -35868,6 +36710,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "TeTo",
+  "Paternal_mig": "NtFaHaNt",
   "Ped_All": "デインヒル-覇走-ダンチヒNorthern DancerNearcticNearcoNative DancerAdmiral's VoyageCrafty AdmiralPetitionヒズマジェスティRibotTeneraniAlibhaiBuckpasserTom FoolNative Dancer"
  },
  {
@@ -35953,6 +36797,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "TeTo",
+  "Paternal_mig": "NtFaHaNt",
   "Ped_All": "デインヒル1989ダンチヒNorthern DancerNearcticNearcoNative DancerAdmiral's VoyageCrafty AdmiralPetitionヒズマジェスティRibotTeneraniAlibhaiBuckpasserTom FoolNative Dancer"
  },
  {
@@ -36038,6 +36884,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "08",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "StSw",
+  "Paternal_mig": "TeToHaMa",
   "Ped_All": "デザートキング1997デインヒルダンチヒNorthern DancerNearcticAdmiral's VoyageヒズマジェスティRibotBuckpasserヌレイエフNorthern DancerNearcticフォルリBustinoバステッドヴェンチア"
  },
  {
@@ -36123,6 +36971,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "MaTe",
+  "Paternal_mig": "FaHiStHi",
   "Ped_All": "デヒアデピュティミニスターVice RegentNorthern DancerNearcticMenetrierBunty's FlightBunty LawlessJabnehセクレタリアトBold RulerNasrullahPrincequilloDamascusSword DancerBaybrook"
  },
  {
@@ -36208,6 +37058,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "MaTe",
+  "Paternal_mig": "FaHiStHi",
   "Ped_All": "デヒア-瞬発-デピュティミニスターVice RegentNorthern DancerNearcticMenetrierBunty's FlightBunty LawlessJabnehセクレタリアトBold RulerNasrullahPrincequilloDamascusSword DancerBaybrook"
  },
  {
@@ -36293,6 +37145,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "FaHi",
+  "Paternal_mig": "NtMaEcPh",
   "Ped_All": "デピュティミニスター1997Vice RegentNorthern DancerNearcticNearcoNative DancerMenetrierFair CopyWindfieldsBunty's FlightBunty LawlessLadderDeilJabnehBimelechPolynesian"
  },
  {
@@ -36378,6 +37232,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeHa",
+  "Paternal_mig": "PhHaTeSw",
   "Ped_All": "デュランダル2003サンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseノーザンテーストNorthern DancerNearcticVictoria ParkCreme Dela CremeOlympiaHigh Perch"
  },
  {
@@ -36463,6 +37319,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "PhSw",
+  "Paternal_mig": "HiSwPhHa",
   "Ped_All": "デヴィルズバッグ1994ヘイローHail to ReasonTurn-toRoyal ChargerBlue SwordsCosmic BombPharamondMahmoudエルバジェVandalePlassyEscamilloCohoesMahmoudSwaps"
  },
  {
@@ -36548,6 +37406,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "HaNs",
+  "Paternal_mig": "TeMaNsNe",
   "Ped_All": "デーモンクライズドクタースパートホスピタリテイテュデナムTudor MelodyアイアンリージタケシバオーチャイナロックロダンファルブラヴフェアリーキングNorthern DancerSlewpyトニービンカンパラNorthern Dancer"
  },
  {
@@ -36633,6 +37493,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhPh",
+  "Paternal_mig": "HaHeHiHi",
   "Ped_All": "トゥルーナイトシャトーゲイSwapsKhaledHyperionBeau PerePolynesianUnbreakablePot au FeuOlympiaHeliopolisHyperionStimulusMenowPharamondBlack Toney"
  },
  {
@@ -36718,6 +37580,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoNs",
+  "Paternal_mig": "PhFaHeHe",
   "Ped_All": "トウカイテイオーシンボリルドルフパーソロンMilesianMy BabuPharisスピードシンボリロイヤルチャレンヂャーPalestineナイスダンサーNorthern DancerNearcticLe Beau PrinceファバージPrincely Giftアトランティス"
  },
  {
@@ -36803,6 +37667,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoNs",
+  "Paternal_mig": "PhFaHeHe",
   "Ped_All": "トウカイテイオー-闘志-シンボリルドルフパーソロンMilesianMy BabuPharisスピードシンボリロイヤルチャレンヂャーPalestineナイスダンサーNorthern DancerNearcticLe Beau PrinceファバージPrincely Giftアトランティス"
  },
  {
@@ -36888,6 +37754,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoNs",
+  "Paternal_mig": "PhFaHeHe",
   "Ped_All": "トウカイテイオー-闘覇-シンボリルドルフパーソロンMilesianMy BabuPharisスピードシンボリロイヤルチャレンヂャーPalestineナイスダンサーNorthern DancerNearcticLe Beau PrinceファバージPrincely Giftアトランティス"
  },
  {
@@ -36973,6 +37841,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoNs",
+  "Paternal_mig": "PhFaHeHe",
   "Ped_All": "トウカイテイオー1992シンボリルドルフパーソロンMilesianMy BabuPharisスピードシンボリロイヤルチャレンヂャーPalestineナイスダンサーNorthern DancerNearcticLe Beau PrinceファバージPrincely Giftアトランティス"
  },
  {
@@ -37058,6 +37928,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoNs",
+  "Paternal_mig": "PhFaHeHe",
   "Ped_All": "トウカイテイオー1993シンボリルドルフパーソロンMilesianMy BabuPharisスピードシンボリロイヤルチャレンヂャーPalestineナイスダンサーNorthern DancerNearcticLe Beau PrinceファバージPrincely Giftアトランティス"
  },
  {
@@ -37143,6 +38015,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "HaHa",
+  "Paternal_mig": "FaHaSwHi",
   "Ped_All": "トウショウボーイ-覇禊-テスコボーイPrincely GiftNasrullahNearcoBlue PeterHyperionGainsboroughDasturYour HostAlibhaiHyperionMahmoudEastonDark LegendBlue Larkspur"
  },
  {
@@ -37228,6 +38102,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "HaHa",
+  "Paternal_mig": "FaHaSwHi",
   "Ped_All": "トウショウボーイ1976テスコボーイPrincely GiftNasrullahNearcoBlue PeterHyperionGainsboroughDasturYour HostAlibhaiHyperionMahmoudEastonDark LegendBlue Larkspur"
  },
  {
@@ -37313,6 +38189,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "HaHa",
+  "Paternal_mig": "FaHaSwHi",
   "Ped_All": "トウショウボーイ1977テスコボーイPrincely GiftNasrullahNearcoBlue PeterHyperionGainsboroughDasturYour HostAlibhaiHyperionMahmoudEastonDark LegendBlue Larkspur"
  },
  {
@@ -37398,6 +38276,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StTe",
+  "Paternal_mig": "HaFaPhFa",
   "Ped_All": "トップヴィルハイトップDerring-DoDariusDanteAbernantヴィミーWild RiskCourt MartialCharlottesvillePrince ChevalierPrince RoseNearcoTantiemeDeux Pour CentMenetrier"
  },
  {
@@ -37483,6 +38363,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "EcMa",
+  "Paternal_mig": "StStNsFa",
   "Ped_All": "トニービンカンパラカラムーンゼダーンGrey SovereignPrince BioオンリーフォアライフChanteurPrince ChevalierHornbeamHyperionGainsboroughNasrullahPrecipticPrecipitationFair Trial"
  },
  {
@@ -37568,6 +38450,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "EcMa",
+  "Paternal_mig": "StStNsFa",
   "Ped_All": "トニービン-覇煌-カンパラカラムーンゼダーンGrey SovereignPrince BioオンリーフォアライフChanteurPrince ChevalierHornbeamHyperionGainsboroughNasrullahPrecipticPrecipitationFair Trial"
  },
  {
@@ -37653,6 +38537,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "EcMa",
+  "Paternal_mig": "StStNsFa",
   "Ped_All": "トニービン1988カンパラカラムーンゼダーンGrey SovereignPrince BioオンリーフォアライフChanteurPrince ChevalierHornbeamHyperionGainsboroughNasrullahPrecipticPrecipitationFair Trial"
  },
  {
@@ -37738,6 +38624,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhSt",
+  "Paternal_mig": "EcEcEcPh",
   "Ped_All": "トムロルフRibotTeneraniBelliniCavaliere d'ArpinoApelleEl GrecoPharosPapyrusRomanSir GallahadTeddyBuchanPrincequilloPrince RoseSickle"
  },
  {
@@ -37823,6 +38711,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "FaSw",
+  "Paternal_mig": "SwSwHaHa",
   "Ped_All": "トライバルチーフPrincely GiftNasrullahNearcoPharosBlenheimBlue PeterFairwayBlandfordPetitionFair TrialFairwayArtist's ProofUjijiUmidwarGainsborough"
  },
  {
@@ -37908,6 +38798,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNe",
+  "Paternal_mig": "HaRoHaPh",
   "Ped_All": "トランセンドワイルドラッシュワイルドアゲインアイスカペイドNearcticKhaledプラグドニックルキートゥザミントDroneトニービンカンパラカラムーンHornbeamスリルショーNorthern Babyハワイ"
  },
  {
@@ -37993,6 +38885,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNe",
+  "Paternal_mig": "HaRoHaPh",
   "Ped_All": "トランセンド2011ワイルドラッシュワイルドアゲインアイスカペイドNearcticKhaledプラグドニックルキートゥザミントDroneトニービンカンパラカラムーンHornbeamスリルショーNorthern Babyハワイ"
  },
  {
@@ -38078,6 +38972,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "SwEc",
+  "Paternal_mig": "HaPhNsRo",
   "Ped_All": "トロイ1979ペティンゴPetitionFair TrialFairwayArtist's ProofAlycidonDonatelloNearcoHornbeamHyperionGainsboroughNasrullahPinzaChanteurRoyal Charger"
  },
  {
@@ -38163,6 +39059,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeMa",
+  "Paternal_mig": "FaStHaSw",
   "Ped_All": "トロットサンダー1996ダイナコスモスハンターコムDerring-DoDariusFair TrialノーザンテーストNorthern DancerマリーノテスコボーイPrincely GiftNasrullahHyperionリンボーWar Admiralアスフォード"
  },
  {
@@ -38248,6 +39146,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeHa",
+  "Paternal_mig": "NsHiNtSt",
   "Ped_All": "トロットスター2001ダミスターミスタープロスペクターRaise a NativeNative DancerNashuaRoman LineRomanDouble JayワイズカウンセラーアレッジドHoist the FlagRaise a NativeディクタスSanctusシンザン"
  },
  {
@@ -38333,6 +39233,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "NeHeTeNe",
   "Ped_All": "ドゥラメンテキングカメハメハキングマンボミスタープロスペクターRaise a NativeヌレイエフラストタイクーントライマイベストBlakeneyサンデーサイレンスヘイローHail to Reasonアンダースタンディングトニービンカンパラノーザンテースト"
  },
  {
@@ -38418,6 +39320,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "NeHeTeNe",
   "Ped_All": "ドゥラメンテ2015キングカメハメハキングマンボミスタープロスペクターRaise a NativeヌレイエフラストタイクーントライマイベストBlakeneyサンデーサイレンスヘイローHail to Reasonアンダースタンディングトニービンカンパラノーザンテースト"
  },
  {
@@ -38503,6 +39407,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "TeNe",
+  "Paternal_mig": "EcEcStSt",
   "Ped_All": "ドクターデヴィアスアホヌーラロレンザッチオKlaironClarionThe PhoenixMartialHill GailWhistlerアレッジドHoist the FlagトムロルフPrince JohnNorthern DancerNearcticSicambre"
  },
  {
@@ -38588,6 +39494,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeTe",
+  "Paternal_mig": "EcEcMaEc",
   "Ped_All": "ドクターフェイガーRough'n TumbleFree for AllQuestionnaireStingChicleBull DogTeddyUpsetBetter SelfBimelechBlack ToneyWar AdmiralBull BrierBull DogDraymont"
  },
  {
@@ -38673,6 +39581,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "ToPh",
+  "Paternal_mig": "NsTeRoHa",
   "Ped_All": "ドバイミレニアム-覇走-シーキングザゴールドミスタープロスペクターRaise a NativeNative DancerNashuaBuckpasserTom FoolHasty Roadshareef dancerNorthern DancerNearcticサーアイヴァーPretenseEndeavourSwaps"
  },
  {
@@ -38758,6 +39668,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "ToPh",
+  "Paternal_mig": "NsTeRoHa",
   "Ped_All": "ドバイミレニアム2000シーキングザゴールドミスタープロスペクターRaise a NativeNative DancerNashuaBuckpasserTom FoolHasty Roadshareef dancerNorthern DancerNearcticサーアイヴァーPretenseEndeavourSwaps"
  },
  {
@@ -38843,6 +39755,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "ToPhRoHa",
   "Ped_All": "ドバウィドバイミレニアムシーキングザゴールドミスタープロスペクターRaise a NativeBuckpassershareef dancerNorthern DancerPretensedeployシャーリーハイツミルリーフRobertoダンシングブレーヴリファールHigh Line"
  },
  {
@@ -38928,6 +39842,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "ToPhRoHa",
   "Ped_All": "ドバウィ-剛健-ドバイミレニアムシーキングザゴールドミスタープロスペクターRaise a NativeBuckpassershareef dancerNorthern DancerPretensedeployシャーリーハイツミルリーフRobertoダンシングブレーヴリファールHigh Line"
  },
  {
@@ -39013,6 +39929,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNe",
+  "Paternal_mig": "TeNeSwNs",
   "Ped_All": "ドリームジャーニー-覇煌-ステイゴールドサンデーサイレンスヘイローHail to ReasonアンダースタンディングディクタスSanctusノーザンテーストメジロマックイーンメジロティターンメジロアサマリマンドノーザンテーストNorthern DancerLt.Stevens"
  },
  {
@@ -39098,6 +40016,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNe",
+  "Paternal_mig": "TeNeSwNs",
   "Ped_All": "ドリームジャーニー-覇走-ステイゴールドサンデーサイレンスヘイローHail to ReasonアンダースタンディングディクタスSanctusノーザンテーストメジロマックイーンメジロティターンメジロアサマリマンドノーザンテーストNorthern DancerLt.Stevens"
  },
  {
@@ -39183,6 +40103,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNe",
+  "Paternal_mig": "TeNeSwNs",
   "Ped_All": "ドリームジャーニー-闘覇-ステイゴールドサンデーサイレンスヘイローHail to ReasonアンダースタンディングディクタスSanctusノーザンテーストメジロマックイーンメジロティターンメジロアサマリマンドノーザンテーストNorthern DancerLt.Stevens"
  },
  {
@@ -39268,6 +40190,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNe",
+  "Paternal_mig": "TeNeSwNs",
   "Ped_All": "ドリームジャーニー2009ステイゴールドサンデーサイレンスヘイローHail to ReasonアンダースタンディングディクタスSanctusノーザンテーストメジロマックイーンメジロティターンメジロアサマリマンドノーザンテーストNorthern DancerLt.Stevens"
  },
  {
@@ -39353,6 +40277,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NsFa",
+  "Paternal_mig": "HaHaHaSt",
   "Ped_All": "ナイキアディライトディアブロデヴィルズバッグヘイローHail to ReasonエルバジェCornish PrinceBold RulerOlympiaスリルショーNorthern BabyNorthern DancerGolden EagleエルセンタウロSideralGallant Man"
  },
  {
@@ -39438,6 +40364,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StMa",
+  "Paternal_mig": "FaHaHaSt",
   "Ped_All": "ナオキ-剛健-サウンドトラックWhistlerPanoramaSir CosmoFair TrialMustangMieuxceStraight DealヒンドスタンBois RousselVatoutSolarioChamossairePrecipitationNoble Star"
  },
  {
@@ -39523,6 +40451,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StMa",
+  "Paternal_mig": "FaHaHaSt",
   "Ped_All": "ナオキ1975サウンドトラックWhistlerPanoramaSir CosmoFair TrialMustangMieuxceStraight DealヒンドスタンBois RousselVatoutSolarioChamossairePrecipitationNoble Star"
  },
  {
@@ -39608,6 +40538,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNe",
+  "Paternal_mig": "TeNeNeRo",
   "Ped_All": "ナカヤマフェスタ-覇走-ステイゴールドサンデーサイレンスヘイローHail to ReasonアンダースタンディングディクタスSanctusノーザンテーストタイトスポットヒズマジェスティRibotリファールデインヒルダンチヒCure the Blues"
  },
  {
@@ -39693,6 +40625,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StFa",
+  "Paternal_mig": "PhHaStTe",
   "Ped_All": "ナシュワン2001ブラッシンググルームRed GodNasrullahNearcoMenowWild RiskRialtoTudor MinstrelBustinoバステッドCrepelloDoutelleQueen's HussarMarch PastBorealis"
  },
  {
@@ -39778,6 +40712,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsSt",
+  "Paternal_mig": "FaHeSwHa",
   "Ped_All": "ナスルエルアラブAl NasrリファールNorthern DancerNearcticCourt MartialカロフォルティノKlaironグリーンダンサーニジンスキーNorthern DancerVal de LoirダイアトムSicambreFine Top"
  },
  {
@@ -39863,6 +40799,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StTe",
+  "Paternal_mig": "NsTeNtSw",
   "Ped_All": "ナリタブライアンブライアンズタイムRobertoHail to ReasonTurn-toNashuaグロースタークRibotHasty RoadNorthern DancerNearcticNearcoNative DancerDamascusSword DancerAcropolis"
  },
  {
@@ -39948,6 +40886,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StTe",
+  "Paternal_mig": "NsTeNtSw",
   "Ped_All": "ナリタブライアンブライアンズタイムRobertoHail to ReasonTurn-toNashuaグロースタークRibotHasty RoadNorthern DancerNearcticNearcoNative DancerDamascusSword DancerAcropolis"
  },
  {
@@ -40033,6 +40973,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StTe",
+  "Paternal_mig": "NsTeNtSw",
   "Ped_All": "ナリタブライアン-剛健-ブライアンズタイムRobertoHail to ReasonTurn-toNashuaグロースタークRibotHasty RoadNorthern DancerNearcticNearcoNative DancerDamascusSword DancerAcropolis"
  },
  {
@@ -40118,6 +41060,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StTe",
+  "Paternal_mig": "NsTeNtSw",
   "Ped_All": "ナリタブライアン-覇走-ブライアンズタイムRobertoHail to ReasonTurn-toNashuaグロースタークRibotHasty RoadNorthern DancerNearcticNearcoNative DancerDamascusSword DancerAcropolis"
  },
  {
@@ -40203,6 +41147,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StTe",
+  "Paternal_mig": "NsTeNtSw",
   "Ped_All": "ナリタブライアン1993ブライアンズタイムRobertoHail to ReasonTurn-toNashuaグロースタークRibotHasty RoadNorthern DancerNearcticNearcoNative DancerDamascusSword DancerAcropolis"
  },
  {
@@ -40288,6 +41234,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StTe",
+  "Paternal_mig": "NsTeNtSw",
   "Ped_All": "ナリタブライアン1994ブライアンズタイムRobertoHail to ReasonTurn-toNashuaグロースタークRibotHasty RoadNorthern DancerNearcticNearcoNative DancerDamascusSword DancerAcropolis"
  },
  {
@@ -40373,6 +41321,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "StHe",
+  "Paternal_mig": "HaFaEcFa",
   "Ped_All": "ナントセイケン20XXハイトップDerring-DoDariusDanteAbernantヴィミーWild RiskCourt MartialGrey SovereignNasrullahNearcoBaytownMy BabuDjebelFair Trial"
  },
  {
@@ -40458,6 +41408,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NsNt",
+  "Paternal_mig": "NsNeNsNs",
   "Ped_All": "ニシュウネンキネンFootstepsinthesandジャイアンツコーズウェイストームキャットStorm BirdラーイレインボウクエストブラッシンググルームグリーンダンサーストラヴィンスキーヌレイエフNorthern DancerブラッシンググルームAffirmedExclusive Nativeセクレタリアト"
  },
  {
@@ -40543,6 +41495,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtPh",
+  "Paternal_mig": "HaSwHiTe",
   "Ped_All": "ニジンスキー1970Northern DancerNearcticNearcoPharosHyperionNative DancerPolynesianMahmoudBull PageBull LeaBull DogBlue LarkspurMenowPharamondOmaha"
  },
  {
@@ -40628,6 +41582,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "SwSw",
+  "Paternal_mig": "MaHeEcMa",
   "Ped_All": "ニットエイト1968ガーサントBubblesLa FarinaSans SouciNeil GowBrantomeBlandfordTetratemaシーマーセフトTetratema大鵬シマタカプリメロ月友"
  },
  {
@@ -40713,6 +41669,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaHe",
+  "Paternal_mig": "FaHeNsNs",
   "Ped_All": "ニッポーテイオー1987リイフォーリファールNorthern DancerNearcticCourt MartialSing SingTudor MinstrelKlaironラバージョンDamascusSword DancerNashuaパーソロンMilesianダイハード"
  },
  {
@@ -40798,6 +41756,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HaEc",
+  "Paternal_mig": "TePhHaEc",
   "Ped_All": "ニホンピロウイナースティールハートハビタットSir GaylordTurn-toOccupyAbernantOwen TudorDanteチャイナロックRockefellaHyperionRustom PashaライジングフレームThe Phoenixダイオライト"
  },
  {
@@ -40883,6 +41843,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HaEc",
+  "Paternal_mig": "TePhHaEc",
   "Ped_All": "ニホンピロウイナー-覇走-スティールハートハビタットSir GaylordTurn-toOccupyAbernantOwen TudorDanteチャイナロックRockefellaHyperionRustom PashaライジングフレームThe Phoenixダイオライト"
  },
  {
@@ -40968,6 +41930,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtNs",
+  "Paternal_mig": "HaSwFaEc",
   "Ped_All": "ヌレイエフ-瞬走-Northern DancerNearcticNearcoPharosHyperionNative DancerPolynesianMahmoudフォルリAristophanesHyperionAdvocateNantallahNasrullahGold Bridge"
  },
  {
@@ -41053,6 +42017,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtNs",
+  "Paternal_mig": "HaSwFaEc",
   "Ped_All": "ヌレイエフ1987Northern DancerNearcticNearcoPharosHyperionNative DancerPolynesianMahmoudフォルリAristophanesHyperionAdvocateNantallahNasrullahGold Bridge"
  },
  {
@@ -41138,6 +42104,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaFa",
+  "Paternal_mig": "NsTeStTe",
   "Ped_All": "ネイエフ-覇走-ガルチミスタープロスペクターRaise a NativeNative DancerNashuaRambunctiousRasperSeven CornersBustinoバステッドCrepelloDoutelleQueen's HussarMarch PastBorealis"
  },
  {
@@ -41223,6 +42191,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeSt",
+  "Paternal_mig": "PhHaTeFa",
   "Ped_All": "ネオユニヴァース2003サンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseKrisシャーペンアップエタンリライアンスShantungSicambrePall Mall"
  },
  {
@@ -41308,6 +42278,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "MaPh",
+  "Paternal_mig": "SwStHeSw",
   "Ped_All": "ネヴァービート1970Never Say DieNasrullahNearcoPharosBlenheimWar AdmiralMan o'WarVatoutBig GameBahramBlandfordTetratemaNearcoPharosWindsor Lad"
  },
  {
@@ -41393,6 +42365,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HiHa",
+  "Paternal_mig": "MaMaTeSt",
   "Ped_All": "ノウンファクト-瞬発-インリアリティIntentionallyIntentWar RelicDiscoveryRough'n TumbleFree for AllWar RelicTim TamTom FoolMenowBull LeaTudor MinstrelOwen TudorTehran"
  },
  {
@@ -41478,6 +42452,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HiHa",
+  "Paternal_mig": "MaMaTeSt",
   "Ped_All": "ノウンファクト1980インリアリティIntentionallyIntentWar RelicDiscoveryRough'n TumbleFree for AllWar RelicTim TamTom FoolMenowBull LeaTudor MinstrelOwen TudorTehran"
  },
  {
@@ -41563,6 +42539,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNe",
+  "Paternal_mig": "StNeMaNs",
   "Ped_All": "ノットアシングルダウトリダウツチョイスデインヒルダンチヒNorthern Dancerヒズマジェスティcanny ladbletchinglyニジンスキーRorys JesterCrown JesterBaguetteRoan Rocketgrand chaudiereNorthern DancerMisty Day"
  },
  {
@@ -41648,6 +42626,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNe",
+  "Paternal_mig": "HeHaHaNs",
   "Ped_All": "ノヴェリスト-覇走-モンズーンKonigsstuhlDschingis KhanTamerlaneTiepolettoSurumuLiteratAuthiLagunasイルドブルボンニジンスキーLiteratNight ShiftNorthern DancerNebos"
  },
  {
@@ -41733,6 +42713,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNe",
+  "Paternal_mig": "HeHaHaNs",
   "Ped_All": "ノヴェリスト2013モンズーンKonigsstuhlDschingis KhanTamerlaneTiepolettoSurumuLiteratAuthiLagunasイルドブルボンニジンスキーLiteratNight ShiftNorthern DancerNebos"
  },
  {
@@ -41818,6 +42800,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "SwEc",
+  "Paternal_mig": "TeHiHaHa",
   "Ped_All": "ノーアテンショングリーンダンサーニジンスキーNorthern DancerNearcticBull PageVal de LoirVieux ManoirSpy SongSovereign PathGrey SovereignNasrullahBobsleighOrsiniTicinoArjaman"
  },
  {
@@ -41903,6 +42887,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "SwEc",
+  "Paternal_mig": "TeHiHaHa",
   "Ped_All": "ノーアテンション-強靱-グリーンダンサーニジンスキーNorthern DancerNearcticBull PageVal de LoirVieux ManoirSpy SongSovereign PathGrey SovereignNasrullahBobsleighOrsiniTicinoArjaman"
  },
  {
@@ -41988,6 +42974,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtHa",
+  "Paternal_mig": "HaSwMaEc",
   "Ped_All": "ノーザンテースト-極走-Northern DancerNearcticNearcoPharosHyperionNative DancerPolynesianMahmoudVictoria ParkChop ChopFlaresWindfieldsHyperionGainsboroughAbbots Trace"
  },
  {
@@ -42073,6 +43061,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtHa",
+  "Paternal_mig": "HaSwMaEc",
   "Ped_All": "ノーザンテースト1974Northern DancerNearcticNearcoPharosHyperionNative DancerPolynesianMahmoudVictoria ParkChop ChopFlaresWindfieldsHyperionGainsboroughAbbots Trace"
  },
  {
@@ -42158,6 +43148,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtHa",
+  "Paternal_mig": "HaSwMaEc",
   "Ped_All": "ノーザンテースト1982Northern DancerNearcticNearcoPharosHyperionNative DancerPolynesianMahmoudVictoria ParkChop ChopFlaresWindfieldsHyperionGainsboroughAbbots Trace"
  },
  {
@@ -42243,6 +43235,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "HeRo",
+  "Paternal_mig": "StNsStNs",
   "Ped_All": "ハイエストオナー-闘覇-ケンマールカラムーンゼダーンGrey SovereignPrince BioMilesianMy BabuNearulaリヴァーマンNever BendNasrullahPrince JohnSir GaylordTurn-toNasrullah"
  },
  {
@@ -42328,6 +43322,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoNt",
+  "Paternal_mig": "NtHaHeHe",
   "Ped_All": "ハイシャパラルサドラーズウェルズNorthern DancerNearcticNearcoNative DancerBold ReasonHail to ReasonフォルリダルシャーンシャーリーハイツミルリーフAbdosKrisシャーペンアップHugh Lupus"
  },
  {
@@ -42413,6 +43409,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaHa",
+  "Paternal_mig": "EcEcSwEc",
   "Ped_All": "ハイセイコーチャイナロックRockefellaHyperionGainsboroughFelsteadRustom PashaSon-in-LawFriar MarcusカリムNearcoPharosMirzaBeau SonBeau PereHua"
  },
  {
@@ -42498,6 +43496,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaHa",
+  "Paternal_mig": "EcEcSwEc",
   "Ped_All": "ハイセイコーチャイナロックRockefellaHyperionGainsboroughFelsteadRustom PashaSon-in-LawFriar MarcusカリムNearcoPharosMirzaBeau SonBeau PereHua"
  },
  {
@@ -42583,6 +43583,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaHa",
+  "Paternal_mig": "EcEcSwEc",
   "Ped_All": "ハイセイコー-覇靭-チャイナロックRockefellaHyperionGainsboroughFelsteadRustom PashaSon-in-LawFriar MarcusカリムNearcoPharosMirzaBeau SonBeau PereHua"
  },
  {
@@ -42668,6 +43670,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaHa",
+  "Paternal_mig": "EcEcSwEc",
   "Ped_All": "ハイセイコー1972チャイナロックRockefellaHyperionGainsboroughFelsteadRustom PashaSon-in-LawFriar MarcusカリムNearcoPharosMirzaBeau SonBeau PereHua"
  },
  {
@@ -42753,6 +43757,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaHa",
+  "Paternal_mig": "EcEcSwEc",
   "Ped_All": "ハイセイコー1974チャイナロックRockefellaHyperionGainsboroughFelsteadRustom PashaSon-in-LawFriar MarcusカリムNearcoPharosMirzaBeau SonBeau PereHua"
  },
  {
@@ -42838,6 +43844,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaFa",
+  "Paternal_mig": "HaEcTeHe",
   "Ped_All": "ハイトップ1972Derring-DoDariusDanteNearcoDasturAbernantOwen TudorChanteurヴィミーWild RiskRialtoBlack DevilCourt MartialFair TrialMr.Jinks"
  },
  {
@@ -42923,6 +43931,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "MaTe",
+  "Paternal_mig": "HaHaSwHi",
   "Ped_All": "ハイフライフロー-覇煌-Court MartialFair TrialFairwayPhalarisSon-in-LawHurry OnMarcovilGainsboroughMy BabuDjebelTourbillonBadruddinBull DogTeddyBlue Larkspur"
  },
  {
@@ -43008,6 +44018,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtHa",
+  "Paternal_mig": "RoTeStSw",
   "Ped_All": "ハイランドリール2015ガリレオサドラーズウェルズNorthern DancerNearcticBold ReasonミスワキミスタープロスペクターLombardデインヒルダンチヒNorthern DancerヒズマジェスティMarscaybiscayZamazaan"
  },
  {
@@ -43093,6 +44105,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HiNs",
+  "Paternal_mig": "StHiMaTe",
   "Ped_All": "ハウスバスターマウントリバーモアブラッシンググルームRed GodNasrullahWild RiskCrimson SatanSpy SongRenegedGreat AboveMinnesota MacRough'n TumbleIntentionallyNew ProspectNever BendJohns Joy"
  },
  {
@@ -43178,6 +44192,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HiSt",
+  "Paternal_mig": "HaHiTeHe",
   "Ped_All": "ハチェットマン1976The AxeMahmoudBlenheimBlandfordGainsboroughShut OutEquipoiseBlue LarkspurTom FoolMenowPharamondBull DogPrince BioPrince RoseLe Capucin"
  },
  {
@@ -43263,6 +44279,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeTe",
+  "Paternal_mig": "PhHaHiTe",
   "Ped_All": "ハットトリックサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseLost CodeCodexアーツアンドレターズアクアクDamascusSword DancerSwoon's Son"
  },
  {
@@ -43348,6 +44366,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "SwSw",
+  "Paternal_mig": "HaHaHaHa",
   "Ped_All": "ハツシバオー-砂煌-タケシバオーチャイナロックRockefellaHyperionRustom PashaヤシママンナプリメロNice DayブランブルーKlaironClarionSindハクリョウプリメロトキノチカラ"
  },
  {
@@ -43433,6 +44453,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StTe",
+  "Paternal_mig": "NsTeNtSw",
   "Ped_All": "ハネダブライアンブライアンズタイムRobertoHail to ReasonTurn-toNashuaグロースタークRibotHasty RoadNorthern DancerNearcticNearcoNative DancerDamascusSword DancerAcropolis"
  },
  {
@@ -43518,6 +44540,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhNt",
+  "Paternal_mig": "RoSwTeMa",
   "Ped_All": "ハリケーンラン2005モンジューサドラーズウェルズNorthern DancerNearcticBold ReasonトップヴィルハイトップTennysonSurumuLiteratBirkhahnリライアンスシャーペンアップエタンSheshoon"
  },
  {
@@ -43603,6 +44627,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "SwMa",
+  "Paternal_mig": "EcFaHeSt",
   "Ped_All": "ハワイUtrilloToulouse LautrecDanteNearcoNavarroAlycidonDonatelloFair TrialMehraliMahmoudBlenheimTetratemaClustineCaptain CuttleLomond"
  },
  {
@@ -43688,6 +44714,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "ToTe",
+  "Paternal_mig": "NsHaFaTe",
   "Ped_All": "ハンセルウッドマンミスタープロスペクターRaise a NativeNative DancerNashuaBuckpasserTom FoolSwapsDancing CountNorthern DancerNearcticキングスベンチVictoria ParkChop ChopTantieme"
  },
  {
@@ -43773,6 +44801,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaHa",
+  "Paternal_mig": "HaEcHaHa",
   "Ped_All": "ハンターコム1970Derring-DoDariusDanteNearcoDasturAbernantOwen TudorChanteurFair TrialFairwayPhalarisSon-in-LawStraight DealSolarioGolden Eagle"
  },
  {
@@ -43858,6 +44888,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeNe",
+  "Paternal_mig": "PhHaHaHi",
   "Ped_All": "ハーツクライサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseトニービンカンパラカラムーンHornbeamリファールNorthern DancerBupers"
  },
  {
@@ -43943,6 +44975,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeNe",
+  "Paternal_mig": "PhHaHaHi",
   "Ped_All": "ハーツクライ-覇走-サンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseトニービンカンパラカラムーンHornbeamリファールNorthern DancerBupers"
  },
  {
@@ -44028,6 +45062,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeNe",
+  "Paternal_mig": "PhHaHaHi",
   "Ped_All": "ハーツクライ2005サンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseトニービンカンパラカラムーンHornbeamリファールNorthern DancerBupers"
  },
  {
@@ -44113,6 +45149,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "StHaNeHa",
   "Ped_All": "ハービンジャー2010DansiliデインヒルダンチヒNorthern DancerヒズマジェスティkahyasiイルドブルボンHigh LineBeringArctic TernSea-Birdリファールshareef dancerNorthern DancerConnaught"
  },
  {
@@ -44198,6 +45236,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "SwNt",
+  "Paternal_mig": "StFaHaRo",
   "Ped_All": "バゴ-覇煌-ナシュワンブラッシンググルームRed GodNasrullahWild RiskBustinoバステッドQueen's HussarヌレイエフNorthern DancerNearcticフォルリミスタープロスペクターRaise a Nativeヘイロー"
  },
  {
@@ -44283,6 +45323,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "SwNt",
+  "Paternal_mig": "StFaHaRo",
   "Ped_All": "バゴ2004ナシュワンブラッシンググルームRed GodNasrullahWild RiskBustinoバステッドQueen's HussarヌレイエフNorthern DancerNearcticフォルリミスタープロスペクターRaise a Nativeヘイロー"
  },
  {
@@ -44368,6 +45410,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StFa",
+  "Paternal_mig": "EcHaTeEc",
   "Ped_All": "バステッド-覇煌-CrepelloDonatelloBlenheimBlandfordClarissimusMieuxceMassineSolarioヴィミーWild RiskRialtoBlack DevilCourt MartialFair TrialPortlaw"
  },
  {
@@ -44453,6 +45497,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StFa",
+  "Paternal_mig": "EcHaTeEc",
   "Ped_All": "バステッド1967CrepelloDonatelloBlenheimBlandfordClarissimusMieuxceMassineSolarioヴィミーWild RiskRialtoBlack DevilCourt MartialFair TrialPortlaw"
  },
  {
@@ -44538,6 +45584,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "ToHa",
+  "Paternal_mig": "HaHiHaFa",
   "Ped_All": "バンブーアトラスジムフレンチグロースタークRibotTeneraniAlibhaiTom FoolMenowBlue LarkspurテスコボーイPrincely GiftNasrullahHyperionMarsyasTrimdonFair Trial"
  },
  {
@@ -44623,6 +45671,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsPh",
+  "Paternal_mig": "SwNeHeHe",
   "Ped_All": "バンブーメモリーモーニングフローリックGrey DawnエルバジェVandaleMahmoudBold HourBold RulerNearcticモバリッズSing SingTudor MinstrelGuard's TieニンバスNearcoセフト"
  },
  {
@@ -44708,6 +45758,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "StToHiNe",
   "Ped_All": "バーナーディニエーピーインディシアトルスルーBold ReasoningBoldnesianPokerセクレタリアトBold RulerBuckpasserQuiet AmericanファピアノミスタープロスペクタードクターフェイガーSpectacular BidBold BidderNorthern Dancer"
  },
  {
@@ -44793,6 +45845,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "TeRo",
+  "Paternal_mig": "NtTeEcSw",
   "Ped_All": "パレスミュージック1995The MinstrelNorthern DancerNearcticNearcoNative DancerVictoria ParkChop ChopBull PagePrince JohnPrincequilloPrince RoseCount FleetTurn-toRoyal ChargerMahmoud"
  },
  {
@@ -44878,6 +45932,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaRo",
+  "Paternal_mig": "NtNsNsSw",
   "Ped_All": "パントレセレブル1997ヌレイエフNorthern DancerNearcticNearcoNative DancerフォルリAristophanesNantallahアリダーRaise a NativeNative DancerOn-and-OnハビタットSir GaylordLe Haar"
  },
  {
@@ -44963,6 +46019,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HaTe",
+  "Paternal_mig": "SwSwEcHe",
   "Ped_All": "パーソロン1971MilesianMy BabuDjebelTourbillonBadruddinCoup de LyonWinalotBlandfordPharisPharosPhalarisClarissimusAbjerAsterusTourbillon"
  },
  {
@@ -45048,6 +46106,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "EcHa",
+  "Paternal_mig": "EcHeEcEc",
   "Ped_All": "ヒカルタカイ1968リンボーWar AdmiralMan o'WarFair PlaySweepBoojumJohn P. GrierStefan the GreatハクリョウプリメロBlandfordダイオライトクモハタトウルヌソルダイオライト"
  },
  {
@@ -45133,6 +46193,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StMa",
+  "Paternal_mig": "NeRoNsNt",
   "Ped_All": "ヒコボシアルタイルMazagミスタープロスペクターRaise a NativeニジンスキーStage Door JohnnyPrince JohnHail to ReasonノボトゥルーブロードブラッシュアクアクNaskraウォーニングノウンファクトMajestic Light"
  },
  {
@@ -45218,6 +46280,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "PhHa",
+  "Paternal_mig": "EcEcEcSw",
   "Ped_All": "ヒズマジェスティ-覇煌-RibotTeneraniBelliniCavaliere d'ArpinoApelleEl GrecoPharosPapyrusAlibhaiHyperionGainsboroughTraceryBeau PereSon-in-LawMahmoud"
  },
  {
@@ -45303,6 +46367,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "PhHa",
+  "Paternal_mig": "EcEcEcSw",
   "Ped_All": "ヒズマジェスティ1982RibotTeneraniBelliniCavaliere d'ArpinoApelleEl GrecoPharosPapyrusAlibhaiHyperionGainsboroughTraceryBeau PereSon-in-LawMahmoud"
  },
  {
@@ -45388,6 +46454,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "HaSt",
+  "Paternal_mig": "HaEcRoEc",
   "Ped_All": "ヒャクネンニヒトリDerring-DoDariusDanteNearcoDasturAbernantOwen TudorChanteurアクアクBattle JoinedArmageddonTurn-toGallant ManMigoliEight Thirty"
  },
  {
@@ -45473,6 +46541,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "EcSw",
+  "Paternal_mig": "EcStEcHa",
   "Ped_All": "ヒンドスタン-闘煌-Bois RousselVatoutPrince ChimayChaucerSans SouciSpearmintCarbineSt.SimonSolarioGainsboroughBayardoSundridgeBlandfordSwynfordBridaine"
  },
  {
@@ -45558,6 +46628,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StTe",
+  "Paternal_mig": "MaNsNtSw",
   "Ped_All": "ビアハヤヒデシャルードカロフォルティノGrey SovereignChamossaireCougarTale of Two CitiesFleet NasrullahNorthern DancerNearcticNearcoNative DancerDamascusSword DancerAcropolis"
  },
  {
@@ -45643,6 +46715,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StTe",
+  "Paternal_mig": "MaNsNtSw",
   "Ped_All": "ビワハヤヒデシャルードカロフォルティノGrey SovereignChamossaireCougarTale of Two CitiesFleet NasrullahNorthern DancerNearcticNearcoNative DancerDamascusSword DancerAcropolis"
  },
  {
@@ -45728,6 +46802,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StTe",
+  "Paternal_mig": "MaNsNtSw",
   "Ped_All": "ビワハヤヒデシャルードカロフォルティノGrey SovereignChamossaireCougarTale of Two CitiesFleet NasrullahNorthern DancerNearcticNearcoNative DancerDamascusSword DancerAcropolis"
  },
  {
@@ -45813,6 +46889,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StTe",
+  "Paternal_mig": "MaNsNtSw",
   "Ped_All": "ビワハヤヒデ-闘煌-シャルードカロフォルティノGrey SovereignChamossaireCougarTale of Two CitiesFleet NasrullahNorthern DancerNearcticNearcoNative DancerDamascusSword DancerAcropolis"
  },
  {
@@ -45898,6 +46976,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StTe",
+  "Paternal_mig": "MaNsNtSw",
   "Ped_All": "ビワハヤヒデ1993シャルードカロフォルティノGrey SovereignChamossaireCougarTale of Two CitiesFleet NasrullahNorthern DancerNearcticNearcoNative DancerDamascusSword DancerAcropolis"
  },
  {
@@ -45983,6 +47063,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StTe",
+  "Paternal_mig": "MaNsNtSw",
   "Ped_All": "ビワハヤヒデ1994シャルードカロフォルティノGrey SovereignChamossaireCougarTale of Two CitiesFleet NasrullahNorthern DancerNearcticNearcoNative DancerDamascusSword DancerAcropolis"
  },
  {
@@ -46068,6 +47150,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NtHi",
+  "Paternal_mig": "HaSwSwEc",
   "Ped_All": "ビーマイゲスト1982Northern DancerNearcticNearcoPharosHyperionNative DancerPolynesianMahmoudTudor MinstrelOwen TudorHyperionSansovinoStymieEquestrianEight Thirty"
  },
  {
@@ -46153,6 +47237,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "ToNs",
+  "Paternal_mig": "TeNsHaRo",
   "Ped_All": "ピルサドスキーPolish PrecedentダンチヒNorthern DancerNearcticAdmiral's VoyageBuckpasserTom FoolボールドラッドトロイペティンゴPetitionHornbeamミルリーフNever BendSir Gaylord"
  },
  {
@@ -46238,6 +47324,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "ToNs",
+  "Paternal_mig": "TeNsHaRo",
   "Ped_All": "ピルサドスキー-覇走-Polish PrecedentダンチヒNorthern DancerNearcticAdmiral's VoyageBuckpasserTom FoolボールドラッドトロイペティンゴPetitionHornbeamミルリーフNever BendSir Gaylord"
  },
  {
@@ -46323,6 +47411,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "ToNs",
+  "Paternal_mig": "TeNsHaRo",
   "Ped_All": "ピルサドスキー1997Polish PrecedentダンチヒNorthern DancerNearcticAdmiral's VoyageBuckpasserTom FoolボールドラッドトロイペティンゴPetitionHornbeamミルリーフNever BendSir Gaylord"
  },
  {
@@ -46408,6 +47498,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeSt",
+  "Paternal_mig": "HaNsHePh",
   "Ped_All": "ピンズsnippetslunchtimeSilly SeasonTom FoolHornbeamgrand chaudiereNorthern DancerMisty DayKaoru StarStar KingdomStardustEmperorPirate KingPrince ChevalierNilo"
  },
  {
@@ -46493,6 +47585,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "RoNe",
+  "Paternal_mig": "NeNtNeNt",
   "Ped_All": "ファインニードルアドマイヤムーンエンドスウィープフォーティナイナーミスタープロスペクターDance SpellサンデーサイレンスヘイローKrisMark of EsteemダルシャーンシャーリーハイツAjdalロイヤルアカデミーニジンスキーシャーペンアップ"
  },
  {
@@ -46578,6 +47672,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoNs",
+  "Paternal_mig": "NtHaFaEc",
   "Ped_All": "ファザーランド-瞬発-サドラーズウェルズNorthern DancerNearcticNearcoNative DancerBold ReasonHail to ReasonフォルリフォルリAristophanesHyperionAdvocateNantallahNasrullahGold Bridge"
  },
  {
@@ -46663,6 +47759,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StRo",
+  "Paternal_mig": "TeToHiHe",
   "Ped_All": "ファストネットロックデインヒルダンチヒNorthern DancerNearcticAdmiral's VoyageヒズマジェスティRibotBuckpasserロイヤルアカデミーニジンスキーNorthern DancerCrimson SatanmaraudingSir Tristramtwig moss"
  },
  {
@@ -46748,6 +47846,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NsSw",
+  "Paternal_mig": "TeEcHiSt",
   "Ped_All": "ファピアノ1981ミスタープロスペクターRaise a NativeNative DancerPolynesianCase AceNashuaNasrullahCount FleetドクターフェイガーRough'n TumbleFree for AllBetter SelfCorrelationFree AmericaPrincequillo"
  },
  {
@@ -46833,6 +47933,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtHa",
+  "Paternal_mig": "HaSwHeNs",
   "Ped_All": "フェアリーキングNorthern DancerNearcticNearcoPharosHyperionNative DancerPolynesianMahmoudBold ReasonHail to ReasonTurn-toDjeddahフォルリAristophanesNantallah"
  },
  {
@@ -46918,6 +48020,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaHi",
+  "Paternal_mig": "HeMaSwEc",
   "Ped_All": "フェートメーカー1975SwapsKhaledHyperionGainsboroughEthnarchBeau PereSon-in-LawWar AdmiralナディアNasrullahNearcoChallengerAlquestQuestionnaireJack High"
  },
  {
@@ -47003,6 +48107,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "EcHa",
+  "Paternal_mig": "SwSwHiTe",
   "Ped_All": "フォルティノ1962Grey SovereignNasrullahNearcoPharosBlenheimBaytownAchtoiHainaultRelicWar RelicMan o'WarBlack ToneyOrsenigoOleanderOrtello"
  },
  {
@@ -47088,6 +48194,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StHa",
+  "Paternal_mig": "StPhEcSt",
   "Ped_All": "フォルリ1966AristophanesHyperionGainsboroughBayardoChaucerMieuxceMassineColoradoAdvocateFair TrialFairwayPapyrusFoxgloveFoxhunterYour Majesty"
  },
  {
@@ -47173,6 +48281,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "NsHi",
+  "Paternal_mig": "TeEcTeNs",
   "Ped_All": "フォーティナイナーミスタープロスペクターRaise a NativeNative DancerPolynesianCase AceNashuaNasrullahCount FleetトムロルフRibotTeneraniRomanDouble JayBalladierNasrullah"
  },
  {
@@ -47258,6 +48368,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "NsHi",
+  "Paternal_mig": "TeEcTeNs",
   "Ped_All": "フォーティナイナー1987ミスタープロスペクターRaise a NativeNative DancerPolynesianCase AceNashuaNasrullahCount FleetトムロルフRibotTeneraniRomanDouble JayBalladierNasrullah"
  },
  {
@@ -47343,6 +48455,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "EcMa",
+  "Paternal_mig": "NtHeTeSw",
   "Ped_All": "フォーントリックClever TrickアイスカペイドNearcticNearcoNative DancerBetter BeeトリプリケートDjeddahFinneganRoyal ChargerNearcoBull LeaMr.BusherWar AdmiralCientifico"
  },
  {
@@ -47428,6 +48542,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsRo",
+  "Paternal_mig": "TeEcTeHa",
   "Ped_All": "フサイチペガサスミスタープロスペクターRaise a NativeNative DancerPolynesianCase AceNashuaNasrullahCount FleetダンチヒNorthern DancerNearcticAdmiral's VoyageヘイローHail to ReasonRambunctious"
  },
  {
@@ -47513,6 +48629,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeMa",
+  "Paternal_mig": "PhHaEcNs",
   "Ped_All": "フジキセキ2003サンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseLe FabuleuxWild RiskRialtoVersoインリアリティIntentionallyCornish Prince"
  },
  {
@@ -47598,6 +48716,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "StRoNeHa",
   "Ped_All": "フラワーアレイ2009Distorted humorフォーティナイナーミスタープロスペクターRaise a NativeトムロルフダンチヒNorthern DancerMr.LeaderLyciusミスタープロスペクターRaise a NativeリファールサドラーズウェルズNorthern Dancerヴェイグリーノーブル"
  },
  {
@@ -47683,6 +48803,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NtNs",
+  "Paternal_mig": "RoTeStSt",
   "Ped_All": "フランケル-覇走-ガリレオサドラーズウェルズNorthern DancerNearcticBold ReasonミスワキミスタープロスペクターLombardデインヒルダンチヒNorthern DancerヒズマジェスティレインボウクエストブラッシンググルームStage Door Johnny"
  },
  {
@@ -47768,6 +48890,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NtNs",
+  "Paternal_mig": "RoTeStSt",
   "Ped_All": "フランケル2012ガリレオサドラーズウェルズNorthern DancerNearcticBold ReasonミスワキミスタープロスペクターLombardデインヒルダンチヒNorthern DancerヒズマジェスティレインボウクエストブラッシンググルームStage Door Johnny"
  },
  {
@@ -47853,6 +48977,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "StNe",
+  "Paternal_mig": "NsTeNsNs",
   "Ped_All": "フリオーソ-砂煌-ブライアンズタイムRobertoHail to ReasonTurn-toNashuaグロースタークRibotHasty RoadミスタープロスペクターRaise a NativeNative DancerNashuaヌレイエフNorthern Dancerリヴァーマン"
  },
  {
@@ -47938,6 +49064,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NsTe",
+  "Paternal_mig": "HiTeHaEc",
   "Ped_All": "ブライアンズタイムRobertoHail to ReasonTurn-toRoyal ChargerBlue SwordsNashuaNasrullahBull LeaグロースタークRibotTeneraniAlibhaiHasty RoadRomanEight Thirty"
  },
  {
@@ -48023,6 +49151,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NsTe",
+  "Paternal_mig": "HiTeHaEc",
   "Ped_All": "ブライアンズタイム-覇煌-RobertoHail to ReasonTurn-toRoyal ChargerBlue SwordsNashuaNasrullahBull LeaグロースタークRibotTeneraniAlibhaiHasty RoadRomanEight Thirty"
  },
  {
@@ -48108,6 +49238,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NsTe",
+  "Paternal_mig": "HiTeHaEc",
   "Ped_All": "ブライアンズタイム1995RobertoHail to ReasonTurn-toRoyal ChargerBlue SwordsNashuaNasrullahBull LeaグロースタークRibotTeneraniAlibhaiHasty RoadRomanEight Thirty"
  },
  {
@@ -48193,6 +49325,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtRo",
+  "Paternal_mig": "NeNeNeNe",
   "Ped_All": "ブラストワンピース2018ハービンジャーDansiliデインヒルダンチヒkahyasiBeringArctic Ternshareef dancerキングカメハメハキングマンボミスタープロスペクターラストタイクーンフジキセキサンデーサイレンスエルグランセニョール"
  },
  {
@@ -48278,6 +49412,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "ToNs",
+  "Paternal_mig": "NsStHaTe",
   "Ped_All": "ブラックタイアフェアーミスワキミスタープロスペクターRaise a NativeNative DancerNashuaBuckpasserTom FoolPrincequilloAl HattabThe AxeMahmoudAbernantBold CommanderBold RulerCrafty Admiral"
  },
  {
@@ -48363,6 +49499,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeSw",
+  "Paternal_mig": "PhHaRoFa",
   "Ped_All": "ブラックタイド2012サンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseアルザオリファールNorthern DancerサーアイヴァーバステッドCrepelloQueen's Hussar"
  },
  {
@@ -48448,6 +49586,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "HaNs",
+  "Paternal_mig": "NtNsPhSw",
   "Ped_All": "ブラックホーク-覇走-ヌレイエフNorthern DancerNearcticNearcoNative DancerフォルリAristophanesNantallahシルヴァーホークRobertoHail to ReasonアメリゴChieftainBold RulerMahmoud"
  },
  {
@@ -48533,6 +49673,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhHa",
+  "Paternal_mig": "SwTeSwSw",
   "Ped_All": "ブラッシンググルーム1978Red GodNasrullahNearcoPharosBlenheimMenowPharamondBull DogWild RiskRialtoRabelaisBlandfordTudor MinstrelOwen TudorUmidwar"
  },
  {
@@ -48618,6 +49760,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HeTe",
+  "Paternal_mig": "SwHiEcSw",
   "Ped_All": "ブレイヴェストローマンNever BendNasrullahNearcoPharosBlenheimDjeddahDjebelBimelechRomanSir GallahadTeddyBuchanSun AgainSun TeddyJacopo"
  },
  {
@@ -48703,6 +49847,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoRo",
+  "Paternal_mig": "HiStMaHa",
   "Ped_All": "ブロードブラッシュ-闘志-アクアクBattle JoinedArmageddonAlsabRevokedTurn-toRoyal ChargerPrincequilloHoist the FlagトムロルフRibotWar AdmiralTurn-toRoyal ChargerDark Star"
  },
  {
@@ -48788,6 +49934,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "HeHa",
+  "Paternal_mig": "PhPhMaNs",
   "Ped_All": "プライヴェートアカウント-闘志-DamascusSword DancerSunglowSun AgainBy JimminyMy BabuDjebelSickleBuckpasserTom FoolMenowWar AdmiralSwapsKhaledNasrullah"
  },
  {
@@ -48873,6 +50021,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "HeHa",
+  "Paternal_mig": "PhPhMaNs",
   "Ped_All": "プライヴェートアカウント1988DamascusSword DancerSunglowSun AgainBy JimminyMy BabuDjebelSickleBuckpasserTom FoolMenowWar AdmiralSwapsKhaledNasrullah"
  },
  {
@@ -48958,6 +50108,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StHe",
+  "Paternal_mig": "HaMaMaSw",
   "Ped_All": "プラグドニックル-瞬発-キートゥザミントグロースタークRibotTeneraniAlibhaiPrincequilloPrince RoseWar AdmiralBuckpasserTom FoolMenowWar AdmiralMy BabuDjebelUmidwar"
  },
  {
@@ -49043,6 +50195,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeNe",
+  "Paternal_mig": "HaHaSwEc",
   "Ped_All": "プラティニSurumuLiteratBirkhahnAlchimistMasettoリライアンスTantiemeHyperionStanfordRed GodNasrullahバステッドNorthfieldsNorthern DancerZank"
  },
  {
@@ -49128,6 +50282,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "SwMa",
+  "Paternal_mig": "HaPhPhEc",
   "Ped_All": "プルーデントMy BabuDjebelTourbillonKsarGay CrusaderBadruddinBlandfordPharosEastonDark LegendDark RonaldPhalarisMan o'WarFair PlayFriar Rock"
  },
  {
@@ -49213,6 +50369,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNs",
+  "Paternal_mig": "PhHaStEc",
   "Ped_All": "プレザントコロニー-闘志-ヒズマジェスティRibotTeneraniBelliniEl GrecoAlibhaiHyperionBeau PereSunrise FlightDouble JayBalladierPrincequilloCockrullahNasrullahGuatan"
  },
  {
@@ -49298,6 +50456,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HiNs",
+  "Paternal_mig": "HaNsPhPh",
   "Ped_All": "プレザントタップ1992プレザントコロニーヒズマジェスティRibotTeneraniAlibhaiSunrise FlightDouble JayCockrullahStage Door JohnnyPrince JohnPrincequilloBallymossNever BendNasrullahPolynesian"
  },
  {
@@ -49383,6 +50543,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HiSw",
+  "Paternal_mig": "EcTeHiMa",
   "Ped_All": "ヘイロー1983Hail to ReasonTurn-toRoyal ChargerNearcoAdmiral DrakeBlue SwordsBlue LarkspurSir GallahadCosmic BombPharamondPhalarisBlue LarkspurMahmoudBlenheimPeace Chance"
  },
  {
@@ -49468,6 +50630,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "ToTe",
+  "Paternal_mig": "NsHaStNe",
   "Ped_All": "ヘクタープロテクター1990ウッドマンミスタープロスペクターRaise a NativeNative DancerNashuaBuckpasserTom FoolSwapsリヴァーマンNever BendNasrullahPrince JohnDamascusSword DancerNorthern Dancer"
  },
  {
@@ -49553,6 +50717,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaHe",
+  "Paternal_mig": "HaEcHePh",
   "Ped_All": "ベルワイド-剛健-インディアナSayajiraoNearcoPharosDark LegendSolarioGainsboroughApelleAuribanPharisPharosTourbillonDjebelTourbillonPharos"
  },
  {
@@ -49638,6 +50804,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StPh",
+  "Paternal_mig": "TeStHaHe",
   "Ped_All": "ペイザバトラー1988Val de l'OrneVal de LoirVieux ManoirBrantomeSunny BoyArmisticeWordenMoussonグロースタークRibotTeneraniAlibhaiSilnetFastnetArbar"
  },
  {
@@ -49723,6 +50891,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaPh",
+  "Paternal_mig": "HaStHaMa",
   "Ped_All": "ペティンゴPetitionFair TrialFairwayPhalarisSon-in-LawArtist's ProofGainsboroughFairy KingAlycidonDonatelloBlenheimHyperionNearcoPharosThe Recorder"
  },
  {
@@ -49808,6 +50978,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaHe",
+  "Paternal_mig": "NtHiStPh",
   "Ped_All": "ペンタイア2004ビーマイゲストNorthern DancerNearcticNearcoNative DancerTudor MinstrelOwen TudorStymieミルリーフNever BendNasrullahPrincequilloBlakeneyHethersettハーディカヌート"
  },
  {
@@ -49893,6 +51065,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "HeTe",
+  "Paternal_mig": "HeStFaHe",
   "Ped_All": "ホクトシチセイゴー20XXリンドホシサンデイクリークペティンゴPetitionKlaironミステリーMilesianコダマリマンドアルサイドAlycidonPalestineラバージョンDamascusパーソロン"
  },
  {
@@ -49978,6 +51152,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "NsNeNeEc",
   "Ped_All": "ホクトシンケン20XXセイウンスカイシェリフズスターポッセフォルリカラムーンミルジョージミルリーフモガミキングマンボミスタープロスペクターRaise a NativeヌレイエフシアトルスルーBold ReasoningPastiche"
  },
  {
@@ -50063,6 +51239,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNt",
+  "Paternal_mig": "NeHeRoNs",
   "Ped_All": "ホッコータルマエキングカメハメハキングマンボミスタープロスペクターRaise a NativeヌレイエフラストタイクーントライマイベストBlakeneyCherokee RunRunaway GroomブラッシンググルームSilver SaberUnbridledファピアノBold Forbes"
  },
  {
@@ -50148,6 +51326,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNt",
+  "Paternal_mig": "NeHeRoNs",
   "Ped_All": "ホッコータルマエ-瞬砂-キングカメハメハキングマンボミスタープロスペクターRaise a NativeヌレイエフラストタイクーントライマイベストBlakeneyCherokee RunRunaway GroomブラッシンググルームSilver SaberUnbridledファピアノBold Forbes"
  },
  {
@@ -50233,6 +51413,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "StHe",
+  "Paternal_mig": "HaFaEcFa",
   "Ped_All": "ホーリーシックスハイトップDerring-DoDariusDanteAbernantヴィミーWild RiskCourt MartialGrey SovereignNasrullahNearcoBaytownMy BabuDjebelFair Trial"
  },
  {
@@ -50318,6 +51500,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNe",
+  "Paternal_mig": "TeToStTe",
   "Ped_All": "ホーリーローマンエンペラーデインヒルダンチヒNorthern DancerNearcticAdmiral's VoyageヒズマジェスティRibotBuckpasserセクレタリアトBold RulerNasrullahPrincequilloNorthern DancerNearcticChop Chop"
  },
  {
@@ -50403,6 +51587,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "FaHi",
+  "Paternal_mig": "StHaMaEc",
   "Ped_All": "ポッセフォルリAristophanesHyperionGainsboroughMieuxceAdvocateFair TrialFoxgloveBold RulerNasrullahNearcoDiscoveryBetter SelfBimelechEight Thirty"
  },
  {
@@ -50488,6 +51674,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNt",
+  "Paternal_mig": "TeNeHaMa",
   "Ped_All": "ポマードファルコンゴールドアリュールサンデーサイレンスヘイローHail to ReasonアンダースタンディングヌレイエフNorthern DancerHostageミシシッピアンヴェイグリーノーブルヴィエナDark StarクラウンドプリンスRaise a Nativeシルバーシャーク"
  },
  {
@@ -50573,6 +51761,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "TeMa",
+  "Paternal_mig": "NtFaSwHi",
   "Ped_All": "ポリッシュネイビー1987ダンチヒNorthern DancerNearcticNearcoNative DancerAdmiral's VoyageCrafty AdmiralPetitionTatanThe YuvarajFairwayDonatelloWar AdmiralMan o'WarBlue Larkspur"
  },
  {
@@ -50658,6 +51848,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "FaFa",
+  "Paternal_mig": "HaHaHaHa",
   "Ped_All": "マイスワローLe LevanstellLe LavandouDjebelTourbillonRustom PashaBallyoganFair TrialKnight of the Garter IIVilmorayVilmorinGold BridgeApronFalls of ClydeFair TrialPink Flower"
  },
  {
@@ -50743,6 +51935,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StHi",
+  "Paternal_mig": "PhHaMaHi",
   "Ped_All": "マウントリバーモア1987ブラッシンググルームRed GodNasrullahNearcoMenowWild RiskRialtoTudor MinstrelCrimson SatanSpy SongBalladierRequiebroRenegedRevokedRequested"
  },
  {
@@ -50828,6 +52022,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "TeSwStRo",
   "Ped_All": "マカヒキ2016ディープインパクトサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドフレンチデピュティデピュティミニスターVice RegentHold Your PeaceRainbow Cornerレインボウクエストサザンヘイロー"
  },
  {
@@ -50913,6 +52109,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "StNe",
+  "Paternal_mig": "RoHiNsHa",
   "Ped_All": "マカベノチェーンシルバーチャームシルバーバックBuckpasserTom FoolHail to ReasonPokerRound TableWise MarginミスタープロスペクターRaise a NativeNative DancerNashuaVice RegentNorthern Dancerエルバジェ"
  },
  {
@@ -50998,6 +52196,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NsSt",
+  "Paternal_mig": "TeEcPhNt",
   "Ped_All": "マキャベリアンミスタープロスペクターRaise a NativeNative DancerPolynesianCase AceNashuaNasrullahCount FleetヘイローHail to ReasonTurn-toCosmic BombHoist the FlagトムロルフNative Dancer"
  },
  {
@@ -51083,6 +52283,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NsSt",
+  "Paternal_mig": "TeEcPhNt",
   "Ped_All": "マキャベリアン-瞬闘-ミスタープロスペクターRaise a NativeNative DancerPolynesianCase AceNashuaNasrullahCount FleetヘイローHail to ReasonTurn-toCosmic BombHoist the FlagトムロルフNative Dancer"
  },
  {
@@ -51168,6 +52370,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NsSt",
+  "Paternal_mig": "TeEcPhNt",
   "Ped_All": "マキャベリアン1989ミスタープロスペクターRaise a NativeNative DancerPolynesianCase AceNashuaNasrullahCount FleetヘイローHail to ReasonTurn-toCosmic BombHoist the FlagトムロルフNative Dancer"
  },
  {
@@ -51253,6 +52457,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NsSt",
+  "Paternal_mig": "TeEcPhNt",
   "Ped_All": "マキャベリアン1998ミスタープロスペクターRaise a NativeNative DancerPolynesianCase AceNashuaNasrullahCount FleetヘイローHail to ReasonTurn-toCosmic BombHoist the FlagトムロルフNative Dancer"
  },
  {
@@ -51338,6 +52544,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StSw",
+  "Paternal_mig": "HeEcPhFa",
   "Ped_All": "マグニテュードミルリーフNever BendNasrullahNearcoDjeddahPrincequilloPrince RoseCount FleetセントクレスピンAureoleHyperionNearcoCrepelloDonatelloBlue Peter"
  },
  {
@@ -51423,6 +52631,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "TeHa",
+  "Paternal_mig": "MaMaHaSw",
   "Ped_All": "マジェスティックプリンス1969Raise a NativeNative DancerPolynesianUnbreakableDiscoveryCase AceTeddyAmerican FlagRoyal ChargerNearcoPharosSolarioAlibhaiHyperionMahmoud"
  },
  {
@@ -51508,6 +52718,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NtNe",
+  "Paternal_mig": "StNsSwSt",
   "Ped_All": "マスタークラフツマンDanehill DancerデインヒルダンチヒNorthern DancerヒズマジェスティシャーペンアップエタンカロブラックタイアフェアーミスワキミスタープロスペクターAl HattabリファールNorthern DancerRibot"
  },
  {
@@ -51593,6 +52805,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "TeNt",
+  "Paternal_mig": "PhHaStNs",
   "Ped_All": "マツリダゴッホ2007サンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseBel BolideBold BidderBold RulerグロースタークAffirmedExclusive NativeNever Bend"
  },
  {
@@ -51678,6 +52892,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StHa",
+  "Paternal_mig": "NsTeStHa",
   "Ped_All": "マヤノトップガン-覇走-ブライアンズタイムRobertoHail to ReasonTurn-toNashuaグロースタークRibotHasty RoadブラッシンググルームRed GodNasrullahWild RiskヴェイグリーノーブルヴィエナMy Host"
  },
  {
@@ -51763,6 +52979,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StHa",
+  "Paternal_mig": "NsTeStHa",
   "Ped_All": "マヤノトップガン1995ブライアンズタイムRobertoHail to ReasonTurn-toNashuaグロースタークRibotHasty RoadブラッシンググルームRed GodNasrullahWild RiskヴェイグリーノーブルヴィエナMy Host"
  },
  {
@@ -51848,6 +53066,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StHa",
+  "Paternal_mig": "NsTeStHa",
   "Ped_All": "マヤノトップガン1996ブライアンズタイムRobertoHail to ReasonTurn-toNashuaグロースタークRibotHasty RoadブラッシンググルームRed GodNasrullahWild RiskヴェイグリーノーブルヴィエナMy Host"
  },
  {
@@ -51933,6 +53153,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StHa",
+  "Paternal_mig": "NsTeStHa",
   "Ped_All": "マヤノトップガン1997ブライアンズタイムRobertoHail to ReasonTurn-toNashuaグロースタークRibotHasty RoadブラッシンググルームRed GodNasrullahWild RiskヴェイグリーノーブルヴィエナMy Host"
  },
  {
@@ -52018,6 +53240,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "StToNsHa",
   "Ped_All": "マリブムーンエーピーインディシアトルスルーBold ReasoningBoldnesianPokerセクレタリアトBold RulerBuckpasserミスタープロスペクターRaise a NativeNative DancerNashuaグリーンダンサーニジンスキーSwaps"
  },
  {
@@ -52103,6 +53327,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "TeSt",
+  "Paternal_mig": "NtPhMaEc",
   "Ped_All": "マルゼンスキー1977ニジンスキーNorthern DancerNearcticNearcoNative DancerBull PageBull LeaMenowBuckpasserTom FoolMenowWar AdmiralPrincequilloPrince RoseCount Fleet"
  },
  {
@@ -52188,6 +53414,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaSw",
+  "Paternal_mig": "HeHaHaHa",
   "Ped_All": "マンデュロモンズーンKonigsstuhlDschingis KhanTamerlaneTiepolettoSurumuLiteratAuthiビーマイゲストNorthern DancerNearcticTudor MinstrelElektrantDschingis KhanNorfolk"
  },
  {
@@ -52273,6 +53501,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "TeHa",
+  "Paternal_mig": "PhHaNsEc",
   "Ped_All": "マンハッタンカフェ-剛健-サンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseLaw SocietyアレッジドHoist the FlagBoldnesianLucianoHenry the SeventhTicino"
  },
  {
@@ -52358,6 +53588,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "TeHa",
+  "Paternal_mig": "PhHaNsEc",
   "Ped_All": "マンハッタンカフェ2001サンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseLaw SocietyアレッジドHoist the FlagBoldnesianLucianoHenry the SeventhTicino"
  },
  {
@@ -52443,6 +53675,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "ToRo",
+  "Paternal_mig": "HiHaNtSt",
   "Ped_All": "マークオブディスティンクション1990ノウンファクトインリアリティIntentionallyIntentRough'n TumbleTim TamTom FoolTudor MinstrelアイスカペイドNearcticNearcoNative DancerRobertoHail to ReasonSicambre"
  },
  {
@@ -52528,6 +53762,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NtNs",
+  "Paternal_mig": "StNsTeNe",
   "Ped_All": "マーシーズラブマチカネキンノホシシアトルスルーBold ReasoningBoldnesianPokerアリダーRaise a NativeLt.StevensサンデーサイレンスヘイローHail to ReasonアンダースタンディングジャッジアンジェルーチHonest Pleasureノーザンテースト"
  },
  {
@@ -52613,6 +53849,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "TeTo",
+  "Paternal_mig": "PhHaFaNt",
   "Ped_All": "マーベラスサンデー1997サンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseヴァイスリーガルNorthern DancerNearcticMenetrierLaugh AloudTom FoolNative Dancer"
  },
  {
@@ -52698,6 +53936,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "08",
+  "Paternal_jik": "HaPh",
+  "Paternal_mig": "HaHaEcHa",
   "Ped_All": "ミスターシービートウショウボーイテスコボーイPrincely GiftNasrullahHyperionYour HostAlibhaiEastonトピオFine TopFine ArtDeliriumアドミラルバードNearcoゲイタイム"
  },
  {
@@ -52783,6 +54023,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "08",
+  "Paternal_jik": "HaPh",
+  "Paternal_mig": "HaHaEcHa",
   "Ped_All": "ミスターシービー-瞬発-トウショウボーイテスコボーイPrincely GiftNasrullahHyperionYour HostAlibhaiEastonトピオFine TopFine ArtDeliriumアドミラルバードNearcoゲイタイム"
  },
  {
@@ -52868,6 +54110,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "08",
+  "Paternal_jik": "HaPh",
+  "Paternal_mig": "HaHaEcHa",
   "Ped_All": "ミスターシービー1983トウショウボーイテスコボーイPrincely GiftNasrullahHyperionYour HostAlibhaiEastonトピオFine TopFine ArtDeliriumアドミラルバードNearcoゲイタイム"
  },
  {
@@ -52953,6 +54197,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "TeEc",
+  "Paternal_mig": "MaMaHaTe",
   "Ped_All": "ミスタープロスペクター-極走-Raise a NativeNative DancerPolynesianUnbreakableDiscoveryCase AceTeddyAmerican FlagNashuaNasrullahNearcoJohnstownCount FleetReigh CountBull Dog"
  },
  {
@@ -53038,6 +54284,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "TeEc",
+  "Paternal_mig": "MaMaHaTe",
   "Ped_All": "ミスタープロスペクター1984Raise a NativeNative DancerPolynesianUnbreakableDiscoveryCase AceTeddyAmerican FlagNashuaNasrullahNearcoJohnstownCount FleetReigh CountBull Dog"
  },
  {
@@ -53123,6 +54371,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "TeEc",
+  "Paternal_mig": "MaMaHaTe",
   "Ped_All": "ミスタープロスペクター1987Raise a NativeNative DancerPolynesianUnbreakableDiscoveryCase AceTeddyAmerican FlagNashuaNasrullahNearcoJohnstownCount FleetReigh CountBull Dog"
  },
  {
@@ -53208,6 +54458,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "NsSt",
+  "Paternal_mig": "TeEcMaNs",
   "Ped_All": "ミスワキ-覇走-ミスタープロスペクターRaise a NativeNative DancerPolynesianCase AceNashuaNasrullahCount FleetBuckpasserTom FoolMenowWar AdmiralPrincequilloPrince RoseNasrullah"
  },
  {
@@ -53293,6 +54545,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "NsSt",
+  "Paternal_mig": "TeEcMaNs",
   "Ped_All": "ミスワキ1980ミスタープロスペクターRaise a NativeNative DancerPolynesianCase AceNashuaNasrullahCount FleetBuckpasserTom FoolMenowWar AdmiralPrincequilloPrince RoseNasrullah"
  },
  {
@@ -53378,6 +54632,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "HaMa",
+  "Paternal_mig": "StSwSwEc",
   "Ped_All": "ミソノブルボンマグニテュードミルリーフNever BendNasrullahPrincequilloセントクレスピンAureoleCrepelloシャレーリュティエKlaironDouble JumpユアハイネスChamossaireライジングフレーム"
  },
  {
@@ -53463,6 +54719,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "MaEc",
+  "Paternal_mig": "EcStStSt",
   "Ped_All": "ミハルオー月友Man o'WarFair PlayHastingsRock SandSir MartinOgdenCollarプリメロBlandfordSwynfordFarasiシアンモアBuchanインタグリオー"
  },
  {
@@ -53548,6 +54806,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "08",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HeHa",
+  "Paternal_mig": "HaHaNsHa",
   "Ped_All": "ミホシンザンシンザンヒンドスタンBois RousselVatoutSolarioハヤタケセフトトウルヌソルムーティエSicambrePrince BioNasrullahWill SomersTudor Minstrelヴィエナ"
  },
  {
@@ -53633,6 +54893,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "HaMa",
+  "Paternal_mig": "StSwSwEc",
   "Ped_All": "ミホノブルボン-闘覇-マグニテュードミルリーフNever BendNasrullahPrincequilloセントクレスピンAureoleCrepelloシャレーリュティエKlaironDouble JumpユアハイネスChamossaireライジングフレーム"
  },
  {
@@ -53718,6 +54980,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "HaMa",
+  "Paternal_mig": "StSwSwEc",
   "Ped_All": "ミホノブルボン1992マグニテュードミルリーフNever BendNasrullahPrincequilloセントクレスピンAureoleCrepelloシャレーリュティエKlaironDouble JumpユアハイネスChamossaireライジングフレーム"
  },
  {
@@ -53803,6 +55067,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "HaMa",
+  "Paternal_mig": "StSwSwEc",
   "Ped_All": "ミホノブルボン1994マグニテュードミルリーフNever BendNasrullahPrincequilloセントクレスピンAureoleCrepelloシャレーリュティエKlaironDouble JumpユアハイネスChamossaireライジングフレーム"
  },
  {
@@ -53888,6 +55154,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NtNs",
+  "Paternal_mig": "StNsTeNe",
   "Ped_All": "ミマモルアイモアル20XXマチカネキンノホシシアトルスルーBold ReasoningBoldnesianPokerアリダーRaise a NativeLt.StevensサンデーサイレンスヘイローHail to ReasonアンダースタンディングジャッジアンジェルーチHonest Pleasureノーザンテースト"
  },
  {
@@ -53973,6 +55241,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "RoMa",
+  "Paternal_mig": "HeSwPhEc",
   "Ped_All": "ミリタリーショットオジジアンDamascusSword DancerSunglowMy BabuFrancis S.Royal ChargerCorrelationパーソロンMilesianMy BabuPharisヒカルタカイリンボーライジングフレーム"
  },
  {
@@ -54058,6 +55328,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNs",
+  "Paternal_mig": "HeEcHeFa",
   "Ped_All": "ミルジョージミルリーフNever BendNasrullahNearcoDjeddahPrincequilloPrince RoseCount FleetRagusaRibotTeneraniAmbiorixGrey SovereignNasrullahFairey Fulmar"
  },
  {
@@ -54143,6 +55415,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNs",
+  "Paternal_mig": "HeEcHeFa",
   "Ped_All": "ミルジョージ1984ミルリーフNever BendNasrullahNearcoDjeddahPrincequilloPrince RoseCount FleetRagusaRibotTeneraniAmbiorixGrey SovereignNasrullahFairey Fulmar"
  },
  {
@@ -54228,6 +55502,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "HeEc",
+  "Paternal_mig": "SwHiEcHa",
   "Ped_All": "ミルリーフ1978Never BendNasrullahNearcoPharosBlenheimDjeddahDjebelBimelechPrincequilloPrince RoseRose PrincePapyrusCount FleetReigh CountHyperion"
  },
  {
@@ -54313,6 +55589,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "05",
+  "Paternal_jik": "StSw",
+  "Paternal_mig": "StFaStSw",
   "Ped_All": "ムトトバステッドCrepelloDonatelloBlenheimMieuxceヴィミーWild RiskCourt MartialミンシオRelicWar RelicLe PachaAlycidonDonatelloPersian Gulf"
  },
  {
@@ -54398,6 +55676,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsSt",
+  "Paternal_mig": "SwNtNeNs",
   "Ped_All": "ムーチョマッチョマン2013マッチョウノHoly BullGreat AboveMinnesota MacAl HattabブラッシンググルームRed GodミスタープロスペクターPoncheTwo PunchミスタープロスペクターニジンスキーNonparrellHoist the FlagProudest Roman"
  },
  {
@@ -54483,6 +55763,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "PhNs",
+  "Paternal_mig": "RoHeRoNs",
   "Ped_All": "メイショウサムソンオペラハウスサドラーズウェルズNorthern DancerNearcticBold ReasonハイトップDerring-DoJimmy ReppinダンシングブレーヴリファールNorthern DancerDroneサンプリンスPrincely Giftフォルティノ"
  },
  {
@@ -54568,6 +55850,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "PhNs",
+  "Paternal_mig": "RoHeRoNs",
   "Ped_All": "メイショウサムソン-覇走-オペラハウスサドラーズウェルズNorthern DancerNearcticBold ReasonハイトップDerring-DoJimmy ReppinダンシングブレーヴリファールNorthern DancerDroneサンプリンスPrincely Giftフォルティノ"
  },
  {
@@ -54653,6 +55937,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "PhNs",
+  "Paternal_mig": "RoHeRoNs",
   "Ped_All": "メイショウサムソン-闘覇-オペラハウスサドラーズウェルズNorthern DancerNearcticBold ReasonハイトップDerring-DoJimmy ReppinダンシングブレーヴリファールNorthern DancerDroneサンプリンスPrincely Giftフォルティノ"
  },
  {
@@ -54738,6 +56024,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoNe",
+  "Paternal_mig": "TeHaNsSt",
   "Ped_All": "メイセイオペラ1999グランドオペラニジンスキーNorthern DancerNearcticBull PageヘイローHail to ReasonエルバジェタクラマカンDamascusSword DancerNashuaオフィスダンサーNorthern Dancerシーフュリュー"
  },
  {
@@ -54823,6 +56111,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "PhMa",
+  "Paternal_mig": "HaTeSwHi",
   "Ped_All": "メジロアサマ-剛健-パーソロンMilesianMy BabuDjebelCoup de LyonPharisPharosAbjerFirst FiddleRoyal MinstrelTetratemaSt.GermansWar AdmiralMan o'WarBlue Larkspur"
  },
  {
@@ -54908,6 +56198,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "HeTe",
+  "Paternal_mig": "PhMaStHa",
   "Ped_All": "メジロティターンメジロアサマパーソロンMilesianMy BabuPharisFirst FiddleRoyal MinstrelWar AdmiralスノッブMourneVieux ManoirPrince BioPanAtysHyperion"
  },
  {
@@ -54993,6 +56285,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "HeTe",
+  "Paternal_mig": "PhMaStHa",
   "Ped_All": "メジロティターン-剛健-メジロアサマパーソロンMilesianMy BabuPharisFirst FiddleRoyal MinstrelWar AdmiralスノッブMourneVieux ManoirPrince BioPanAtysHyperion"
  },
  {
@@ -55078,6 +56372,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StSt",
+  "Paternal_mig": "StHeFaHe",
   "Ped_All": "メジロデュレンフィディオンDjakaoTanerkoTantiemeRibotSicambrePrince BioTourmentリマンドアルサイドAlycidonPalestineヒンドスタンBois Rousselボストニアン"
  },
  {
@@ -55163,6 +56459,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StSt",
+  "Paternal_mig": "StHeFaHe",
   "Ped_All": "メジロデュレン-剛健-フィディオンDjakaoTanerkoTantiemeRibotSicambrePrince BioTourmentリマンドアルサイドAlycidonPalestineヒンドスタンBois Rousselボストニアン"
  },
  {
@@ -55248,6 +56546,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StSt",
+  "Paternal_mig": "StHeFaHe",
   "Ped_All": "メジロデュレン-闘煌-フィディオンDjakaoTanerkoTantiemeRibotSicambrePrince BioTourmentリマンドアルサイドAlycidonPalestineヒンドスタンBois Rousselボストニアン"
  },
  {
@@ -55333,6 +56633,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNe",
+  "Paternal_mig": "HaMaRoSw",
   "Ped_All": "メジロパーマーメジロイーグルメジロサンマンCharlottesvillePrince ChevalierAureoleKhaledHyperionWar RelicゲイメセンヴェイグリーノーブルヴィエナSir GaylordリファールNorthern DancerLucky Debonair"
  },
  {
@@ -55418,6 +56720,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "SwSt",
+  "Paternal_mig": "HeTeFaHe",
   "Ped_All": "メジロマックイーン-剛禊-メジロティターンメジロアサマパーソロンMilesianFirst FiddleスノッブMournePanリマンドアルサイドAlycidonPalestineヒンドスタンBois Rousselボストニアン"
  },
  {
@@ -55503,6 +56807,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "SwSt",
+  "Paternal_mig": "HeTeFaHe",
   "Ped_All": "メジロマックイーン1991メジロティターンメジロアサマパーソロンMilesianFirst FiddleスノッブMournePanリマンドアルサイドAlycidonPalestineヒンドスタンBois Rousselボストニアン"
  },
  {
@@ -55588,6 +56894,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "SwSt",
+  "Paternal_mig": "HeTeFaHe",
   "Ped_All": "メジロマックイーン1992メジロティターンメジロアサマパーソロンMilesianFirst FiddleスノッブMournePanリマンドアルサイドAlycidonPalestineヒンドスタンBois Rousselボストニアン"
  },
  {
@@ -55673,6 +56981,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "SwSt",
+  "Paternal_mig": "HeTeFaHe",
   "Ped_All": "メジロマッコイーンメジロティターンメジロアサマパーソロンMilesianFirst FiddleスノッブMournePanリマンドアルサイドAlycidonPalestineヒンドスタンBois Rousselボストニアン"
  },
  {
@@ -55758,6 +57068,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HeEc",
+  "Paternal_mig": "HaHaStHe",
   "Ped_All": "メジロムサシワラビーFast FoxFastnetPharosFoxhunterTourbillonKsarFoxhunterプリメロBlandfordSwynfordFarasiシアンモアBuchanEthnarch"
  },
  {
@@ -55843,6 +57155,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HeSw",
+  "Paternal_mig": "TeStHaTe",
   "Ped_All": "メジロライアンアンバーシャダイノーザンテーストNorthern DancerNearcticVictoria ParkAmbiopoiseAmbiorixGallant ManメジロサンマンCharlottesvillePrince ChevalierAureoleスノッブMournePan"
  },
  {
@@ -55928,6 +57242,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HeSw",
+  "Paternal_mig": "TeStHaTe",
   "Ped_All": "メジロライアン1991アンバーシャダイノーザンテーストNorthern DancerNearcticVictoria ParkAmbiopoiseAmbiorixGallant ManメジロサンマンCharlottesvillePrince ChevalierAureoleスノッブMournePan"
  },
  {
@@ -56013,6 +57329,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HeSw",
+  "Paternal_mig": "TeStHaTe",
   "Ped_All": "メジロライオンアンバーシャダイノーザンテーストNorthern DancerNearcticVictoria ParkAmbiopoiseAmbiorixGallant ManメジロサンマンCharlottesvillePrince ChevalierAureoleスノッブMournePan"
  },
  {
@@ -56098,6 +57416,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoSt",
+  "Paternal_mig": "RoToFaSw",
   "Ped_All": "メダグリアドーロel pradoサドラーズウェルズNorthern DancerNearcticBold ReasonサーアイヴァーSir GaylordTom FoolbailjumperDamascusSword Dancerroyal valeSilent ScreenPrince JohnRestless Wind"
  },
  {
@@ -56183,6 +57503,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoNs",
+  "Paternal_mig": "NtHiPhPh",
   "Ped_All": "メリーナイスコリムスキーNorthern DancerNearcticNearcoNative DancerFrancis S.Royal ChargerShut OutシャトーゲイSwapsKhaledPolynesianテスコボーイPrincely Giftフェリオール"
  },
  {
@@ -56268,6 +57590,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "PhNtToRo",
   "Ped_All": "モアザンレディサザンヘイローヘイローHail to ReasonTurn-toCosmic BombNorthern DancerNearcticSea-BirdウッドマンミスタープロスペクターRaise a NativeBuckpasserNaskraNasramFirst Landing"
  },
  {
@@ -56353,6 +57677,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "FaTe",
+  "Paternal_mig": "NtHeEcPh",
   "Ped_All": "モガミリファールNorthern DancerNearcticNearcoNative DancerCourt MartialFair TrialFormorLucky DebonairVertexThe RhymerCount FleetPalestinianSun AgainKing Cole"
  },
  {
@@ -56438,6 +57764,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "FaTe",
+  "Paternal_mig": "NtHeEcPh",
   "Ped_All": "モガミ1986リファールNorthern DancerNearcticNearcoNative DancerCourt MartialFair TrialFormorLucky DebonairVertexThe RhymerCount FleetPalestinianSun AgainKing Cole"
  },
  {
@@ -56523,6 +57851,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "RoSw",
+  "Paternal_mig": "NtHaStNs",
   "Ped_All": "モンジューサドラーズウェルズNorthern DancerNearcticNearcoNative DancerBold ReasonHail to ReasonフォルリトップヴィルハイトップDerring-DoCharlottesvilleTennysonVal de Loirゼダーン"
  },
  {
@@ -56608,6 +57938,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "RoSw",
+  "Paternal_mig": "NtHaStNs",
   "Ped_All": "モンジュー-闘煌-サドラーズウェルズNorthern DancerNearcticNearcoNative DancerBold ReasonHail to ReasonフォルリトップヴィルハイトップDerring-DoCharlottesvilleTennysonVal de Loirゼダーン"
  },
  {
@@ -56693,6 +58025,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "RoSw",
+  "Paternal_mig": "NtHaStNs",
   "Ped_All": "モンジュー1999サドラーズウェルズNorthern DancerNearcticNearcoNative DancerBold ReasonHail to ReasonフォルリトップヴィルハイトップDerring-DoCharlottesvilleTennysonVal de Loirゼダーン"
  },
  {
@@ -56778,6 +58112,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HeHa",
+  "Paternal_mig": "EcHaTeTe",
   "Ped_All": "モンズーン1993KonigsstuhlDschingis KhanTamerlanePersian GulfNeckarTiepolettoTornadoOlympSurumuLiteratBirkhahnリライアンスAuthiAureoleKaiseradler"
  },
  {
@@ -56863,6 +58199,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "SwSw",
+  "Paternal_mig": "PhFaHaHe",
   "Ped_All": "モンテプリンス1982シーホークエルバジェVandalePlassyEscamilloFree ManNorsemanOcean SwellヒンドスタンBois RousselVatoutSolarioBig GameBahramGoyama"
  },
  {
@@ -56948,6 +58286,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNs",
+  "Paternal_mig": "MaStNsSw",
   "Ped_All": "モントブルックBuckarooBuckpasserTom FoolMenowWar AdmiralNo RobberySwapsPrince BioJet DiplomacyExplodentNearcticSir RulerDiplomat WayNashuaVincentive"
  },
  {
@@ -57033,6 +58373,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoNe",
+  "Paternal_mig": "NeNeNsTe",
   "Ped_All": "モーリス-覇走-スクリーンヒーローグラスワンダーシルヴァーホークRobertoダンチヒサンデーサイレンスヘイローノーザンテーストカーネギーサドラーズウェルズNorthern Dancerリヴァーマンモガミリファールフィディオン"
  },
  {
@@ -57118,6 +58460,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoNe",
+  "Paternal_mig": "NeNeNsTe",
   "Ped_All": "モーリス2015スクリーンヒーローグラスワンダーシルヴァーホークRobertoダンチヒサンデーサイレンスヘイローノーザンテーストカーネギーサドラーズウェルズNorthern Dancerリヴァーマンモガミリファールフィディオン"
  },
  {
@@ -57203,6 +58547,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoNe",
+  "Paternal_mig": "NeNeNsTe",
   "Ped_All": "モーリス2016スクリーンヒーローグラスワンダーシルヴァーホークRobertoダンチヒサンデーサイレンスヘイローノーザンテーストカーネギーサドラーズウェルズNorthern Dancerリヴァーマンモガミリファールフィディオン"
  },
  {
@@ -57288,6 +58634,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "ToFa",
+  "Paternal_mig": "TeTeFaSw",
   "Ped_All": "ヤエノムテキヤマニンスキーニジンスキーNorthern DancerNearcticBull PageBuckpasserTom FoolPalestinianイエローゴッドRed GodNasrullahFun FairソロナウェーSolferinoトサミドリ"
  },
  {
@@ -57373,6 +58721,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaEc",
+  "Paternal_mig": "HaEcStSw",
   "Ped_All": "ヤマニンゼファー1993ニホンピロウイナースティールハートハビタットSir GaylordAbernantチャイナロックRockefellaライジングフレームブラッシンググルームRed GodNasrullahWild RiskガーサントBubblesハクリョウ"
  },
  {
@@ -57458,6 +58808,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeTo",
+  "Paternal_mig": "StNsHaSt",
   "Ped_All": "ユキオータップダンスシチープレザントタッププレザントコロニーヒズマジェスティStage Door JohnnyNorthern DancerNearcticBold HourヌレイエフNorthern DancerNearcticフォルリBuckpasserTom FoolHill Prince"
  },
  {
@@ -57543,6 +58895,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeTo",
+  "Paternal_mig": "StNsHaSt",
   "Ped_All": "ユキオータップダンスシチープレザントタッププレザントコロニーヒズマジェスティStage Door JohnnyNorthern DancerNearcticBold HourヌレイエフNorthern DancerNearcticフォルリBuckpasserTom FoolHill Prince"
  },
  {
@@ -57628,6 +58982,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HiNs",
+  "Paternal_mig": "HaNsStHa",
   "Ped_All": "ユベシプレザントコロニーヒズマジェスティRibotTeneraniAlibhaiSunrise FlightDouble JayCockrullahキートゥザミントグロースタークRibotPrincequilloOn-and-OnNasrullahPonder"
  },
  {
@@ -57713,6 +59069,8 @@ horse=
   "Paternal_hhht": "To",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "StNs",
+  "Paternal_mig": "NsHiTeTo",
   "Ped_All": "ユートピアフォーティナイナーミスタープロスペクターRaise a NativeNative DancerNashuaトムロルフRibotDouble JayノーザンテーストNorthern DancerNearcticVictoria ParkDewanBold RulerTom Fool"
  },
  {
@@ -57798,6 +59156,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "MaFa",
+  "Paternal_mig": "NsHaToSw",
   "Ped_All": "ライスシャワーリアルシャダイRobertoHail to ReasonTurn-toNashuaインリアリティIntentionallyMoslem ChiefマルゼンスキーニジンスキーNorthern DancerBuckpasserティエポロBlue Peterプリメロ"
  },
  {
@@ -57883,6 +59243,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "MaFa",
+  "Paternal_mig": "NsHaToSw",
   "Ped_All": "ライスシャワー-剛健-リアルシャダイRobertoHail to ReasonTurn-toNashuaインリアリティIntentionallyMoslem ChiefマルゼンスキーニジンスキーNorthern DancerBuckpasserティエポロBlue Peterプリメロ"
  },
  {
@@ -57968,6 +59330,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "MaFa",
+  "Paternal_mig": "NsHaToSw",
   "Ped_All": "ライスシャワー1993リアルシャダイRobertoHail to ReasonTurn-toNashuaインリアリティIntentionallyMoslem ChiefマルゼンスキーニジンスキーNorthern DancerBuckpasserティエポロBlue Peterプリメロ"
  },
  {
@@ -58053,6 +59417,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "MaFa",
+  "Paternal_mig": "NsHaToSw",
   "Ped_All": "ライスシャワー1995リアルシャダイRobertoHail to ReasonTurn-toNashuaインリアリティIntentionallyMoslem ChiefマルゼンスキーニジンスキーNorthern DancerBuckpasserティエポロBlue Peterプリメロ"
  },
  {
@@ -58138,6 +59504,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HeNt",
+  "Paternal_mig": "NtNsRoNs",
   "Ped_All": "ライトオブエンドスターマンワイズカウンセラーアレッジドHoist the FlagRaise a NativeダンディルートリュティエグレイモナークオジジアンDamascusSword DancerFrancis S.ミスワキミスタープロスペクターWell Decorated"
  },
  {
@@ -58223,6 +59591,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "MaFa",
+  "Paternal_mig": "NsHaToSw",
   "Ped_All": "ライフシャワーリアルシャダイRobertoHail to ReasonTurn-toNashuaインリアリティIntentionallyMoslem ChiefマルゼンスキーニジンスキーNorthern DancerBuckpasserティエポロBlue Peterプリメロ"
  },
  {
@@ -58308,6 +59678,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "ToPh",
+  "Paternal_mig": "NtHaStMa",
   "Ped_All": "ラストタイクーントライマイベストNorthern DancerNearcticNearcoNative DancerBuckpasserTom FoolTraffic JudgeミルリーフNever BendNasrullahPrincequilloSayajiraoNearcoNiccolo Dell'Arca"
  },
  {
@@ -58393,6 +59765,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "TePh",
+  "Paternal_mig": "NtPhStNe",
   "Ped_All": "ラムタラ-剛健-ニジンスキーNorthern DancerNearcticNearcoNative DancerBull PageBull LeaMenowブラッシンググルームRed GodNasrullahWild RiskSnow KnightFirestreakNorthern Dancer"
  },
  {
@@ -58478,6 +59852,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "TePh",
+  "Paternal_mig": "NtPhStNe",
   "Ped_All": "ラムタラ1995ニジンスキーNorthern DancerNearcticNearcoNative DancerBull PageBull LeaMenowブラッシンググルームRed GodNasrullahWild RiskSnow KnightFirestreakNorthern Dancer"
  },
  {
@@ -58563,6 +59939,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "TeSt",
+  "Paternal_mig": "PhStEcEc",
   "Ped_All": "ランザガントレットトムロルフRibotTeneraniBelliniEl GrecoRomanSir GallahadPrincequilloFirst LandingTurn-toRoyal ChargerBubbling OverPrincequilloPrince RoseCount Fleet"
  },
  {
@@ -58648,6 +60026,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HeNe",
+  "Paternal_mig": "StTeHaNs",
   "Ped_All": "ラヴレストーホウエンペラーブライアンズタイムRobertoHail to ReasonグロースタークノーリュートリュティエマッチウォンモンズーンKonigsstuhlDschingis KhanSurumuファーディナンドニジンスキーアイリッシュリヴァー"
  },
  {
@@ -58733,6 +60113,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StHa",
+  "Paternal_mig": "PhHaPhSw",
   "Ped_All": "ラーイ-覇走-ブラッシンググルームRed GodNasrullahNearcoMenowWild RiskRialtoTudor MinstrelヘイローHail to ReasonTurn-toCosmic BombエルバジェVandaleCohoes"
  },
  {
@@ -58818,6 +60200,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StHa",
+  "Paternal_mig": "PhHaPhSw",
   "Ped_All": "ラーイ1996ブラッシンググルームRed GodNasrullahNearcoMenowWild RiskRialtoTudor MinstrelヘイローHail to ReasonTurn-toCosmic BombエルバジェVandaleCohoes"
  },
  {
@@ -58903,6 +60287,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsMa",
+  "Paternal_mig": "HiTeEcPh",
   "Ped_All": "リアファン1984RobertoHail to ReasonTurn-toRoyal ChargerBlue SwordsNashuaNasrullahBull LeaLt.StevensNantallahNasrullahGold BridgeWar AdmiralMan o'WarPharamond"
  },
  {
@@ -58988,6 +60374,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeMa",
+  "Paternal_mig": "TeSwNtHe",
   "Ped_All": "リアルインパクト2011ディープインパクトサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドMeadowlakeHold Your PeaceSpeak JohnRaise a NativeインリアリティIntentionallyCrozier"
  },
  {
@@ -59073,6 +60461,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsHa",
+  "Paternal_mig": "HiTeHiHi",
   "Ped_All": "リアルシャダイ1993RobertoHail to ReasonTurn-toRoyal ChargerBlue SwordsNashuaNasrullahBull LeaインリアリティIntentionallyIntentRough'n TumbleMoslem ChiefAlibhaiAlsab"
  },
  {
@@ -59158,6 +60548,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeNt",
+  "Paternal_mig": "TeSwNsNe",
   "Ped_All": "リアルスティールディープインパクトサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドストームキャットStorm BirdNorthern DancerセクレタリアトミスタープロスペクターRaise a Nativeヌレイエフ"
  },
  {
@@ -59243,6 +60635,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNe",
+  "Paternal_mig": "TeToToRo",
   "Ped_All": "リダウツチョイス1999デインヒルダンチヒNorthern DancerNearcticAdmiral's VoyageヒズマジェスティRibotBuckpassercanny ladbletchinglybiscaylunchtimeニジンスキーNorthern Dancerサーアイヴァー"
  },
  {
@@ -59328,6 +60722,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaFa",
+  "Paternal_mig": "NsHaHeHe",
   "Ped_All": "リツンタイクーンIglesiaラストタイクーントライマイベストNorthern DancerミルリーフMarscaybiscayParis ReviewケンマールカラムーンゼダーンMilesianVainWilkesBetter Boy"
  },
  {
@@ -59413,6 +60809,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtHe",
+  "Paternal_mig": "HaSwMaSt",
   "Ped_All": "リファール1972Northern DancerNearcticNearcoPharosHyperionNative DancerPolynesianMahmoudCourt MartialFair TrialFairwayHurry OnFormorKsarBiribi"
  },
  {
@@ -59498,6 +60896,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "ToToNsNs",
   "Ped_All": "リベリングラブスターリングローズアフリートミスタープロスペクターRaise a NativeVenetian JesterダンチヒNorthern DancerBuckpasserエーピーインディシアトルスルーBold ReasoningセクレタリアトSpectacular BidBold Bidderリヴァーマン"
  },
  {
@@ -59583,6 +60983,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HeEc",
+  "Paternal_mig": "HaPhHeTe",
   "Ped_All": "リマンド-闘志-アルサイドAlycidonDonatelloBlenheimHyperionKing SalmonSalmon-TroutCameronianPalestineFair TrialFairwayTetratemaChanteurChateau BouscautDeiri"
  },
  {
@@ -59668,6 +61070,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "EcSw",
+  "Paternal_mig": "PhSwSwHe",
   "Ped_All": "リュティエ1968KlaironClarionDjebelTourbillonColoradoKantarAlcantaraSwynfordCranachCoronachHurry OnBlandfordBrantomeBlandfordTetratema"
  },
  {
@@ -59753,6 +61157,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "EcHe",
+  "Paternal_mig": "MaSwHiEc",
   "Ped_All": "リライアンス-闘煌-TantiemeDeux Pour CentDeiriAethelstanFeridoonIndusAlcantaraBlandfordRelicWar RelicMan o'WarBlack ToneyLe VolcanTourbillonPapyrus"
  },
  {
@@ -59838,6 +61244,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "08",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "HaHe",
+  "Paternal_mig": "StHaStMa",
   "Ped_All": "リワイルディングTiger HillデインヒルダンチヒNorthern DancerヒズマジェスティappianiエルバジェSt. ChadトップヴィルハイトップDerring-DoCharlottesvilleAbdosArbarヴェンチア"
  },
  {
@@ -59923,6 +61331,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HeTe",
+  "Paternal_mig": "SwHiEcTe",
   "Ped_All": "リヴァーマン1980Never BendNasrullahNearcoPharosBlenheimDjeddahDjebelBimelechPrince JohnPrincequilloPrince RoseCount FleetRomanSir GallahadSun Teddy"
  },
  {
@@ -60008,6 +61418,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StHa",
+  "Paternal_mig": "HeTePhTe",
   "Ped_All": "リヴリアリヴァーマンNever BendNasrullahNearcoDjeddahPrince JohnPrincequilloRomanヴェイグリーノーブルヴィエナAureoleNearcoHoneys AlibiAlibhaiHierocles"
  },
  {
@@ -60093,6 +61505,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoSt",
+  "Paternal_mig": "StHaToHa",
   "Ped_All": "ルパンザサードラーイブラッシンググルームRed GodNasrullahWild RiskヘイローHail to ReasonエルバジェプライヴェートアカウントDamascusSword DancerBuckpasserHoist the FlagトムロルフAristophanes"
  },
  {
@@ -60178,6 +61592,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNt",
+  "Paternal_mig": "StToNtRo",
   "Ped_All": "ルヴァンスレーヴ2018シンボリクリスエスクリスエスRobertoHail to ReasonPrincequilloGold MeridianシアトルスルーTri JetネオユニヴァースサンデーサイレンスヘイローKrisティンバーカントリーウッドマンリアルシャダイ"
  },
  {
@@ -60263,6 +61679,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNt",
+  "Paternal_mig": "NeHeNsNe",
   "Ped_All": "レイデオロキングカメハメハキングマンボミスタープロスペクターRaise a NativeヌレイエフラストタイクーントライマイベストBlakeneyシンボリクリスエスクリスエスRobertoGold Meridianシーキングザゴールドミスタープロスペクターアルザオ"
  },
  {
@@ -60348,6 +61766,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "StNt",
+  "Paternal_mig": "PhHaPhPh",
   "Ped_All": "レインボウクエストブラッシンググルームRed GodNasrullahNearcoMenowWild RiskRialtoTudor MinstrelエルバジェVandalePlassyEscamilloRaise a NativeNative DancerMossborough"
  },
  {
@@ -60433,6 +61853,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "StNt",
+  "Paternal_mig": "PhHaPhPh",
   "Ped_All": "レインボウクエスト1985ブラッシンググルームRed GodNasrullahNearcoMenowWild RiskRialtoTudor MinstrelエルバジェVandalePlassyEscamilloRaise a NativeNative DancerMossborough"
  },
  {
@@ -60518,6 +61940,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "StNt",
+  "Paternal_mig": "PhHaPhPh",
   "Ped_All": "レインボウクエスト1991ブラッシンググルームRed GodNasrullahNearcoMenowWild RiskRialtoTudor MinstrelエルバジェVandalePlassyEscamilloRaise a NativeNative DancerMossborough"
  },
  {
@@ -60603,6 +62027,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "06",
+  "Paternal_jik": "NeSt",
+  "Paternal_mig": "NsRoStNs",
   "Ped_All": "レイヴンズパスelusive qualityゴーンウェストミスタープロスペクターRaise a Nativeセクレタリアトhero's honorNorthern DancerサーアイヴァーLord at WarGeneralBrigadier GerardCon BrioVerbatimSpeak JohnFleet Nasrullah"
  },
  {
@@ -60688,6 +62114,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeNt",
+  "Paternal_mig": "NeHeTeHi",
   "Ped_All": "レッドファルクススウェプトオーヴァーボードエンドスウィープフォーティナイナーミスタープロスペクターDance SpellCutlassDamascusAmbehavingサンデーサイレンスヘイローHail to ReasonアンダースタンディングAffirmedExclusive NativeMinnesota Mac"
  },
  {
@@ -60773,6 +62201,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "HiTeHePh",
   "Ped_All": "レッドランサム1994RobertoHail to ReasonTurn-toRoyal ChargerBlue SwordsNashuaNasrullahBull LeaDamascusSword DancerSunglowMy BabuNearcticNearcoBallymoss"
  },
  {
@@ -60858,6 +62288,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhSt",
+  "Paternal_mig": "SwTeHaHe",
   "Ped_All": "レッドロードRed GodNasrullahNearcoPharosBlenheimMenowPharamondBull DogArmisticeWordenWild RiskVandaleMoussonRose PrinceAmfortas"
  },
  {
@@ -60943,6 +62375,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhSt",
+  "Paternal_mig": "SwTeHaHe",
   "Ped_All": "レッドロードRed GodNasrullahNearcoPharosBlenheimMenowPharamondBull DogArmisticeWordenWild RiskVandaleMoussonRose PrinceAmfortas"
  },
  {
@@ -61028,6 +62462,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeTo",
+  "Paternal_mig": "NsStStRo",
   "Ped_All": "レモンドロップキッド-覇走-キングマンボミスタープロスペクターRaise a NativeNative DancerNashuaヌレイエフNorthern DancerProve OutシアトルスルーBold ReasoningBoldnesianPokerBuckpasserTom FoolSir Gaylord"
  },
  {
@@ -61113,6 +62549,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeTo",
+  "Paternal_mig": "NsStStRo",
   "Ped_All": "レモンドロップキッド2001キングマンボミスタープロスペクターRaise a NativeNative DancerNashuaヌレイエフNorthern DancerProve OutシアトルスルーBold ReasoningBoldnesianPokerBuckpasserTom FoolSir Gaylord"
  },
  {
@@ -61198,6 +62636,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeEc",
+  "Paternal_mig": "NtPhMaPh",
   "Ped_All": "ロイヤルアカデミー-覇走-ニジンスキーNorthern DancerNearcticNearcoNative DancerBull PageBull LeaMenowCrimson SatanSpy SongBalladierRequiebroBoleroEight ThirtyMenow"
  },
  {
@@ -61283,6 +62723,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NtNs",
+  "Paternal_mig": "RoStHaNe",
   "Ped_All": "ロウマンインヴィンシブルスピリットグリーンデザートダンチヒNorthern DancerサーアイヴァーKrisシャーペンアップアーティアスガルチミスタープロスペクターRaise a NativeRambunctiousシャーリーハイツミルリーフニジンスキー"
  },
  {
@@ -61368,6 +62810,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "RoStTeNe",
   "Ped_All": "ロゴタイプ2017ローエングリンシングスピールIn the WingsサドラーズウェルズヘイローGarde RoyaleミルリーフCarvinサンデーサイレンスヘイローHail to ReasonアンダースタンディングRisen Starセクレタリアトヌレイエフ"
  },
  {
@@ -61453,6 +62897,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "TeSwStNs",
   "Ped_All": "ロジャーバローズ2019ディープインパクトサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドLibrettistダンチヒNorthern Dancerアレッジドリファーズスペシャルリファールジュニアス"
  },
  {
@@ -61538,6 +62984,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "StNs",
+  "Paternal_mig": "TeToHaSt",
   "Ped_All": "ロックオブジブラルタル2002デインヒルダンチヒNorthern DancerNearcticAdmiral's VoyageヒズマジェスティRibotBuckpasserビーマイゲストNorthern DancerNearcticTudor MinstrelBold LadBold RulerPrince John"
  },
  {
@@ -61623,6 +63071,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "StEc",
+  "Paternal_mig": "TeNsTeSw",
   "Ped_All": "ロミタス-闘志-NiniskiニジンスキーNorthern DancerNearcticBull PageトムロルフRibotRidanSurumuLiteratBirkhahnリライアンスKronzeugeNeckarCrepello"
  },
  {
@@ -61708,6 +63158,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "EcSw",
+  "Paternal_mig": "PhSwPhPh",
   "Ped_All": "ロレンザッチオKlaironClarionDjebelTourbillonColoradoKantarAlcantaraSwynfordThe PhoenixChateau BouscautKircubbinFirdaussiBig GameBahramColombo"
  },
  {
@@ -61793,6 +63245,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "EcSw",
+  "Paternal_mig": "EcEcMaSt",
   "Ped_All": "ロングエース1972ハードリドンHard SauceArdanPharisBellacoseAdmiral DrakeCraig an EranCasterariティエポロBlue PeterFairwayNiccolo Dell'ArcaNormanNorsemanLe Pacha"
  },
  {
@@ -61878,6 +63332,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeSt",
+  "Paternal_mig": "NeHeNsMa",
   "Ped_All": "ロードカナロアキングカメハメハキングマンボミスタープロスペクターRaise a NativeヌレイエフラストタイクーントライマイベストBlakeneyストームキャットStorm BirdNorthern DancerセクレタリアトCormorantヒズマジェスティインリアリティ"
  },
  {
@@ -61963,6 +63419,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeSt",
+  "Paternal_mig": "NeHeNsMa",
   "Ped_All": "ロードカナロア-瞬発-キングカメハメハキングマンボミスタープロスペクターRaise a NativeヌレイエフラストタイクーントライマイベストBlakeneyストームキャットStorm BirdNorthern DancerセクレタリアトCormorantヒズマジェスティインリアリティ"
  },
  {
@@ -62048,6 +63506,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeSt",
+  "Paternal_mig": "NeHeNsMa",
   "Ped_All": "ロードカナロア-瞬走-キングカメハメハキングマンボミスタープロスペクターRaise a NativeヌレイエフラストタイクーントライマイベストBlakeneyストームキャットStorm BirdNorthern DancerセクレタリアトCormorantヒズマジェスティインリアリティ"
  },
  {
@@ -62133,6 +63593,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeSt",
+  "Paternal_mig": "NeHeNsMa",
   "Ped_All": "ロードカナロア2013キングカメハメハキングマンボミスタープロスペクターRaise a NativeヌレイエフラストタイクーントライマイベストBlakeneyストームキャットStorm BirdNorthern DancerセクレタリアトCormorantヒズマジェスティインリアリティ"
  },
  {
@@ -62218,6 +63680,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "RoNt",
+  "Paternal_mig": "RoRoNsNe",
   "Ped_All": "ローレルゲレイロキングヘイローダンシングブレーヴリファールNorthern DancerDroneヘイローHail to ReasonサーアイヴァーテンビーカーリアンニジンスキーKalaglowカコイーシーズアリダーマルゼンスキー"
  },
  {
@@ -62303,6 +63767,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NtPh",
+  "Paternal_mig": "HaTeHeSw",
   "Ped_All": "ワイルドアゲインアイスカペイドNearcticNearcoPharosHyperionNative DancerPolynesianFighting FoxKhaledHyperionGainsboroughEthnarchDanteNearcoMahmoud"
  },
  {
@@ -62388,6 +63854,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NtPh",
+  "Paternal_mig": "HaTeHeSw",
   "Ped_All": "ワイルドアゲイン1984アイスカペイドNearcticNearcoPharosHyperionNative DancerPolynesianFighting FoxKhaledHyperionGainsboroughEthnarchDanteNearcoMahmoud"
  },
  {
@@ -62473,6 +63941,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtEc",
+  "Paternal_mig": "HaSwEcSw",
   "Ped_All": "ワンフォーオール1970Northern DancerNearcticNearcoPharosHyperionNative DancerPolynesianMahmoudPrincequilloPrince RoseRose PrincePapyrusCount FleetReigh CountSt.Brideaux"
  },
  {
@@ -62558,6 +64028,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "NeNsTeHi",
   "Ped_All": "ヴァーミリアン2007エルコンドルパサーキングマンボミスタープロスペクターRaise a NativeヌレイエフサドラーズウェルズNorthern DancerシアトルスルーサンデーサイレンスヘイローHail to ReasonアンダースタンディングノーザンテーストNorthern DancerCrimson Satan"
  },
  {
@@ -62643,6 +64115,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtSw",
+  "Paternal_mig": "TeStRoHe",
   "Ped_All": "ヴィクトワールピサ-闘志-ネオユニヴァースサンデーサイレンスヘイローHail to ReasonアンダースタンディングKrisシャーペンアップShantungマキャベリアンミスタープロスペクターRaise a NativeヘイローBustinoバステッドロレンザッチオ"
  },
  {
@@ -62728,6 +64202,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtSw",
+  "Paternal_mig": "TeStRoHe",
   "Ped_All": "ヴィクトワールピサ2011ネオユニヴァースサンデーサイレンスヘイローHail to ReasonアンダースタンディングKrisシャーペンアップShantungマキャベリアンミスタープロスペクターRaise a NativeヘイローBustinoバステッドロレンザッチオ"
  },
  {
@@ -62813,6 +64289,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "SwSw",
+  "Paternal_mig": "SwPhStHa",
   "Ped_All": "ヴェイグリーノーブル1973ヴィエナAureoleHyperionGainsboroughDonatelloTurkhanBahramMannaNearcoPharosPhalarisHavresacBig GameBahramHyperion"
  },
  {
@@ -62898,6 +64376,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhNs",
+  "Paternal_mig": "RoHeStRo",
   "Ped_All": "アイアムアカペラオーオペラハウスサドラーズウェルズNorthern DancerNearcticBold ReasonハイトップDerring-DoJimmy ReppinブラッシンググルームRed GodNasrullahWild RiskKey to the KingdomBold RulerDrone"
  },
  {
@@ -62983,6 +64463,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "SwSw",
+  "Paternal_mig": "PhFaHaSw",
   "Ped_All": "アイネスフウジンシーホークエルバジェVandalePlassyEscamilloFree ManNorsemanOcean SwellテスコボーイPrincely GiftNasrullahHyperionモンタヴァルNorsemanトサミドリ"
  },
  {
@@ -63068,6 +64550,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "EcNt",
+  "Paternal_mig": "SwHaHaHe",
   "Ped_All": "アイランドホワールPago PagoMatriceMastheadBlue PeterSt.MagnusAbbots FellFelsteadTalkingYour AlibhaiAlibhaiHyperionBeau PereNative DancerPolynesianAmbiorix"
  },
  {
@@ -63153,6 +64637,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "SwSw",
+  "Paternal_mig": "PhFaHaSw",
   "Ped_All": "アイリスフウジンシーホークエルバジェVandalePlassyEscamilloFree ManNorsemanOcean SwellテスコボーイPrincely GiftNasrullahHyperionモンタヴァルNorsemanトサミドリ"
  },
  {
@@ -63238,6 +64724,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtSt",
+  "Paternal_mig": "NeNeNeNe",
   "Ped_All": "アイルハヴアナザーフラワーアレイDistorted humorフォーティナイナーミスタープロスペクターダンチヒLyciusミスタープロスペクターサドラーズウェルズArchクリスエスRobertoダンチヒプレザントタッププレザントコロニーCaucasus"
  },
  {
@@ -63323,6 +64811,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "HaHaTeSt",
   "Ped_All": "アウォーディージャングルポケットトニービンカンパラカラムーンHornbeamヌレイエフNorthern DancerNodoubleサンデーサイレンスヘイローHail to ReasonアンダースタンディングサドラーズウェルズNorthern DancerRibot"
  },
  {
@@ -63408,6 +64898,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "MaSt",
+  "Paternal_mig": "NsHiNsSt",
   "Ped_All": "アグネスデジタルCrafty ProspectorミスタープロスペクターRaise a NativeNative DancerNashuaインリアリティIntentionallyRoyal NoteチーフズクラウンダンチヒNorthern DancerセクレタリアトアレッジドHoist the FlagWild Risk"
  },
  {
@@ -63493,6 +64985,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeSw",
+  "Paternal_mig": "PhHaMaHa",
   "Ped_All": "アグネスフライトサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseロイヤルスキーRaja BabaBold RulerInvolvementリマンドアルサイドSallymount"
  },
  {
@@ -63578,6 +65072,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNs",
+  "Paternal_mig": "MaRoTePh",
   "Ped_All": "アドマイヤコジーンコジーンカロフォルティノGrey SovereignChamossairePrince JohnPrincequilloSir GaylordノーザンテーストNorthern DancerNearcticVictoria ParkトライバルチーフPrincely GiftDarling Boy"
  },
  {
@@ -63663,6 +65159,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNt",
+  "Paternal_mig": "StEcTeNe",
   "Ped_All": "アドマイヤムーンエンドスウィープフォーティナイナーミスタープロスペクターRaise a NativeトムロルフDance SpellNorthern DancerThinking CapサンデーサイレンスヘイローHail to ReasonアンダースタンディングKrisシャーペンアップノノアルコ"
  },
  {
@@ -63748,6 +65246,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "PhNeNeEc",
   "Ped_All": "アルバートアドマイヤドンティンバーカントリーウッドマンミスタープロスペクターPretenseトニービンカンパラNorthern DancerダンスインザダークサンデーサイレンスヘイローニジンスキーノーザンテーストNorthern Dancerガーサント"
  },
  {
@@ -63833,6 +65333,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "NsTeNeSw",
   "Ped_All": "イキートスAdlerflugIn the WingsサドラーズウェルズNorthern DancerシャーリーハイツラストタイクーントライマイベストLombardAreionBig ShuffleSuper ConcordeカーリアンNebosカロKonigsstuhl"
  },
  {
@@ -63918,6 +65420,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "TeNs",
+  "Paternal_mig": "PhHaNsSt",
   "Ped_All": "イシノサンデーサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseアリダーRaise a NativeNative DancerOn-and-OnRidanNantallahPrince John"
  },
  {
@@ -64003,6 +65507,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "MaHe",
+  "Paternal_mig": "NsHaTeSt",
   "Ped_All": "イブキマイカグラリアルシャダイRobertoHail to ReasonTurn-toNashuaインリアリティIntentionallyMoslem ChiefノーザンテーストNorthern DancerNearcticVictoria ParkAmbiopoiseAmbiorixGallant Man"
  },
  {
@@ -64088,6 +65594,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "NeEc",
+  "Paternal_mig": "TeHaTeNs",
   "Ped_All": "インティライミスペシャルウィークサンデーサイレンスヘイローHail to ReasonアンダースタンディングマルゼンスキーニジンスキーセントクレスピンノーザンテーストNorthern DancerNearcticVictoria ParkガーサントBubblesRed God"
  },
  {
@@ -64173,6 +65681,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "MaNe",
+  "Paternal_mig": "MaHaMaSw",
   "Ped_All": "ウィズアプルーバルカロフォルティノGrey SovereignNasrullahRelicChamossairePrecipitationSolarioBuckpasserTom FoolMenowWar AdmiralNorthern DancerNearcticMahmoud"
  },
  {
@@ -64258,6 +65768,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "HaNs",
+  "Paternal_mig": "EcMaToFa",
   "Ped_All": "ウイニングチケットトニービンカンパラカラムーンゼダーンオンリーフォアライフHornbeamHyperionPrecipticマルゼンスキーニジンスキーNorthern DancerBuckpasserテスコボーイPrincely Giftハロウェー"
  },
  {
@@ -64343,6 +65855,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsTe",
+  "Paternal_mig": "TeNeTeNe",
   "Ped_All": "ウインバリアシオンハーツクライサンデーサイレンスヘイローHail to ReasonアンダースタンディングトニービンカンパラリファールStorm BirdNorthern DancerNearcticNew ProvidenceタイムフォーアチェンジDamascusDancing Count"
  },
  {
@@ -64428,6 +65942,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeHa",
+  "Paternal_mig": "NsStStHa",
   "Ped_All": "ウォーエンブレムOur EmblemミスタープロスペクターRaise a NativeNative DancerNashuaプライヴェートアカウントDamascusHoist the FlagLord at WarGeneralBrigadier GerardCon BrioThe PrunerエルバジェSky High"
  },
  {
@@ -64513,6 +66029,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "06",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "TeHa",
+  "Paternal_mig": "NtFaNeSt",
   "Ped_All": "ウォーフロントダンチヒNorthern DancerNearcticNearcoNative DancerAdmiral's VoyageCrafty AdmiralPetitionRubianoファピアノミスタープロスペクターニジンスキーフォルリAristophanesRound Table"
  },
  {
@@ -64598,6 +66116,8 @@ horse=
   "Paternal_hhht": "To",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "SwNe",
+  "Paternal_mig": "MaHaHaTo",
   "Ped_All": "ウワラバッHoly BullGreat AboveMinnesota MacRough'n TumbleIntentionallyAl HattabThe AxeGrey DawnトニービンカンパラカラムーンHornbeamNorthern DancerNearcticTom Fool"
  },
  {
@@ -64683,6 +66203,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StMa",
+  "Paternal_mig": "FaHeEcEc",
   "Ped_All": "ウンガロGoofalikリファールNorthern DancerNearcticCourt MartialターゴワイスRound TableKlaironStar AppealappianiエルバジェNeckarWaldcanterCaran d'AcheOrator"
  },
  {
@@ -64768,6 +66290,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeNs",
+  "Paternal_mig": "PhHaTeHa",
   "Ped_All": "エアシェイディサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseノーザンテーストNorthern DancerNearcticVictoria ParkWell DecoratedRaja BabaGleaming"
  },
  {
@@ -64853,6 +66377,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "TeHa",
+  "Paternal_mig": "PhHaNtSt",
   "Ped_All": "エアシャカールサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseWell DecoratedRaja BabaBold RulerマジェスティックプリンスGleamingエルバジェRibot"
  },
  {
@@ -64938,6 +66464,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "TeNt",
+  "Paternal_mig": "NeSwNsSw",
   "Ped_All": "エイシンフラッシュキングズベストキングマンボミスタープロスペクターRaise a NativeヌレイエフLombardagioEspressoプラティニSurumuLiteratStanfordSure BladeKrisKonigsstuhl"
  },
  {
@@ -65023,6 +66551,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "RoSt",
+  "Paternal_mig": "HeSwStSt",
   "Ped_All": "エイシンワシントンオジジアンDamascusSword DancerSunglowMy BabuFrancis S.Royal ChargerCorrelationShamPretenseEndeavourPrincequilloPrince JohnPrincequilloグロースターク"
  },
  {
@@ -65108,6 +66638,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "HeNt",
+  "Paternal_mig": "NsNsHaNs",
   "Ped_All": "エクィアーノAcclamationroyal applauseワージブトライマイベストAuction RingアホヌーラロレンザッチオフロリバンダEla-Mana-MouピットカーンペティンゴハイハットKrisシャーペンアップセクレタリアト"
  },
  {
@@ -65193,6 +66725,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "StSwToNe",
   "Ped_All": "エクセレントアートPivotalpolar falconヌレイエフNorthern DancerjeffersonコジーンカロBustinoシーキングザゴールドミスタープロスペクターRaise a NativeBuckpasserセクレタリアトBold Rulerリファール"
  },
  {
@@ -65278,6 +66812,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NsNt",
+  "Paternal_mig": "NsRoStNe",
   "Ped_All": "エスケンデレヤジャイアンツコーズウェイストームキャットStorm BirdNorthern DancerセクレタリアトラーイブラッシンググルームRobertoシアトルスルーBold ReasoningBoldnesianPokerアリダーRaise a NativeNorthern Dancer"
  },
  {
@@ -65363,6 +66899,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "TeNeStHa",
   "Ped_All": "エスポワールシチーゴールドアリュールサンデーサイレンスヘイローHail to ReasonアンダースタンディングヌレイエフNorthern DancerHostageブライアンズタイムRobertoHail to ReasonグロースタークブレイヴェストローマンNever Bendトラフィック"
  },
  {
@@ -65448,6 +66986,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "07",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "StToNeRo",
   "Ped_All": "エピファネイアシンボリクリスエスクリスエスRobertoHail to ReasonPrincequilloGold MeridianシアトルスルーTri JetスペシャルウィークサンデーサイレンスヘイローマルゼンスキーサドラーズウェルズNorthern Dancerハビタット"
  },
  {
@@ -65533,6 +67073,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "EcPh",
+  "Paternal_mig": "PhMaHaTe",
   "Ped_All": "エルバジェVandalePlassyBosworthSon-in-LawPhalarisLa FarinaSans SouciBeppoEscamilloFirdaussiPharosSolarioFirdaussiPharosTeddy"
  },
  {
@@ -65618,6 +67160,8 @@ horse=
   "Paternal_hhht": "To",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "SwNe",
+  "Paternal_mig": "MaHaHaTo",
   "Ped_All": "エンドオブジーニアスHoly BullGreat AboveMinnesota MacRough'n TumbleIntentionallyAl HattabThe AxeGrey DawnトニービンカンパラカラムーンHornbeamNorthern DancerNearcticTom Fool"
  },
  {
@@ -65703,6 +67247,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StMa",
+  "Paternal_mig": "HiMaToNs",
   "Ped_All": "エンパイアメーカーUnbridledファピアノミスタープロスペクターRaise a NativeドクターフェイガーLe FabuleuxWild RiskインリアリティエルグランセニョールNorthern DancerNearcticBuckpasserインリアリティIntentionallyCornish Prince"
  },
  {
@@ -65788,6 +67334,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StHa",
+  "Paternal_mig": "FaHaStFa",
   "Ped_All": "エースオブハートDjakaoTanerkoTantiemeDeux Pour CentFair CopyRibotTeneraniHyperionCrepelloDonatelloBlenheimMieuxceHillaryKhaledImperium"
  },
  {
@@ -65873,6 +67421,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HaNs",
+  "Paternal_mig": "TeNeNsNs",
   "Ped_All": "オジュウチョウサンステイゴールドサンデーサイレンスヘイローHail to ReasonアンダースタンディングディクタスSanctusノーザンテーストシンボリクリスエスクリスエスRobertoGold Meridianミルジョージミルリーフネヴァービート"
  },
  {
@@ -65958,6 +67508,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoHe",
+  "Paternal_mig": "NtHaStFa",
   "Ped_All": "オペラハウスサドラーズウェルズNorthern DancerNearcticNearcoNative DancerBold ReasonHail to ReasonフォルリハイトップDerring-DoDariusヴィミーJimmy ReppinMidsummer NightMajority Blue"
  },
  {
@@ -66043,6 +67595,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsHa",
+  "Paternal_mig": "NsTeHaHa",
   "Ped_All": "オリオンザサンクスシャンハイProcidaミスタープロスペクターRaise a NativeDistinctiveリヴァーマンNever BendDamascusリヴリアリヴァーマンNever BendヴェイグリーノーブルモハビSwapsドレスアップ"
  },
  {
@@ -66128,6 +67682,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "MaFa",
+  "Paternal_mig": "NsHaStMa",
   "Ped_All": "オースミシャダイリアルシャダイRobertoHail to ReasonTurn-toNashuaインリアリティIntentionallyMoslem ChiefミルジョージミルリーフNever BendRagusaソロナウェーSolferinoSummertime"
  },
  {
@@ -66213,6 +67769,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "RoSt",
+  "Paternal_mig": "NtHaHaFa",
   "Ped_All": "オールドヴィックサドラーズウェルズNorthern DancerNearcticNearcoNative DancerBold ReasonHail to ReasonフォルリDerring-DoDariusDanteAbernantヴィミーWild RiskCourt Martial"
  },
  {
@@ -66298,6 +67856,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNt",
+  "Paternal_mig": "TeMaMaNs",
   "Ped_All": "カネヒキリフジキセキサンデーサイレンスヘイローHail to ReasonアンダースタンディングLe FabuleuxWild RiskインリアリティデピュティミニスターVice RegentNorthern DancerBunty's FlightミスタープロスペクターRaise a NativeRoad at Sea"
  },
  {
@@ -66383,6 +67943,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoRo",
+  "Paternal_mig": "NsHaMaTe",
   "Ped_All": "カーリンスマートストライクミスタープロスペクターRaise a NativeNative DancerNashuaSmartenCyaneNodoubleデピュティミニスターVice RegentNorthern DancerBunty's Flightbates motelサーアイヴァーwise exchange"
  },
  {
@@ -66468,6 +68030,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeTe",
+  "Paternal_mig": "TeSwNsSw",
   "Ped_All": "キズナディープインパクトサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドストームキャットStorm BirdNorthern DancerセクレタリアトDamascusSword DancerAcropolis"
  },
  {
@@ -66553,6 +68117,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "TeSwNeNe",
   "Ped_All": "キタサンブラックブラックタイドサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドサクラバクシンオーサクラユタカオーテスコボーイノーザンテーストジャッジアンジェルーチHonest Pleasureリファール"
  },
  {
@@ -66638,6 +68204,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "RoTo",
+  "Paternal_mig": "RoToNsSt",
   "Ped_All": "キトゥンズジョイel pradoサドラーズウェルズNorthern DancerNearcticBold ReasonサーアイヴァーSir GaylordTom FoolリアファンRobertoHail to ReasonLt.Stevensl'enjoleurBuckpasserPrince John"
  },
  {
@@ -66723,6 +68291,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhNs",
+  "Paternal_mig": "HaEcPhEc",
   "Ped_All": "キョウイチファイトTeenosoYouthアクアクBattle JoinedDark StarBallymossMossboroughPinzaヘイローHail to ReasonTurn-toCosmic BombFleet NasrullahNasrullahRoyal Coinage"
  },
  {
@@ -66808,6 +68378,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "EcNs",
+  "Paternal_mig": "FaFaHeSw",
   "Ped_All": "キョウエイレアマイスワローLe LevanstellLe LavandouDjebelBallyoganVilmorayVilmorinFalls of ClydeアルサイドAlycidonDonatelloKing SalmonPrincely GiftNasrullahBig Game"
  },
  {
@@ -66893,6 +68465,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeHe",
+  "Paternal_mig": "NsStNsNe",
   "Ped_All": "キングカメハメハキングマンボミスタープロスペクターRaise a NativeNative DancerNashuaヌレイエフNorthern DancerProve OutラストタイクーントライマイベストNorthern DancerミルリーフBlakeneyHethersettグリーンダンサー"
  },
  {
@@ -66978,6 +68552,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeSw",
+  "Paternal_mig": "NsStStHa",
   "Ped_All": "キングズベストキングマンボミスタープロスペクターRaise a NativeNative DancerNashuaヌレイエフNorthern DancerProve OutLombardagioTantiemePrince ChevalierEspressoAcropolisBirkhahn"
  },
  {
@@ -67063,6 +68639,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeSw",
+  "Paternal_mig": "NsStStHa",
   "Ped_All": "キングズベストキングマンボミスタープロスペクターRaise a NativeNative DancerNashuaヌレイエフNorthern DancerProve OutLombardagioTantiemePrince ChevalierEspressoAcropolisBirkhahn"
  },
  {
@@ -67148,6 +68726,8 @@ horse=
   "Paternal_hhht": "To",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "RoRo",
+  "Paternal_mig": "FaFaPhTo",
   "Ped_All": "キングヘイローダンシングブレーヴリファールNorthern DancerNearcticCourt MartialDroneSir GaylordPago PagoヘイローHail to ReasonTurn-toCosmic BombサーアイヴァーSir GaylordBuckpasser"
  },
  {
@@ -67233,6 +68813,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "HaMa",
+  "Paternal_mig": "PhHaEcHi",
   "Ped_All": "キートゥザミントグロースタークRibotTeneraniBelliniEl GrecoAlibhaiHyperionBeau PerePrincequilloPrince RoseRose PrincePapyrusWar AdmiralMan o'WarBlue Larkspur"
  },
  {
@@ -67318,6 +68900,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "HeNe",
+  "Paternal_mig": "RoHaHaNs",
   "Ped_All": "ギニョールケープクロスグリーンデザートダンチヒNorthern DancerサーアイヴァーアホヌーラロレンザッチオBalidarモンズーンKonigsstuhlDschingis KhanSurumuUnfuwain&nbsp;Northern Dancerリヴァーマン"
  },
  {
@@ -67403,6 +68987,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "TeStRoHa",
   "Ped_All": "クラレントダンスインザダークサンデーサイレンスヘイローHail to ReasonアンダースタンディングニジンスキーNorthern DancerキートゥザミントダンシングブレーヴリファールNorthern DancerDroneテスコボーイPrincely Giftヴェイグリーノーブル"
  },
  {
@@ -67488,6 +69074,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "HaSt",
+  "Paternal_mig": "StNtStNs",
   "Ped_All": "クロコルージュレインボウクエストブラッシンググルームRed GodNasrullahWild RiskエルバジェVandaleRaise a NativeアレッジドHoist the FlagトムロルフPrince JohnRound TablePrincequilloNasrullah"
  },
  {
@@ -67573,6 +69161,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "07",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "StNe",
+  "Paternal_mig": "MaNsNsRo",
   "Ped_All": "クロフネフレンチデピュティデピュティミニスターVice RegentNorthern DancerBunty's FlightHold Your PeaceSpeak JohnBold RulerClassic Go GoPago PagoMatriceNever BendアイスカペイドNearcticRoberto"
  },
  {
@@ -67658,6 +69248,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "PhSt",
+  "Paternal_mig": "NsStTeNt",
   "Ped_All": "グラスワンダーシルヴァーホークRobertoHail to ReasonTurn-toNashuaアメリゴNearcoMat de CocagneダンチヒNorthern DancerNearcticAdmiral's VoyageヒズマジェスティRibotRaise a Native"
  },
  {
@@ -67743,6 +69335,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeHi",
+  "Paternal_mig": "NtPhTeTe",
   "Ped_All": "グリーンダンサーニジンスキーNorthern DancerNearcticNearcoNative DancerBull PageBull LeaMenowVal de LoirVieux ManoirBrantomeSunny BoySpy SongBalladierPavot"
  },
  {
@@ -67828,6 +69422,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "PhHa",
+  "Paternal_mig": "EcEcEcSw",
   "Ped_All": "グロースタークRibotTeneraniBelliniCavaliere d'ArpinoApelleEl GrecoPharosPapyrusAlibhaiHyperionGainsboroughTraceryBeau PereSon-in-LawMahmoud"
  },
  {
@@ -67913,6 +69509,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtSt",
+  "Paternal_mig": "RoTeTeFa",
   "Ped_All": "ケープブランコガリレオサドラーズウェルズNorthern DancerNearcticBold ReasonミスワキミスタープロスペクターLombardPresidiumGeneral AssemblyセクレタリアトリライアンスアーティアスRound Tableペティンゴ"
  },
  {
@@ -67998,6 +69596,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhNs",
+  "Paternal_mig": "HaEcPhEc",
   "Ped_All": "ゲンブタートルTeenosoYouthアクアクBattle JoinedDark StarBallymossMossboroughPinzaヘイローHail to ReasonTurn-toCosmic BombFleet NasrullahNasrullahRoyal Coinage"
  },
  {
@@ -68083,6 +69683,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "MaStHaNs",
   "Ped_All": "コスモバルクザグレブシアトリカルヌレイエフNorthern DancerササフラウォローWolver HollowジムフレンチトウショウボーイテスコボーイPrincely GiftYour Hostビッグディザイアートライバルチーフキタノカチドキ"
  },
  {
@@ -68168,6 +69770,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "StMa",
+  "Paternal_mig": "TeToNsHe",
   "Ped_All": "コマンズデインヒルダンチヒNorthern DancerNearcticAdmiral's VoyageヒズマジェスティRibotBuckpasserMy SwaneePetitionFair TrialGrey Sovereignpieces of eightRelicKlairon"
  },
  {
@@ -68253,6 +69857,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "ToNs",
+  "Paternal_mig": "NsNsFaMa",
   "Ped_All": "コンサートボーイカコイーシーズアリダーRaise a NativeNative DancerOn-and-OnJesterTom FoolNasrullahハンターコムDerring-DoDariusFair TrialSupreme SovereignSovereign PathChamossaire"
  },
  {
@@ -68338,6 +69944,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNe",
+  "Paternal_mig": "TeNeSwNs",
   "Ped_All": "コールドジップステイゴールドサンデーサイレンスヘイローHail to ReasonアンダースタンディングディクタスSanctusノーザンテーストメジロマックイーンメジロティターンメジロアサマリマンドプルラリズムThe Minstrelトライバルチーフ"
  },
  {
@@ -68423,6 +70031,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtRo",
+  "Paternal_mig": "NsStNeRo",
   "Ped_All": "ゴスホークケンBernsteinストームキャットStorm BirdNorthern DancerセクレタリアトAffirmedExclusive NativeRound TableGrand SlamゴーンウェストミスタープロスペクターエルグランセニョールクリスエスRobertoCyane"
  },
  {
@@ -68508,6 +70118,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "StNsNsSt",
   "Ped_All": "ゴーゴーゼットサッカーボーイディクタスSanctusFine TopWordenノーザンテーストNorthern DancerPrincely GiftニチドウタローエルセンタウロSideralNever BendノーザンネイティヴNearcticジャヴリン"
  },
  {
@@ -68593,6 +70205,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "HaHaStSt",
   "Ped_All": "ゴールデンキャストタイキシャトルデヴィルズバッグヘイローHail to ReasonエルバジェカーリアンニジンスキーThatchNiniskiニジンスキーNorthern DancerトムロルフリヴァーマンNever BendSir Ribot"
  },
  {
@@ -68678,6 +70292,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "TeHa",
+  "Paternal_mig": "NtFaEcNs",
   "Ped_All": "ゴールデンスネイクダンチヒNorthern DancerNearcticNearcoNative DancerAdmiral's VoyageCrafty AdmiralPetitionHigh LineハイハットHyperionChanteurTudor MelodyTudor MinstrelNever Say Die"
  },
  {
@@ -68763,6 +70379,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "NtRoNeTe",
   "Ped_All": "ゴールデンセンツInto MischiefHarlan's HolidayHarlanストームキャットAffirmedTricky CreekClever TrickStop the MusicBanker's GoldフォーティナイナーミスタープロスペクターニジンスキーBold ruckusBoldnesianKinsman Hope"
  },
  {
@@ -68848,6 +70466,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StSt",
+  "Paternal_mig": "TeMaTeNs",
   "Ped_All": "ゴールデンダリアフジキセキサンデーサイレンスヘイローHail to ReasonアンダースタンディングLe FabuleuxWild RiskインリアリティノーザンテーストNorthern DancerNearcticVictoria ParkアレッジドHoist the FlagBold Bidder"
  },
  {
@@ -68933,6 +70553,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "07",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "HeNe",
+  "Paternal_mig": "RoHaStRo",
   "Ped_All": "ゴールデンホーンケープクロスグリーンデザートダンチヒNorthern DancerサーアイヴァーアホヌーラロレンザッチオBalidarDubai DestinationキングマンボミスタープロスペクターアレッジドヌレイエフNorthern Dancerハビタット"
  },
  {
@@ -69018,6 +70640,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "06",
+  "Paternal_jik": "RoRo",
+  "Paternal_mig": "NeNeNeSt",
   "Ped_All": "ゴールドアクタースクリーンヒーローグラスワンダーシルヴァーホークRobertoダンチヒサンデーサイレンスヘイローノーザンテーストキョウワアリシバAlyshebaアリダーNorthern DancerマナードCaptain's Gigセダン"
  },
  {
@@ -69103,6 +70727,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "TeNe",
+  "Paternal_mig": "PhHaHaHa",
   "Ped_All": "ゴールドアリュールサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseヌレイエフNorthern DancerNearcticフォルリHostageニジンスキーヴェイグリーノーブル"
  },
  {
@@ -69188,6 +70814,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "StSt",
+  "Paternal_mig": "HaMaSwNs",
   "Ped_All": "ゴールドアンドアイボリーキートゥザミントグロースタークRibotTeneraniAlibhaiPrincequilloPrince RoseWar AdmiralサーアイヴァーSir GaylordTurn-toMr.TroubleDedicatePrincequilloNasrullah"
  },
  {
@@ -69273,6 +70901,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "EcMa",
+  "Paternal_mig": "EcHeHaHe",
   "Ped_All": "ゴールドウェイネプテューヌスNeptuneCrafty AdmiralFighting FoxEight ThirtyVictrixKantarKsarチャイナロックRockefellaHyperionRustom PashaヤサカSummertimeボストニアン"
  },
  {
@@ -69358,6 +70988,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeRo",
+  "Paternal_mig": "TeNeStNt",
   "Ped_All": "ゴールドドリームゴールドアリュールサンデーサイレンスヘイローHail to ReasonアンダースタンディングヌレイエフNorthern DancerHostageフレンチデピュティデピュティミニスターVice RegentHold Your PeaceCox's RidgeBest Turnミスタープロスペクター"
  },
  {
@@ -69443,6 +71075,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "HaRoMaSt",
   "Ped_All": "ゴールドマウンテンフォティテンヌレイエフNorthern DancerNearcticフォルリミルリーフNever BendSir GaylordエンペリーヴェイグリーノーブルヴィエナPostinBold RulerNasrullahPrincequillo"
  },
  {
@@ -69528,6 +71162,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "StEcHiMa",
   "Ped_All": "サウスヴィグラスエンドスウィープフォーティナイナーミスタープロスペクターRaise a NativeトムロルフDance SpellNorthern DancerThinking CapStar de NaskraNaskraNasramClandestineCornish PrinceBold RulerWar Admiral"
  },
  {
@@ -69613,6 +71249,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NsHe",
+  "Paternal_mig": "HaMaTeSt",
   "Ped_All": "サクマバクシンオーサクラユタカオーテスコボーイPrincely GiftNasrullahHyperionネヴァービートNever Say DieユアハイネスノーザンテーストNorthern DancerNearcticVictoria ParkAmbiopoiseAmbiorixGallant Man"
  },
  {
@@ -69698,6 +71336,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhHa",
+  "Paternal_mig": "HaTeSwHa",
   "Ped_All": "サクラサニーオーパーソロンMilesianMy BabuDjebelCoup de LyonPharisPharosAbjerハワイUtrilloToulouse LautrecMehraliKhaledHyperionBeau Pere"
  },
  {
@@ -69783,6 +71423,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaSw",
+  "Paternal_mig": "EcMaTeHe",
   "Ped_All": "サクラチトセオートニービンカンパラカラムーンゼダーンオンリーフォアライフHornbeamHyperionPrecipticノーザンテーストNorthern DancerNearcticVictoria ParkQuadrangleCohoesAmbiorix"
  },
  {
@@ -69868,6 +71510,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NsHe",
+  "Paternal_mig": "HaMaTeSt",
   "Ped_All": "サクラバクシンオーサクラユタカオーテスコボーイPrincely GiftNasrullahHyperionネヴァービートNever Say DieユアハイネスノーザンテーストNorthern DancerNearcticVictoria ParkAmbiopoiseAmbiorixGallant Man"
  },
  {
@@ -69953,6 +71597,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "TeSt",
+  "Paternal_mig": "PhHaToNs",
   "Ped_All": "サクラプレジデントサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseマルゼンスキーニジンスキーNorthern DancerBuckpasserセダンPrince BioGrey Sovereign"
  },
  {
@@ -70038,6 +71684,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "HaMa",
+  "Paternal_mig": "FaHaSwFa",
   "Ped_All": "サクラユタカオーテスコボーイPrincely GiftNasrullahNearcoBlue PeterHyperionGainsboroughDasturネヴァービートNever Say DieNasrullahBig GameユアハイネスChamossaireハロウェー"
  },
  {
@@ -70123,6 +71771,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNs",
+  "Paternal_mig": "StNtNsFa",
   "Ped_All": "サクラローレルレインボウクエストブラッシンググルームRed GodNasrullahWild RiskエルバジェVandaleRaise a NativeSaint CyrienリュティエKlaironリヴァーマンボールドラッドBold RulerHigh Treason"
  },
  {
@@ -70208,6 +71858,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "TeSwStHi",
   "Ped_All": "サトノアレスディープインパクトサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドデインヒルダンチヒNorthern DancerヒズマジェスティArtichokeJacintoCrimson Satan"
  },
  {
@@ -70293,6 +71945,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNt",
+  "Paternal_mig": "NsHaNeNs",
   "Ped_All": "サトノクラウンMarjuラストタイクーントライマイベストNorthern DancerミルリーフアーティアスRound TableWelsh PageantRossiniミスワキミスタープロスペクターhero's honorVettoriマキャベリアンPursuit of Love"
  },
  {
@@ -70378,6 +72032,8 @@ horse=
   "Paternal_hhht": "To",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeRo",
+  "Paternal_mig": "TeSwRoTo",
   "Ped_All": "サトノダイヤモンドディープインパクトサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドOrpenLureダンチヒデヴィルズバッグサザンヘイローヘイローLogical"
  },
  {
@@ -70463,6 +72119,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NeNt",
+  "Paternal_mig": "RoStNsNe",
   "Ped_All": "サマーバードBirdstoneGrindstoneUnbridledファピアノDroneStorm BirdNorthern DancerSilent ScreenSummer SquallStorm BirdNorthern DancerセクレタリアトAlyshebaアリダーニジンスキー"
  },
  {
@@ -70548,6 +72206,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "FaNs",
+  "Paternal_mig": "HeEcHeSw",
   "Ped_All": "サンハーイリマンドアルサイドAlycidonDonatelloKing SalmonPalestineFair TrialChanteurステューペンダスBold RulerNasrullahAmbiorixKing's LeapPrincely GiftAcropolis"
  },
  {
@@ -70633,6 +72293,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "StToNeNt",
   "Ped_All": "サンライズソアシンボリクリスエスクリスエスRobertoHail to ReasonPrincequilloGold MeridianシアトルスルーTri Jetスペシャルウィークサンデーサイレンスヘイローマルゼンスキーホワイトマズルダンシングブレーヴミスタープロスペクター"
  },
  {
@@ -70718,6 +72380,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeFa",
+  "Paternal_mig": "HeEcSwTe",
   "Ped_All": "ザイタクヘリオスビゼンニシキダンディルートリュティエKlaironプルーデントミンスキーNorthern DancerサウンドトラックネヴァービートNever Say DieNasrullahBig GameハロウェーFairwayDogpatch"
  },
  {
@@ -70803,6 +72467,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeNe",
+  "Paternal_mig": "PhHaStNs",
   "Ped_All": "シックスセンスサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseデインヒルダンチヒNorthern DancerヒズマジェスティNiniskiニジンスキーTyrant"
  },
  {
@@ -70888,6 +72554,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "FaNs",
+  "Paternal_mig": "TeHaRoSt",
   "Ped_All": "シビルウォーウォーエンブレムOur EmblemミスタープロスペクターRaise a NativeプライヴェートアカウントLord at WarGeneralThe PrunerサドラーズウェルズNorthern DancerNearcticBold ReasonリヴァーマンNever Bendグロースターク"
  },
  {
@@ -70973,6 +72641,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "FaNs",
+  "Paternal_mig": "RoNsTeNe",
   "Ped_All": "シャドウゲイトホワイトマズルダンシングブレーヴリファールNorthern DancerDroneEla-Mana-MouピットカーンTyrantサンデーサイレンスヘイローHail to ReasonアンダースタンディングファバージPrincely Giftノーザンテースト"
  },
  {
@@ -71058,6 +72728,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "TeNeRoNs",
   "Ped_All": "シュヴァルグランハーツクライサンデーサイレンスヘイローHail to ReasonアンダースタンディングトニービンカンパラリファールマキャベリアンミスタープロスペクターRaise a NativeヘイローヌレイエフNorthern Dancerブラッシンググルーム"
  },
  {
@@ -71143,6 +72815,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "TeNeRoNs",
   "Ped_All": "シュヴァルグランハーツクライサンデーサイレンスヘイローHail to ReasonアンダースタンディングトニービンカンパラリファールマキャベリアンミスタープロスペクターRaise a NativeヘイローヌレイエフNorthern Dancerブラッシンググルーム"
  },
  {
@@ -71228,6 +72902,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtHa",
+  "Paternal_mig": "StNsHaFa",
   "Ped_All": "ショワジールDanehill DancerデインヒルダンチヒNorthern DancerヒズマジェスティシャーペンアップエタンカロlunchtimeSilly SeasonTom FoolHornbeambiscayStar KingdomMinor Portion"
  },
  {
@@ -71313,6 +72989,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NsHa",
+  "Paternal_mig": "StToTeTe",
   "Ped_All": "ションボリインディエーピーインディシアトルスルーBold ReasoningBoldnesianPokerセクレタリアトBold RulerBuckpasserダンチヒNorthern DancerNearcticAdmiral's VoyageExcellerヴェイグリーノーブルDamascus"
  },
  {
@@ -71398,6 +73076,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NeRo",
+  "Paternal_mig": "TeToStHa",
   "Ped_All": "シルクフェイマスマーベラスサンデーサンデーサイレンスヘイローHail to ReasonアンダースタンディングヴァイスリーガルNorthern DancerLaugh AloudカーリアンニジンスキーNorthern DancerRound TableRobertoHail to Reasonヴェイグリーノーブル"
  },
  {
@@ -71483,6 +73163,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NsHa",
+  "Paternal_mig": "StToTeTe",
   "Ped_All": "シンボリインディエーピーインディシアトルスルーBold ReasoningBoldnesianPokerセクレタリアトBold RulerBuckpasserダンチヒNorthern DancerNearcticAdmiral's VoyageExcellerヴェイグリーノーブルDamascus"
  },
  {
@@ -71568,6 +73250,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StTo",
+  "Paternal_mig": "NsTeHiRo",
   "Ped_All": "シンボリクリスエスクリスエスRobertoHail to ReasonTurn-toNashuaPrincequilloPrince RoseOccupyGold MeridianシアトルスルーBold ReasoningCrimson SatanTri JetJesterFrancis S."
  },
  {
@@ -71653,6 +73337,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HeTe",
+  "Paternal_mig": "RoHaToSw",
   "Ped_All": "シーザスターズケープクロスグリーンデザートダンチヒNorthern DancerサーアイヴァーアホヌーラロレンザッチオBalidarミスワキミスタープロスペクターRaise a NativeBuckpasserLombardagioEspresso"
  },
  {
@@ -71738,6 +73424,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtSt",
+  "Paternal_mig": "NsNsNsFa",
   "Ped_All": "ジオポンティTale of the CatストームキャットStorm BirdNorthern DancerセクレタリアトミスタープロスペクターRaise a NativeHonest PleasureアリダーRaise a NativeNative DancerOn-and-OnSalt MarshトムロルフMount Athos"
  },
  {
@@ -71823,6 +73511,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsHa",
+  "Paternal_mig": "TeNeHaHa",
   "Ped_All": "ジャスタウェイハーツクライサンデーサイレンスヘイローHail to ReasonアンダースタンディングトニービンカンパラリファールワイルドアゲインアイスカペイドNearcticKhaledMo ExceptionHard WorkSir Wiggle"
  },
  {
@@ -71908,6 +73598,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StTo",
+  "Paternal_mig": "HaMaTeSt",
   "Ped_All": "ジャワゴールドキートゥザミントグロースタークRibotTeneraniAlibhaiPrincequilloPrince RoseWar AdmiralニジンスキーNorthern DancerNearcticBull PageTim TamTom FoolHill Prince"
  },
  {
@@ -71993,6 +73685,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaHa",
+  "Paternal_mig": "EcMaHaHa",
   "Ped_All": "ジャングルポケットトニービンカンパラカラムーンゼダーンオンリーフォアライフHornbeamHyperionPrecipticヌレイエフNorthern DancerNearcticフォルリNodoubleNoholmeDaryl's Joy"
  },
  {
@@ -72078,6 +73772,8 @@ horse=
   "Paternal_hhht": "To",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NsNt",
+  "Paternal_mig": "StToNsTo",
   "Ped_All": "ジャンプスタートエーピーインディシアトルスルーBold ReasoningBoldnesianPokerセクレタリアトBold RulerBuckpasserストームキャットStorm BirdNorthern DancerセクレタリアトミスタープロスペクターRaise a NativeBuckpasser"
  },
  {
@@ -72163,6 +73859,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeHe",
+  "Paternal_mig": "StEcToNt",
   "Ped_All": "スウェプトオーヴァーボードエンドスウィープフォーティナイナーミスタープロスペクターRaise a NativeトムロルフDance SpellNorthern DancerThinking CapCutlassDamascusSword DancerDunceAmbehavingAmbiorixNative Charger"
  },
  {
@@ -72248,6 +73946,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "TeNe",
+  "Paternal_mig": "PhHaNeSt",
   "Ped_All": "スズカマンボサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseキングマンボミスタープロスペクターRaise a NativeヌレイエフニジンスキーNorthern Dancerキートゥザミント"
  },
  {
@@ -72333,6 +74033,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NtNs",
+  "Paternal_mig": "StPhHeEc",
   "Ped_All": "スターマンワイズカウンセラーアレッジドHoist the FlagトムロルフPrince JohnRaise a NativeNative DancerBarbizonダンディルートリュティエKlaironプルーデントグレイモナークGrey Sovereignライジングフレーム"
  },
  {
@@ -72418,6 +74120,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeTo",
+  "Paternal_mig": "NsStStHe",
   "Ped_All": "ステューデントカウンシルキングマンボミスタープロスペクターRaise a NativeNative DancerNashuaヌレイエフNorthern DancerProve OutクリスエスRobertoHail to ReasonPrincequilloCopelanTri JetCrozier"
  },
  {
@@ -72503,6 +74207,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "FaSt",
+  "Paternal_mig": "RoNsHaNs",
   "Ped_All": "ストリートセンスストリートクライマキャベリアンミスタープロスペクターRaise a NativeヘイロートロイペティンゴリヴァーマンDixieland BandNorthern DancerNearcticDelta JudgeヒズマジェスティRibotReviewer"
  },
  {
@@ -72588,6 +74294,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "TeNt",
+  "Paternal_mig": "NeSwNsSw",
   "Ped_All": "ストレートフラッシュキングズベストキングマンボミスタープロスペクターRaise a NativeヌレイエフLombardagioEspressoプラティニSurumuLiteratStanfordSure BladeKrisKonigsstuhl"
  },
  {
@@ -72673,6 +74381,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "MaFa",
+  "Paternal_mig": "EcTeTeEc",
   "Ped_All": "ストロングエイトアイアンリージBull LeaBull DogTeddyBallotWar AdmiralMan o'WarSir GallahadScratchPharisPharosAsterusFull SailFairwayTiepolo"
  },
  {
@@ -72758,6 +74468,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "HaNe",
+  "Paternal_mig": "StNeNeMa",
   "Ped_All": "スニッツェルリダウツチョイスデインヒルダンチヒNorthern Dancerヒズマジェスティcanny ladbletchinglyニジンスキーsnippetslunchtimeSilly Seasongrand chaudiereStorm BirdNorthern Dancerインリアリティ"
  },
  {
@@ -72843,6 +74555,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "TeSwNeHa",
   "Ped_All": "スピルバーグディープインパクトサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドLyciusミスタープロスペクターRaise a NativeリファールサドラーズウェルズNorthern Dancerヴェイグリーノーブル"
  },
  {
@@ -72928,6 +74642,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "NeHeNeNs",
   "Ped_All": "スプラウトキングカメハメハキングマンボミスタープロスペクターRaise a NativeヌレイエフラストタイクーントライマイベストBlakeneyディープインパクトサンデーサイレンスヘイローアルザオファルブラヴフェアリーキングトニービン"
  },
  {
@@ -73013,6 +74729,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "08",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "TeHa",
+  "Paternal_mig": "PhHaToSt",
   "Ped_All": "スペシャルウィークサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseマルゼンスキーニジンスキーNorthern DancerBuckpasserセントクレスピンAureoleヒンドスタン"
  },
  {
@@ -73098,6 +74816,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "NsRoNsHa",
   "Ped_All": "スマーティジョーンズelusive qualityゴーンウェストミスタープロスペクターRaise a Nativeセクレタリアトhero's honorNorthern DancerサーアイヴァーsmileインリアリティIntentionallyBoldnesianFoolish PleasureWhat a Pleasureエルバジェ"
  },
  {
@@ -73183,6 +74903,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsHa",
+  "Paternal_mig": "TeEcFaNs",
   "Ped_All": "スマートストライクミスタープロスペクターRaise a NativeNative DancerPolynesianCase AceNashuaNasrullahCount FleetSmartenCyaneTurn-toQuibuNodoubleNoholmeOuting Class"
  },
  {
@@ -73268,6 +74990,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNt",
+  "Paternal_mig": "TeNeHaMa",
   "Ped_All": "スマートファルコンゴールドアリュールサンデーサイレンスヘイローHail to ReasonアンダースタンディングヌレイエフNorthern DancerHostageミシシッピアンヴェイグリーノーブルヴィエナDark StarクラウンドプリンスRaise a Nativeシルバーシャーク"
  },
  {
@@ -73353,6 +75077,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "NsHaStHe",
   "Ped_All": "セイウンスカイシェリフズスターポッセフォルリAristophanesBold RulerカラムーンゼダーンRight RoyalミルジョージミルリーフNever BendRagusaモガミリファールカーネルシンボリ"
  },
  {
@@ -73438,6 +75164,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "NsHaStHe",
   "Ped_All": "セイウンスカイシェリフズスターポッセフォルリAristophanesBold RulerカラムーンゼダーンRight RoyalミルジョージミルリーフNever BendRagusaモガミリファールカーネルシンボリ"
  },
  {
@@ -73523,6 +75251,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "SwNt",
+  "Paternal_mig": "SwStTeSt",
   "Ped_All": "ゼニガタチェイサーメジロマックイーンメジロティターンメジロアサマパーソロンスノッブリマンドアルサイドヒンドスタンニジンスキーNorthern DancerNearcticBull PageミスタープロスペクターRaise a NativeIllustrious"
  },
  {
@@ -73608,6 +75338,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "TeNe",
+  "Paternal_mig": "PhHaToHa",
   "Ped_All": "ゼンノロブロイサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseマイニングミスタープロスペクターRaise a NativeBuckpasserClever TrickアイスカペイドPia Star"
  },
  {
@@ -73693,6 +75425,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaHa",
+  "Paternal_mig": "PhSwStMa",
   "Ped_All": "タイキシャトルデヴィルズバッグヘイローHail to ReasonTurn-toCosmic BombエルバジェVandaleCohoesカーリアンニジンスキーNorthern DancerRound TableThatchフォルリRoan Rocket"
  },
  {
@@ -73778,6 +75512,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaHa",
+  "Paternal_mig": "PhSwStMa",
   "Ped_All": "タイキシャベルデヴィルズバッグヘイローHail to ReasonTurn-toCosmic BombエルバジェVandaleCohoesカーリアンニジンスキーNorthern DancerRound TableThatchフォルリRoan Rocket"
  },
  {
@@ -73863,6 +75599,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeHi",
+  "Paternal_mig": "PhHaTeTe",
   "Ped_All": "タイヤメジャーサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseノーザンテーストNorthern DancerNearcticVictoria ParkCrimson SatanSpy SongBeau Max"
  },
  {
@@ -73948,6 +75686,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "08",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HaSw",
+  "Paternal_mig": "ToMaEcHa",
   "Ped_All": "タグラTaufanStop the MusicHail to ReasonTurn-toTom FoolSadairPetareMr.BusherStandaanゼダーンGrey SovereignOrsiniバステッドCrepelloヴィエナ"
  },
  {
@@ -74033,6 +75773,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNs",
+  "Paternal_mig": "HiNsNtNs",
   "Ped_All": "タップダンスシチープレザントタッププレザントコロニーヒズマジェスティRibotSunrise FlightStage Door JohnnyPrince JohnNever BendNorthern DancerNearcticNearcoNative DancerBold HourBold RulerT.V.Lark"
  },
  {
@@ -74118,6 +75860,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "StNt",
+  "Paternal_mig": "NsTeStSt",
   "Ped_All": "タニノギムレットブライアンズタイムRobertoHail to ReasonTurn-toNashuaグロースタークRibotHasty RoadクリスタルパレスカロフォルティノSicambreSea-BirdDan Cupidグロースターク"
  },
  {
@@ -74203,6 +75947,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "NeHeNeNs",
   "Ped_All": "タネモミジイサンキングカメハメハキングマンボミスタープロスペクターRaise a NativeヌレイエフラストタイクーントライマイベストBlakeneyディープインパクトサンデーサイレンスヘイローアルザオファルブラヴフェアリーキングトニービン"
  },
  {
@@ -74288,6 +76034,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeTo",
+  "Paternal_mig": "PhHaMaHi",
   "Ped_All": "タヤスツヨシサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseカロフォルティノGrey SovereignChamossaireBuckpasserTom FoolBetter Self"
  },
  {
@@ -74373,6 +76121,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "08",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "RoNs",
+  "Paternal_mig": "TeNsStMa",
   "Ped_All": "タートルボウルDyhim DiamondNight ShiftNorthern DancerNearcticChop ChopHomingハビタットGreen GodトップヴィルハイトップDerring-DoCharlottesvilleカラムーンゼダーンヴェンチア"
  },
  {
@@ -74458,6 +76208,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeFa",
+  "Paternal_mig": "HeEcSwTe",
   "Ped_All": "ダイタクヘリオスビゼンニシキダンディルートリュティエKlaironプルーデントミンスキーNorthern DancerサウンドトラックネヴァービートNever Say DieNasrullahBig GameハロウェーFairwayDogpatch"
  },
  {
@@ -74543,6 +76295,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeNs",
+  "Paternal_mig": "HaTeEcSw",
   "Ped_All": "ダイユウサクノノアルコNearcticNearcoPharosHyperionHasty RoadRomanCrafty AdmiralダイコーターヒンドスタンBois RousselLillolkidネヴァービートNever Say Dieクリノハナ"
  },
  {
@@ -74628,6 +76382,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeHi",
+  "Paternal_mig": "PhHaTeTe",
   "Ped_All": "ダイワメジャーサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseノーザンテーストNorthern DancerNearcticVictoria ParkCrimson SatanSpy SongBeau Max"
  },
  {
@@ -74713,6 +76469,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "StRo",
+  "Paternal_mig": "TeMaNeHa",
   "Ped_All": "ダノンシャンティフジキセキサンデーサイレンスヘイローHail to ReasonアンダースタンディングLe FabuleuxWild RiskインリアリティMark of EsteemダルシャーンシャーリーハイツAjdalヘイローHail to Reasonエルバジェ"
  },
  {
@@ -74798,6 +76556,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsMa",
+  "Paternal_mig": "SwNtNsNt",
   "Ped_All": "ダノンレジェンドマッチョウノHoly BullGreat AboveMinnesota MacAl HattabブラッシンググルームRed GodミスタープロスペクターストームキャットStorm BirdNorthern DancerセクレタリアトHonour and GloryRelaunchマジェスティックプリンス"
  },
  {
@@ -74883,6 +76643,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "TeSt",
+  "Paternal_mig": "PhHaTeNt",
   "Ped_All": "ダンスインザダークサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseニジンスキーNorthern DancerNearcticBull PageキートゥザミントグロースタークRaise a Native"
  },
  {
@@ -74968,6 +76730,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NtHa",
+  "Paternal_mig": "HaSwPhHa",
   "Ped_All": "ダンディハットNorthern DancerNearcticNearcoPharosHyperionNative DancerPolynesianMahmoudRibotTeneraniBelliniEl GrecoGreek SongHeliopolisAlibhai"
  },
  {
@@ -75053,6 +76817,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "MaHe",
+  "Paternal_mig": "TeHiStPh",
   "Ped_All": "チェインドリームBuckpasserTom FoolMenowPharamondBull DogWar AdmiralMan o'WarBlue LarkspurMatsadoonDamascusSword DancerPrince JohnHethersettHugh LupusDante"
  },
  {
@@ -75138,6 +76904,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "MaNs",
+  "Paternal_mig": "FaSwStNs",
   "Ped_All": "ツインターボライラリッジリファールNorthern DancerNearcticCourt MartialSheshoonPrecipitationBig GameサンシーSanctusFine TopWordenファバージPrincely Giftダイハード"
  },
  {
@@ -75223,6 +76991,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "TeStNeNs",
   "Ped_All": "ツルマルボーイダンスインザダークサンデーサイレンスヘイローHail to ReasonアンダースタンディングニジンスキーNorthern DancerキートゥザミントサッカーボーイディクタスSanctusノーザンテーストアローエクスプレススパニッシュイクスプレスダイハード"
  },
  {
@@ -75308,6 +77078,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtNe",
+  "Paternal_mig": "NtNeHaHi",
   "Ped_All": "テスタマッタタピットPulpitエーピーインディシアトルスルーミスタープロスペクターUnbridledファピアノニジンスキーコンサーンブロードブラッシュアクアクTunerupNorthern JoveNorthern Dancerドクターフェイガー"
  },
  {
@@ -75393,6 +77165,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeSw",
+  "Paternal_mig": "TeSwNeNt",
   "Ped_All": "ディープブリランテディープインパクトサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドLoup SauvageリヴァーマンNever BendヌレイエフAkaradLabusミスワキ"
  },
  {
@@ -75478,6 +77252,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "TeSwStNs",
   "Ped_All": "ディーマジェスティディープインパクトサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドブライアンズタイムRobertoHail to ReasonグロースタークサドラーズウェルズNorthern DancerMaster Derby"
  },
  {
@@ -75563,6 +77339,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeHa",
+  "Paternal_mig": "PhHaTeSw",
   "Ped_All": "デュランダルサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseノーザンテーストNorthern DancerNearcticVictoria ParkCreme Dela CremeOlympiaHigh Perch"
  },
  {
@@ -75648,6 +77426,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "NeHeTeNt",
   "Ped_All": "トゥザグローリーキングカメハメハキングマンボミスタープロスペクターRaise a NativeヌレイエフラストタイクーントライマイベストBlakeneyサンデーサイレンスヘイローHail to ReasonアンダースタンディングヌレイエフNorthern Dancerシャーペンアップ"
  },
  {
@@ -75733,6 +77513,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "NeHeTeNt",
   "Ped_All": "トゥザワールドキングカメハメハキングマンボミスタープロスペクターRaise a NativeヌレイエフラストタイクーントライマイベストBlakeneyサンデーサイレンスヘイローHail to ReasonアンダースタンディングヌレイエフNorthern Dancerシャーペンアップ"
  },
  {
@@ -75818,6 +77600,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhHa",
+  "Paternal_mig": "SwHaTeHa",
   "Ped_All": "トウショウファルコグリーングラスインターメゾHornbeamHyperionPersian GulfニンバスNearcoゲイタイムハンザダンサーハワイUtrilloSword DancerチャイナロックRockefellaYour Host"
  },
  {
@@ -75903,6 +77687,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "PhNs",
+  "Paternal_mig": "SwHaSwEc",
   "Ped_All": "トシグリーングリーングラスインターメゾHornbeamHyperionPersian GulfニンバスNearcoゲイタイムロードリージSir GaylordTurn-toMr.TroubleグレイモナークGrey Sovereignライジングフレーム"
  },
  {
@@ -75988,6 +77774,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNe",
+  "Paternal_mig": "HaRoHaPh",
   "Ped_All": "トランセンドワイルドラッシュワイルドアゲインアイスカペイドNearcticKhaledプラグドニックルキートゥザミントDroneトニービンカンパラカラムーンHornbeamスリルショーNorthern Babyハワイ"
  },
  {
@@ -76073,6 +77861,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeMa",
+  "Paternal_mig": "FaStHaSw",
   "Ped_All": "トロットサンダーダイナコスモスハンターコムDerring-DoDariusFair TrialノーザンテーストNorthern DancerマリーノテスコボーイPrincely GiftNasrullahHyperionリンボーWar Admiralアスフォード"
  },
  {
@@ -76158,6 +77948,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HiNs",
+  "Paternal_mig": "StHeTeTe",
   "Ped_All": "トーシンブリザードデュラブTopsiderNorthern DancerNearcticRound TableドクターフェイガーRough'n TumbleMy BabuブレイヴェストローマンNever BendNasrullahRomanテスコボーイPrincely Giftダラノーア"
  },
  {
@@ -76243,6 +78035,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "TeHaNsNt",
   "Ped_All": "トーホウジャッカルスペシャルウィークサンデーサイレンスヘイローHail to ReasonアンダースタンディングマルゼンスキーニジンスキーセントクレスピンアンブライドルズソングUnbridledファピアノカロヌレイエフNorthern DancerExclusive Native"
  },
  {
@@ -76328,6 +78122,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNe",
+  "Paternal_mig": "TeNeSwNs",
   "Ped_All": "ドリームジャーニーステイゴールドサンデーサイレンスヘイローHail to ReasonアンダースタンディングディクタスSanctusノーザンテーストメジロマックイーンメジロティターンメジロアサマリマンドノーザンテーストNorthern DancerLt.Stevens"
  },
  {
@@ -76413,6 +78209,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "StHa",
+  "Paternal_mig": "TeMaHaNe",
   "Ped_All": "ドリームパスポートフジキセキサンデーサイレンスヘイローHail to ReasonアンダースタンディングLe FabuleuxWild RiskインリアリティトニービンカンパラカラムーンHornbeamディクタスSanctusノーザンテースト"
  },
  {
@@ -76498,6 +78296,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "HeSt",
+  "Paternal_mig": "NtHeStEc",
   "Ped_All": "ナイスニイチャナイスダンサーNorthern DancerNearcticNearcoNative DancerLe Beau PrinceFontenayAlizierハビトニーハビタットSir GaylordGallant Manケンマルチカラヒンドスタンガーサント"
  },
  {
@@ -76583,6 +78383,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "HeSt",
+  "Paternal_mig": "NtHeStEc",
   "Ped_All": "ナイスネイチャナイスダンサーNorthern DancerNearcticNearcoNative DancerLe Beau PrinceFontenayAlizierハビトニーハビタットSir GaylordGallant Manケンマルチカラヒンドスタンガーサント"
  },
  {
@@ -76668,6 +78470,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StHa",
+  "Paternal_mig": "TeRoTeSt",
   "Ped_All": "ナチュラリズムパレスミュージックThe MinstrelNorthern DancerNearcticVictoria ParkPrince JohnPrincequilloTurn-toZephyr BaybiscayStar KingdomPanTaineVandaleArctic Prince"
  },
  {
@@ -76753,6 +78557,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "StNsTeHi",
   "Ped_All": "ナリタトップロードサッカーボーイディクタスSanctusFine TopWordenノーザンテーストNorthern DancerPrincely GiftAffirmedExclusive NativeRaise a NativeCrafty AdmiralNever BendNasrullahDouble Jay"
  },
  {
@@ -76838,6 +78644,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "StNe",
+  "Paternal_mig": "TeHaTeNt",
   "Ped_All": "ナントロクセイトロットスターダミスターミスタープロスペクターRaise a NativeRoman LineワイズカウンセラーアレッジドディクタスサンデーサイレンスヘイローHail to ReasonアンダースタンディングヌレイエフNorthern Dancerシャーペンアップ"
  },
  {
@@ -76923,6 +78731,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "FaNe",
+  "Paternal_mig": "RoNsNsNt",
   "Ped_All": "ニホンピロアワーズホワイトマズルダンシングブレーヴリファールNorthern DancerDroneEla-Mana-MouピットカーンTyrantアドマイヤベガサンデーサイレンスヘイロートニービンシアトリカルヌレイエフLittle Current"
  },
  {
@@ -77008,6 +78818,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "RoTo",
+  "Paternal_mig": "NtHaNsHi",
   "Ped_All": "ヌスミノビガクサドラーズウェルズNorthern DancerNearcticNearcoNative DancerBold ReasonHail to ReasonフォルリRobertoHail to ReasonTurn-toNashuaBuckpasserTom FoolRough'n Tumble"
  },
  {
@@ -77093,6 +78905,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeSt",
+  "Paternal_mig": "PhHaTeFa",
   "Ped_All": "ネオユニヴァースサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseKrisシャーペンアップエタンリライアンスShantungSicambrePall Mall"
  },
  {
@@ -77178,6 +78992,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StHe",
+  "Paternal_mig": "ToNsHaHa",
   "Ped_All": "ネーハイシーザーサクラトウコウマルゼンスキーニジンスキーNorthern DancerBuckpasserセダンPrince BioGrey SovereignテスコボーイPrincely GiftNasrullahHyperionパーソロンMilesianハタカゼ"
  },
  {
@@ -77263,6 +79079,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNe",
+  "Paternal_mig": "HeHaHaNs",
   "Ped_All": "ノヴェリストモンズーンKonigsstuhlDschingis KhanTamerlaneTiepolettoSurumuLiteratAuthiLagunasイルドブルボンニジンスキーLiteratNight ShiftNorthern DancerNebos"
  },
  {
@@ -77348,6 +79166,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StSw",
+  "Paternal_mig": "EcEcHiMa",
   "Ped_All": "ハビタットSir GaylordTurn-toRoyal ChargerNearcoAdmiral DrakePrincequilloPrince RoseCarusoOccupyBull DogTeddyBuntingChallengerSwynfordKai-Sang"
  },
  {
@@ -77433,6 +79253,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "TeRo",
+  "Paternal_mig": "NtFaStHe",
   "Ped_All": "ハードスパンダンチヒNorthern DancerNearcticNearcoNative DancerAdmiral's VoyageCrafty AdmiralPetitionTurkomanアリダーRaise a NativeTable PlayRobertoHail to ReasonMy Babu"
  },
  {
@@ -77518,6 +79340,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "StHaNeHa",
   "Ped_All": "ハービンジャーDansiliデインヒルダンチヒNorthern DancerヒズマジェスティkahyasiイルドブルボンHigh LineBeringArctic TernSea-Birdリファールshareef dancerNorthern DancerConnaught"
  },
  {
@@ -77603,6 +79427,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "SwNt",
+  "Paternal_mig": "StFaHaRo",
   "Ped_All": "バゴナシュワンブラッシンググルームRed GodNasrullahWild RiskBustinoバステッドQueen's HussarヌレイエフNorthern DancerNearcticフォルリミスタープロスペクターRaise a Nativeヘイロー"
  },
  {
@@ -77688,6 +79514,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "SwNt",
+  "Paternal_mig": "StFaHaRo",
   "Ped_All": "バゴナシュワンブラッシンググルームRed GodNasrullahWild RiskBustinoバステッドQueen's HussarヌレイエフNorthern DancerNearcticフォルリミスタープロスペクターRaise a Nativeヘイロー"
  },
  {
@@ -77773,6 +79601,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeHa",
+  "Paternal_mig": "PhHaFaSt",
   "Ped_All": "バブルガムフェローサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseリファールNorthern DancerNearcticCourt MartialProminerBeau SabreurTabriz"
  },
  {
@@ -77858,6 +79688,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsPh",
+  "Paternal_mig": "SwNeHeHe",
   "Ped_All": "バンビーメモリーモーニングフローリックGrey DawnエルバジェVandaleMahmoudBold HourBold RulerNearcticモバリッズSing SingTudor MinstrelGuard's TieニンバスNearcoセフト"
  },
  {
@@ -77943,6 +79775,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsPh",
+  "Paternal_mig": "SwNeHeHe",
   "Ped_All": "バンブーメモリーモーニングフローリックGrey DawnエルバジェVandaleMahmoudBold HourBold RulerNearcticモバリッズSing SingTudor MinstrelGuard's TieニンバスNearcoセフト"
  },
  {
@@ -78028,6 +79862,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "StToHiNe",
   "Ped_All": "バーナーディニエーピーインディシアトルスルーBold ReasoningBoldnesianPokerセクレタリアトBold RulerBuckpasserQuiet AmericanファピアノミスタープロスペクタードクターフェイガーSpectacular BidBold BidderNorthern Dancer"
  },
  {
@@ -78113,6 +79949,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "HeMa",
+  "Paternal_mig": "StHaTeRo",
   "Ped_All": "パラダイスクリークアイリッシュリヴァーリヴァーマンNever BendNasrullahPrince JohnKlaironClarionEast SideNorthfieldsNorthern DancerNearcticOccupyササフラSheshoonHail to Reason"
  },
  {
@@ -78198,6 +80036,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeRo",
+  "Paternal_mig": "NeHeHaNe",
   "Ped_All": "ヒットザターゲットキングカメハメハキングマンボミスタープロスペクターRaise a NativeヌレイエフラストタイクーントライマイベストBlakeneyタマモクロスシービークロスフォルティノシャトーゲイニホンピロウイナースティールハートノーザンテースト"
  },
  {
@@ -78283,6 +80123,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StHa",
+  "Paternal_mig": "FaHaStFa",
   "Ped_All": "ヒデブッDjakaoTanerkoTantiemeDeux Pour CentFair CopyRibotTeneraniHyperionCrepelloDonatelloBlenheimMieuxceHillaryKhaledImperium"
  },
  {
@@ -78368,6 +80210,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "NsHeNeNs",
   "Ped_All": "ビッグアーサーサクラバクシンオーサクラユタカオーテスコボーイPrincely GiftネヴァービートノーザンテーストNorthern DancerAmbiopoiseキングマンボミスタープロスペクターRaise a NativeヌレイエフサドラーズウェルズNorthern DancerLiloy"
  },
  {
@@ -78453,6 +80297,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeMa",
+  "Paternal_mig": "PhHaHaSt",
   "Ped_All": "ビッグサンデーサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseトウショウボーイテスコボーイPrincely GiftYour HostヴェンチアRelicスコット"
  },
  {
@@ -78538,6 +80384,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StTe",
+  "Paternal_mig": "MaNsNtSw",
   "Ped_All": "ビワハヤヒデシャルードカロフォルティノGrey SovereignChamossaireCougarTale of Two CitiesFleet NasrullahNorthern DancerNearcticNearcoNative DancerDamascusSword DancerAcropolis"
  },
  {
@@ -78623,6 +80471,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "ToNs",
+  "Paternal_mig": "TeNsHaRo",
   "Ped_All": "ピルサドスキーPolish PrecedentダンチヒNorthern DancerNearcticAdmiral's VoyageBuckpasserTom FoolボールドラッドトロイペティンゴPetitionHornbeamミルリーフNever BendSir Gaylord"
  },
  {
@@ -78708,6 +80558,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNs",
+  "Paternal_mig": "TeMaToHa",
   "Ped_All": "ファイングレインフジキセキサンデーサイレンスヘイローHail to ReasonアンダースタンディングLe FabuleuxWild RiskインリアリティPolish PrecedentダンチヒNorthern DancerBuckpasserミルリーフNever BendHigh Line"
  },
  {
@@ -78793,6 +80645,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoSt",
+  "Paternal_mig": "NtHaStHa",
   "Ped_All": "ファルブラヴフェアリーキングNorthern DancerNearcticNearcoNative DancerBold ReasonHail to ReasonフォルリSlewpyシアトルスルーBold ReasoningPrince JohnLithiotRibotKirkland Lake"
  },
  {
@@ -78878,6 +80732,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoSt",
+  "Paternal_mig": "StHaTeSw",
   "Ped_All": "ファンタスティックライトラーイブラッシンググルームRed GodNasrullahWild RiskヘイローHail to ReasonエルバジェニジンスキーNorthern DancerNearcticBull PageキートゥザミントグロースタークQuadrangle"
  },
  {
@@ -78963,6 +80819,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaHa",
+  "Paternal_mig": "TeNeStFa",
   "Ped_All": "フェノーメノステイゴールドサンデーサイレンスヘイローHail to ReasonアンダースタンディングディクタスSanctusノーザンテーストデインヒルダンチヒNorthern DancerヒズマジェスティAverofSing SingMajor Portion"
  },
  {
@@ -79048,6 +80906,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeMa",
+  "Paternal_mig": "PhHaEcNs",
   "Ped_All": "フジキセキサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseLe FabuleuxWild RiskRialtoVersoインリアリティIntentionallyCornish Prince"
  },
  {
@@ -79133,6 +80993,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "08",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "TeMa",
+  "Paternal_mig": "HeTeHaSt",
   "Ped_All": "フジノマッケンオーブレイヴェストローマンNever BendNasrullahNearcoDjeddahRomanSir GallahadSun AgainトウショウボーイテスコボーイPrincely GiftYour HostシャミエChamossaireヒンドスタン"
  },
  {
@@ -79218,6 +81080,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StSw",
+  "Paternal_mig": "EcHaFaHa",
   "Ped_All": "フジヤマケンザンラッキーキャストマイスワローLe LevanstellLe LavandouVilmorayPrince JohnPrincequilloSummer TanコントライトNever Say DieNasrullahPetitionリマンドアルサイドカバーラップ二世"
  },
  {
@@ -79303,6 +81167,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "StNe",
+  "Paternal_mig": "NsTeNsNs",
   "Ped_All": "フリオーソブライアンズタイムRobertoHail to ReasonTurn-toNashuaグロースタークRibotHasty RoadミスタープロスペクターRaise a NativeNative DancerNashuaヌレイエフNorthern Dancerリヴァーマン"
  },
  {
@@ -79388,6 +81254,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "EcSw",
+  "Paternal_mig": "PhPhTeHe",
   "Ped_All": "フレッシュボイスフィリップオブスペインTudor MelodyTudor MinstrelOwen TudorDanteマタドアGolden CloudPylonダイハードNever Say DieNasrullahBrumeuxタカマガハラクリノハナセフト"
  },
  {
@@ -79473,6 +81341,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "MaNs",
+  "Paternal_mig": "FaHiEcHe",
   "Ped_All": "フレンチデピュティデピュティミニスターVice RegentNorthern DancerNearcticMenetrierBunty's FlightBunty LawlessJabnehHold Your PeaceSpeak JohnPrince JohnEight ThirtyBold RulerNasrullahAmbiorix"
  },
  {
@@ -79558,6 +81428,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeSw",
+  "Paternal_mig": "PhHaRoFa",
   "Ped_All": "ブラックタイドサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseアルザオリファールNorthern DancerサーアイヴァーバステッドCrepelloQueen's Hussar"
  },
  {
@@ -79643,6 +81515,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoRo",
+  "Paternal_mig": "HiStMaHa",
   "Ped_All": "ブロードブラッシュアクアクBattle JoinedArmageddonAlsabRevokedTurn-toRoyal ChargerPrincequilloHoist the FlagトムロルフRibotWar AdmiralTurn-toRoyal ChargerDark Star"
  },
  {
@@ -79728,6 +81602,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "HeHa",
+  "Paternal_mig": "PhPhMaNs",
   "Ped_All": "プライヴェートアカウントDamascusSword DancerSunglowSun AgainBy JimminyMy BabuDjebelSickleBuckpasserTom FoolMenowWar AdmiralSwapsKhaledNasrullah"
  },
  {
@@ -79813,6 +81689,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "06",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "StEcNsHa",
   "Ped_All": "プリサイスエンドエンドスウィープフォーティナイナーミスタープロスペクターRaise a NativeトムロルフDance SpellNorthern DancerThinking CapSummingVerbatimSpeak JohnGrotonCold ReceptionセクレタリアトGrey Dawn"
  },
  {
@@ -79898,6 +81776,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "SwHe",
+  "Paternal_mig": "EcMaPhSw",
   "Ped_All": "プレストウコウグスタフGrey SovereignNasrullahNearcoBaytownBig GameBahramHurry OnシーフユリユーSicambrePrince BioDanteヴイーノーピユローPolemarchミナミホマレ"
  },
  {
@@ -79983,6 +81863,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhMa",
+  "Paternal_mig": "NsToNtNs",
   "Ped_All": "ヘニーヒューズヘネシーストームキャットStorm BirdNorthern DancerセクレタリアトハワイUtrilloTom CatMeadowlakeHold Your PeaceSpeak JohnRaise a NativehagleyOlden Timesharvest singing"
  },
  {
@@ -80068,6 +81950,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "NeHeTeHe",
   "Ped_All": "ベルシャザールキングカメハメハキングマンボミスタープロスペクターRaise a NativeヌレイエフラストタイクーントライマイベストBlakeneyサンデーサイレンスヘイローHail to ReasonアンダースタンディングセクレトNorthern DancerFaraway Son"
  },
  {
@@ -80153,6 +82037,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaHe",
+  "Paternal_mig": "HaEcHePh",
   "Ped_All": "ベルワイドインディアナSayajiraoNearcoPharosDark LegendSolarioGainsboroughApelleAuribanPharisPharosTourbillonDjebelTourbillonPharos"
  },
  {
@@ -80238,6 +82124,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaHe",
+  "Paternal_mig": "EcEcEcMa",
   "Ped_All": "ホウシュウエイトチャイナロックRockefellaHyperionGainsboroughFelsteadRustom PashaSon-in-LawFriar MarcusホウシユウプリメロBlandfordシアンモアセフトTetratemaチャペルブラムプトン"
  },
  {
@@ -80323,6 +82211,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "HaPh",
+  "Paternal_mig": "FaHaStSw",
   "Ped_All": "ホクトボーイテスコボーイPrincely GiftNasrullahNearcoBlue PeterHyperionGainsboroughDasturバステッドCrepelloDonatelloヴィミーBallymossMossboroughBig Game"
  },
  {
@@ -80408,6 +82298,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "HaPh",
+  "Paternal_mig": "FaHaStSw",
   "Ped_All": "ホクトボーイテスコボーイPrincely GiftNasrullahNearcoBlue PeterHyperionGainsboroughDasturバステッドCrepelloDonatelloヴィミーBallymossMossboroughBig Game"
  },
  {
@@ -80493,6 +82385,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HaRo",
+  "Paternal_mig": "HiMaHaSt",
   "Ped_All": "ホストヘリオスパーソナリティHail to ReasonTurn-toRoyal ChargerBlue SwordsSwapsKhaledWar AdmiralボールドリックRound TablePrincequilloJohnstownTurn to ReasonHail to ReasonGallant Man"
  },
  {
@@ -80578,6 +82472,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "06",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "RoNs",
+  "Paternal_mig": "FaFaHaSt",
   "Ped_All": "ホワイトマズルダンシングブレーヴリファールNorthern DancerNearcticCourt MartialDroneSir GaylordPago PagoEla-Mana-MouピットカーンペティンゴハイハットTyrantBold RulerRound Table"
  },
  {
@@ -80663,6 +82559,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsSw",
+  "Paternal_mig": "StHaFaFa",
   "Ped_All": "ボストンハーバーカポーティシアトルスルーBold ReasoningBoldnesianPokerBald EagleNasrullahDark StarVice RegentNorthern DancerNearcticMenetrierRestless WindWindy CityCorporal"
  },
  {
@@ -80748,6 +82646,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "ToNs",
+  "Paternal_mig": "NsTeHaMa",
   "Ped_All": "マイネルラヴシーキングザゴールドミスタープロスペクターRaise a NativeNative DancerNashuaBuckpasserTom FoolHasty RoadリイフォーリファールNorthern DancerSing SingセクレタリアトBold RulerIntentionally"
  },
  {
@@ -80833,6 +82733,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsSt",
+  "Paternal_mig": "NsStMaSw",
   "Ped_All": "マイネルレコルトチーフベアハートチーフズクラウンダンチヒNorthern DancerセクレタリアトBold HourBold RulerRibotタイテエムセントクレスピンAureoleヴェンチアフジオンワードRibotトサミドリ"
  },
  {
@@ -80918,6 +82820,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaSt",
+  "Paternal_mig": "StSwEcNs",
   "Ped_All": "マサラッキマグニテュードミルリーフNever BendNasrullahPrincequilloセントクレスピンAureoleCrepelloカジュンRed RegentPrince RegentEnnisボンモーWordenフランキンセンス"
  },
  {
@@ -81003,6 +82907,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaMa",
+  "Paternal_mig": "StNsHaHa",
   "Ped_All": "マチカネフクキタルクリスタルグリッターズブラッシンググルームRed GodNasrullahWild RiskDonut KingDetermineFleet NasrullahトウショウボーイテスコボーイPrincely GiftYour HostシルバーシャークBuisson Ardentテューダーペリオッド"
  },
  {
@@ -81088,6 +82994,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "SwHa",
+  "Paternal_mig": "SwStStNs",
   "Ped_All": "マックロサキーメジロマックイーンメジロティターンメジロアサマパーソロンスノッブリマンドアルサイドヒンドスタンナグルスキーニジンスキーNorthern DancerPrince JohnフィリップオブスペインTudor Melodyイエローゴッド"
  },
  {
@@ -81173,6 +83081,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "SwHa",
+  "Paternal_mig": "SwStStNs",
   "Ped_All": "マックロサキーメジロマックイーンメジロティターンメジロアサマパーソロンスノッブリマンドアルサイドヒンドスタンナグルスキーニジンスキーNorthern DancerPrince JohnフィリップオブスペインTudor Melodyイエローゴッド"
  },
  {
@@ -81258,6 +83168,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "SwNt",
+  "Paternal_mig": "MaHaStMa",
   "Ped_All": "マッチョウノHoly BullGreat AboveMinnesota MacRough'n TumbleIntentionallyAl HattabThe AxeGrey DawnブラッシンググルームRed GodNasrullahWild RiskミスタープロスペクターRaise a NativeOlden Times"
  },
  {
@@ -81343,6 +83255,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "TeHa",
+  "Paternal_mig": "PhHaNsEc",
   "Ped_All": "マンハッタンカフェサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseLaw SocietyアレッジドHoist the FlagBoldnesianLucianoHenry the SeventhTicino"
  },
  {
@@ -81428,6 +83342,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "TeTo",
+  "Paternal_mig": "PhHaFaNt",
   "Ped_All": "マーベラスサンデーサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseヴァイスリーガルNorthern DancerNearcticMenetrierLaugh AloudTom FoolNative Dancer"
  },
  {
@@ -81513,6 +83429,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StTo",
+  "Paternal_mig": "MaRoHaSw",
   "Ped_All": "ミズンマストコジーンカロフォルティノGrey SovereignChamossairePrince JohnPrincequilloSir GaylordグロースタークRibotTeneraniAlibhaiTom FoolMenowChallenger"
  },
  {
@@ -81598,6 +83516,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "NeHeNsNt",
   "Ped_All": "ミッキーロケットキングカメハメハキングマンボミスタープロスペクターRaise a NativeヌレイエフラストタイクーントライマイベストBlakeneyPivotalpolar falconヌレイエフコジーンカーリアンニジンスキーミスワキ"
  },
  {
@@ -81683,6 +83603,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "05",
+  "Paternal_jik": "StSw",
+  "Paternal_mig": "StFaStSw",
   "Ped_All": "ムトトバステッドCrepelloDonatelloBlenheimMieuxceヴィミーWild RiskCourt MartialミンシオRelicWar RelicLe PachaAlycidonDonatelloPersian Gulf"
  },
  {
@@ -81768,6 +83690,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "PhNs",
+  "Paternal_mig": "RoHeRoNs",
   "Ped_All": "メイショウサムソンオペラハウスサドラーズウェルズNorthern DancerNearcticBold ReasonハイトップDerring-DoJimmy ReppinダンシングブレーヴリファールNorthern DancerDroneサンプリンスPrincely Giftフォルティノ"
  },
  {
@@ -81853,6 +83777,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StSt",
+  "Paternal_mig": "StHeFaHe",
   "Ped_All": "メジロデュレンフィディオンDjakaoTanerkoTantiemeRibotSicambrePrince BioTourmentリマンドアルサイドAlycidonPalestineヒンドスタンBois Rousselボストニアン"
  },
  {
@@ -81938,6 +83864,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNe",
+  "Paternal_mig": "HaMaRoSw",
   "Ped_All": "メジロパーマンメジロイーグルメジロサンマンCharlottesvillePrince ChevalierAureoleKhaledHyperionWar RelicゲイメセンヴェイグリーノーブルヴィエナSir GaylordリファールNorthern DancerLucky Debonair"
  },
  {
@@ -82023,6 +83951,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNe",
+  "Paternal_mig": "HaMaRoSw",
   "Ped_All": "メジロパーマーメジロイーグルメジロサンマンCharlottesvillePrince ChevalierAureoleKhaledHyperionWar RelicゲイメセンヴェイグリーノーブルヴィエナSir GaylordリファールNorthern DancerLucky Debonair"
  },
  {
@@ -82108,6 +84038,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StSt",
+  "Paternal_mig": "HeSwToPh",
   "Ped_All": "メジロブライトメジロライアンアンバーシャダイノーザンテーストNorthern DancerAmbiopoiseメジロサンマンCharlottesvilleスノッブマルゼンスキーニジンスキーNorthern DancerBuckpasserラディガグロースタークアドミラルバード"
  },
  {
@@ -82193,6 +84125,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "StNe",
+  "Paternal_mig": "TeHaTeNt",
   "Ped_All": "メリディロクセイトロットスターダミスターミスタープロスペクターRaise a NativeRoman LineワイズカウンセラーアレッジドディクタスサンデーサイレンスヘイローHail to ReasonアンダースタンディングヌレイエフNorthern Dancerシャーペンアップ"
  },
  {
@@ -82278,6 +84212,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "RoSw",
+  "Paternal_mig": "NtHaStNs",
   "Ped_All": "モンジャーサドラーズウェルズNorthern DancerNearcticNearcoNative DancerBold ReasonHail to ReasonフォルリトップヴィルハイトップDerring-DoCharlottesvilleTennysonVal de Loirゼダーン"
  },
  {
@@ -82363,6 +84299,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "RoSw",
+  "Paternal_mig": "NtHaStNs",
   "Ped_All": "モンジューサドラーズウェルズNorthern DancerNearcticNearcoNative DancerBold ReasonHail to ReasonフォルリトップヴィルハイトップDerring-DoCharlottesvilleTennysonVal de Loirゼダーン"
  },
  {
@@ -82448,6 +84386,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNs",
+  "Paternal_mig": "PhMaNeNt",
   "Ped_All": "モーニンヘニーヒューズヘネシーストームキャットStorm BirdハワイMeadowlakeHold Your PeacehagleyDistorted humorフォーティナイナーミスタープロスペクターダンチヒコジーンカロファピアノ"
  },
  {
@@ -82533,6 +84473,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoNe",
+  "Paternal_mig": "NeNeNsTe",
   "Ped_All": "モーリススクリーンヒーローグラスワンダーシルヴァーホークRobertoダンチヒサンデーサイレンスヘイローノーザンテーストカーネギーサドラーズウェルズNorthern Dancerリヴァーマンモガミリファールフィディオン"
  },
  {
@@ -82618,6 +84560,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "MaHe",
+  "Paternal_mig": "NsHaTeSt",
   "Ped_All": "ヤブキマイカグラリアルシャダイRobertoHail to ReasonTurn-toNashuaインリアリティIntentionallyMoslem ChiefノーザンテーストNorthern DancerNearcticVictoria ParkAmbiopoiseAmbiorixGallant Man"
  },
  {
@@ -82703,6 +84647,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "NeHeNeNs",
   "Ped_All": "ヤマカツエースキングカメハメハキングマンボミスタープロスペクターRaise a NativeヌレイエフラストタイクーントライマイベストBlakeneyグラスワンダーシルヴァーホークRobertoダンチヒTejaboデピュティミニスターBold ruckus"
  },
  {
@@ -82788,6 +84734,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaEc",
+  "Paternal_mig": "HaEcStSw",
   "Ped_All": "ヤマニンゼファーニホンピロウイナースティールハートハビタットSir GaylordAbernantチャイナロックRockefellaライジングフレームブラッシンググルームRed GodNasrullahWild RiskガーサントBubblesハクリョウ"
  },
  {
@@ -82873,6 +84821,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaEc",
+  "Paternal_mig": "HaEcStSw",
   "Ped_All": "ヤマミンゼファーニホンピロウイナースティールハートハビタットSir GaylordAbernantチャイナロックRockefellaライジングフレームブラッシンググルームRed GodNasrullahWild RiskガーサントBubblesハクリョウ"
  },
  {
@@ -82958,6 +84908,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "RoSwTeHi",
   "Ped_All": "ユウキュウエリシオフェアリーキングNorthern DancerNearcticBold ReasonSlewpyシアトルスルーVal de l'OrneノーザンテーストNorthern DancerNearcticVictoria ParkリヴァーマンNever BendTime Tested"
  },
  {
@@ -83043,6 +84995,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "ToFa",
+  "Paternal_mig": "TeTeFaSw",
   "Ped_All": "ヨイノムテキヤマニンスキーニジンスキーNorthern DancerNearcticBull PageBuckpasserTom FoolPalestinianイエローゴッドRed GodNasrullahFun FairソロナウェーSolferinoトサミドリ"
  },
  {
@@ -83128,6 +85082,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhNt",
+  "Paternal_mig": "NsToRoNs",
   "Ped_All": "ヨハネスブルグヘネシーストームキャットStorm BirdNorthern DancerセクレタリアトハワイUtrilloTom CatオジジアンDamascusSword DancerFrancis S.ミスタープロスペクターRaise a NativeHonest Pleasure"
  },
  {
@@ -83213,6 +85169,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "NeHeNeRo",
   "Ped_All": "ラブリーデイキングカメハメハキングマンボミスタープロスペクターRaise a NativeヌレイエフラストタイクーントライマイベストBlakeneyダンスインザダークサンデーサイレンスヘイローニジンスキートニービンカンパラリアルシャダイ"
  },
  {
@@ -83298,6 +85256,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "TeSt",
+  "Paternal_mig": "PhStEcEc",
   "Ped_All": "ランザガントレットトムロルフRibotTeneraniBelliniEl GrecoRomanSir GallahadPrincequilloFirst LandingTurn-toRoyal ChargerBubbling OverPrincequilloPrince RoseCount Fleet"
  },
  {
@@ -83383,6 +85343,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StHa",
+  "Paternal_mig": "PhHaPhSw",
   "Ped_All": "ラーイブラッシンググルームRed GodNasrullahNearcoMenowWild RiskRialtoTudor MinstrelヘイローHail to ReasonTurn-toCosmic BombエルバジェVandaleCohoes"
  },
  {
@@ -83468,6 +85430,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeMa",
+  "Paternal_mig": "TeSwNtHe",
   "Ped_All": "リアルインパクトディープインパクトサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドMeadowlakeHold Your PeaceSpeak JohnRaise a NativeインリアリティIntentionallyCrozier"
  },
  {
@@ -83553,6 +85517,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeNt",
+  "Paternal_mig": "TeSwNsNe",
   "Ped_All": "リアルスティールディープインパクトサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドストームキャットStorm BirdNorthern DancerセクレタリアトミスタープロスペクターRaise a Nativeヌレイエフ"
  },
  {
@@ -83638,6 +85604,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "07",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "NeHeNeRo",
   "Ped_All": "リオンディーズキングカメハメハキングマンボミスタープロスペクターRaise a NativeヌレイエフラストタイクーントライマイベストBlakeneyスペシャルウィークサンデーサイレンスヘイローマルゼンスキーサドラーズウェルズNorthern Dancerハビタット"
  },
  {
@@ -83723,6 +85691,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "ToNs",
+  "Paternal_mig": "NsHaTeHa",
   "Ped_All": "リキアイタイカンアフリートミスタープロスペクターRaise a NativeNative DancerNashuaVenetian JesterTom FoolGreen TicketニジンスキーNorthern DancerNearcticBull PageFoolish PleasureWhat a PleasureNo Robbery"
  },
  {
@@ -83808,6 +85778,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeNe",
+  "Paternal_mig": "PhHaHaFa",
   "Ped_All": "リンカーンサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseトニービンカンパラカラムーンHornbeamサドラーズウェルズNorthern Dancerイングリッシュプリンス"
  },
  {
@@ -83893,6 +85865,8 @@ horse=
   "Paternal_hhht": "To",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeSt",
+  "Paternal_mig": "RoStNeTo",
   "Ped_All": "ルアーヴルNoverreラーイブラッシンググルームRed GodヘイローNorthern DancerNearcticLe FabuleuxSurakoKonigsstuhlDschingis KhanLagunasjeffersonCharlottesvilleBlue Tom"
  },
  {
@@ -83978,6 +85952,8 @@ horse=
   "Paternal_hhht": "To",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NtNt",
+  "Paternal_mig": "RoTeNeTo",
   "Ped_All": "ルーラーオブザワールドガリレオサドラーズウェルズNorthern DancerNearcticBold ReasonミスワキミスタープロスペクターLombardキングマンボミスタープロスペクターRaise a NativeヌレイエフアリダーRaise a NativeBuckpasser"
  },
  {
@@ -84063,6 +86039,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsEc",
+  "Paternal_mig": "EcTeTeHi",
   "Ped_All": "レッツゴーターキンターゴワイスRound TablePrincequilloPrince RoseSir CosmoBold RulerNasrullahBull LeaノーザンテーストNorthern DancerNearcticVictoria ParkガーサントBubblesブラックウイング"
  },
  {
@@ -84148,6 +86126,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "RoStTeNe",
   "Ped_All": "ロゴタイプローエングリンシングスピールIn the WingsサドラーズウェルズヘイローGarde RoyaleミルリーフCarvinサンデーサイレンスヘイローHail to ReasonアンダースタンディングRisen Starセクレタリアトヌレイエフ"
  },
  {
@@ -84233,6 +86213,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NtNt",
+  "Paternal_mig": "TeStHeNe",
   "Ped_All": "ロジユニヴァースネオユニヴァースサンデーサイレンスヘイローHail to ReasonアンダースタンディングKrisシャーペンアップShantungケープクロスグリーンデザートダンチヒアホヌーラマキャベリアンミスタープロスペクターヌレイエフ"
  },
  {
@@ -84318,6 +86300,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtHi",
+  "Paternal_mig": "HaHiHeHa",
   "Ped_All": "ロージズインメイdevil his dueデヴィルズバッグヘイローHail to ReasonエルバジェRaise a CupRaise a Nativenoble jaySpeak JohnPrince JohnPrincequilloTornadoClandestineDouble JayRoyal Gem"
  },
  {
@@ -84403,6 +86387,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "NeHeTeNe",
   "Ped_All": "ローズキングダムキングカメハメハキングマンボミスタープロスペクターRaise a NativeヌレイエフラストタイクーントライマイベストBlakeneyサンデーサイレンスヘイローHail to Reasonアンダースタンディングシャーリーハイツミルリーフリファール"
  },
  {
@@ -84488,6 +86474,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaRo",
+  "Paternal_mig": "NtPhToHa",
   "Ped_All": "ワイルドラッシュワイルドアゲインアイスカペイドNearcticNearcoNative DancerKhaledHyperionDanteプラグドニックルキートゥザミントグロースタークBuckpasserDroneSir GaylordEtonian"
  },
  {
@@ -84573,6 +86561,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "TeNeNeNt",
   "Ped_All": "ワンアンドオンリーハーツクライサンデーサイレンスヘイローHail to ReasonアンダースタンディングトニービンカンパラリファールタイキシャトルデヴィルズバッグヘイローカーリアンダンチヒNorthern Dancerミスタープロスペクター"
  },
  {
@@ -84658,6 +86648,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoSt",
+  "Paternal_mig": "NsNsStTe",
   "Ped_All": "ワンダーアキュートカリズマティックSummer SquallStorm BirdNorthern DancerセクレタリアトDroneSir GaylordWhat a PleasureプレザントタッププレザントコロニーヒズマジェスティStage Door JohnnypetronePrince Tajgrand central"
  },
  {
@@ -84743,6 +86735,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "NeNsTeHi",
   "Ped_All": "ヴァーミリアンエルコンドルパサーキングマンボミスタープロスペクターRaise a NativeヌレイエフサドラーズウェルズNorthern DancerシアトルスルーサンデーサイレンスヘイローHail to ReasonアンダースタンディングノーザンテーストNorthern DancerCrimson Satan"
  },
  {
@@ -84828,6 +86822,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtSw",
+  "Paternal_mig": "TeStRoHe",
   "Ped_All": "ヴィクトワールピサネオユニヴァースサンデーサイレンスヘイローHail to ReasonアンダースタンディングKrisシャーペンアップShantungマキャベリアンミスタープロスペクターRaise a NativeヘイローBustinoバステッドロレンザッチオ"
  },
  {
@@ -84913,6 +86909,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtHa",
+  "Paternal_mig": "RoTeStSw",
   "Ped_All": "アイダホガリレオサドラーズウェルズNorthern DancerNearcticBold ReasonミスワキミスタープロスペクターLombardデインヒルダンチヒNorthern DancerヒズマジェスティMarscaybiscayZamazaan"
  },
  {
@@ -84998,6 +86996,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "RoNs",
+  "Paternal_mig": "PhFaHaSt",
   "Ped_All": "アイルトンシンボリシンボリルドルフパーソロンMilesianMy BabuPharisスピードシンボリロイヤルチャレンヂャーPalestineヌレイエフNorthern DancerNearcticフォルリBold ForbesIrish CastleWild Risk"
  },
  {
@@ -85083,6 +87083,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "FaNs",
+  "Paternal_mig": "RoNsTeMa",
   "Ped_All": "アサクサキングスホワイトマズルダンシングブレーヴリファールNorthern DancerDroneEla-Mana-MouピットカーンTyrantサンデーサイレンスヘイローHail to ReasonアンダースタンディングWhat LuckBold RulerTentam"
  },
  {
@@ -85168,6 +87170,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoSw",
+  "Paternal_mig": "NsHaRoHe",
   "Ped_All": "アサクサデンエンシングスピールIn the WingsサドラーズウェルズNorthern DancerシャーリーハイツヘイローHail to ReasonエルバジェマキャベリアンミスタープロスペクターRaise a NativeヘイローBustinoバステッドロレンザッチオ"
  },
  {
@@ -85253,6 +87257,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "TeHa",
+  "Paternal_mig": "NtFaTeSt",
   "Ped_All": "アジュディケーティングダンチヒNorthern DancerNearcticNearcoNative DancerAdmiral's VoyageCrafty AdmiralPetitionReviewerBold RulerNasrullahHasty RoadSwapsKhaledPrincequillo"
  },
  {
@@ -85338,6 +87344,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsRo",
+  "Paternal_mig": "TeSwStHa",
   "Ped_All": "アドマイヤオーラアグネスタキオンサンデーサイレンスヘイローHail to ReasonアンダースタンディングロイヤルスキーRaja BabaリマンドカーリアンニジンスキーNorthern DancerRound TableLord GayleSir GaylordLuciano"
  },
  {
@@ -85423,6 +87431,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "PhNeTeFa",
   "Ped_All": "アドマイヤデウスアドマイヤドンティンバーカントリーウッドマンミスタープロスペクターPretenseトニービンカンパラNorthern DancerサンデーサイレンスヘイローHail to ReasonアンダースタンディングビーマイゲストNorthern DancerEla-Mana-Mou"
  },
  {
@@ -85508,6 +87518,8 @@ horse=
   "Paternal_hhht": "To",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "PhNe",
+  "Paternal_mig": "ToHaHaTo",
   "Ped_All": "アドマイヤドンティンバーカントリーウッドマンミスタープロスペクターRaise a NativeBuckpasserPretenseEndeavourSwapsトニービンカンパラカラムーンHornbeamNorthern DancerNearcticTom Fool"
  },
  {
@@ -85593,6 +87605,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeHe",
+  "Paternal_mig": "PhHaTeHa",
   "Ped_All": "アドマイヤマックスサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseノーザンテーストNorthern DancerNearcticVictoria ParkヒッティングアウェーAmbiorixDetermine"
  },
  {
@@ -85678,6 +87692,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "TeNeNsNe",
   "Ped_All": "アドマイヤラクティハーツクライサンデーサイレンスヘイローHail to ReasonアンダースタンディングトニービンカンパラリファールエリシオフェアリーキングNorthern DancerSlewpyCaveatcannonadeニジンスキー"
  },
  {
@@ -85763,6 +87779,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "06",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "NeToNsRo",
   "Ped_All": "アポロキングダムレモンドロップキッドキングマンボミスタープロスペクターRaise a NativeヌレイエフシアトルスルーBold ReasoningBuckpasserストームキャットStorm BirdNorthern DancerセクレタリアトnorthjetNorthfieldsTurn-to"
  },
  {
@@ -85848,6 +87866,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeMa",
+  "Paternal_mig": "NsStHaSt",
   "Ped_All": "アメリカンボスキングマンボミスタープロスペクターRaise a NativeNative DancerNashuaヌレイエフNorthern DancerProve OutDixieland BandNorthern DancerNearcticDelta JudgeインリアリティIntentionallyキートゥザミント"
  },
  {
@@ -85933,6 +87953,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NePh",
+  "Paternal_mig": "NsStStHa",
   "Ped_All": "アルカセットキングマンボミスタープロスペクターRaise a NativeNative DancerNashuaヌレイエフNorthern DancerProve OutNiniskiニジンスキーNorthern DancerトムロルフハイトップDerring-DoHome Guard"
  },
  {
@@ -86018,6 +88040,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "TeEcToRo",
   "Ped_All": "アルデバランミスタープロスペクターRaise a NativeNative DancerPolynesianCase AceNashuaNasrullahCount FleetプライヴェートアカウントDamascusSword DancerBuckpasserNorthfieldsNorthern Dancerサーアイヴァー"
  },
  {
@@ -86103,6 +88127,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NtFa",
+  "Paternal_mig": "TeStRoSw",
   "Ped_All": "アンライバルドネオユニヴァースサンデーサイレンスヘイローHail to ReasonアンダースタンディングKrisシャーペンアップShantungサドラーズウェルズNorthern DancerNearcticBold ReasonイングリッシュプリンスペティンゴVal de Loir"
  },
  {
@@ -86188,6 +88214,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "NeNeStRo",
   "Ped_All": "イラプトドバウィドバイミレニアムシーキングザゴールドミスタープロスペクターshareef dancerdeployシャーリーハイツダンシングブレーヴカーリアンニジンスキーNorthern DancerRound TableSpectacular BidBold Bidderサーアイヴァー"
  },
  {
@@ -86273,6 +88301,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "HaMaMaHa",
   "Ped_All": "エアジハードサクラユタカオーテスコボーイPrincely GiftNasrullahHyperionネヴァービートNever Say DieユアハイネスロイヤルスキーRaja BabaBold RulerInvolvementノーザンテーストNorthern DancerDelta Judge"
  },
  {
@@ -86358,6 +88388,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "NeHeTeNs",
   "Ped_All": "エアスピネルキングカメハメハキングマンボミスタープロスペクターRaise a NativeヌレイエフラストタイクーントライマイベストBlakeneyサンデーサイレンスヘイローHail to ReasonアンダースタンディングノーザンテーストNorthern DancerWell Decorated"
  },
  {
@@ -86443,6 +88475,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "HaSt",
+  "Paternal_mig": "EcMaTeNt",
   "Ped_All": "エアダブリントニービンカンパラカラムーンゼダーンオンリーフォアライフHornbeamHyperionPrecipticニジンスキーNorthern DancerNearcticBull PageキートゥザミントグロースタークRaise a Native"
  },
  {
@@ -86528,6 +88562,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StRo",
+  "Paternal_mig": "TeSwHeTe",
   "Ped_All": "エイシンガイモンシアトルダンサーニジンスキーNorthern DancerNearcticBull PagePokerRound TableJet ActionアイリッシュリヴァーリヴァーマンNever BendKlaironRobertoHail to ReasonHasty Road"
  },
  {
@@ -86613,6 +88649,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NsNt",
+  "Paternal_mig": "NsNeNsNs",
   "Ped_All": "エシェムFootstepsinthesandジャイアンツコーズウェイストームキャットStorm BirdラーイレインボウクエストブラッシンググルームグリーンダンサーストラヴィンスキーヌレイエフNorthern DancerブラッシンググルームAffirmedExclusive Nativeセクレタリアト"
  },
  {
@@ -86698,6 +88736,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "HaSt",
+  "Paternal_mig": "EcMaTeEc",
   "Ped_All": "オフサイドトラップトニービンカンパラカラムーンゼダーンオンリーフォアライフHornbeamHyperionPrecipticホスピタリテイテュデナムTudor MelodyアイアンリージムーティエSicambreライジングフレーム"
  },
  {
@@ -86783,6 +88823,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "TeNe",
+  "Paternal_mig": "PhHaTeEc",
   "Ped_All": "オレハモッテルゼサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseジャッジアンジェルーチHonest PleasureWhat a PleasureVictoria ParkノーザンテーストNorthern Dancerガーサント"
  },
  {
@@ -86868,6 +88910,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "NsSt",
+  "Paternal_mig": "ToPhEcNs",
   "Ped_All": "オースミタイクーンラストタイクーントライマイベストNorthern DancerNearcticBuckpasserミルリーフNever BendSayajiraoMaster DerbyダストコマンダーBold CommanderRoyal CoinageTulyarTehranNasrullah"
  },
  {
@@ -86953,6 +88997,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtNs",
+  "Paternal_mig": "NsStMaHa",
   "Ped_All": "カジノドライヴMineshaftエーピーインディシアトルスルーBold ReasoningセクレタリアトミスタープロスペクターRaise a NativeHoist the FlagデピュティミニスターVice RegentNorthern DancerBunty's FlightブラッシンググルームRed GodTraffic Judge"
  },
  {
@@ -87038,6 +89084,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaSt",
+  "Paternal_mig": "FaHaHaHa",
   "Ped_All": "カネイコマバーバーPrincely GiftNasrullahNearcoBlue PeterStraight DealSolarioEastonSayajiraoNearcoPharosDark LegendLe PachaBiribiEaston"
  },
  {
@@ -87123,6 +89171,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNs",
+  "Paternal_mig": "HeHaPhSw",
   "Ped_All": "カネツクロスタマモクロスシービークロスフォルティノGrey SovereignパーソロンシャトーゲイSwapsテューダーペリオッドラッキーソブリンニジンスキーNorthern DancerPardaoテスコボーイPrincely Giftトサミドリ"
  },
  {
@@ -87208,6 +89258,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HeSt",
+  "Paternal_mig": "TeStNsSw",
   "Ped_All": "カミノクレッセアンバーシャダイノーザンテーストNorthern DancerNearcticVictoria ParkAmbiopoiseAmbiorixGallant ManコインドシルバーエルバジェVandaleNever BendボウプリンスPrince Chevalierシマタカ"
  },
  {
@@ -87293,6 +89345,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsSw",
+  "Paternal_mig": "StHaHaMa",
   "Ped_All": "カミノテシオムーティエSicambrePrince BioPrince RoseRialtoNasrullahNearcoBallyferisハロウェーFairwayPhalarisDark Legendミナミホマレプリメロ月友"
  },
  {
@@ -87378,6 +89432,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "TeToToPh",
   "Ped_All": "カリズマティックSummer SquallStorm BirdNorthern DancerNearcticNew ProvidenceセクレタリアトBold RulerBuckpasserDroneSir GaylordTurn-toTom FoolWhat a PleasureBold RulerPolynesian"
  },
  {
@@ -87463,6 +89519,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "08",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "ToSw",
+  "Paternal_mig": "TeStSwSt",
   "Ped_All": "カリブソングマルゼンスキーニジンスキーNorthern DancerNearcticBull PageBuckpasserTom FoolPrincequilloナディアNasrullahNearcoChallengerハクリョウプリメロヒンドスタン"
  },
  {
@@ -87548,6 +89606,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "08",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "ToSw",
+  "Paternal_mig": "TeStSwSt",
   "Ped_All": "カルビソングマルゼンスキーニジンスキーNorthern DancerNearcticBull PageBuckpasserTom FoolPrincequilloナディアNasrullahNearcoChallengerハクリョウプリメロヒンドスタン"
  },
  {
@@ -87633,6 +89693,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "TeHiRoFa",
   "Ped_All": "カレンブラックヒルダイワメジャーサンデーサイレンスヘイローHail to ReasonアンダースタンディングノーザンテーストNorthern DancerCrimson SatanGrindstoneUnbridledファピアノDroneストームキャットStorm BirdGreat Nephew"
  },
  {
@@ -87718,6 +89780,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeNt",
+  "Paternal_mig": "HaFaTeNs",
   "Ped_All": "カンパニーミラクルアドマイヤトニービンカンパラカラムーンHornbeamサドラーズウェルズNorthern DancerイングリッシュプリンスノーザンテーストNorthern DancerNearcticVictoria ParkCrafty Prospectorミスタープロスペクターセクレタリアト"
  },
  {
@@ -87803,6 +89867,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "StNe",
+  "Paternal_mig": "HaNeRoNs",
   "Ped_All": "ガンコナカヤマフェスタステイゴールドサンデーサイレンスヘイローディクタスタイトスポットヒズマジェスティデインヒルシングスピールIn the WingsサドラーズウェルズヘイローPolish Precedentダンチヒミルリーフ"
  },
  {
@@ -87888,6 +89954,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "NsNtFaHe",
   "Ped_All": "キャプテンスティーヴFly So FreeタイムフォーアチェンジDamascusSword DancerReviewerStevwardNashuaNative DancerVice RegentNorthern DancerNearcticMenetrierJacintoBold RulerCrozier"
  },
  {
@@ -87973,6 +90041,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "TeSwHaNs",
   "Ped_All": "キャプテントゥーレアグネスタキオンサンデーサイレンスヘイローHail to ReasonアンダースタンディングロイヤルスキーRaja BabaリマンドトニービンカンパラカラムーンHornbeamリファールNorthern Dancerロイヤルスキー"
  },
  {
@@ -88058,6 +90128,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNe",
+  "Paternal_mig": "TeMaHiHe",
   "Ped_All": "キンシャサノキセキフジキセキサンデーサイレンスヘイローHail to ReasonアンダースタンディングLe FabuleuxWild RiskインリアリティプレザントコロニーヒズマジェスティRibotSunrise FlightリファールNorthern DancerViolon d'Ingres"
  },
  {
@@ -88143,6 +90215,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeRo",
+  "Paternal_mig": "TeStHaNe",
   "Ped_All": "クリスマスギフトダンスインザダークサンデーサイレンスヘイローHail to ReasonアンダースタンディングニジンスキーNorthern DancerキートゥザミントトニービンカンパラカラムーンHornbeamリアルシャダイRobertoノーザンテースト"
  },
  {
@@ -88228,6 +90302,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "NsHeTeTe",
   "Ped_All": "グランプリボスサクラバクシンオーサクラユタカオーテスコボーイPrincely GiftネヴァービートノーザンテーストNorthern DancerAmbiopoiseサンデーサイレンスヘイローHail to ReasonアンダースタンディングセクレタリアトBold RulerNervous Energy"
  },
  {
@@ -88313,6 +90389,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoSt",
+  "Paternal_mig": "NtHaHeSt",
   "Ped_All": "グリークダンスサドラーズウェルズNorthern DancerNearcticNearcoNative DancerBold ReasonHail to ReasonフォルリダルシャーンシャーリーハイツミルリーフAbdosHomericRagusaダイアトム"
  },
  {
@@ -88398,6 +90476,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "TeHa",
+  "Paternal_mig": "HeTeSwFa",
   "Ped_All": "グレートローマンブレイヴェストローマンNever BendNasrullahNearcoDjeddahRomanSir GallahadSun AgainネヴァービートNever Say DieNasrullahBig GameRight RoyalOwen TudorFair Trial"
  },
  {
@@ -88483,6 +90563,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "NeHeToSt",
   "Ped_All": "ケイアイドウソジンキングカメハメハキングマンボミスタープロスペクターRaise a NativeヌレイエフラストタイクーントライマイベストBlakeneyCutlassDamascusSword DancerDunceBarachoisNorthern DancerSpeak John"
  },
  {
@@ -88568,6 +90650,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "NsToEcRo",
   "Ped_All": "ケイムホームゴーンウェストミスタープロスペクターRaise a NativeNative DancerNashuaセクレタリアトBold RulerTim TamClever TrickアイスカペイドNearcticBetter Beefull outNever BendBest Turn"
  },
  {
@@ -88653,6 +90737,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "08",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HaNs",
+  "Paternal_mig": "StSwTeSw",
   "Ped_All": "コガネパワーマグニテュードミルリーフNever BendNasrullahPrincequilloセントクレスピンAureoleCrepelloカブラヤオーファラモンドSicambreダラノーアSupreme SovereignSovereign Pathバステッド"
  },
  {
@@ -88738,6 +90824,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "TeSwHaNs",
   "Ped_All": "コパノジングーアグネスタキオンサンデーサイレンスヘイローHail to ReasonアンダースタンディングロイヤルスキーRaja BabaリマンドトニービンカンパラカラムーンHornbeamアスワンノーザンテーストダイハード"
  },
  {
@@ -88823,6 +90911,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "TeHiHaNs",
   "Ped_All": "コパノリチャードダイワメジャーサンデーサイレンスヘイローHail to ReasonアンダースタンディングノーザンテーストNorthern DancerCrimson SatanトニービンカンパラカラムーンHornbeamカーリアンニジンスキーブラッシンググルーム"
  },
  {
@@ -88908,6 +90998,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtNs",
+  "Paternal_mig": "HeNsRoNt",
   "Ped_All": "コンデュイットダラカニダルシャーンシャーリーハイツミルリーフAbdosミスワキミスタープロスペクタークリスタルパレスサドラーズウェルズNorthern DancerNearcticBold Reasonアイリッシュリヴァーリヴァーマンダンサーズイメージ"
  },
  {
@@ -88993,6 +91085,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "06",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "TeNe",
+  "Paternal_mig": "PhHaToHa",
   "Ped_All": "ゴールドヘイローサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseシーキングザゴールドミスタープロスペクターRaise a NativeBuckpasserNorthern DancerNearcticフォルリ"
  },
  {
@@ -89078,6 +91172,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeNs",
+  "Paternal_mig": "PhHaNsSt",
   "Ped_All": "サイレントハンターサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseバンブーアトラスジムフレンチグロースタークテスコボーイファバージPrincely Giftムーティエ"
  },
  {
@@ -89163,6 +91259,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NtNs",
+  "Paternal_mig": "TeStHaSt",
   "Ped_All": "サウンズオブアースネオユニヴァースサンデーサイレンスヘイローHail to ReasonアンダースタンディングKrisシャーペンアップShantungDixieland BandNorthern DancerNearcticDelta JudgeセクレタリアトBold RulerHoist the Flag"
  },
  {
@@ -89248,6 +91346,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HeHe",
+  "Paternal_mig": "HaNsTeSw",
   "Ped_All": "サクラセンチュリーサクラローレルレインボウクエストブラッシンググルームRed GodエルバジェSaint CyrienリュティエボールドラッドノーザンテーストNorthern DancerNearcticVictoria ParkパーソロンMilesianアルサイド"
  },
  {
@@ -89333,6 +91433,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "PhStTeSw",
   "Ped_All": "サクラメガワンダーグラスワンダーシルヴァーホークRobertoHail to ReasonアメリゴダンチヒNorthern DancerヒズマジェスティサンデーサイレンスヘイローHail to ReasonアンダースタンディングノーザンテーストNorthern DancerQuadrangle"
  },
  {
@@ -89418,6 +91520,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NeNt",
+  "Paternal_mig": "TeSwNsNe",
   "Ped_All": "サトノアラジンディープインパクトサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドストームキャットStorm BirdNorthern Dancerセクレタリアトファピアノミスタープロスペクターニジンスキー"
  },
  {
@@ -89503,6 +91607,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "TeNe",
+  "Paternal_mig": "PhHaHaEc",
   "Ped_All": "サムライハートサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseトニービンカンパラカラムーンHornbeamノーザンテーストNorthern Dancerガーサント"
  },
  {
@@ -89588,6 +91694,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "StToMaMa",
   "Ped_All": "サンカルロシンボリクリスエスクリスエスRobertoHail to ReasonPrincequilloGold MeridianシアトルスルーTri JetCrafty ProspectorミスタープロスペクターRaise a NativeインリアリティセクレトNorthern DancerOlden Times"
  },
  {
@@ -89673,6 +91781,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeNe",
+  "Paternal_mig": "PhHaStHi",
   "Ped_All": "サンデーブランチサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseセクレタリアトBold RulerNasrullahPrincequilloニジンスキーNorthern DancerReneged"
  },
  {
@@ -89758,6 +91868,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoSt",
+  "Paternal_mig": "NtHaFaSt",
   "Ped_All": "サージュウェルズサドラーズウェルズNorthern DancerNearcticNearcoNative DancerBold ReasonHail to ReasonフォルリフォルリAristophanesHyperionAdvocateRibotTeneraniDedicate"
  },
  {
@@ -89843,6 +91955,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "HaRo",
+  "Paternal_mig": "NsHeStNt",
   "Ped_All": "シニスターミニスターOld TriesteエーピーインディシアトルスルーBold ReasoningセクレタリアトVigorsGrey DawnCrozierthe prime ministerデピュティミニスターVice RegentIllustrioushurry up blueMr.Leaderミスタープロスペクター"
  },
  {
@@ -89928,6 +92042,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNt",
+  "Paternal_mig": "TeHaRoNe",
   "Ped_All": "シャケトラマンハッタンカフェサンデーサイレンスヘイローHail to ReasonアンダースタンディングLaw SocietyアレッジドLucianoシングスピールIn the WingsサドラーズウェルズヘイローウッドマンミスタープロスペクターFar North"
  },
  {
@@ -90013,6 +92129,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeHa",
+  "Paternal_mig": "NsHePhFa",
   "Ped_All": "ショウナンカンプサクラバクシンオーサクラユタカオーテスコボーイPrincely GiftネヴァービートノーザンテーストNorthern DancerAmbiopoiseラッキーソブリンニジンスキーNorthern DancerPardaoタケシバオーチャイナロックベンマーシャル"
  },
  {
@@ -90098,6 +92216,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StSt",
+  "Paternal_mig": "TeHaNsNt",
   "Ped_All": "ショウナンマイティマンハッタンカフェサンデーサイレンスヘイローHail to ReasonアンダースタンディングLaw SocietyアレッジドLucianoストームキャットStorm BirdNorthern DancerセクレタリアトアレッジドHoist the FlagAffirmed"
  },
  {
@@ -90183,6 +92303,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "EcHi",
+  "Paternal_mig": "EcStEcTe",
   "Ped_All": "ショウリョウウマDouble JayBalladierBlack ToneyPeter PanNorth StarWhisk BroomBroomstickSainWar AdmiralMan o'WarFair PlaySweepBlue LarkspurBlack ServantTeddy"
  },
  {
@@ -90268,6 +92390,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "TeSwPhNs",
   "Ped_All": "シルバーステートディープインパクトサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドシルヴァーホークRobertoHail to ReasonアメリゴNiniskiニジンスキーTyrant"
  },
  {
@@ -90353,6 +92477,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoHi",
+  "Paternal_mig": "MaSwNsTe",
   "Ped_All": "シルバーチャームシルバーバックBuckpasserTom FoolMenowWar AdmiralHail to ReasonTurn-toMahmoudPokerRound TablePrincequilloNasrullahWise MarginMarket WiseFaultless"
  },
  {
@@ -90438,6 +92564,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "07",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "FaNt",
+  "Paternal_mig": "RoNsTeNe",
   "Ped_All": "シルポートホワイトマズルダンシングブレーヴリファールNorthern DancerDroneEla-Mana-MouピットカーンTyrantサンデーサイレンスヘイローHail to Reasonアンダースタンディングウッドマンミスタープロスペクターダンチヒ"
  },
  {
@@ -90523,6 +92651,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "NeHeTeNs",
   "Ped_All": "シロニイキングカメハメハキングマンボミスタープロスペクターRaise a NativeヌレイエフラストタイクーントライマイベストBlakeneyサンデーサイレンスヘイローHail to ReasonアンダースタンディングTopsiderNorthern DancerStar de Naskra"
  },
  {
@@ -90608,6 +92738,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsSt",
+  "Paternal_mig": "NsMaTeNs",
   "Ped_All": "シンコウエドワードリアファンRobertoHail to ReasonTurn-toNashuaLt.StevensNantallahWar AdmiralStorm BirdNorthern DancerNearcticNew ProvidenceTransworldPrince JohnBoldnesian"
  },
  {
@@ -90693,6 +92825,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsSw",
+  "Paternal_mig": "NsRoHaTe",
   "Ped_All": "ジャイアントレッカージャイアンツコーズウェイストームキャットStorm BirdNorthern DancerセクレタリアトラーイブラッシンググルームRobertoBuckarooBuckpasserTom FoolNo RobberyThe AxeMahmoudPromised Land"
  },
  {
@@ -90778,6 +92912,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "StNs",
+  "Paternal_mig": "TeHaNeNs",
   "Ped_All": "ジョーカプチーノマンハッタンカフェサンデーサイレンスヘイローHail to ReasonアンダースタンディングLaw SocietyアレッジドLucianoフサイチコンコルドカーリアンニジンスキーサドラーズウェルズトウショウボーイテスコボーイフォルティノ"
  },
  {
@@ -90863,6 +92999,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeFa",
+  "Paternal_mig": "HaSwSwTe",
   "Ped_All": "スギノハヤカゼダイイシスシャーペンアップエタンNative DancerRockefellaリライアンスTantiemeCrepelloRouge SangBold BidderBold RulerJet ActionMenetrierFair CopyChop Chop"
  },
  {
@@ -90948,6 +93086,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "TeSt",
+  "Paternal_mig": "PhHaRoNe",
   "Ped_All": "スズカフェニックスサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseフェアリーキングNorthern DancerNearcticBold ReasonアレッジドHoist the FlagNorthern Dancer"
  },
  {
@@ -91033,6 +93173,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "08",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "PhSt",
+  "Paternal_mig": "TeNsSwSt",
   "Ped_All": "スズマッハラッキーソブリンニジンスキーNorthern DancerNearcticBull PagePardaoPardalNasrullahネヴァービートNever Say DieNasrullahBig GameヴィミーWild Riskヒンドスタン"
  },
  {
@@ -91118,6 +93260,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NsTo",
+  "Paternal_mig": "TeHiStRo",
   "Ped_All": "スタチューオブリバティストームキャットStorm BirdNorthern DancerNearcticNew ProvidenceセクレタリアトBold RulerCrimson SatanシアトルスルーBold ReasoningBoldnesianPokerBuckpasserTom FoolSir Gaylord"
  },
  {
@@ -91203,6 +93347,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "ToTo",
+  "Paternal_mig": "NsHaTeHe",
   "Ped_All": "スターリングローズアフリートミスタープロスペクターRaise a NativeNative DancerNashuaVenetian JesterTom FoolGreen TicketダンチヒNorthern DancerNearcticAdmiral's VoyageBuckpasserTom FoolLe Beau Prince"
  },
  {
@@ -91288,6 +93434,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNt",
+  "Paternal_mig": "TeSwFaNe",
   "Ped_All": "ステファノスディープインパクトサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドクロフネフレンチデピュティデピュティミニスターClassic Go Goシーキングザゴールドミスタープロスペクターチーフズクラウン"
  },
  {
@@ -91373,6 +93521,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "MaTo",
+  "Paternal_mig": "NsHaTeNs",
   "Ped_All": "ステージチャンプリアルシャダイRobertoHail to ReasonTurn-toNashuaインリアリティIntentionallyMoslem ChiefノーザンテーストNorthern DancerNearcticVictoria ParkモデルフールTom FoolRed God"
  },
  {
@@ -91458,6 +93608,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "HaNt",
+  "Paternal_mig": "NtNsStNt",
   "Ped_All": "ストラヴィンスキーヌレイエフNorthern DancerNearcticNearcoNative DancerフォルリAristophanesNantallahブラッシンググルームRed GodNasrullahWild RiskミスタープロスペクターRaise a NativeNative Dancer"
  },
  {
@@ -91543,6 +93695,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoNt",
+  "Paternal_mig": "NsStRoRo",
   "Ped_All": "ストーミングホームマキャベリアンミスタープロスペクターRaise a NativeNative DancerNashuaヘイローHail to ReasonHoist the Flagshareef dancerNorthern DancerNearcticサーアイヴァーミスタープロスペクターRaise a NativeFrancis S."
  },
  {
@@ -91628,6 +93782,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "ToSw",
+  "Paternal_mig": "NsHaNtSt",
   "Ped_All": "スピードワールドウッドマンミスタープロスペクターRaise a NativeNative DancerNashuaBuckpasserTom FoolSwapsZulu TomトムロルフRibotNative DancerAl HattabThe AxePrince John"
  },
  {
@@ -91713,6 +93869,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "TeSwFaSt",
   "Ped_All": "スマートロビンディープインパクトサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドリファールNorthern DancerNearcticCourt MartialニジンスキーNorthern Dancerキートゥザミント"
  },
  {
@@ -91798,6 +93956,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaSt",
+  "Paternal_mig": "HaHaStSw",
   "Ped_All": "セキテイリュウオートウショウボーイテスコボーイPrincely GiftNasrullahHyperionYour HostAlibhaiEastonファーストファミリーFirst LandingTurn-toPrincequilloPrince TajPrince BioTurkhan"
  },
  {
@@ -91883,6 +94043,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "StHa",
+  "Paternal_mig": "TeRoNsPh",
   "Ped_All": "ゼンノエルシドカーリアンニジンスキーNorthern DancerNearcticBull PageRound TablePrincequilloHail to ReasonDominionDerring-DoDariusPrincely GiftKashmirTudor MelodyBallymoss"
  },
  {
@@ -91968,6 +94130,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "NeNsTeHe",
   "Ped_All": "ソングオブウインドエルコンドルパサーキングマンボミスタープロスペクターRaise a NativeヌレイエフサドラーズウェルズNorthern DancerシアトルスルーサンデーサイレンスヘイローHail to Reasonアンダースタンディングトニービンカンパラヒッティングアウェー"
  },
  {
@@ -92053,6 +94217,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNs",
+  "Paternal_mig": "NsTeRoFa",
   "Ped_All": "タイムパラドックスブライアンズタイムRobertoHail to ReasonTurn-toNashuaグロースタークRibotHasty RoadアルザオリファールNorthern DancerサーアイヴァーボールドラッドBold RulerHigh Treason"
  },
  {
@@ -92138,6 +94304,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeTo",
+  "Paternal_mig": "PhHaMaHi",
   "Ped_All": "タダノツヨシサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseカロフォルティノGrey SovereignChamossaireBuckpasserTom FoolBetter Self"
  },
  {
@@ -92223,6 +94391,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeNs",
+  "Paternal_mig": "HaTeEcSw",
   "Ped_All": "ダイコウサクノノアルコNearcticNearcoPharosHyperionHasty RoadRomanCrafty AdmiralダイコーターヒンドスタンBois RousselLillolkidネヴァービートNever Say Dieクリノハナ"
  },
  {
@@ -92308,6 +94478,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeHa",
+  "Paternal_mig": "MaStToSt",
   "Ped_All": "ダイシンオレンジアグネスデジタルCrafty ProspectorミスタープロスペクターRaise a NativeインリアリティチーフズクラウンダンチヒアレッジドラシアンルーブルニジンスキーNorthern DancerBuckpasserシャトーゲイSwapsムーティエ"
  },
  {
@@ -92393,6 +94565,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "TeSwStSw",
   "Ped_All": "ダノンシャークディープインパクトサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドカーリアンニジンスキーNorthern DancerRound TableシャーリーハイツミルリーフTennyson"
  },
  {
@@ -92478,6 +94652,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NeRo",
+  "Paternal_mig": "TeSwStHa",
   "Ped_All": "ダノンバラードディープインパクトサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドUnbridledファピアノミスタープロスペクターLe FabuleuxヘイローHail to Reasonエルバジェ"
  },
  {
@@ -92563,6 +94739,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "07",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "NsRo",
+  "Paternal_mig": "NsToTeHe",
   "Ped_All": "ダブリンライオンLion Cavern&nbsp;ミスタープロスペクターRaise a NativeNative DancerNashuaセクレタリアトBold RulerTim TamNight ShiftNorthern DancerNearcticChop ChopハビタットSir Gaylordリュティエ"
  },
  {
@@ -92648,6 +94826,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HeNe",
+  "Paternal_mig": "SwPhRoHa",
   "Ped_All": "チチカステナンゴsmadounKaldounカロフォルティノLe HaarTip Mossリュティエarctic stormAntheusNorthern DancerNearcticSir GaylordFabulous DancerNorthern Dancerヴェイグリーノーブル"
  },
  {
@@ -92733,6 +94913,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "StNsNsHa",
   "Ped_All": "チョコタイムパラドックスブライアンズタイムRobertoHail to ReasonグロースタークアルザオリファールボールドラッドサクラユタカオーテスコボーイPrincely GiftネヴァービートノーザンテーストNorthern DancerGlobemaster"
  },
  {
@@ -92818,6 +95000,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NsSt",
+  "Paternal_mig": "TeTeHiNs",
   "Ped_All": "チーフベアハートチーフズクラウンダンチヒNorthern DancerNearcticAdmiral's VoyageセクレタリアトBold RulerSwoon's SonBold HourBold RulerNasrullahMr.MusicRibotTeneraniNashua"
  },
  {
@@ -92903,6 +95087,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "ToHa",
+  "Paternal_mig": "NsHaHaMa",
   "Ped_All": "ティンバーカントリーウッドマンミスタープロスペクターRaise a NativeNative DancerNashuaBuckpasserTom FoolSwapsPretenseEndeavourBritish EmpireHyperionSwapsKhaledWar Admiral"
  },
  {
@@ -92988,6 +95174,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhNs",
+  "Paternal_mig": "RoHeStRo",
   "Ped_All": "テイエムオペラオーオペラハウスサドラーズウェルズNorthern DancerNearcticBold ReasonハイトップDerring-DoJimmy ReppinブラッシンググルームRed GodNasrullahWild RiskKey to the KingdomBold RulerDrone"
  },
  {
@@ -93073,6 +95261,8 @@ horse=
   "Paternal_hhht": "To",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNs",
+  "Paternal_mig": "EcMaTeTo",
   "Ped_All": "テレグノシストニービンカンパラカラムーンゼダーンオンリーフォアライフHornbeamHyperionPrecipticノーザンテーストNorthern DancerNearcticVictoria ParkセクレタリアトBold RulerDunce"
  },
  {
@@ -93158,6 +95348,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoHe",
+  "Paternal_mig": "ToNtRoHa",
   "Ped_All": "ディクタットウォーニングノウンファクトインリアリティIntentionallyTim TamRobertoHail to ReasonRaise a NativeサドラーズウェルズNorthern DancerNearcticBold ReasonアホヌーラロレンザッチオBalidar"
  },
  {
@@ -93243,6 +95435,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsSt",
+  "Paternal_mig": "TeSwNsNs",
   "Ped_All": "ディープスカイアグネスタキオンサンデーサイレンスヘイローHail to ReasonアンダースタンディングロイヤルスキーRaja BabaリマンドチーフズクラウンダンチヒNorthern DancerセクレタリアトキートゥザミントグロースタークCornish Prince"
  },
  {
@@ -93328,6 +95522,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NtRo",
+  "Paternal_mig": "TeStHaNe",
   "Ped_All": "デスペラードネオユニヴァースサンデーサイレンスヘイローHail to ReasonアンダースタンディングKrisシャーペンアップShantungトニービンカンパラカラムーンHornbeamブライアンズタイムRobertoNorthern Dancer"
  },
  {
@@ -93413,6 +95609,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "NeNsPhEc",
   "Ped_All": "トウカイトリックエルコンドルパサーキングマンボミスタープロスペクターRaise a NativeヌレイエフサドラーズウェルズNorthern DancerシアトルスルーシルヴァーホークRobertoHail to ReasonアメリゴイクスプロウデントNearcticBolero"
  },
  {
@@ -93498,6 +95696,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtNe",
+  "Paternal_mig": "TeNeStHa",
   "Ped_All": "トウケイヘイローゴールドヘイローサンデーサイレンスヘイローHail to ReasonアンダースタンディングシーキングザゴールドミスタープロスペクターNorthern DancerミルジョージミルリーフNever BendRagusaノーザンテーストNorthern DancerDetermine"
  },
  {
@@ -93583,6 +95783,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeNt",
+  "Paternal_mig": "HaHaTeNs",
   "Ped_All": "トーセンジョーダンジャングルポケットトニービンカンパラカラムーンHornbeamヌレイエフNorthern DancerNodoubleノーザンテーストNorthern DancerNearcticVictoria ParkCrafty Prospectorミスタープロスペクターセクレタリアト"
  },
  {
@@ -93668,6 +95870,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "TeSwNeHa",
   "Ped_All": "トーセンラーディープインパクトサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドLyciusミスタープロスペクターRaise a NativeリファールサドラーズウェルズNorthern Dancerヴェイグリーノーブル"
  },
  {
@@ -93753,6 +95957,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "SwNt",
+  "Paternal_mig": "HiHiFaNt",
   "Ped_All": "トーヨーリファールRelaunchインリアリティIntentionallyIntentRough'n TumbleThe AxeMahmoudRoyal NoteリファールNorthern DancerNearcticCourt MartialミスタープロスペクターRaise a NativeNative Dancer"
  },
  {
@@ -93838,6 +96044,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNe",
+  "Paternal_mig": "TeNeNeRo",
   "Ped_All": "ナカヤマフェスタステイゴールドサンデーサイレンスヘイローHail to ReasonアンダースタンディングディクタスSanctusノーザンテーストタイトスポットヒズマジェスティRibotリファールデインヒルダンチヒCure the Blues"
  },
  {
@@ -93923,6 +96131,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HaTe",
+  "Paternal_mig": "NtPhPhNe",
   "Ped_All": "ナリタキングオーワイルドアゲインアイスカペイドNearcticNearcoNative DancerKhaledHyperionDanteヘイローHail to ReasonTurn-toCosmic BombDamascusSword Dancerニジンスキー"
  },
  {
@@ -94008,6 +96218,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsHa",
+  "Paternal_mig": "NsHaTeTe",
   "Ped_All": "ナントゴシャセイオリオンザサンクスシャンハイProcidaミスタープロスペクターリヴァーマンリヴリアリヴァーマンモハビダンチヒNorthern DancerNearcticAdmiral's VoyageCreme Dela CremeOlympiaThe Doge"
  },
  {
@@ -94093,6 +96305,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StSt",
+  "Paternal_mig": "RoRoSwHi",
   "Ped_All": "ノボトゥルーブロードブラッシュアクアクBattle JoinedArmageddonTurn-toHoist the FlagトムロルフTurn-toNaskraNasramNasrullahLe HaarLe FabuleuxWild RiskKy.Colonel"
  },
  {
@@ -94178,6 +96392,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "TeHa",
+  "Paternal_mig": "PhHaNsNe",
   "Ped_All": "ハイアーゲームサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseLaw SocietyアレッジドHoist the FlagBoldnesianゲイメセンヴェイグリーノーブルNorthern Dancer"
  },
  {
@@ -94263,6 +96479,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "RoNs",
+  "Paternal_mig": "NsHaTeSt",
   "Ped_All": "ハーランズホリデーHarlanストームキャットStorm BirdNorthern DancerセクレタリアトヘイローHail to ReasonガンボウAffirmedExclusive NativeRaise a NativeCrafty AdmiralHonest PleasureWhat a PleasurePrincequillo"
  },
  {
@@ -94348,6 +96566,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "StMaToNs",
   "Ped_All": "バトルプランエンパイアメーカーUnbridledファピアノミスタープロスペクターLe FabuleuxエルグランセニョールNorthern DancerインリアリティシーキングザゴールドミスタープロスペクターRaise a NativeBuckpasserStorm BirdNorthern Dancerセクレタリアト"
  },
  {
@@ -94433,6 +96653,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeHa",
+  "Paternal_mig": "StFaNsNe",
   "Ped_All": "バランスオブゲームフサイチコンコルドカーリアンニジンスキーNorthern DancerRound TableサドラーズウェルズNorthern DancerイングリッシュプリンスアレミロードトムロルフRibotBold ReasoningディクタスSanctusノーザンテースト"
  },
  {
@@ -94518,6 +96740,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtSw",
+  "Paternal_mig": "NsNsHaHi",
   "Ped_All": "パイロPulpitエーピーインディシアトルスルーBold ReasoningセクレタリアトミスタープロスペクターRaise a NativeHonest PleasureワイルドアゲインアイスカペイドNearcticKhaledpass the tabAl HattabWhitesburg"
  },
  {
@@ -94603,6 +96827,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtSw",
+  "Paternal_mig": "NsNsHaHi",
   "Ped_All": "パイロPulpitエーピーインディシアトルスルーBold ReasoningセクレタリアトミスタープロスペクターRaise a NativeHonest PleasureワイルドアゲインアイスカペイドNearcticKhaledpass the tabAl HattabWhitesburg"
  },
  {
@@ -94688,6 +96914,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "06",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "StHi",
+  "Paternal_mig": "MaEcPhSt",
   "Ped_All": "ヒサシマルセクレタリアトBold RulerNasrullahNearcoDiscoveryPrincequilloPrince RoseCarusoヴェイグリーノーブルヴィエナAureoleNearcoCrimson SatanSpy SongPrince Bio"
  },
  {
@@ -94773,6 +97001,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "06",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "StHi",
+  "Paternal_mig": "MaEcPhSt",
   "Ped_All": "ヒシマサルセクレタリアトBold RulerNasrullahNearcoDiscoveryPrincequilloPrince RoseCarusoヴェイグリーノーブルヴィエナAureoleNearcoCrimson SatanSpy SongPrince Bio"
  },
  {
@@ -94858,6 +97088,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "StNsNsPh",
   "Ped_All": "ヒシミラクルサッカーボーイディクタスSanctusFine TopWordenノーザンテーストNorthern DancerPrincely GiftシェイディハイツシャーリーハイツミルリーフBold LadラナークGrey Sovereignフィダルゴ"
  },
  {
@@ -94943,6 +97175,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNe",
+  "Paternal_mig": "TeHaNsFa",
   "Ped_All": "ヒルノダムールマンハッタンカフェサンデーサイレンスヘイローHail to ReasonアンダースタンディングLaw SocietyアレッジドLucianoラムタラニジンスキーNorthern DancerブラッシンググルームL'EmigrantThe MinstrelBrigadier Gerard"
  },
  {
@@ -95028,6 +97262,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TePh",
+  "Paternal_mig": "NtFaTeSt",
   "Ped_All": "ビコーペガサスダンチヒNorthern DancerNearcticNearcoNative DancerAdmiral's VoyageCrafty AdmiralPetitionCondorcetリュティエKlaironPanVaranoDariusArctic Prince"
  },
  {
@@ -95113,6 +97349,8 @@ horse=
   "Paternal_hhht": "To",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNt",
+  "Paternal_mig": "NsTeNsTo",
   "Ped_All": "ビッグゴールドブライアンズタイムRobertoHail to ReasonTurn-toNashuaグロースタークRibotHasty RoadミスタープロスペクターRaise a NativeNative DancerNashuaRaise a CupRaise a NativeTim Tam"
  },
  {
@@ -95198,6 +97436,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNs",
+  "Paternal_mig": "NtNsNsFa",
   "Ped_All": "ファスリエフヌレイエフNorthern DancerNearcticNearcoNative DancerフォルリAristophanesNantallahミスタープロスペクターRaise a NativeNative DancerNashuaNever BendNasrullahTatan"
  },
  {
@@ -95283,6 +97523,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "StFa",
+  "Paternal_mig": "TeRoRoSw",
   "Ped_All": "フサイチコンコルドカーリアンニジンスキーNorthern DancerNearcticBull PageRound TablePrincequilloHail to ReasonサドラーズウェルズNorthern DancerNearcticBold ReasonイングリッシュプリンスペティンゴVal de Loir"
  },
  {
@@ -95368,6 +97610,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "EcSw",
+  "Paternal_mig": "PhPhTeHe",
   "Ped_All": "フラッシュボイスフィリップオブスペインTudor MelodyTudor MinstrelOwen TudorDanteマタドアGolden CloudPylonダイハードNever Say DieNasrullahBrumeuxタカマガハラクリノハナセフト"
  },
  {
@@ -95453,6 +97697,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "HaNs",
+  "Paternal_mig": "NtNsPhSw",
   "Ped_All": "ブラックホークヌレイエフNorthern DancerNearcticNearcoNative DancerフォルリAristophanesNantallahシルヴァーホークRobertoHail to ReasonアメリゴChieftainBold RulerMahmoud"
  },
  {
@@ -95538,6 +97784,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "EcSt",
+  "Paternal_mig": "HaEcEcHa",
   "Ped_All": "ホウシュウリッチダイコーターヒンドスタンBois RousselVatoutSolarioLillolkidJack HighBon HommeトサミドリプリメロBlandfordFlamboyantMieuxceMassineSolario"
  },
  {
@@ -95623,6 +97871,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HaRo",
+  "Paternal_mig": "HiMaHaSt",
   "Ped_All": "ホクトヘリオスパーソナリティHail to ReasonTurn-toRoyal ChargerBlue SwordsSwapsKhaledWar AdmiralボールドリックRound TablePrincequilloJohnstownTurn to ReasonHail to ReasonGallant Man"
  },
  {
@@ -95708,6 +97958,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeHe",
+  "Paternal_mig": "ToRoStNt",
   "Ped_All": "ホッカイルソーマークオブディスティンクションノウンファクトインリアリティIntentionallyTim TamアイスカペイドNearcticRobertoホッカイダイヤWaidwerkNeckarMolvedoAmbiopoiseAmbiorixNative Dancer"
  },
  {
@@ -95793,6 +98045,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "FaNe",
+  "Paternal_mig": "StNeTeNs",
   "Ped_All": "ホワイトベッセルクロフネフレンチデピュティデピュティミニスターVice RegentHold Your PeaceClassic Go GoPago PagoアイスカペイドサンデーサイレンスヘイローHail to ReasonアンダースタンディングTopsiderNorthern DancerStar de Naskra"
  },
  {
@@ -95878,6 +98132,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtPh",
+  "Paternal_mig": "StSwMaSw",
   "Ped_All": "マイネルブリッジルションリヴァーマンNever BendNasrullahPrince JohnMarshua's DancerRaise a NativeSea O ErinロイヤルスキーRaja BabaBold RulerInvolvementインファチュエイションNearcoハクリョウ"
  },
  {
@@ -95963,6 +98219,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "PhStNsRo",
   "Ped_All": "マイネルレーニアグラスワンダーシルヴァーホークRobertoHail to ReasonアメリゴダンチヒNorthern DancerヒズマジェスティサクラユタカオーテスコボーイPrincely GiftネヴァービートノーザンテーストNorthern DancerFirst Landing"
  },
  {
@@ -96048,6 +98306,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "StNsNeRo",
   "Ped_All": "マジンプロスパーアドマイヤコジーンコジーンカロフォルティノPrince JohnノーザンテーストNorthern DancerトライバルチーフバブルガムフェローサンデーサイレンスヘイローリファールIsopachReviewerCure the Blues"
  },
  {
@@ -96133,6 +98393,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "TeNt",
+  "Paternal_mig": "PhHaStNs",
   "Ped_All": "マツリダゴッホサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseBel BolideBold BidderBold RulerグロースタークAffirmedExclusive NativeNever Bend"
  },
  {
@@ -96218,6 +98480,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "PhHa",
+  "Paternal_mig": "HaTeHaSw",
   "Ped_All": "マティリアルパーソロンMilesianMy BabuDjebelCoup de LyonPharisPharosAbjerスピードシンボリロイヤルチャレンヂャーRoyal ChargerライジングライトRight BoyImpeccableBig Game"
  },
  {
@@ -96303,6 +98567,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StHa",
+  "Paternal_mig": "NsTeStHa",
   "Ped_All": "マヤノトップガンブライアンズタイムRobertoHail to ReasonTurn-toNashuaグロースタークRibotHasty RoadブラッシンググルームRed GodNasrullahWild RiskヴェイグリーノーブルヴィエナMy Host"
  },
  {
@@ -96388,6 +98654,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NtRo",
+  "Paternal_mig": "NtRoHaNe",
   "Ped_All": "マルターズアポジーゴスホークケンBernsteinストームキャットStorm BirdAffirmedGrand SlamゴーンウェストクリスエスOld TriesteエーピーインディシアトルスルーVigorsサンシャインフォーエヴァーRobertoNorthern Dancer"
  },
  {
@@ -96473,6 +98741,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "TeSwNeNt",
   "Ped_All": "ミッキーアイルディープインパクトサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドロックオブジブラルタルデインヒルダンチヒビーマイゲストヌレイエフNorthern Dancerアリダー"
  },
  {
@@ -96558,6 +98828,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "06",
+  "Paternal_jik": "MaHe",
+  "Paternal_mig": "NsHaTeNs",
   "Ped_All": "ムッシュシェクルリアルシャダイRobertoHail to ReasonTurn-toNashuaインリアリティIntentionallyMoslem ChiefノーザンテーストNorthern DancerNearcticVictoria ParkヒッティングアウェーAmbiorixFleet Nasrullah"
  },
  {
@@ -96643,6 +98915,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StHa",
+  "Paternal_mig": "HePhTeSw",
   "Ped_All": "ムービースターディクタスSanctusFine TopFine ArtTourmentWordenWild RiskBozzettoノーザンテーストNorthern DancerNearcticVictoria ParkHornbeamHyperionパナスリッパー"
  },
  {
@@ -96728,6 +99002,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "HaHaNsSt",
   "Ped_All": "メイショウボーラータイキシャトルデヴィルズバッグヘイローHail to ReasonエルバジェカーリアンニジンスキーThatchストームキャットStorm BirdNorthern DancerセクレタリアトSearch TraditionNashuaKazan"
  },
  {
@@ -96813,6 +99089,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NsHa",
+  "Paternal_mig": "TeTeSwMa",
   "Ped_All": "メジロアルダンアスワンノーザンテーストNorthern DancerNearcticVictoria ParkNever BendNasrullahRomanネヴァービートNever Say DieNasrullahBig GameKhaledHyperionWar Relic"
  },
  {
@@ -96898,6 +99176,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StSt",
+  "Paternal_mig": "StHeFaHe",
   "Ped_All": "メジロデュランフィディオンDjakaoTanerkoTantiemeRibotSicambrePrince BioTourmentリマンドアルサイドAlycidonPalestineヒンドスタンBois Rousselボストニアン"
  },
  {
@@ -96983,6 +99263,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NsHa",
+  "Paternal_mig": "TeTeSwMa",
   "Ped_All": "メジロヨルダンアスワンノーザンテーストNorthern DancerNearcticVictoria ParkNever BendNasrullahRomanネヴァービートNever Say DieNasrullahBig GameKhaledHyperionWar Relic"
  },
  {
@@ -97068,6 +99350,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "StSt",
+  "Paternal_mig": "StNsSwNs",
   "Ped_All": "ユーセイトップランミルジョージミルリーフNever BendNasrullahPrincequilloRagusaRibotGrey SovereignネヴァービートNever Say DieNasrullahBig GameヒンドスタンBois RousselGrey Sovereign"
  },
  {
@@ -97153,6 +99437,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "RoHi",
+  "Paternal_mig": "RoNtToNs",
   "Ped_All": "ラスカルスズカコマンダーインチーフダンシングブレーヴリファールNorthern DancerDroneRobertoHail to ReasonRaise a NativeミスワキミスタープロスペクターRaise a NativeBuckpasserアクアクBattle JoinedNever Bend"
  },
  {
@@ -97238,6 +99524,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "TeSwPhTe",
   "Ped_All": "ラストインパクトディープインパクトサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドティンバーカントリーウッドマンミスタープロスペクターPretenseNorthern DancerNearcticDamascus"
  },
  {
@@ -97323,6 +99611,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "StNsNsHa",
   "Ped_All": "ラブアタックショコラタイムパラドックスブライアンズタイムRobertoHail to ReasonグロースタークアルザオリファールボールドラッドサクラユタカオーテスコボーイPrincely GiftネヴァービートノーザンテーストNorthern DancerGlobemaster"
  },
  {
@@ -97408,6 +99698,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "FaHe",
+  "Paternal_mig": "SwHaHeEc",
   "Ped_All": "ランニングフリーサーペンフロサーアイヴァーSir GaylordTurn-toMr.TroubleBlue PeterFairwayHyperionステューペンダスBold RulerNasrullahAmbiorixMilesianMy Babuガーサント"
  },
  {
@@ -97493,6 +99785,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HeSt",
+  "Paternal_mig": "SwPhPhMa",
   "Ped_All": "リンドホシサンデイクリークペティンゴPetitionFair TrialAlycidonKlaironClarionNarratorミステリーMilesianMy BabuPharisコダマブッフラーミハルオー"
  },
  {
@@ -97578,6 +99872,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeNt",
+  "Paternal_mig": "TeHaStNs",
   "Ped_All": "リーチザクラウンスペシャルウィークサンデーサイレンスヘイローHail to ReasonアンダースタンディングマルゼンスキーニジンスキーセントクレスピンシアトルスルーBold ReasoningBoldnesianPokerミスタープロスペクターRaise a Nativeセクレタリアト"
  },
  {
@@ -97663,6 +99959,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "NeHeHaEc",
   "Ped_All": "ルーラーシップキングカメハメハキングマンボミスタープロスペクターRaise a NativeヌレイエフラストタイクーントライマイベストBlakeneyトニービンカンパラカラムーンHornbeamノーザンテーストNorthern Dancerガーサント"
  },
  {
@@ -97748,6 +100046,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNe",
+  "Paternal_mig": "TeNeStRo",
   "Ped_All": "レインボーラインステイゴールドサンデーサイレンスヘイローHail to ReasonアンダースタンディングディクタスSanctusノーザンテーストフレンチデピュティデピュティミニスターVice RegentHold Your Peaceレインボーアンバーアンバーシャダイファーストファミリー"
  },
  {
@@ -97833,6 +100133,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "ToSt",
+  "Paternal_mig": "TeStNsMa",
   "Ped_All": "レオダーバンマルゼンスキーニジンスキーNorthern DancerNearcticBull PageBuckpasserTom FoolPrincequilloダンサーズイメージNative DancerPolynesianNoorコダマブッフラーミハルオー"
  },
  {
@@ -97918,6 +100220,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "HiNs",
+  "Paternal_mig": "TeEcPhHe",
   "Ped_All": "ロイヤルスズカロイヤルアカデミーニジンスキーNorthern DancerNearcticBull PageCrimson SatanSpy SongBoleroGyrSea-BirdDan CupidToulouse LautrecGrey SovereignNasrullahMy Babu"
  },
  {
@@ -98003,6 +100307,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "TeNs",
+  "Paternal_mig": "PhHaToFa",
   "Ped_All": "ロイヤルタッチサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseマルゼンスキーニジンスキーNorthern DancerBuckpasserテスコボーイPrincely Giftハロウェー"
  },
  {
@@ -98088,6 +100394,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "ToHi",
+  "Paternal_mig": "NtHaNsFa",
   "Ped_All": "ロドリゴデトリアーノエルグランセニョールNorthern DancerNearcticNearcoNative DancerBuckpasserTom FoolTraffic JudgeホットスパークハビタットSir GaylordPrincely GiftCrimson SatanSpy SongCourt Martial"
  },
  {
@@ -98173,6 +100481,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoSt",
+  "Paternal_mig": "NsHaStNs",
   "Ped_All": "ローエングリンシングスピールIn the WingsサドラーズウェルズNorthern DancerシャーリーハイツヘイローHail to ReasonエルバジェGarde RoyaleミルリーフNever BendSicambreCarvinマリーノTyrant"
  },
  {
@@ -98258,6 +100568,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeHa",
+  "Paternal_mig": "PhHaTeHa",
   "Ped_All": "ローゼンカバリーサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseノーザンテーストNorthern DancerNearcticVictoria ParkシーホークエルバジェDetermine"
  },
  {
@@ -98343,6 +100655,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "TeNe",
+  "Paternal_mig": "PhHaPhNs",
   "Ped_All": "ローゼンクロイツサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseシャーリーハイツミルリーフNever BendハーディカヌートリファールNorthern Dancerセクレタリアト"
  },
  {
@@ -98428,6 +100742,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeSt",
+  "Paternal_mig": "NeSwRoHa",
   "Ped_All": "ワークフォースキングズベストキングマンボミスタープロスペクターRaise a NativeヌレイエフLombardagioEspressoサドラーズウェルズNorthern DancerNearcticBold ReasonアレッジドHoist the FlagStar Appeal"
  },
  {
@@ -98513,6 +100829,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "TeSwSwSw",
   "Ped_All": "ワールドエースディープインパクトサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドアカテナンゴSurumuLiteratAggressorビーマイゲストNorthern DancerElektrant"
  },
  {
@@ -98598,6 +100916,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "08",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NtNe",
+  "Paternal_mig": "TeStNeSw",
   "Ped_All": "ヴォルシェーブネオユニヴァースサンデーサイレンスヘイローHail to ReasonアンダースタンディングKrisシャーペンアップShantungサンダーガルチガルチミスタープロスペクターStorm Birdアルザオリファールバステッド"
  },
  {
@@ -98683,6 +101003,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "ToToStHa",
   "Ped_All": "アスカクリチャンスターリングローズアフリートミスタープロスペクターRaise a NativeVenetian JesterダンチヒNorthern DancerBuckpasserダイナレターノーザンテーストNorthern DancerアーツアンドレターズマルゼンスキーニジンスキーDelta Judge"
  },
  {
@@ -98768,6 +101090,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeRo",
+  "Paternal_mig": "PhHaStHa",
   "Ped_All": "アドマイヤジャパンサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseカーリアンニジンスキーNorthern DancerRound TableLord GayleSir GaylordLuciano"
  },
  {
@@ -98853,6 +101177,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeNt",
+  "Paternal_mig": "NsNeTeRo",
   "Ped_All": "アポインテッドデイレッドランサムRobertoHail to ReasonTurn-toNashuaDamascusSword DancerNearcticダンチヒNorthern DancerNearcticAdmiral's VoyageNative RoyaltyRaise a NativeFrancis S."
  },
  {
@@ -98938,6 +101264,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "PhStHaFa",
   "Ped_All": "アーネストリーグラスワンダーシルヴァーホークRobertoHail to ReasonアメリゴダンチヒNorthern DancerヒズマジェスティトニービンカンパラカラムーンHornbeamノーザンテーストNorthern Dancerエルセンタウロ"
  },
  {
@@ -99023,6 +101351,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNt",
+  "Paternal_mig": "TeMaStNe",
   "Ped_All": "イスラボニータフジキセキサンデーサイレンスヘイローHail to ReasonアンダースタンディングLe FabuleuxWild RiskインリアリティコジーンカロフォルティノPrince JohnCrafty ProspectorミスタープロスペクターFar North"
  },
  {
@@ -99108,6 +101438,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HaTe",
+  "Paternal_mig": "NsTeHaSt",
   "Ped_All": "イーグルカフェガルチミスタープロスペクターRaise a NativeNative DancerNashuaRambunctiousRasperSeven CornersヌレイエフNorthern DancerNearcticフォルリDamascusSword DancerLe Fabuleux"
  },
  {
@@ -99193,6 +101525,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeSw",
+  "Paternal_mig": "HaHaHaFa",
   "Ped_All": "ウインクリューガータイキシャトルデヴィルズバッグヘイローHail to ReasonエルバジェカーリアンニジンスキーThatchビーマイゲストNorthern DancerNearcticTudor MinstrelバステッドCrepelloQueen's Hussar"
  },
  {
@@ -99278,6 +101612,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "NsRoRoNs",
   "Ped_All": "エイシンアポロンジャイアンツコーズウェイストームキャットStorm BirdNorthern DancerセクレタリアトラーイブラッシンググルームRobertoサドラーズウェルズNorthern DancerNearcticBold ReasonリファールNorthern Dancerアイリッシュリヴァー"
  },
  {
@@ -99363,6 +101699,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "06",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NtNe",
+  "Paternal_mig": "NsNsNsSt",
   "Ped_All": "エーシントップTale of the CatストームキャットStorm BirdNorthern DancerセクレタリアトミスタープロスペクターRaise a NativeHonest PleasureアンブライドルズソングUnbridledファピアノカロダンチヒNorthern DancerRound Table"
  },
  {
@@ -99448,6 +101786,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtNs",
+  "Paternal_mig": "NsRoHiHi",
   "Ped_All": "エーシンフォワードForest WildcatストームキャットStorm BirdNorthern DancerセクレタリアトBold NativeRaise a NativeSeaneenCure the BluesStop the MusicHail to ReasonドクターフェイガーMorning BobブラッシンググルームMac Diarmida"
  },
  {
@@ -99533,6 +101873,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "HaHaNtSt",
   "Ped_All": "オウケンブルースリジャングルポケットトニービンカンパラカラムーンHornbeamヌレイエフNorthern DancerNodoubleSilver DeputyデピュティミニスターVice RegentミスタープロスペクターNorthern JoveNorthern DancerRibot"
  },
  {
@@ -99618,6 +101960,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "TeNe",
+  "Paternal_mig": "PhHaTeEc",
   "Ped_All": "オレハマッテルゼサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseジャッジアンジェルーチHonest PleasureWhat a PleasureVictoria ParkノーザンテーストNorthern Dancerガーサント"
  },
  {
@@ -99703,6 +102047,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "StNt",
+  "Paternal_mig": "TeMaNsSt",
   "Ped_All": "サダムパテックフジキセキサンデーサイレンスヘイローHail to ReasonアンダースタンディングLe FabuleuxWild RiskインリアリティエリシオフェアリーキングNorthern DancerSlewpyミスタープロスペクターRaise a NativeHoist the Flag"
  },
  {
@@ -99788,6 +102134,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoNs",
+  "Paternal_mig": "ToNtHeMa",
   "Ped_All": "サニングデールウォーニングノウンファクトインリアリティIntentionallyTim TamRobertoHail to ReasonRaise a NativeダルシャーンシャーリーハイツミルリーフAbdosブラッシンググルームRed GodSheshoon"
  },
  {
@@ -99873,6 +102221,8 @@ horse=
   "Paternal_hhht": "To",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNt",
+  "Paternal_mig": "TeMaNeTo",
   "Ped_All": "サニーデイズフジキセキサンデーサイレンスヘイローHail to ReasonアンダースタンディングLe FabuleuxWild RiskインリアリティボストンハーバーカポーティシアトルスルーVice RegentガルチミスタープロスペクターBuckfinder"
  },
  {
@@ -99958,6 +102308,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeHa",
+  "Paternal_mig": "NsPhSwMa",
   "Ped_All": "ザールZafonicゴーンウェストミスタープロスペクターRaise a NativeセクレタリアトThe MinstrelNorthern DancerRight TackサーアイヴァーSir GaylordTurn-toMr.TroubleTraffic JudgeAlibhaiMr.Busher"
  },
  {
@@ -100043,6 +102395,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsRo",
+  "Paternal_mig": "HaNeToNs",
   "Ped_All": "シベリアンホークスピニングワールドヌレイエフNorthern DancerNearcticフォルリリヴァーマンNever BendNorthfieldsスルーオゴールドシアトルスルーBold ReasoningBuckpasserシルヴァーホークRobertoChieftain"
  },
  {
@@ -100128,6 +102482,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "TeHiToNs",
   "Ped_All": "シーキングザダイヤストームキャットStorm BirdNorthern DancerNearcticNew ProvidenceセクレタリアトBold RulerCrimson SatanシーキングザゴールドミスタープロスペクターRaise a NativeBuckpasserシアトルスルーBold ReasoningBold Forbes"
  },
  {
@@ -100213,6 +102569,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeRo",
+  "Paternal_mig": "NsNsHiMa",
   "Ped_All": "スクワートルスクワートMarquetryConquistador CieloミスタープロスペクターRaise a NativeBold CommanderVice RegentNorthern DancerNever BendLost CodeCodexアーツアンドレターズアクアクSmartenCyaneTentam"
  },
  {
@@ -100298,6 +102656,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "NsRoStRo",
   "Ped_All": "スズカコーズウェイジャイアンツコーズウェイストームキャットStorm BirdNorthern DancerセクレタリアトラーイブラッシンググルームRobertoフレンチデピュティデピュティミニスターVice RegentHold Your PeaceシアトルスルーBold Reasoningマナード"
  },
  {
@@ -100383,6 +102743,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "StToRoHa",
   "Ped_All": "ストロングリターンシンボリクリスエスクリスエスRobertoHail to ReasonPrincequilloGold MeridianシアトルスルーTri JetスマートストライクミスタープロスペクターRaise a NativeSmartenニジンスキーNorthern Dancerヴェイグリーノーブル"
  },
  {
@@ -100468,6 +102830,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "RoSt",
+  "Paternal_mig": "ToHiHaNe",
   "Ped_All": "スーパーホーネットロドリゴデトリアーノエルグランセニョールNorthern DancerNearcticBuckpasserホットスパークハビタットCrimson SatanエルセニョールValdezExclusive NativeGrey DawnElocutionistGallant RomeoNearctic"
  },
  {
@@ -100553,6 +102917,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "TeSw",
+  "Paternal_mig": "StNsStSt",
   "Ped_All": "セレスハントコロナドズクエストフォーティナイナーミスタープロスペクターRaise a NativeトムロルフDamascusSword DancerBold RulerブラッシンググルームRed GodNasrullahWild RiskハチェットマンThe AxeRibot"
  },
  {
@@ -100638,6 +103004,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNs",
+  "Paternal_mig": "HiNsNtNs",
   "Ped_All": "タップダンスシチープレザントタッププレザントコロニーヒズマジェスティRibotSunrise FlightStage Door JohnnyPrince JohnNever BendNorthern DancerNearcticNearcoNative DancerBold HourBold RulerT.V.Lark"
  },
  {
@@ -100723,6 +103091,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "TeSwNeSt",
   "Ped_All": "ディサイファディープインパクトサンデーサイレンスヘイローHail to Reasonアンダースタンディングアルザオリファールバステッドドバイミレニアムシーキングザゴールドミスタープロスペクターshareef dancerダンチヒNorthern Dancerヒズマジェスティ"
  },
  {
@@ -100808,6 +103178,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNe",
+  "Paternal_mig": "HiNsHeMa",
   "Ped_All": "デビッドジュニアプレザントタッププレザントコロニーヒズマジェスティRibotSunrise FlightStage Door JohnnyPrince JohnNever BendアイリッシュリヴァーリヴァーマンNever BendKlaironNorthfieldsNorthern Dancerササフラ"
  },
  {
@@ -100893,6 +103265,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "RoNsNsSt",
   "Ped_All": "トウカイパルサートウカイテイオーシンボリルドルフパーソロンMilesianスピードシンボリナイスダンサーNorthern DancerファバージConquistador CieloミスタープロスペクターRaise a NativeBold CommanderNorthern DancerNearcticPrincequillo"
  },
  {
@@ -100978,6 +103352,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StMa",
+  "Paternal_mig": "NsHiHeHa",
   "Ped_All": "トワイニングフォーティナイナーミスタープロスペクターRaise a NativeNative DancerNashuaトムロルフRibotDouble JayNever BendNasrullahNearcoDjeddahWar AdmiralMan o'WarBeau Pere"
  },
  {
@@ -101063,6 +103439,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "TeSwNeNt",
   "Ped_All": "トーセンスターダムディープインパクトサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドエンドスウィープフォーティナイナーミスタープロスペクターDance SpellノーザンテーストNorthern DancerCrafty Prospector"
  },
  {
@@ -101148,6 +103526,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNe",
+  "Paternal_mig": "NsTeNeNs",
   "Ped_All": "トーセンブライトブライアンズタイムRobertoHail to ReasonTurn-toNashuaグロースタークRibotHasty RoadジェイドロバリーミスタープロスペクターRaise a NativeニジンスキーナイスダンサーNorthern Dancerファバージ"
  },
  {
@@ -101233,6 +103613,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "StTe",
+  "Paternal_mig": "NsTeHeFa",
   "Ped_All": "トーホウエンペラーブライアンズタイムRobertoHail to ReasonTurn-toNashuaグロースタークRibotHasty RoadノーリュートリュティエKlaironプルーデントマッチウォンMatchハロウェー"
  },
  {
@@ -101318,6 +103700,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNs",
+  "Paternal_mig": "HaEcHeHe",
   "Ped_All": "トーワウィナーニホンピロウイナースティールハートハビタットSir GaylordAbernantチャイナロックRockefellaライジングフレームQuiet FlingニジンスキーNorthern DancerKlaironBold CommanderBold RulerCrozier"
  },
  {
@@ -101403,6 +103787,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StRo",
+  "Paternal_mig": "MaNsToEc",
   "Ped_All": "ノボジャックフレンチデピュティデピュティミニスターVice RegentNorthern DancerBunty's FlightHold Your PeaceSpeak JohnBold RulerアフリートミスタープロスペクターRaise a NativeVenetian JesterDroneSir GaylordCandy Spots"
  },
  {
@@ -101488,6 +103874,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoHa",
+  "Paternal_mig": "HeSwTeSw",
   "Ped_All": "バトルラインオジジアンDamascusSword DancerSunglowMy BabuFrancis S.Royal ChargerCorrelationStorm BirdNorthern DancerNearcticNew ProvidenceHigh LineハイハットTamerlane"
  },
  {
@@ -101573,6 +103961,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNs",
+  "Paternal_mig": "HaRoNsRo",
   "Ped_All": "パーソナルラッシュワイルドラッシュワイルドアゲインアイスカペイドNearcticKhaledプラグドニックルキートゥザミントDroneアリダーRaise a NativeNative DancerOn-and-OnBold CommanderBold RulerHail to All"
  },
  {
@@ -101658,6 +104048,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "FaNt",
+  "Paternal_mig": "StNeTeRo",
   "Ped_All": "フサイチリシャールクロフネフレンチデピュティデピュティミニスターVice RegentHold Your PeaceClassic Go GoPago PagoアイスカペイドサンデーサイレンスヘイローHail to ReasonアンダースタンディングミスタープロスペクターRaise a NativeFrancis S."
  },
  {
@@ -101743,6 +104135,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtHa",
+  "Paternal_mig": "TeNeNeMa",
   "Ped_All": "ペルーサゼンノロブロイサンデーサイレンスヘイローHail to ReasonアンダースタンディングマイニングミスタープロスペクターClever TrickCandy StripesブラッシンググルームRed GodリファールPropicioDorileoSamos"
  },
  {
@@ -101828,6 +104222,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "HaNe",
+  "Paternal_mig": "StNsTeNs",
   "Ped_All": "マイネルスターリースターオブコジーンコジーンカロフォルティノPrince JohnPia StarOlympiaFleet NasrullahサンデーサイレンスヘイローHail to Reasonアンダースタンディングマルゼンスキーニジンスキーアローエクスプレス"
  },
  {
@@ -101913,6 +104309,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "NsStHiSt",
   "Ped_All": "ルールオブローキングマンボミスタープロスペクターRaise a NativeNative DancerNashuaヌレイエフNorthern DancerProve OutロイヤルアカデミーニジンスキーNorthern DancerCrimson Satannever so boldBold Ladボールドリック"
  },
  {
@@ -101998,6 +104396,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "ToTo",
+  "Paternal_mig": "NsTeStHa",
   "Ped_All": "ロードアルティマシーキングザゴールドミスタープロスペクターRaise a NativeNative DancerNashuaBuckpasserTom FoolHasty RoadセクレタリアトBold RulerNasrullahPrincequilloTim TamTom FoolTudor Minstrel"
  },
  {
@@ -102083,6 +104483,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "StNt",
+  "Paternal_mig": "NsTeTeNe",
   "Ped_All": "ワイルドワンダーブライアンズタイムRobertoHail to ReasonTurn-toNashuaグロースタークRibotHasty RoadサンデーサイレンスヘイローHail to ReasonアンダースタンディングミスタープロスペクターRaise a NativeNorthern Dancer"
  },
  {
@@ -102168,6 +104570,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaFa",
+  "Paternal_mig": "FaSwTeMa",
   "Ped_All": "オウザキネンファバージPrincely GiftNasrullahNearcoBlue PeterLegend of FranceDark LegendBlenheimダイハードNever Say DieNasrullahBrumeuxハロウェーFairway月友"
  },
  {
@@ -102253,6 +104657,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NsRo",
+  "Paternal_mig": "TeNeNsNe",
   "Ped_All": "オマワリサンリンカーンサンデーサイレンスヘイローHail to ReasonアンダースタンディングトニービンカンパラサドラーズウェルズデヒアデピュティミニスターVice RegentセクレタリアトリアルシャダイRobertoノーザンテースト"
  },
  {
@@ -102338,6 +104744,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsHa",
+  "Paternal_mig": "NsTeHaHa",
   "Ped_All": "オリオンザサンクスシャンハイProcidaミスタープロスペクターRaise a NativeDistinctiveリヴァーマンNever BendDamascusリヴリアリヴァーマンNever BendヴェイグリーノーブルモハビSwapsドレスアップ"
  },
  {
@@ -102423,6 +104831,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNt",
+  "Paternal_mig": "NsHeStSw",
   "Ped_All": "オレニホレルナヨサクラバクシンオーサクラユタカオーテスコボーイPrincely GiftネヴァービートノーザンテーストNorthern DancerAmbiopoiseカーリアンニジンスキーNorthern DancerRound TableHello Gorgeousミスタープロスペクターパーシア"
  },
  {
@@ -102508,6 +104918,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NeTo",
+  "Paternal_mig": "NtSwTeNs",
   "Ped_All": "オーバーザリミッツパイロPulpitエーピーインディシアトルスルーミスタープロスペクターワイルドアゲインアイスカペイドpass the tabジャッジアンジェルーチHonest PleasureWhat a PleasureVictoria ParkトンピオンTom Foolネヴァービート"
  },
  {
@@ -102593,6 +105005,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "RoNt",
+  "Paternal_mig": "ToNtHaNs",
   "Ped_All": "カルストンライトオウォーニングノウンファクトインリアリティIntentionallyTim TamRobertoHail to ReasonRaise a NativeクリスタルグリッターズブラッシンググルームRed GodDonut KingカウアイキングNative Dancerネヴァービート"
  },
  {
@@ -102678,6 +105092,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaFa",
+  "Paternal_mig": "FaSwTeMa",
   "Ped_All": "カントウオウザファバージPrincely GiftNasrullahNearcoBlue PeterLegend of FranceDark LegendBlenheimダイハードNever Say DieNasrullahBrumeuxハロウェーFairway月友"
  },
  {
@@ -102763,6 +105179,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaFa",
+  "Paternal_mig": "FaSwTeMa",
   "Ped_All": "キュウシュウオキナワオウザファバージPrincely GiftNasrullahNearcoBlue PeterLegend of FranceDark LegendBlenheimダイハードNever Say DieNasrullahBrumeuxハロウェーFairway月友"
  },
  {
@@ -102848,6 +105266,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaFa",
+  "Paternal_mig": "FaSwTeMa",
   "Ped_All": "キンキオウザファバージPrincely GiftNasrullahNearcoBlue PeterLegend of FranceDark LegendBlenheimダイハードNever Say DieNasrullahBrumeuxハロウェーFairway月友"
  },
  {
@@ -102933,6 +105353,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NsNt",
+  "Paternal_mig": "NsNeNsNs",
   "Ped_All": "クリムゾントワFootstepsinthesandジャイアンツコーズウェイストームキャットStorm BirdラーイレインボウクエストブラッシンググルームグリーンダンサーストラヴィンスキーヌレイエフNorthern DancerブラッシンググルームAffirmedExclusive Nativeセクレタリアト"
  },
  {
@@ -103018,6 +105440,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StHe",
+  "Paternal_mig": "ToNsNsTe",
   "Ped_All": "コイノボリサクラトウコウマルゼンスキーニジンスキーNorthern DancerBuckpasserセダンPrince BioGrey SovereignファイブダンサーノーザンテーストNorthern DancerRed GodパーソロンMilesianダンスール"
  },
  {
@@ -103103,6 +105527,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaFa",
+  "Paternal_mig": "FaSwTeMa",
   "Ped_All": "サンシュウネンキネンファバージPrincely GiftNasrullahNearcoBlue PeterLegend of FranceDark LegendBlenheimダイハードNever Say DieNasrullahBrumeuxハロウェーFairway月友"
  },
  {
@@ -103188,6 +105614,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaFa",
+  "Paternal_mig": "FaSwTeMa",
   "Ped_All": "サンテンゴキネンファバージPrincely GiftNasrullahNearcoBlue PeterLegend of FranceDark LegendBlenheimダイハードNever Say DieNasrullahBrumeuxハロウェーFairway月友"
  },
  {
@@ -103273,6 +105701,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNs",
+  "Paternal_mig": "NtRoHeTe",
   "Ped_All": "シュヤクハキミダhero's honorNorthern DancerNearcticNearcoNative DancerグロースタークRibotHail to ReasonDamascusSword DancerSunglowMy BabuReviewerBold RulerJohns Joy"
  },
  {
@@ -103358,6 +105788,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "06",
+  "Paternal_jik": "StNs",
+  "Paternal_mig": "EcHaPhSt",
   "Ped_All": "シンネンフクヨコイラッキーキャストマイスワローLe LevanstellLe LavandouVilmorayPrince JohnPrincequilloSummer TanラッキーソブリンニジンスキーNorthern DancerPardaoアローエクスプレススパニッシュイクスプレスセダン"
  },
  {
@@ -103443,6 +105875,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "RoStNeNt",
   "Ped_All": "ジーカップダイスキローエングリンシングスピールIn the WingsサドラーズウェルズヘイローGarde RoyaleミルリーフCarvinバチアーDesert StyleグリーンデザートビーマイゲストノーザンテーストNorthern DancerNative Charger"
  },
  {
@@ -103528,6 +105962,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNt",
+  "Paternal_mig": "TeNeStNt",
   "Ped_All": "スーパーカップゴールドアリュールサンデーサイレンスヘイローHail to ReasonアンダースタンディングヌレイエフNorthern DancerHostageブライアンズタイムRobertoHail to ReasonグロースタークミスタープロスペクターRaise a NativeRaise a Cup"
  },
  {
@@ -103613,6 +106049,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "EcHa",
+  "Paternal_mig": "EcHeEcEc",
   "Ped_All": "タカイタカイリンボーWar AdmiralMan o'WarFair PlaySweepBoojumJohn P. GrierStefan the GreatハクリョウプリメロBlandfordダイオライトクモハタトウルヌソルダイオライト"
  },
  {
@@ -103698,6 +106136,8 @@ horse=
   "Paternal_hhht": "To",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "TeStNsTo",
   "Ped_All": "タッチミーノットダンスインザダークサンデーサイレンスヘイローHail to ReasonアンダースタンディングニジンスキーNorthern DancerキートゥザミントミスタープロスペクターRaise a NativeNative DancerNashuaデピュティミニスターVice RegentBuckpasser"
  },
  {
@@ -103783,6 +106223,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNe",
+  "Paternal_mig": "HeHaRoHa",
   "Ped_All": "タマモサポートタマモクロスシービークロスフォルティノGrey SovereignパーソロンシャトーゲイSwapsテューダーペリオッドジョリーズヘイローヘイローHail to ReasonサーアイヴァーグリーンデザートダンチヒConnaught"
  },
  {
@@ -103868,6 +106310,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaFa",
+  "Paternal_mig": "FaSwTeMa",
   "Ped_All": "ダイヨンカイオウザファバージPrincely GiftNasrullahNearcoBlue PeterLegend of FranceDark LegendBlenheimダイハードNever Say DieNasrullahBrumeuxハロウェーFairway月友"
  },
  {
@@ -103953,6 +106397,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNt",
+  "Paternal_mig": "TeHiSwSw",
   "Ped_All": "ダビキャラキネンダイワメジャーサンデーサイレンスヘイローHail to ReasonアンダースタンディングノーザンテーストNorthern DancerCrimson SatanアカテナンゴSurumuLiteratAggressorBeringArctic TernTennyson"
  },
  {
@@ -104038,6 +106484,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "HeNeNsNs",
   "Ped_All": "ダメダメダメダメダチチカステナンゴsmadounKaldounカロTip MossAntheusNorthern DancerFabulous DancerアグネスタキオンサンデーサイレンスヘイローロイヤルスキーMasterclassThe MinstrelBold Lad"
  },
  {
@@ -104123,6 +106571,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaFa",
+  "Paternal_mig": "FaSwTeMa",
   "Ped_All": "チュウゴクシコクオウザファバージPrincely GiftNasrullahNearcoBlue PeterLegend of FranceDark LegendBlenheimダイハードNever Say DieNasrullahBrumeuxハロウェーFairway月友"
  },
  {
@@ -104208,6 +106658,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaFa",
+  "Paternal_mig": "FaSwTeMa",
   "Ped_All": "チュウブオウザファバージPrincely GiftNasrullahNearcoBlue PeterLegend of FranceDark LegendBlenheimダイハードNever Say DieNasrullahBrumeuxハロウェーFairway月友"
  },
  {
@@ -104293,6 +106745,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "StNsNsHa",
   "Ped_All": "チョコタイムパラドックスブライアンズタイムRobertoHail to ReasonグロースタークアルザオリファールボールドラッドサクラユタカオーテスコボーイPrincely GiftネヴァービートノーザンテーストNorthern DancerGlobemaster"
  },
  {
@@ -104378,6 +106832,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaFa",
+  "Paternal_mig": "FaSwTeMa",
   "Ped_All": "ツリスタファバージPrincely GiftNasrullahNearcoBlue PeterLegend of FranceDark LegendBlenheimダイハードNever Say DieNasrullahBrumeuxハロウェーFairway月友"
  },
  {
@@ -104463,6 +106919,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "StSw",
+  "Paternal_mig": "RoSwMaNs",
   "Ped_All": "トゥインクルレースシアトルスルーBold ReasoningBoldnesianBold RulerHail to ReasonPokerRound TableJet ActionBuckpasserTom FoolMenowWar AdmiralCohoesMahmoudBold Ruler"
  },
  {
@@ -104548,6 +107006,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaFa",
+  "Paternal_mig": "FaSwTeMa",
   "Ped_All": "トウホクオウザファバージPrincely GiftNasrullahNearcoBlue PeterLegend of FranceDark LegendBlenheimダイハードNever Say DieNasrullahBrumeuxハロウェーFairway月友"
  },
  {
@@ -104633,6 +107093,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeNt",
+  "Paternal_mig": "NeHeNtSt",
   "Ped_All": "ナイスミーチューキングカメハメハキングマンボミスタープロスペクターRaise a NativeヌレイエフラストタイクーントライマイベストBlakeneyFire MakerFire DancerNorthern DancerRaise a NativeアリダーRaise a NativeHoist the Flag"
  },
  {
@@ -104718,6 +107180,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "TeToRoNs",
   "Ped_All": "ネコパンチニューイングランドサンデーサイレンスヘイローHail to ReasonアンダースタンディングチーフズクラウンダンチヒBuckpasserダンシングブレーヴリファールNorthern DancerDroneテリオスミルリーフテスコボーイ"
  },
  {
@@ -104803,6 +107267,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "TeRoHaNs",
   "Ped_All": "ネルトスグアサアドマイヤジャパンサンデーサイレンスヘイローHail to ReasonアンダースタンディングカーリアンニジンスキーLord GayleニホンピロウイナースティールハートハビタットチャイナロックナイスダンサーNorthern Dancerアローエクスプレス"
  },
  {
@@ -104888,6 +107354,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoNe",
+  "Paternal_mig": "RoRoHaTe",
   "Ped_All": "ノラネコキングヘイローダンシングブレーヴリファールNorthern DancerDroneヘイローHail to ReasonサーアイヴァータマモクロスシービークロスフォルティノシャトーゲイダンチヒNorthern Dancerジャッジャー"
  },
  {
@@ -104973,6 +107441,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNt",
+  "Paternal_mig": "StRoStSw",
   "Ped_All": "フォーティナイナーズサンDistorted humorフォーティナイナーミスタープロスペクターRaise a NativeトムロルフダンチヒNorthern DancerMr.LeaderアレッジドHoist the FlagトムロルフPrince JohnConquistador CieloミスタープロスペクターQuadrangle"
  },
  {
@@ -105058,6 +107528,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNs",
+  "Paternal_mig": "TeMaToSw",
   "Ped_All": "フジサイレンスフジキセキサンデーサイレンスヘイローHail to ReasonアンダースタンディングLe FabuleuxWild RiskインリアリティマルゼンスキーニジンスキーNorthern DancerBuckpasserテスコボーイPrincely Giftハクリョウ"
  },
  {
@@ -105143,6 +107615,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaFa",
+  "Paternal_mig": "FaSwTeMa",
   "Ped_All": "ホッカイドウオウザファバージPrincely GiftNasrullahNearcoBlue PeterLegend of FranceDark LegendBlenheimダイハードNever Say DieNasrullahBrumeuxハロウェーFairway月友"
  },
  {
@@ -105228,6 +107702,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "TeHaToNe",
   "Ped_All": "ボクニモユメハアルバブルガムフェローサンデーサイレンスヘイローHail to ReasonアンダースタンディングリファールNorthern DancerProminerアフリートミスタープロスペクターRaise a NativeVenetian Jesterトウショウボーイテスコボーイノーザンテースト"
  },
  {
@@ -105313,6 +107789,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "08",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "StHa",
+  "Paternal_mig": "NsHiPhMa",
   "Ped_All": "マイネルセレクトフォーティナイナーミスタープロスペクターRaise a NativeNative DancerNashuaトムロルフRibotDouble JayラッキーソブリンニジンスキーNorthern DancerPardaoサンシーSanctusヴェンチア"
  },
  {
@@ -105398,6 +107876,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "NsHeToFa",
   "Ped_All": "マズイマズイウマイサクラバクシンオーサクラユタカオーテスコボーイPrincely GiftネヴァービートノーザンテーストNorthern DancerAmbiopoiseアフリートミスタープロスペクターRaise a NativeVenetian Jesterシアトリカルヌレイエフピットカーン"
  },
  {
@@ -105483,6 +107963,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaFa",
+  "Paternal_mig": "FaSwTeMa",
   "Ped_All": "マチカネイワシミズファバージPrincely GiftNasrullahNearcoBlue PeterLegend of FranceDark LegendBlenheimダイハードNever Say DieNasrullahBrumeuxハロウェーFairway月友"
  },
  {
@@ -105568,6 +108050,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StHa",
+  "Paternal_mig": "TeRoPhTe",
   "Ped_All": "ムーンライトパレスカーリアンニジンスキーNorthern DancerNearcticBull PageRound TablePrincequilloHail to ReasonLevmossLe LevanstellLe LavandouBallymossHenry the SeventhKing of the TudorsBorealis"
  },
  {
@@ -105653,6 +108137,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "StNt",
+  "Paternal_mig": "TeHaRoNe",
   "Ped_All": "メイショウクオリアマンハッタンカフェサンデーサイレンスヘイローHail to ReasonアンダースタンディングLaw SocietyアレッジドLucianoラーイブラッシンググルームRed GodヘイローミスタープロスペクターRaise a NativeNorthern Dancer"
  },
  {
@@ -105738,6 +108224,8 @@ horse=
   "Paternal_hhht": "To",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "HaRo",
+  "Paternal_mig": "PhSwStTo",
   "Ped_All": "メイメイケンSaint BalladoヘイローHail to ReasonTurn-toCosmic BombエルバジェVandaleCohoesセクレタリアトBold RulerNasrullahPrincequilloRiva RidgeFirst LandingTom Fool"
  },
  {
@@ -105823,6 +108311,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeRo",
+  "Paternal_mig": "NeNsStNe",
   "Ped_All": "モグモグパクパクメイショウボーラータイキシャトルデヴィルズバッグヘイローカーリアンストームキャットStorm BirdSearch TraditionフレンチデピュティデピュティミニスターVice RegentHold Your Peaceサンデーサイレンスヘイローナイスダンサー"
  },
  {
@@ -105908,6 +108398,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaSw",
+  "Paternal_mig": "StNsFaSw",
   "Ped_All": "モチスターオブコジーンコジーンカロフォルティノPrince JohnPia StarOlympiaFleet NasrullahサーペンフロサーアイヴァーSir GaylordBlue Peterリマンドアルサイドタイガー"
  },
  {
@@ -105993,6 +108485,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaFa",
+  "Paternal_mig": "FaSwTeMa",
   "Ped_All": "ヨンシュウネンキネンファバージPrincely GiftNasrullahNearcoBlue PeterLegend of FranceDark LegendBlenheimダイハードNever Say DieNasrullahBrumeuxハロウェーFairway月友"
  },
  {
@@ -106078,6 +108572,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "EcHi",
+  "Paternal_mig": "EcStEcTe",
   "Ped_All": "ヨンテンゴキネンDouble JayBalladierBlack ToneyPeter PanNorth StarWhisk BroomBroomstickSainWar AdmiralMan o'WarFair PlaySweepBlue LarkspurBlack ServantTeddy"
  },
  {
@@ -106163,6 +108659,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "RoNt",
+  "Paternal_mig": "RoRoNsNe",
   "Ped_All": "ローレルゲレイロキングヘイローダンシングブレーヴリファールNorthern DancerDroneヘイローHail to ReasonサーアイヴァーテンビーカーリアンニジンスキーKalaglowカコイーシーズアリダーマルゼンスキー"
  },
  {
@@ -106248,6 +108746,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhSt",
+  "Paternal_mig": "SwHiHaSw",
   "Ped_All": "ワンモアライブヨドヒーローガーサントBubblesLa FarinaBrantomeフェリオールFastnetブラックウイングテスコボーイPrincely GiftNasrullahHyperionヒカルメイジBois Rousselミナミホマレ"
  },
  {
@@ -106333,6 +108833,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "TeSwHaHa",
   "Ped_All": "ヴァンセンヌディープインパクトサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドニホンピロウイナースティールハートハビタットチャイナロックノーザンテーストNorthern DancerDike"
  },
  {
@@ -106418,6 +108920,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "TeMa",
+  "Paternal_mig": "TeEcHeSw",
   "Ped_All": "アイシテマースTim TamTom FoolMenowPharamondBull DogBull LeaBull DogThe PorterKhaledHyperionGainsboroughEthnarchWar RelicMan o'WarMahmoud"
  },
  {
@@ -106503,6 +109007,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "NeHeMaHa",
   "Ped_All": "アパパネキングカメハメハキングマンボミスタープロスペクターRaise a NativeヌレイエフラストタイクーントライマイベストBlakeneySalt LakeデピュティミニスターVice RegentQueen City LadSpectacular BidBold BidderHard Work"
  },
  {
@@ -106588,6 +109094,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "StNeRoSt",
   "Ped_All": "アルバトールトランセンドワイルドラッシュワイルドアゲインアイスカペイドプラグドニックルトニービンカンパラスリルショーオジジアンDamascusSword DancerFrancis S.マルゼンスキーニジンスキーボールドリック"
  },
  {
@@ -106673,6 +109181,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HeFa",
+  "Paternal_mig": "NtNsNeSt",
   "Ped_All": "アロマパレードスターマンワイズカウンセラーアレッジドHoist the FlagRaise a Nativeダンディルートリュティエグレイモナークトウカイテイオーシンボリルドルフパーソロンナイスダンサーヴァリイフォージュペティンゴダイアトム"
  },
  {
@@ -106758,6 +109268,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NeNt",
+  "Paternal_mig": "TeSwStNs",
   "Ped_All": "アンジュデジールディープインパクトサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドフレンチデピュティデピュティミニスターVice RegentHold Your PeaceCrafty Prospectorミスタープロスペクターブラッシンググルーム"
  },
  {
@@ -106843,6 +109355,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "ToSw",
+  "Paternal_mig": "NsStStHa",
   "Ped_All": "アーバンシーミスワキミスタープロスペクターRaise a NativeNative DancerNashuaBuckpasserTom FoolPrincequilloLombardagioTantiemePrince ChevalierEspressoAcropolisBirkhahn"
  },
  {
@@ -106928,6 +109442,8 @@ horse=
   "Paternal_hhht": "To",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "NeStTeTo",
   "Ped_All": "アーモンドアイロードカナロアキングカメハメハキングマンボミスタープロスペクターラストタイクーンストームキャットStorm BirdCormorantサンデーサイレンスヘイローHail to ReasonアンダースタンディングヌレイエフNorthern DancerBuckpasser"
  },
  {
@@ -107013,6 +109529,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StRo",
+  "Paternal_mig": "HePhTeSt",
   "Ped_All": "イクノディクタスディクタスSanctusFine TopFine ArtTourmentWordenWild RiskBozzettoノーザンテーストNorthern DancerNearcticVictoria ParkFirst LandingTurn-toLe Pacha"
  },
  {
@@ -107098,6 +109616,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StRo",
+  "Paternal_mig": "MaNsNeSt",
   "Ped_All": "ウィキウィキフレンチデピュティデピュティミニスターVice RegentNorthern DancerBunty's FlightHold Your PeaceSpeak JohnBold RulerRainbow CornerレインボウクエストブラッシンググルームKings LakeサザンヘイローヘイローSalt Marsh"
  },
  {
@@ -107183,6 +109703,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "StNtNtHe",
   "Ped_All": "ウオッカタニノギムレットブライアンズタイムRobertoHail to ReasonグロースターククリスタルパレスカロSea-BirdルションリヴァーマンNever BendMarshua's Dancerトウショウボーイテスコボーイダンディルート"
  },
  {
@@ -107268,6 +109790,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "HaEc",
+  "Paternal_mig": "EcMaTeNs",
   "Ped_All": "エアグルーヴトニービンカンパラカラムーンゼダーンオンリーフォアライフHornbeamHyperionPrecipticノーザンテーストNorthern DancerNearcticVictoria ParkガーサントBubblesNever Say Die"
  },
  {
@@ -107353,6 +109877,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "StHa",
+  "Paternal_mig": "StNsFaSw",
   "Ped_All": "エイシンサニーミルジョージミルリーフNever BendNasrullahPrincequilloRagusaRibotGrey SovereignダイアトムSicambrePrince BioHoneywayチャイナロックRockefellaAlycidon"
  },
  {
@@ -107438,6 +109964,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "RoNt",
+  "Paternal_mig": "TeToHeSw",
   "Ped_All": "エリンバードBluebirdStorm BirdNorthern DancerNearcticNew ProvidenceサーアイヴァーSir GaylordTim TamアイリッシュリヴァーリヴァーマンNever BendKlaironダンサーズイメージNative DancerVal de Loir"
  },
  {
@@ -107523,6 +110051,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaFa",
+  "Paternal_mig": "StSwHaSw",
   "Ped_All": "エルプスマグニテュードミルリーフNever BendNasrullahPrincequilloセントクレスピンAureoleCrepelloイーグルCourt MartialFair TrialStraight DealティエポロBlue Peterトサミドリ"
  },
  {
@@ -107608,6 +110138,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "SwRo",
+  "Paternal_mig": "MaHaNeNe",
   "Ped_All": "エンブレイスマインHoly BullGreat AboveMinnesota MacRough'n TumbleIntentionallyAl HattabThe AxeGrey DawnトーヨーリファールRelaunchインリアリティリファールキャロルハウスLord Gayleノーザンテースト"
  },
  {
@@ -107693,6 +110225,8 @@ horse=
   "Paternal_hhht": "To",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtRo",
+  "Paternal_mig": "HaStRoTo",
   "Ped_All": "オリヒメヴェガJalladブラッシンググルームRed GodImposingArgosyAffirmedJamaicoOrpenLureダンチヒデヴィルズバッグサザンヘイローヘイローLogical"
  },
  {
@@ -107778,6 +110312,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "HaSt",
+  "Paternal_mig": "EcTeEcHa",
   "Ped_All": "ガイアクイーンエイトラックスPharisPharosPhalarisClarissimusHyperionGainsboroughAsterusPrecipitationHurry OnMarcovilBachelor's DoubleBois RousselVatoutHyperion"
  },
  {
@@ -107863,6 +110399,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NsSt",
+  "Paternal_mig": "TeHiMaNt",
   "Ped_All": "キャタリナストームキャットStorm BirdNorthern DancerNearcticNew ProvidenceセクレタリアトBold RulerCrimson SatanカロフォルティノGrey SovereignChamossaireキートゥザミントグロースタークSea-Bird"
  },
  {
@@ -107948,6 +110486,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhNt",
+  "Paternal_mig": "RoStHeHa",
   "Ped_All": "キャピタリストエイシンワシントンオジジアンDamascusSword DancerFrancis S.ShamPretensePrince JohnホッカイペガサスホッカイダイヤWaidwerkAmbiopoiseRaise a NativeNative DancerVigors"
  },
  {
@@ -108033,6 +110573,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StMa",
+  "Paternal_mig": "EcStHeHa",
   "Ped_All": "キョウエイタップタップオンウッドSallustPall MallPalestineマタドアRagusaRibotMazarinアラナスRight RoyalOwen TudorArbarヴェンチアRelicBel Canto"
  },
  {
@@ -108118,6 +110660,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "StNt",
+  "Paternal_mig": "TeHaHaNs",
   "Ped_All": "クイーンズリングマンハッタンカフェサンデーサイレンスヘイローHail to ReasonアンダースタンディングLaw SocietyアレッジドLucianoAnabaaダンチヒNorthern DancerゲイメセンBeringArctic Ternリヴァーマン"
  },
  {
@@ -108203,6 +110747,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HeFa",
+  "Paternal_mig": "MaFaSwSw",
   "Ped_All": "クリスタルスノーノーリュートリュティエKlaironClarionCranachプルーデントMy BabuラティフィケイションマッチウォンMatchTantiemeAlycidonハロウェーFairwayプリメロ"
  },
  {
@@ -108288,6 +110834,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeHa",
+  "Paternal_mig": "PhHaStHa",
   "Ped_All": "グラマラスボディサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseブラッシンググルームRed GodNasrullahWild RiskヴェイグリーノーブルヴィエナMy Host"
  },
  {
@@ -108373,6 +110921,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StPh",
+  "Paternal_mig": "HeRoSwEc",
   "Ped_All": "グランチャントMatsadoonDamascusSword DancerSunglowMy BabuPrince JohnPrincequilloRoyal ChargerHethersettHugh LupusDjebelBig GameDanteNearcoThe Phoenix"
  },
  {
@@ -108458,6 +111008,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StHa",
+  "Paternal_mig": "NsHaHaHa",
   "Ped_All": "グリフィスランナーMarjuラストタイクーントライマイベストNorthern DancerミルリーフアーティアスRound TableWelsh PageantディスタントリラティヴハビタットSir GaylordclaudeFinal StrawThatchMummy's Pet"
  },
  {
@@ -108543,6 +111095,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "SwNt",
+  "Paternal_mig": "HaRoRoNs",
   "Ped_All": "グレイスプレストアドマイヤカイザーレインボウクエストブラッシンググルームRed GodエルバジェVal de l'OrneVal de LoirSir GaylordウォーニングノウンファクトインリアリティRobertoMajestic LightマジェスティックプリンスStevward"
  },
  {
@@ -108628,6 +111182,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaEc",
+  "Paternal_mig": "StHeEcHe",
   "Ped_All": "グレイフライトMahmoudBlenheimBlandfordSwynfordCharles O'MalleyGainsboroughBayardoThe TetrarchArielEternalSweepAdamSweepBen BrushRoi Herode"
  },
  {
@@ -108713,6 +111269,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeHe",
+  "Paternal_mig": "NtHaTeMa",
   "Ped_All": "サクラクレアーノーザンテーストNorthern DancerNearcticNearcoNative DancerVictoria ParkChop ChopHyperionQuadrangleCohoesMahmoudBull LeaAmbiorixTourbillonSome Chance"
  },
  {
@@ -108798,6 +111356,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoHa",
+  "Paternal_mig": "NtHaStNs",
   "Ped_All": "サドラーズギャルサドラーズウェルズNorthern DancerNearcticNearcoNative DancerBold ReasonHail to ReasonフォルリシアトルスルーBold ReasoningBoldnesianPokerフォルリAristophanesNantallah"
  },
  {
@@ -108883,6 +111443,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "TeMa",
+  "Paternal_mig": "MaHiPhEc",
   "Ped_All": "サフメルディドラマティックビッドCrimson SatanSpy SongBalladierRequiebroPromised LandPalestinianTo MarketパーソロンMilesianMy BabuPharisヒカルタカイリンボーライジングフレーム"
  },
  {
@@ -108968,6 +111530,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "TeSwToNs",
   "Ped_All": "サマーハピネスアグネスタキオンサンデーサイレンスヘイローHail to ReasonアンダースタンディングロイヤルスキーRaja BabaリマンドアフリートミスタープロスペクターRaise a NativeVenetian Jesterマルゼンスキーニジンスキーダストコマンダー"
  },
  {
@@ -109053,6 +111617,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "PhHa",
+  "Paternal_mig": "HaHaHeFa",
   "Ped_All": "サンドピアリスハイセイコーチャイナロックRockefellaHyperionRustom PashaカリムNearcoBeau SonイエラパMossboroughNearcoNirgalゲイタイムRockefellaハロウェー"
  },
  {
@@ -109138,6 +111704,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NtNe",
+  "Paternal_mig": "TeNeSwNs",
   "Ped_All": "サンビスタスズカマンボサンデーサイレンスヘイローHail to ReasonアンダースタンディングキングマンボミスタープロスペクターニジンスキーミシルミスワキミスタープロスペクターThe AxeパークリージェントVice Regentトウショウボーイ"
  },
  {
@@ -109223,6 +111791,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "StHe",
+  "Paternal_mig": "NeNeTeNs",
   "Ped_All": "シアンフェリアファストタテヤマダンスインザダークサンデーサイレンスヘイローニジンスキーターゴワイスRound TableノーザンテーストサンデーサイレンスヘイローHail to Reasonアンダースタンディングシンボリルドルフパーソロンネヴァービート"
  },
  {
@@ -109308,6 +111878,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "NsHeTeSt",
   "Ped_All": "シュガーハートサクラバクシンオーサクラユタカオーテスコボーイPrincely GiftネヴァービートノーザンテーストNorthern DancerAmbiopoiseジャッジアンジェルーチHonest PleasureWhat a PleasureVictoria ParkリファールNorthern Dancertrevieres"
  },
  {
@@ -109393,6 +111965,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeHa",
+  "Paternal_mig": "TeSwRoMa",
   "Ped_All": "シンハライトディープインパクトサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドシングスピールIn the WingsサドラーズウェルズヘイローEfisioformidableBay Express"
  },
  {
@@ -109478,6 +112052,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NeRo",
+  "Paternal_mig": "TeHaRoSt",
   "Ped_All": "シーザリオスペシャルウィークサンデーサイレンスヘイローHail to ReasonアンダースタンディングマルゼンスキーニジンスキーセントクレスピンサドラーズウェルズNorthern DancerNearcticBold ReasonハビタットSir GaylordLe Fabuleux"
  },
  {
@@ -109563,6 +112139,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNs",
+  "Paternal_mig": "SwSwEcPh",
   "Ped_All": "シームレスラウンドモンテプリンスシーホークエルバジェVandaleFree ManヒンドスタンBois RousselBig GameヒデチカラヒンドスタンBois RousselライジングフレームKing's TroopPrincely Giftニンバス"
  },
  {
@@ -109648,6 +112226,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "TeSwNtNs",
   "Ped_All": "ジェンティルドンナディープインパクトサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドBertoliniダンチヒNorthern Dancerアリダーリファーズスペシャルリファールジュニアス"
  },
  {
@@ -109733,6 +112313,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtSw",
+  "Paternal_mig": "NtSwPhMa",
   "Ped_All": "ジュエラーヴィクトワールピサネオユニヴァースサンデーサイレンスヘイローKrisマキャベリアンミスタープロスペクターBustinoPistolet BleuトップヴィルハイトップArmosTourangeauVal de LoirCadmus"
  },
  {
@@ -109818,6 +112400,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HaNs",
+  "Paternal_mig": "MaStHiSw",
   "Ped_All": "スイートライシュBuckarooBuckpasserTom FoolMenowWar AdmiralNo RobberySwapsPrince BioThe AxeMahmoudBlenheimShut OutBold LadBold Rulerアルサイド"
  },
  {
@@ -109903,6 +112487,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "StEcRoHe",
   "Ped_All": "スイープトウショウエンドスウィープフォーティナイナーミスタープロスペクターRaise a NativeトムロルフDance SpellNorthern DancerThinking CapダンシングブレーヴリファールNorthern DancerDroneトウショウボーイテスコボーイダンディルート"
  },
  {
@@ -109988,6 +112574,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeFa",
+  "Paternal_mig": "RoMaNsNe",
   "Ped_All": "スウィートダウニーシャマードシンボリシンボリルドルフパーソロンMilesianスピードシンボリフィディオンDjakaoヴェンチアグルメフロンティアトウショウペガサスダンディルートファバージLord at WarGeneralシャーラスタニ"
  },
  {
@@ -110073,6 +112661,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "TeTe",
+  "Paternal_mig": "NtHaMaRo",
   "Ped_All": "スカーレットブーケノーザンテーストNorthern DancerNearcticNearcoNative DancerVictoria ParkChop ChopHyperionCrimson SatanSpy SongBalladierRequiebroBeau MaxBull LeaRoyal Charger"
  },
  {
@@ -110158,6 +112748,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeHi",
+  "Paternal_mig": "PhHaTeTe",
   "Ped_All": "スカーレットレディサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseノーザンテーストNorthern DancerNearcticVictoria ParkCrimson SatanSpy SongBeau Max"
  },
  {
@@ -110243,6 +112835,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtHe",
+  "Paternal_mig": "EcPhHiHa",
   "Ped_All": "ステアクライマーMeadowlakeHold Your PeaceSpeak JohnPrince JohnEight ThirtyRaise a NativeNative DancerPorterhouseインリアリティIntentionallyIntentRough'n TumbleCrozierMy BabuBar Le Duc"
  },
  {
@@ -110328,6 +112922,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "TeNe",
+  "Paternal_mig": "PhHaNsHa",
   "Ped_All": "スティルインラブサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseRobertoHail to ReasonTurn-toNashuaNorthern DancerNearcticCreme Dela Creme"
  },
  {
@@ -110413,6 +113009,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNe",
+  "Paternal_mig": "TeMaNeHa",
   "Ped_All": "ストレイトガールフジキセキサンデーサイレンスヘイローHail to ReasonアンダースタンディングLe FabuleuxWild Riskインリアリティタイキシャトルデヴィルズバッグヘイローカーリアンデインヒルダンチヒモーニングフローリック"
  },
  {
@@ -110498,6 +113096,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeSt",
+  "Paternal_mig": "NsStTeNt",
   "Ped_All": "スプリングマンボキングマンボミスタープロスペクターRaise a NativeNative DancerNashuaヌレイエフNorthern DancerProve OutニジンスキーNorthern DancerNearcticBull PageキートゥザミントグロースタークRaise a Native"
  },
  {
@@ -110583,6 +113183,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "FaSw",
+  "Paternal_mig": "HaStSwSw",
   "Ped_All": "スモーキーローズファルコンMilesianMy BabuDjebelCoup de LyonPetitionFair TrialPrince BioガーサントBubblesLa FarinaBrantomeタークスリライアンスTurkhanミナミホマレ"
  },
  {
@@ -110668,6 +113270,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "FaHa",
+  "Paternal_mig": "TeHaNeHa",
   "Ped_All": "スロープクラウンウォーエンブレムOur EmblemミスタープロスペクターRaise a NativeプライヴェートアカウントLord at WarGeneralThe PrunerBeringArctic TernSea-BirdリファールAfrican SongAfrican Skyディクタス"
  },
  {
@@ -110753,6 +113357,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaEc",
+  "Paternal_mig": "HaTeEcSt",
   "Ped_All": "スーパーシェビニオンシャーペンアップエタンNative DancerPolynesianTudor MinstrelRockefellaHyperionMajanoGrey SovereignNasrullahNearcoBaytownGratitudeGolden CloudGrandmaster"
  },
  {
@@ -110838,6 +113444,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StSw",
+  "Paternal_mig": "SwEcPhMa",
   "Ped_All": "スーヴニールエイシンビンセンスRelaunchインリアリティIntentionallyThe AxeTable PlayRound TableFomentoPistolet BleuトップヴィルハイトップArmosTourangeauVal de LoirCadmus"
  },
  {
@@ -110923,6 +113531,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "FaEc",
+  "Paternal_mig": "PhPhHaMa",
   "Ped_All": "セカンドアニバサリシルバーシャークBuisson ArdentRelicWar RelicPherozshahPalestineFair TrialNearcoラヴァンダンVersoPinceauRustom PashaGolden CloudGold BridgeChamossaire"
  },
  {
@@ -111008,6 +113618,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "SwHe",
+  "Paternal_mig": "StStPhSt",
   "Ped_All": "ソルベントステージメジロデュレンフィディオンDjakaoTanerkoSicambreリマンドアルサイドヒンドスタンヨドヒーローガーサントBubblesフェリオールパーソロンMilesianタリヤートス"
  },
  {
@@ -111093,6 +113705,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtHe",
+  "Paternal_mig": "StSwHaHa",
   "Ped_All": "タニノシスタールションリヴァーマンNever BendNasrullahPrince JohnMarshua's DancerRaise a NativeSea O ErinトウショウボーイテスコボーイPrincely GiftYour Hostダンディルートリュティエテューダーペリオッド"
  },
  {
@@ -111178,6 +113792,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsHi",
+  "Paternal_mig": "TeSwTeTe",
   "Ped_All": "ダイクスカーレットアグネスタキオンサンデーサイレンスヘイローHail to ReasonアンダースタンディングロイヤルスキーRaja BabaリマンドノーザンテーストNorthern DancerNearcticVictoria ParkCrimson SatanSpy SongBeau Max"
  },
  {
@@ -111263,6 +113879,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "TeNs",
+  "Paternal_mig": "NtHaSwSw",
   "Ped_All": "ダイナカールノーザンテーストNorthern DancerNearcticNearcoNative DancerVictoria ParkChop ChopHyperionガーサントBubblesLa FarinaBrantomeNever Say DieNasrullahBig Game"
  },
  {
@@ -111348,6 +113966,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeNs",
+  "Paternal_mig": "NtHaMaTe",
   "Ped_All": "ダイヤアクトレスノーザンテーストNorthern DancerNearcticNearcoNative DancerVictoria ParkChop ChopHyperionモデルフールTom FoolMenowWar JeepRed GodNasrullahSun Again"
  },
  {
@@ -111433,6 +114053,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsHi",
+  "Paternal_mig": "TeSwTeTe",
   "Ped_All": "ダイワスカーレットアグネスタキオンサンデーサイレンスヘイローHail to ReasonアンダースタンディングロイヤルスキーRaja BabaリマンドノーザンテーストNorthern DancerNearcticVictoria ParkCrimson SatanSpy SongBeau Max"
  },
  {
@@ -111518,6 +114140,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "TeSt",
+  "Paternal_mig": "PhHaTeNt",
   "Ped_All": "ダンスインザムードサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseニジンスキーNorthern DancerNearcticBull PageキートゥザミントグロースタークRaise a Native"
  },
  {
@@ -111603,6 +114227,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "TeSt",
+  "Paternal_mig": "PhHaTeNt",
   "Ped_All": "ダンスパートナーサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseニジンスキーNorthern DancerNearcticBull PageキートゥザミントグロースタークRaise a Native"
  },
  {
@@ -111688,6 +114314,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StSw",
+  "Paternal_mig": "TeStStTe",
   "Ped_All": "チャージャースズパレードソルティンゴペティンゴPetitionOrvietoロムルスRibotヴィミーSlewpyシアトルスルーBold ReasoningPrince JohnVal de l'OrneVal de LoirCutlass"
  },
  {
@@ -111773,6 +114401,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "FaNs",
+  "Paternal_mig": "TeHaNeNt",
   "Ped_All": "ツバキブレイヴウォーエンブレムOur EmblemミスタープロスペクターRaise a NativeプライヴェートアカウントLord at WarGeneralThe PrunerバンブービギンバンブーアトラスジムフレンチノーザンテーストシアトルスルーBold Reasoningアリダー"
  },
  {
@@ -111858,6 +114488,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StEc",
+  "Paternal_mig": "StPhHeHa",
   "Ped_All": "テイクトゥハートペイザバトラーVal de l'OrneVal de LoirVieux ManoirArmisticeグロースタークRibotSilnetKonigsstuhlDschingis KhanTamerlaneTiepolettoPentathlonEnnisPriamos"
  },
  {
@@ -111943,6 +114575,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "HaEc",
+  "Paternal_mig": "PhHaTeSw",
   "Ped_All": "テンペストクイーングロースタークRibotTeneraniBelliniEl GrecoAlibhaiHyperionBeau PereSummer TanHeliopolisHyperionOmahaRoyal CoinageEight ThirtyMahmoud"
  },
  {
@@ -112028,6 +114662,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "NsTeTeNs",
   "Ped_All": "デブリーフィングジェイドハンターミスタープロスペクターRaise a NativeNative DancerNashuaPharlyリファールMatchアホヌーラロレンザッチオKlaironMartialトライマイベストNorthern Dancerラインゴールド"
  },
  {
@@ -112113,6 +114749,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HiTe",
+  "Paternal_mig": "TeTeHeEc",
   "Ped_All": "トエルフェスカドクターフェイガーRough'n TumbleFree for AllQuestionnaireBull DogBetter SelfBimelechBull BrierDamascusSword DancerSunglowMy BabuTanerkoTantiemeTicino"
  },
  {
@@ -112198,6 +114836,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "HeTe",
+  "Paternal_mig": "StSwNsNe",
   "Ped_All": "トキガキタノダSauce BoatキートゥザミントグロースタークRibotPrincequilloMy BabuDjebelUmidwarミスタープロスペクターRaise a NativeNative DancerNashuaDamascusSword DancerNorthern Dancer"
  },
  {
@@ -112283,6 +114923,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaHa",
+  "Paternal_mig": "FaStEcSt",
   "Ped_All": "トナカイLidoTanerkoTantiemeDeux Pour CentFair CopyAbernantOwen TudorWilliam of ValenceDouble JayBalladierBlack ToneyWhisk BroomHyperionGainsboroughAtout Maitre"
  },
  {
@@ -112368,6 +115010,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "FaHa",
+  "Paternal_mig": "StStFaSt",
   "Ped_All": "トランジスタシルクジャスティスブライアンズタイムRobertoHail to ReasonグロースタークサティンゴペティンゴセダンロングエースハードリドンHard Sauceティエポロハイセイコーチャイナロックダッパーダン"
  },
  {
@@ -112453,6 +115097,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "FaHa",
+  "Paternal_mig": "StStFaSt",
   "Ped_All": "トランピアスシルクジャスティスブライアンズタイムRobertoHail to ReasonグロースタークサティンゴペティンゴセダンロングエースハードリドンHard Sauceティエポロハイセイコーチャイナロックダッパーダン"
  },
  {
@@ -112538,6 +115184,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NtNs",
+  "Paternal_mig": "PhNtHaNe",
   "Ped_All": "トレヴMotivatorモンジューサドラーズウェルズNorthern DancerトップヴィルゴーンウェストミスタープロスペクターシャーペンアップAnabaaダンチヒNorthern DancerゲイメセンリヴァーマンNever Bendリファール"
  },
  {
@@ -112623,6 +115271,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsHa",
+  "Paternal_mig": "StNsFaSt",
   "Ped_All": "トワイライトメローステイジヒーローCawston's ClownComedy StarTom FoolCon BrioアローエクスプレススパニッシュイクスプレスRed GodロングエースハードリドンHard Sauceティエポロハイセイコーチャイナロックダッパーダン"
  },
  {
@@ -112708,6 +115358,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeHe",
+  "Paternal_mig": "NeSwStNe",
   "Ped_All": "トーンスタイルキングズベストキングマンボミスタープロスペクターRaise a NativeヌレイエフLombardagioEspressoシルバーチャームシルバーバックBuckpasserPokerIndian Ridgeアホヌーラカーリアン"
  },
  {
@@ -112793,6 +115445,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeHa",
+  "Paternal_mig": "NtHaSwEc",
   "Ped_All": "ドリームフルールノーザンテーストNorthern DancerNearcticNearcoNative DancerVictoria ParkChop ChopHyperionシーホークエルバジェVandaleFree ManDetermineAlibhaiKing Dorsett"
  },
  {
@@ -112878,6 +115532,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "StSt",
+  "Paternal_mig": "RoHeTeNs",
   "Ped_All": "ニシノフラワーMajestic LightマジェスティックプリンスRaise a NativeNative DancerRoyal ChargerRibotTeneraniAmbiorixダンチヒNorthern DancerNearcticAdmiral's VoyageLe FabuleuxWild RiskBold Ruler"
  },
  {
@@ -112963,6 +115619,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StSw",
+  "Paternal_mig": "TeHeTeEc",
   "Ped_All": "ネイジュシエルニゾンニジンスキーNorthern DancerNearcticBull PageStage Door JohnnyPrince JohnGoyamaバーボンプリンスPrincequilloPrince RoseBull Leaトサミドリプリメロトシシロ"
  },
  {
@@ -113048,6 +115706,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "MaRo",
+  "Paternal_mig": "StSwSwSt",
   "Ped_All": "ノヴァフィラメントムトトバステッドCrepelloDonatelloヴィミーミンシオRelicAlycidonメジロデュレンフィディオンDjakaoリマンドスティールハートハビタットシンザン"
  },
  {
@@ -113133,6 +115793,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "05",
+  "Paternal_jik": "HaPh",
+  "Paternal_mig": "EcMaMaHa",
   "Ped_All": "ノースフライトトニービンカンパラカラムーンゼダーンオンリーフォアライフHornbeamHyperionPrecipticヒッティングアウェーAmbiorixTourbillonWar AdmiralPorterhouseEndeavourKhaled"
  },
  {
@@ -113218,6 +115880,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "PhNs",
+  "Paternal_mig": "ToHaNtNe",
   "Ped_All": "ノースリアルトティンバーカントリーウッドマンミスタープロスペクターRaise a NativeBuckpasserPretenseEndeavourSwapsCadeaux GenereuxYoung GenerationBalidarシャーペンアップKaldounカロヌレイエフ"
  },
  {
@@ -113303,6 +115967,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "SwSt",
+  "Paternal_mig": "StStHaHe",
   "Ped_All": "ハイベロシティメジロデュレンフィディオンDjakaoTanerkoSicambreリマンドアルサイドヒンドスタンスティールハートハビタットSir GaylordAbernantシンザンヒンドスタンブランブルー"
  },
  {
@@ -113388,6 +116054,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "TeHe",
+  "Paternal_mig": "NtPhSwEc",
   "Ped_All": "ハニートラップニジンスキーNorthern DancerNearcticNearcoNative DancerBull PageBull LeaMenowAureoleHyperionGainsboroughDonatelloLacaduvTornadoChateau Bouscaut"
  },
  {
@@ -113473,6 +116141,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeRo",
+  "Paternal_mig": "TeHaHaNe",
   "Ped_All": "ハリウッドドリームバブルガムフェローサンデーサイレンスヘイローHail to ReasonアンダースタンディングリファールNorthern DancerProminerIsopachReviewerBold RulerNo RobberyCure the BluesStop the Musicストラダビンスキー"
  },
  {
@@ -113558,6 +116228,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "EcNt",
+  "Paternal_mig": "EcHeToRo",
   "Ped_All": "ハルスコールプレジデントシチーダイコーターヒンドスタンBois RousselLillolkidマタドアGolden CloudパーソロンプライヴェートアカウントDamascusSword DancerBuckpasserミスタープロスペクターRaise a NativeFrancis S."
  },
  {
@@ -113643,6 +116315,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "RoNs",
+  "Paternal_mig": "NsStHaRo",
   "Ped_All": "ハルーワスウィートマキャベリアンミスタープロスペクターRaise a NativeNative DancerNashuaヘイローHail to ReasonHoist the FlagヌレイエフNorthern DancerNearcticフォルリブラッシンググルームRed Godヘイロー"
  },
  {
@@ -113728,6 +116402,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "HaHa",
+  "Paternal_mig": "EcNtNsNe",
   "Ped_All": "ハートサマアイランドホワールPago PagoMatriceMastheadAbbots FellYour AlibhaiAlibhaiNative DancerLaw SocietyアレッジドHoist the FlagBoldnesianゲイメセンヴェイグリーノーブルNorthern Dancer"
  },
  {
@@ -113813,6 +116489,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "TeSwNsNe",
   "Ped_All": "ハープスターディープインパクトサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドファルブラヴフェアリーキングNorthern DancerSlewpyトニービンカンパラNorthern Dancer"
  },
  {
@@ -113898,6 +116576,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "SwNe",
+  "Paternal_mig": "StStNeNt",
   "Ped_All": "ハーベストムーンメジロデュレンフィディオンDjakaoTanerkoSicambreリマンドアルサイドヒンドスタンロックオブジブラルタルデインヒルダンチヒビーマイゲストヌレイエフNorthern Dancerアリダー"
  },
  {
@@ -113983,6 +116663,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "TeFa",
+  "Paternal_mig": "MaMaTeSw",
   "Ped_All": "バンドラーRaise a NativeNative DancerPolynesianUnbreakableDiscoveryCase AceTeddyAmerican FlagRoyal CoinageEight ThirtyPilateBull DogCourt MartialFair TrialBig Game"
  },
  {
@@ -114068,6 +116750,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NtSw",
+  "Paternal_mig": "HaSwHePh",
   "Ped_All": "パシフィカスNorthern DancerNearcticNearcoPharosHyperionNative DancerPolynesianMahmoudDamascusSword DancerSunglowMy BabuAcropolisDonatelloMossborough"
  },
  {
@@ -114153,6 +116837,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "HeTe",
+  "Paternal_mig": "RoTeStSt",
   "Ped_All": "パティナシンコウフォレストグリーンデザートダンチヒNorthern DancerサーアイヴァーアホヌーラロレンザッチオMatchブロードブラッシュアクアクBattle JoinedHoist the FlagプライヴェートアカウントDamascusキートゥザミント"
  },
  {
@@ -114238,6 +116924,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "MaMa",
+  "Paternal_mig": "HaRoTeFa",
   "Ped_All": "ヒシアマゾンシアトリカルヌレイエフNorthern DancerNearcticフォルリササフラSheshoonHail to ReasonノノアルコNearcticNearcoHasty RoadポリックRelicHoneyway"
  },
  {
@@ -114323,6 +117011,8 @@ horse=
   "Paternal_hhht": "To",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "RoStHaTo",
   "Ped_All": "ヒストリックスターファルブラヴフェアリーキングNorthern DancerNearcticBold ReasonSlewpyシアトルスルーLithiotトニービンカンパラカラムーンHornbeamNorthern DancerNearcticTom Fool"
  },
  {
@@ -114408,6 +117098,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaHa",
+  "Paternal_mig": "StNtNeFa",
   "Ped_All": "ビビッドカラーコンサーンブロードブラッシュアクアクBattle JoinedHoist the FlagTunerupThe PrunerPrincely NativeダイナコスモスハンターコムDerring-DoノーザンテーストインターメゾHornbeamティエポロ"
  },
  {
@@ -114493,6 +117185,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeNe",
+  "Paternal_mig": "PhHaTeNs",
   "Ped_All": "ビリーヴサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseダンチヒNorthern DancerNearcticAdmiral's VoyageアイスカペイドNearcticYoung Emperor"
  },
  {
@@ -114578,6 +117272,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "StHa",
+  "Paternal_mig": "TeRoFaEc",
   "Ped_All": "ビワハイジカーリアンニジンスキーNorthern DancerNearcticBull PageRound TablePrincequilloHail to ReasonLord GayleSir GaylordTurn-toCourt MartialLucianoHenry the SeventhTicino"
  },
  {
@@ -114663,6 +117359,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "EcTe",
+  "Paternal_mig": "EcHePhNs",
   "Ped_All": "ピュアセレモニープレジデントシチーダイコーターヒンドスタンBois RousselLillolkidマタドアGolden CloudパーソロンヨドヒーローガーサントBubblesフェリオールRelkoTanerkoNantallah"
  },
  {
@@ -114748,6 +117446,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsPh",
+  "Paternal_mig": "NeNsNsSw",
   "Ped_All": "ピーススプレッドヒシミラクルサッカーボーイディクタスSanctusノーザンテーストシェイディハイツシャーリーハイツラナークデビッドジュニアプレザントタッププレザントコロニーアイリッシュリヴァーPistolet BleuトップヴィルTourangeau"
  },
  {
@@ -114833,6 +117533,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "SwSt",
+  "Paternal_mig": "NtFaSwTe",
   "Ped_All": "ファビラスラフインFabulous DancerNorthern DancerNearcticNearcoNative DancerThe AxeMahmoudHoneywayKaldounカロフォルティノLe HaarCarvinマリーノNeptune"
  },
  {
@@ -114918,6 +117620,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "StTe",
+  "Paternal_mig": "FaMaMaEc",
   "Ped_All": "ファルダーサインKey to ContentフォルリAristophanesHyperionAdvocatePrincequilloPrince RoseWar AdmiralBuckpasserTom FoolMenowWar AdmiralSwoon's SonThe DogeCount Fleet"
  },
  {
@@ -115003,6 +117707,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StTe",
+  "Paternal_mig": "NsTeNsSw",
   "Ped_All": "ファレノプシスブライアンズタイムRobertoHail to ReasonTurn-toNashuaグロースタークRibotHasty RoadストームキャットStorm BirdNorthern DancerセクレタリアトDamascusSword DancerAcropolis"
  },
  {
@@ -115088,6 +117794,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "SwNs",
+  "Paternal_mig": "StStNeNe",
   "Ped_All": "フォローアンジュメジロデュレンフィディオンDjakaoTanerkoSicambreリマンドアルサイドヒンドスタンエルコンドルパサーキングマンボミスタープロスペクターサドラーズウェルズトニービンカンパラリファール"
  },
  {
@@ -115173,6 +117881,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "06",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "TeEc",
+  "Paternal_mig": "StSwPhSt",
   "Ped_All": "フライングウォーターハビタットSir GaylordTurn-toRoyal ChargerPrincequilloOccupyBull DogChallengerRibotTeneraniBelliniEl GrecoガーサントBubblesBois Roussel"
  },
  {
@@ -115258,6 +117968,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HaHa",
+  "Paternal_mig": "HaEcTeHa",
   "Ped_All": "フラワーパークニホンピロウイナースティールハートハビタットSir GaylordAbernantチャイナロックRockefellaライジングフレームノーザンテーストNorthern DancerNearcticVictoria ParkDikeエルバジェセントクレスピン"
  },
  {
@@ -115343,6 +118055,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeRo",
+  "Paternal_mig": "TeHaStHa",
   "Ped_All": "ブエナビスタスペシャルウィークサンデーサイレンスヘイローHail to ReasonアンダースタンディングマルゼンスキーニジンスキーセントクレスピンカーリアンニジンスキーNorthern DancerRound TableLord GayleSir GaylordLuciano"
  },
  {
@@ -115428,6 +118142,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "FaHa",
+  "Paternal_mig": "TeHaNsRo",
   "Ped_All": "ブラックエンブレムウォーエンブレムOur EmblemミスタープロスペクターRaise a NativeプライヴェートアカウントLord at WarGeneralThe Prunerヘクタープロテクターウッドマンミスタープロスペクターリヴァーマンヴェイグリーノーブルヴィエナサーアイヴァー"
  },
  {
@@ -115513,6 +118229,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StSw",
+  "Paternal_mig": "HeHaMaHa",
   "Ped_All": "ブランモンドミホシンザンシンザンヒンドスタンBois RousselハヤタケムーティエSicambreWill SomersロイヤルスキーRaja BabaBold RulerInvolvementリマンドアルサイドSallymount"
  },
  {
@@ -115598,6 +118316,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "TeEc",
+  "Paternal_mig": "PhHaSwHe",
   "Ped_All": "プリントショップサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseメジロデュレンフィディオンDjakaoリマンドヨドヒーローガーサントパーソロン"
  },
  {
@@ -115683,6 +118403,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StSw",
+  "Paternal_mig": "SwEcPhMa",
   "Ped_All": "プリーストラインエイシンビンセンスRelaunchインリアリティIntentionallyThe AxeTable PlayRound TableFomentoPistolet BleuトップヴィルハイトップArmosTourangeauVal de LoirCadmus"
  },
  {
@@ -115768,6 +118490,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeTo",
+  "Paternal_mig": "EcHeSwSw",
   "Ped_All": "ベイルバリケイドReflected GloryJesterTom FoolMenowEight ThirtyPalestinianSun AgainBelfondsサーアイヴァーSir GaylordTurn-toMr.TroubleTom FoolMenowChallenger"
  },
  {
@@ -115853,6 +118577,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "HaTo",
+  "Paternal_mig": "EcMaNtNs",
   "Ped_All": "ベガトニービンカンパラカラムーンゼダーンオンリーフォアライフHornbeamHyperionPrecipticNorthern DancerNearcticNearcoNative DancerTom FoolMenowBold Ruler"
  },
  {
@@ -115938,6 +118664,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeHi",
+  "Paternal_mig": "NeNeNsMa",
   "Ped_All": "ベルクリートダークシャドウダンスインザダークサンデーサイレンスヘイローニジンスキープライヴェートアカウントDamascusダンチヒエアジハードサクラユタカオーテスコボーイロイヤルスキーブロードブラッシュアクアクValid Appeal"
  },
  {
@@ -116023,6 +118751,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNs",
+  "Paternal_mig": "TeHiEcMa",
   "Ped_All": "ホクトベガナグルスキーニジンスキーNorthern DancerNearcticBull PagePrince JohnPrincequilloDouble JayフィリップオブスペインTudor MelodyTudor MinstrelマタドアイエローゴッドRed Godシルバーシャーク"
  },
  {
@@ -116108,6 +118838,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "NsStSwSt",
   "Ped_All": "ホワイトラビッツキングマンボミスタープロスペクターRaise a NativeNative DancerNashuaヌレイエフNorthern DancerProve OutFabulous DancerNorthern DancerNearcticThe AxeKaldounカロCarvin"
  },
  {
@@ -116193,6 +118925,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhNs",
+  "Paternal_mig": "HiSwFaEc",
   "Ped_All": "ポイントファイブヘイローHail to ReasonTurn-toRoyal ChargerBlue SwordsCosmic BombPharamondMahmoudフォルリAristophanesHyperionAdvocateNantallahNasrullahGold Bridge"
  },
  {
@@ -116278,6 +119012,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "08",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "MaHe",
+  "Paternal_mig": "StRoRoMa",
   "Ped_All": "マジェスティレイタイキブリザードシアトルスルーBold ReasoningBoldnesianPokerササフラSheshoonHail to ReasonコマンダーインチーフダンシングブレーヴリファールRobertoパーソロンMilesianヴェンチア"
  },
  {
@@ -116363,6 +119099,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HeHe",
+  "Paternal_mig": "TeTePhMa",
   "Ped_All": "マリアミラージュジョウヨーファストハンザダンサーハワイUtrilloSword DancerダンディルートリュティエネプテューヌスThree LegsペティンゴPetitionHard SauceMoss TrooperLevmossAgricola"
  },
  {
@@ -116448,6 +119186,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "TeSwNeSt",
   "Ped_All": "マリアライトディープインパクトサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドエルコンドルパサーキングマンボミスタープロスペクターサドラーズウェルズリヴァーマンNever BendRibot"
  },
  {
@@ -116533,6 +119273,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoTo",
+  "Paternal_mig": "NtStNeFa",
   "Ped_All": "マルペンサOrpenLureダンチヒNorthern DancerアリダーデヴィルズバッグヘイローHoist the FlagサザンヘイローヘイローHail to ReasonNorthern DancerLogicalBuckpasserTatan"
  },
  {
@@ -116618,6 +119360,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsHa",
+  "Paternal_mig": "SwEcFaHe",
   "Ped_All": "ミココノチカラノーアテンショングリーンダンサーニジンスキーNorthern DancerVal de LoirSovereign PathGrey SovereignOrsiniダンスールTantiemeDeux Pour CentMenetrierオーロイAureoleセフト"
  },
  {
@@ -116703,6 +119447,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "NeNt",
+  "Paternal_mig": "TeSwNsNe",
   "Ped_All": "ミッキークイーンディープインパクトサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドGold AwayGoldneyevヌレイエフブラッシンググルームProcidaミスタープロスペクターアイスカペイド"
  },
  {
@@ -116788,6 +119534,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "TeHiPhNe",
   "Ped_All": "メジャーエンブレムダイワメジャーサンデーサイレンスヘイローHail to ReasonアンダースタンディングノーザンテーストNorthern DancerCrimson SatanオペラハウスサドラーズウェルズNorthern DancerハイトップレインボウクエストブラッシンググルームPolish Precedent"
  },
  {
@@ -116873,6 +119621,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "FaHe",
+  "Paternal_mig": "HeEcHaMa",
   "Ped_All": "メジロオーロラリマンドアルサイドAlycidonDonatelloKing SalmonPalestineFair TrialChanteurヒンドスタンBois RousselVatoutSolarioボストニアンセフト月友"
  },
  {
@@ -116958,6 +119708,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNs",
+  "Paternal_mig": "HeSwPhSw",
   "Ped_All": "メジロドーベルメジロライアンアンバーシャダイノーザンテーストNorthern DancerAmbiopoiseメジロサンマンCharlottesvilleスノッブパーソロンMilesianMy BabuPharisネヴァービートNever Say Dieモンタヴァル"
  },
  {
@@ -117043,6 +119795,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsTe",
+  "Paternal_mig": "RoTeSwSw",
   "Ped_All": "メジロフランシスカーネギーサドラーズウェルズNorthern DancerNearcticBold ReasonリヴァーマンNever BendSunny BoyモガミリファールNorthern DancerLucky DebonairフィディオンDjakaoモンタヴァル"
  },
  {
@@ -117128,6 +119882,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "SwHa",
+  "Paternal_mig": "FaTeSwMa",
   "Ped_All": "メジロラモーヌモガミリファールNorthern DancerNearcticCourt MartialLucky DebonairVertexPalestinianネヴァービートNever Say DieNasrullahBig GameKhaledHyperionWar Relic"
  },
  {
@@ -117213,6 +119969,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NsSw",
+  "Paternal_mig": "TeHiHePh",
   "Ped_All": "メゾンフォルティーストームキャットStorm BirdNorthern DancerNearcticNew ProvidenceセクレタリアトBold RulerCrimson SatanDamascusSword DancerSunglowMy BabuAcropolisDonatelloMossborough"
  },
  {
@@ -117298,6 +120056,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "HeEc",
+  "Paternal_mig": "SwHiEcHa",
   "Ped_All": "メモリーレーンNever BendNasrullahNearcoPharosBlenheimDjeddahDjebelBimelechPrincequilloPrince RoseRose PrincePapyrusCount FleetReigh CountHyperion"
  },
  {
@@ -117383,6 +120143,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtNe",
+  "Paternal_mig": "NeNeNeNe",
   "Ped_All": "モズカッチャンハービンジャーDansiliデインヒルダンチヒkahyasiBeringArctic Ternshareef dancerキングカメハメハキングマンボミスタープロスペクターラストタイクーンストームブートストームキャットチーフズクラウン"
  },
  {
@@ -117468,6 +120230,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "HaNtNsNe",
   "Ped_All": "ラストスピアーストラヴィンスキーヌレイエフNorthern DancerNearcticフォルリブラッシンググルームRed GodミスタープロスペクターソウルオブザマターPrivate TermsプライヴェートアカウントT.V.Commercialイブンベイミルリーフモガミ"
  },
  {
@@ -117553,6 +120317,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeTe",
+  "Paternal_mig": "MaSwMaEc",
   "Ped_All": "ラフィアンReviewerBold RulerNasrullahNearcoDiscoveryHasty RoadRomanChalledonNative DancerPolynesianUnbreakableDiscoveryFighting FoxSir GallahadTransmute"
  },
  {
@@ -117638,6 +120404,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "EcSw",
+  "Paternal_mig": "StTeHaNe",
   "Ped_All": "ラフオーシャンミスターブランディディクタスSanctusFine TopWordenガーサントBubblesSunny BoyトミシノポルンガサンオーイリマンドフェートメーカーモンズーンKonigsstuhlサルス"
  },
  {
@@ -117723,6 +120491,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsSw",
+  "Paternal_mig": "TeEcPhMa",
   "Ped_All": "ラブスイーツミスタープロスペクターRaise a NativeNative DancerPolynesianCase AceNashuaNasrullahCount FleetSword DancerSunglowSun AgainBy JimminyWhirlawayBlenheimDisplay"
  },
  {
@@ -117808,6 +120578,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StTe",
+  "Paternal_mig": "NsMaTeNe",
   "Ped_All": "ラルジュメールウインドフィールズウインザーノットパーソロンMilesianBald EagleアレッジドHoist the FlagOlden TimesサンデーサイレンスヘイローHail to ReasonアンダースタンディングArgumentKautokeinoヴァイスリーガル"
  },
  {
@@ -117893,6 +120665,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNt",
+  "Paternal_mig": "EcNtHaHa",
   "Ped_All": "ラローズブランシュアイランドホワールPago PagoMatriceMastheadAbbots FellYour AlibhaiAlibhaiNative DancerヒズマジェスティRibotTeneraniAlibhaiNative ChargerNative DancerWarfare"
  },
  {
@@ -117978,6 +120752,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "TeNeNeNe",
   "Ped_All": "リスグラシューハーツクライサンデーサイレンスヘイローHail to ReasonアンダースタンディングトニービンカンパラリファールアメリカンポストBeringArctic TernサドラーズウェルズMiller's Mateミルリーフリファール"
  },
  {
@@ -118063,6 +120839,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StTe",
+  "Paternal_mig": "StHiStTe",
   "Ped_All": "リュミエールレインSlewpyシアトルスルーBold ReasoningBoldnesianPokerPrince JohnPrincequilloMr.MusicVal de l'OrneVal de LoirVieux ManoirArmisticeCutlassDamascusHasty Road"
  },
  {
@@ -118148,6 +120926,8 @@ horse=
   "Paternal_hhht": "To",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaTe",
+  "Paternal_mig": "HaNeNsTo",
   "Ped_All": "ルインズリープメジロパーマーメジロイーグルメジロサンマンCharlottesvilleKhaledゲイメセンヴェイグリーノーブルリファールアイネスフウジンシーホークエルバジェテスコボーイジャッジャーDamascusバックストッパー"
  },
  {
@@ -118233,6 +121013,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsEc",
+  "Paternal_mig": "NsFaNsFa",
   "Ped_All": "ルイーゼクリバロンタクラマカンDamascusSword DancerNashuaボイズィーボーイKing's TroopティエポロスティンティノSheshoonPrecipitationGrey SovereignガーサントBubblesソロナウェー"
  },
  {
@@ -118318,6 +121100,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StPh",
+  "Paternal_mig": "HaPhStEc",
   "Ped_All": "ルートオブハートShamPretenseEndeavourBritish EmpireHyperionPrincequilloPrince RoseSickleバステッドCrepelloDonatelloヴィミーBallymossMossboroughThe Phoenix"
  },
  {
@@ -118403,6 +121187,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StRo",
+  "Paternal_mig": "TeHaMaHa",
   "Ped_All": "レイアンタレスマンハッタンカフェサンデーサイレンスヘイローHail to ReasonアンダースタンディングLaw SocietyアレッジドLucianoムトトバステッドCrepelloミンシオハビタットSir GaylordKashmir"
  },
  {
@@ -118488,6 +121274,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaRo",
+  "Paternal_mig": "TeNeHaNe",
   "Ped_All": "レッドリヴェールステイゴールドサンデーサイレンスヘイローHail to ReasonアンダースタンディングディクタスSanctusノーザンテーストDixieland BandNorthern DancerNearcticDelta JudgeLord GaylordSir GaylordDancing Count"
  },
  {
@@ -118573,6 +121361,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "NsStSwSt",
   "Ped_All": "レディグリードキングマンボミスタープロスペクターRaise a NativeNative DancerNashuaヌレイエフNorthern DancerProve OutFabulous DancerNorthern DancerNearcticThe AxeKaldounカロCarvin"
  },
  {
@@ -118658,6 +121448,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "EcTe",
+  "Paternal_mig": "EcStNeRo",
   "Ped_All": "ロメーラスストレッチワンジヨンデコームMoultonPardaoEnnisオンリーフォアライフChanteurヒカルメイジフサイチペガサスミスタープロスペクターRaise a NativeダンチヒタイムフォーアチェンジDamascusヘイロー"
  },
  {
@@ -118743,6 +121535,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "TeSwRoNs",
   "Ped_All": "ヴィブロスディープインパクトサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドマキャベリアンミスタープロスペクターRaise a NativeヘイローヌレイエフNorthern Dancerブラッシンググルーム"
  },
  {
@@ -118828,6 +121622,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "TeSwRoNs",
   "Ped_All": "ヴィルシーナディープインパクトサンデーサイレンスヘイローHail to ReasonアンダースタンディングアルザオリファールバステッドマキャベリアンミスタープロスペクターRaise a NativeヘイローヌレイエフNorthern Dancerブラッシンググルーム"
  },
  {
@@ -118913,6 +121709,8 @@ horse=
   "Paternal_hhht": "To",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "TeNs",
+  "Paternal_mig": "NtHaMaTo",
   "Ped_All": "アイムファウンダーノーザンテーストNorthern DancerNearcticNearcoNative DancerVictoria ParkChop ChopHyperionCrafty ProspectorミスタープロスペクターRaise a NativeインリアリティセクレタリアトBold RulerBuckpasser"
  },
  {
@@ -118998,6 +121796,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "SwHa",
+  "Paternal_mig": "HaFaNeNe",
   "Ped_All": "アイリッシュリリーネイエフガルチミスタープロスペクターRaise a NativeRambunctiousBustinoバステッドQueen's HussarsnippetslunchtimeSilly Seasongrand chaudierecanny ladbletchinglyトロメオ"
  },
  {
@@ -119083,6 +121883,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeHa",
+  "Paternal_mig": "NsHaRoNs",
   "Ped_All": "アニオンギャップLyciusミスタープロスペクターRaise a NativeNative DancerNashuaリファールNorthern DancerハイハットサドラーズウェルズNorthern DancerNearcticBold ReasonヴェイグリーノーブルヴィエナReviewer"
  },
  {
@@ -119168,6 +121970,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsSw",
+  "Paternal_mig": "TeNeHaPh",
   "Ped_All": "アマルテアソングプラティニSurumuLiteratBirkhahnリライアンスStanfordRed GodNorthfieldsSure BladeKrisシャーペンアップHome GuardKonigsstuhlDschingis KhanBacchus"
  },
  {
@@ -119253,6 +122057,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StMa",
+  "Paternal_mig": "NsTeNtSt",
   "Ped_All": "アルカシヨンブライアンズタイムRobertoHail to ReasonTurn-toNashuaグロースタークRibotHasty RoadNorthern DancerNearcticNearcoNative DancerインリアリティIntentionallyDedicate"
  },
  {
@@ -119338,6 +122144,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "TeNe",
+  "Paternal_mig": "PhHaPhNs",
   "Ped_All": "アンフェアデッキサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseシャーリーハイツミルリーフNever BendハーディカヌートリファールNorthern Dancerセクレタリアト"
  },
  {
@@ -119423,6 +122231,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "TeTeStNs",
   "Ped_All": "イーライザチーフズクラウンダンチヒNorthern DancerNearcticAdmiral's VoyageセクレタリアトBold RulerSwoon's SonキートゥザミントグロースタークRibotPrincequilloCornish PrinceBold RulerT.V.Lark"
  },
  {
@@ -119508,6 +122318,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeHi",
+  "Paternal_mig": "PhHaTeTe",
   "Ped_All": "ウィルロックサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseノーザンテーストNorthern DancerNearcticVictoria ParkCrimson SatanSpy SongBeau Max"
  },
  {
@@ -119593,6 +122405,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeRo",
+  "Paternal_mig": "NsHaFaMa",
   "Ped_All": "ウイニングパスジェイドロバリーミスタープロスペクターRaise a NativeNative DancerNashuaニジンスキーNorthern DancerフォルリリファールNorthern DancerNearcticCourt MartialRiva RidgeFirst LandingO'Grady"
  },
  {
@@ -119678,6 +122492,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNt",
+  "Paternal_mig": "StNsHaSt",
   "Ped_All": "エメラルドマサキロックオブジブラルタルデインヒルダンチヒNorthern DancerヒズマジェスティビーマイゲストNorthern DancerBold LadヌレイエフNorthern DancerNearcticフォルリアリダーRaise a NativeGallant Romeo"
  },
  {
@@ -119763,6 +122579,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "HaHe",
+  "Paternal_mig": "HaNeRoNs",
   "Ped_All": "カクテルパレスメジロパーマーメジロイーグルメジロサンマンCharlottesvilleKhaledゲイメセンヴェイグリーノーブルリファールオジジアンDamascusSword DancerFrancis S.トウショウゴッドダンディルートトウショウボーイ"
  },
  {
@@ -119848,6 +122666,8 @@ horse=
   "Paternal_hhht": "To",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "RoHa",
+  "Paternal_mig": "FaFaHaTo",
   "Ped_All": "ガーディアンダウンダンシングブレーヴリファールNorthern DancerNearcticCourt MartialDroneSir GaylordPago PagoテスコボーイPrincely GiftNasrullahHyperionヴェイグリーノーブルヴィエナBuckpasser"
  },
  {
@@ -119933,6 +122753,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeNt",
+  "Paternal_mig": "PhHaHaPh",
   "Ped_All": "キャットファイトサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseヌレイエフNorthern DancerNearcticフォルリシャーペンアップエタンTerrible Tiger"
  },
  {
@@ -120018,6 +122840,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNe",
+  "Paternal_mig": "NtHaHeSt",
   "Ped_All": "キャリーステップDixieland BandNorthern DancerNearcticNearcoNative DancerDelta JudgeTraffic JudgeWarfareLord GaylordSir GaylordTurn-toAmbiorixDancing CountNorthern DancerThird Brother"
  },
  {
@@ -120103,6 +122927,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoHa",
+  "Paternal_mig": "NsHaTeFa",
   "Ped_All": "キャリーファクトスマートストライクミスタープロスペクターRaise a NativeNative DancerNashuaSmartenCyaneNodoubleニジンスキーNorthern DancerNearcticBull PageヴェイグリーノーブルヴィエナQuibu"
  },
  {
@@ -120188,6 +123014,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaHa",
+  "Paternal_mig": "NtPhNtHa",
   "Ped_All": "クリップクリッピーワイルドアゲインアイスカペイドNearcticNearcoNative DancerKhaledHyperionDanteMo ExceptionHard WorkGolden RulerPan DancerSir WiggleSadairNodouble"
  },
  {
@@ -120273,6 +123101,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeHe",
+  "Paternal_mig": "PhHaNsSt",
   "Ped_All": "グランドオープンサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseセクレトNorthern DancerNearcticセクレタリアトFaraway SonAmbiopoiseBlue Prince"
  },
  {
@@ -120358,6 +123188,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "08",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "RoSw",
+  "Paternal_mig": "NsStHaSw",
   "Ped_All": "コスミックレインマキャベリアンミスタープロスペクターRaise a NativeNative DancerNashuaヘイローHail to ReasonHoist the FlagヌレイエフNorthern DancerNearcticフォルリOwen AnthonyProud Chieftainバステッド"
  },
  {
@@ -120443,6 +123275,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaSt",
+  "Paternal_mig": "NeNtHeSw",
   "Ped_All": "コンディションアイスマートファルコンゴールドアリュールサンデーサイレンスヘイローヌレイエフミシシッピアンヴェイグリーノーブルクラウンドプリンスミホノブルボンマグニテュードミルリーフシャレーミホシンザンシンザングッドリー"
  },
  {
@@ -120528,6 +123362,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsRo",
+  "Paternal_mig": "ToTePhPh",
   "Ped_All": "コールマイナンバーヘクタープロテクターウッドマンミスタープロスペクターRaise a NativeBuckpasserリヴァーマンNever BendDamascusヴェイグリーノーブルヴィエナAureoleNearcoサーアイヴァーSir GaylordPardao"
  },
  {
@@ -120613,6 +123449,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtNs",
+  "Paternal_mig": "TeNsHiPh",
   "Ped_All": "シャトルスピードBertoliniダンチヒNorthern DancerNearcticAdmiral's VoyageアリダーRaise a NativeNever BendリファーズスペシャルリファールNorthern DancerBupersジュニアスRaja BabaDarling Boy"
  },
  {
@@ -120698,6 +123536,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNs",
+  "Paternal_mig": "EcMaStPh",
   "Ped_All": "スライドソーサートニービンカンパラカラムーンゼダーンオンリーフォアライフHornbeamHyperionPrecipticカーリアンニジンスキーNorthern DancerRound TableブラッシンググルームRed GodSparkler"
  },
  {
@@ -120783,6 +123623,8 @@ horse=
   "Paternal_hhht": "To",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NsNt",
+  "Paternal_mig": "HeRoRoTo",
   "Ped_All": "セルフメンションハイエストオナーケンマールカラムーンゼダーンMilesianリヴァーマンNever BendSir GaylordダンシングブレーヴリファールNorthern DancerDroneKrisシャーペンアップBuckpasser"
  },
  {
@@ -120868,6 +123710,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "HaNs",
+  "Paternal_mig": "EcMaHaNe",
   "Ped_All": "ソロミュートソングトニービンカンパラカラムーンゼダーンオンリーフォアライフHornbeamHyperionPrecipticAlways Run LuckyWhat LuckBold RulerDelta JudgeアイリッシュリヴァーリヴァーマンNorthern Dancer"
  },
  {
@@ -120953,6 +123797,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsSt",
+  "Paternal_mig": "MaSwHaSw",
   "Ped_All": "タケノマジックダンサーズイメージNative DancerPolynesianUnbreakableDiscoveryNoorNasrullahChallengerファバージPrincely GiftNasrullahLegend of FranceヒンドスタンBois Rousselトサミドリ"
  },
  {
@@ -121038,6 +123884,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "SwNs",
+  "Paternal_mig": "SwStTeHe",
   "Ped_All": "ダダナイトメジロマックイーンメジロティターンメジロアサマパーソロンスノッブリマンドアルサイドヒンドスタンノーザンテーストNorthern DancerNearcticVictoria ParkLt.StevensNantallahBronze Babu"
  },
  {
@@ -121123,6 +123971,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "MaHa",
+  "Paternal_mig": "MaEcTeNs",
   "Ped_All": "ナイトアローンSalt LakeデピュティミニスターVice RegentNorthern DancerBunty's FlightQueen City LadOlden TimesTake AwaySpectacular BidBold BidderBold RulerPromised LandHard WorkGolden RulerMt.Hope"
  },
  {
@@ -121208,6 +124058,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "08",
+  "Paternal_jik": "HaMa",
+  "Paternal_mig": "EcMaToHa",
   "Ped_All": "ノーブレスメドレートニービンカンパラカラムーンゼダーンオンリーフォアライフHornbeamHyperionPrecipticマルゼンスキーニジンスキーNorthern DancerBuckpasserヴェンチアRelicゲイタイム"
  },
  {
@@ -121293,6 +124145,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "StTe",
+  "Paternal_mig": "HiNsStHa",
   "Ped_All": "ハロウィンパーティプレザントタッププレザントコロニーヒズマジェスティRibotSunrise FlightStage Door JohnnyPrince JohnNever BendpetronePrince TajPrince BioWild Riskgrand centralHasty RoadCreme Dela Creme"
  },
  {
@@ -121378,6 +124232,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NsNt",
+  "Paternal_mig": "MaNtTeHa",
   "Ped_All": "ビバラビーダAwesome AgainデピュティミニスターVice RegentNorthern DancerBunty's FlightブラッシンググルームRed GodミスタープロスペクターStorm BirdNorthern DancerNearcticNew ProvidenceCoastalマジェスティックプリンスSanctus"
  },
  {
@@ -121463,6 +124319,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "StHaRoRo",
   "Ped_All": "ファーストオーダーLaw SocietyアレッジドHoist the FlagトムロルフPrince JohnBoldnesianBold RulerSummer TanゲイメセンヴェイグリーノーブルヴィエナSir GaylordNorthern DancerNearcticサーアイヴァー"
  },
  {
@@ -121548,6 +124406,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NeRo",
+  "Paternal_mig": "HaNsStRo",
   "Ped_All": "ファーストドリップタイトスポットヒズマジェスティRibotTeneraniAlibhaiリファールNorthern DancerNever BendデインヒルダンチヒNorthern DancerヒズマジェスティCure the BluesStop the MusicHail to Reason"
  },
  {
@@ -121633,6 +124493,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeNt",
+  "Paternal_mig": "StNsMaHe",
   "Ped_All": "プルークボーゲンサッカーボーイディクタスSanctusFine TopWordenノーザンテーストNorthern DancerPrincely GiftCrimson SatanSpy SongBalladierRequiebroRattle DancerNative DancerKlairon"
  },
  {
@@ -121718,6 +124580,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "TeNsRoSt",
   "Ped_All": "プルーフマスカラHallingダイイシスシャーペンアップエタンリライアンスグリーンダンサーニジンスキーPontifexフェアリーキングNorthern DancerNearcticBold ReasonレッドアラートRed GodPampered King"
  },
  {
@@ -121803,6 +124667,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "StPh",
+  "Paternal_mig": "TeRoRoSw",
   "Ped_All": "ポストプレイヤーカーリアンニジンスキーNorthern DancerNearcticBull PageRound TablePrincequilloHail to ReasonサドラーズウェルズNorthern DancerNearcticBold ReasonトップヴィルハイトップVal de Loir"
  },
  {
@@ -121888,6 +124754,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNs",
+  "Paternal_mig": "TeEcStSt",
   "Ped_All": "ミームセンスIndian RidgeアホヌーラロレンザッチオKlaironMartialSwing EasyDelta JudgeスカイマスターカーリアンニジンスキーNorthern DancerRound TableカロフォルティノCarvin"
  },
  {
@@ -121973,6 +124841,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsMa",
+  "Paternal_mig": "TeHiHaRo",
   "Ped_All": "モアクライマックスストームキャットStorm BirdNorthern DancerNearcticNew ProvidenceセクレタリアトBold RulerCrimson SatanCormorantヒズマジェスティRibotTudor MinstrelインリアリティIntentionallyRiva Ridge"
  },
  {
@@ -122058,6 +124928,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeHe",
+  "Paternal_mig": "HaHeToHa",
   "Ped_All": "モワソレイユニッポーテイオーリイフォーリファールNorthern DancerSing SingラバージョンDamascusパーソロンヤマニンスキーニジンスキーNorthern DancerBuckpasserパーソロンMilesianSt.Paddy"
  },
  {
@@ -122143,6 +125015,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "SwNs",
+  "Paternal_mig": "SwStRoNs",
   "Ped_All": "ヨロコビノウタメジロマックイーンメジロティターンメジロアサマパーソロンスノッブリマンドアルサイドヒンドスタンプルラリズムThe MinstrelNorthern DancerRobertoトライバルチーフPrincely Giftラークスパー"
  },
  {
@@ -122228,6 +125102,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "HaHa",
+  "Paternal_mig": "NtNsSwNs",
   "Ped_All": "ラブコネクションヌレイエフNorthern DancerNearcticNearcoNative DancerフォルリAristophanesNantallahHostageニジンスキーNorthern DancerVal de LoirヴェイグリーノーブルヴィエナNever Bend"
  },
  {
@@ -122313,6 +125189,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "StFa",
+  "Paternal_mig": "TeToPhSt",
   "Ped_All": "ヴァージンマリーデインヒルダンチヒNorthern DancerNearcticAdmiral's VoyageヒズマジェスティRibotBuckpasserAverofSing SingTudor MinstrelNearcoMajor PortionCourt MartialRibot"
  },
  {
@@ -122398,6 +125276,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "NsHeNsNe",
   "Ped_All": "アイムホームサクラバクシンオーサクラユタカオーテスコボーイPrincely GiftネヴァービートノーザンテーストNorthern DancerAmbiopoiseシェイディハイツシャーリーハイツミルリーフBold Ladモガミリファールマルゼンスキー"
  },
  {
@@ -122483,6 +125363,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "NeNsTeEc",
   "Ped_All": "アクセスマップエルコンドルパサーキングマンボミスタープロスペクターRaise a NativeヌレイエフサドラーズウェルズNorthern DancerシアトルスルーサンデーサイレンスヘイローHail to ReasonアンダースタンディングノーザンテーストNorthern Dancerガーサント"
  },
  {
@@ -122568,6 +125450,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoSw",
+  "Paternal_mig": "TeSwToHe",
   "Ped_All": "ウォータードリップZietenダンチヒNorthern DancerNearcticAdmiral's VoyageハビタットSir GaylordTourangeauRed SunsetRed GodNasrullahトンピオンEspressoAcropolisDjebe"
  },
  {
@@ -122653,6 +125537,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "08",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "StNsHaSt",
   "Ped_All": "ウルトラサブマリンサッカーボーイディクタスSanctusFine TopWordenノーザンテーストNorthern DancerPrincely GiftスティールハートハビタットSir GaylordAbernantダイハードNever Say Dieヒンドスタン"
  },
  {
@@ -122738,6 +125624,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "StSw",
+  "Paternal_mig": "TeRoPhNs",
   "Ped_All": "エターナルフォースカーリアンニジンスキーNorthern DancerNearcticBull PageRound TablePrincequilloHail to ReasonシャーリーハイツミルリーフNever BendハーディカヌートTennysonVal de Loirゼダーン"
  },
  {
@@ -122823,6 +125711,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StHa",
+  "Paternal_mig": "StNsTeEc",
   "Ped_All": "エンジニアベイミルジョージミルリーフNever BendNasrullahPrincequilloRagusaRibotGrey SovereignノーザンテーストNorthern DancerNearcticVictoria ParkDetermineAlibhaiKing Dorsett"
  },
  {
@@ -122908,6 +125798,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NsNt",
+  "Paternal_mig": "TeHiStSt",
   "Ped_All": "オフタックルストームキャットStorm BirdNorthern DancerNearcticNew ProvidenceセクレタリアトBold RulerCrimson SatanアレッジドHoist the FlagトムロルフPrince JohnAffirmedExclusive NativePrince John"
  },
  {
@@ -122993,6 +125885,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "StNt",
+  "Paternal_mig": "MaRoFaNs",
   "Ped_All": "オルタナティブコジーンカロフォルティノGrey SovereignChamossairePrince JohnPrincequilloSir GaylordリファールNorthern DancerNearcticCourt MartialGyrSea-BirdGrey Sovereign"
  },
  {
@@ -123078,6 +125972,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StSw",
+  "Paternal_mig": "NsHiEcHa",
   "Ped_All": "オーロラマルシェフォーティナイナーミスタープロスペクターRaise a NativeNative DancerNashuaトムロルフRibotDouble JayLt.StevensNantallahNasrullahGold BridgeThe AxeMahmoudWarfare"
  },
  {
@@ -123163,6 +126059,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeNt",
+  "Paternal_mig": "StHeHeNe",
   "Ped_All": "キャバルリーシングLoup SauvageリヴァーマンNever BendNasrullahPrince JohnヌレイエフNorthern DancerプリメラAkaradLabusバステッドAbdosミスワキミスタープロスペクターリファール"
  },
  {
@@ -123248,6 +126146,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoNt",
+  "Paternal_mig": "NsStToHa",
   "Ped_All": "クラップクラップマキャベリアンミスタープロスペクターRaise a NativeNative DancerNashuaヘイローHail to ReasonHoist the FlagPolish PrecedentダンチヒNorthern DancerBuckpasserSaritamerダンサーズイメージHigh Line"
  },
  {
@@ -123333,6 +126233,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "ToRo",
+  "Paternal_mig": "NsTeNsNt",
   "Ped_All": "クレイジーバカンスシーキングザゴールドミスタープロスペクターRaise a NativeNative DancerNashuaBuckpasserTom FoolHasty RoadチーフズクラウンダンチヒNorthern DancerセクレタリアトRiva RidgeFirst LandingNative Dancer"
  },
  {
@@ -123418,6 +126320,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "RoSt",
+  "Paternal_mig": "NtHaStSt",
   "Ped_All": "クロスステップサドラーズウェルズNorthern DancerNearcticNearcoNative DancerBold ReasonHail to ReasonフォルリリヴァーマンNever BendNasrullahPrince JohnグロースタークRibotPrincequillo"
  },
  {
@@ -123503,6 +126407,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "RoSwSwHa",
   "Ped_All": "グラブアバイトエリシオフェアリーキングNorthern DancerNearcticBold ReasonSlewpyシアトルスルーVal de l'OrneCaveatcannonadeBold BidderThe AxeニジンスキーNorthern Dancerエルバジェ"
  },
  {
@@ -123588,6 +126494,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "08",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NsPh",
+  "Paternal_mig": "StToStMa",
   "Ped_All": "グロウライトエーピーインディシアトルスルーBold ReasoningBoldnesianPokerセクレタリアトBold RulerBuckpasserカーリアンニジンスキーNorthern DancerRound Tableトップヴィルハイトップヴェンチア"
  },
  {
@@ -123673,6 +126581,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "NeNsHaHi",
   "Ped_All": "ココナッツガールエルコンドルパサーキングマンボミスタープロスペクターRaise a NativeヌレイエフサドラーズウェルズNorthern DancerシアトルスルートニービンカンパラカラムーンHornbeamリファールNorthern DancerBupers"
  },
  {
@@ -123758,6 +126668,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsPh",
+  "Paternal_mig": "ToPhHaMa",
   "Ped_All": "シグナルキャッチラストタイクーントライマイベストNorthern DancerNearcticBuckpasserミルリーフNever BendSayajiraoEla-Mana-MouピットカーンペティンゴハイハットSparklerHard TackSanta Claus"
  },
  {
@@ -123843,6 +126755,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaHa",
+  "Paternal_mig": "EcMaHaSw",
   "Ped_All": "シュガーレードルトニービンカンパラカラムーンゼダーンオンリーフォアライフHornbeamHyperionPrecipticヌレイエフNorthern DancerNearcticフォルリHigh LineハイハットTamerlane"
  },
  {
@@ -123928,6 +126842,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "TeHaEcFa",
   "Ped_All": "シンデレラシナリオアリダーRaise a NativeNative DancerPolynesianCase AceOn-and-OnNasrullahPonderLt.StevensNantallahNasrullahGold BridgeStevedoreAmarullahThe Solicitor"
  },
  {
@@ -124013,6 +126929,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "TeNe",
+  "Paternal_mig": "PhHaHaHa",
   "Ped_All": "シーサファイアサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseArgumentKautokeinoRelkoTapiocaヴァイスリーガルNorthern DancerTudor Melody"
  },
  {
@@ -124098,6 +127016,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "ToMa",
+  "Paternal_mig": "NsNsToNs",
   "Ped_All": "ジョックロッカーカコイーシーズアリダーRaise a NativeNative DancerOn-and-OnJesterTom FoolNasrullahマルゼンスキーニジンスキーNorthern DancerBuckpasserスティンティノSheshoonMisty Day"
  },
  {
@@ -124183,6 +127103,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoHa",
+  "Paternal_mig": "NtHaPhSw",
   "Ped_All": "スクラムマスターサドラーズウェルズNorthern DancerNearcticNearcoNative DancerBold ReasonHail to ReasonフォルリヘイローHail to ReasonTurn-toCosmic BombエルバジェVandaleCohoes"
  },
  {
@@ -124268,6 +127190,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "06",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "HaNe",
+  "Paternal_mig": "HeHaHaRo",
   "Ped_All": "スリートリックタマモクロスシービークロスフォルティノGrey SovereignパーソロンシャトーゲイSwapsテューダーペリオッドニホンピロウイナースティールハートハビタットチャイナロックノーザンテーストNorthern DancerTurn-to"
  },
  {
@@ -124353,6 +127277,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeSt",
+  "Paternal_mig": "ToPhTeNt",
   "Ped_All": "ダンスホールクインドバイミレニアムシーキングザゴールドミスタープロスペクターRaise a NativeBuckpassershareef dancerNorthern DancerPretenseダンチヒNorthern DancerNearcticAdmiral's VoyageヒズマジェスティRibotRaise a Native"
  },
  {
@@ -124438,6 +127364,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "RoRo",
+  "Paternal_mig": "TeNsNeNt",
   "Ped_All": "ダンチェックグリーンデザートダンチヒNorthern DancerNearcticAdmiral's VoyageサーアイヴァーSir GaylordNever BendBeau GeniusBold ruckusBoldnesianヴァイスリーガルMr.LeaderHail to ReasonRaise a Native"
  },
  {
@@ -124523,6 +127451,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NsPh",
+  "Paternal_mig": "StStMaNs",
   "Ped_All": "ドリームランナージェネラスカーリアンニジンスキーNorthern DancerRound TableMaster DerbyダストコマンダーTulyarリアルシャダイRobertoHail to ReasonインリアリティShamPretenseNever Bend"
  },
  {
@@ -124608,6 +127538,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "ToTeNtEc",
   "Ped_All": "ナイトライダースヘクタープロテクターウッドマンミスタープロスペクターRaise a NativeBuckpasserリヴァーマンNever BendDamascusAssertビーマイゲストNorthern DancerSea-BirdMount HagenBold BidderGratitude"
  },
  {
@@ -124693,6 +127625,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeMa",
+  "Paternal_mig": "PhHaEcNs",
   "Ped_All": "ハツコイケールサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseLe FabuleuxWild RiskRialtoVersoインリアリティIntentionallyCornish Prince"
  },
  {
@@ -124778,6 +127712,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "StNsToNs",
   "Ped_All": "ハピネスシンキングテンビーカーリアンニジンスキーNorthern DancerRound TableKalaglowカラムーンミルリーフカコイーシーズアリダーRaise a NativeJesterマルゼンスキーニジンスキーボールドラッド"
  },
  {
@@ -124863,6 +127799,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "MaMa",
+  "Paternal_mig": "NsHiNsHe",
   "Ped_All": "ハードトリックCrafty ProspectorミスタープロスペクターRaise a NativeNative DancerNashuaインリアリティIntentionallyRoyal NoteセクレトNorthern DancerNearcticセクレタリアトOlden TimesRelicPronto"
  },
  {
@@ -124948,6 +127886,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "StSwNeNs",
   "Ped_All": "ピストルランブPivotalpolar falconヌレイエフNorthern DancerjeffersonコジーンカロBustinoCommon GroundsKrisシャーペンアップリファールshareef dancerNorthern Dancerダストコマンダー"
  },
  {
@@ -125033,6 +127973,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeHa",
+  "Paternal_mig": "TeStNtTe",
   "Ped_All": "フェイクスリーパーBeringArctic TernSea-BirdDan CupidHasty RoadリファールNorthern DancerLe FabuleuxAfrican SongAfrican SkySing Singnative princeディクタスSanctusSoleil Levant"
  },
  {
@@ -125118,6 +128060,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhMa",
+  "Paternal_mig": "StHeHeTe",
   "Ped_All": "ブリングイットオンPistolet BleuトップヴィルハイトップDerring-DoCharlottesvilleArmosMossboroughKlaironTourangeauVal de LoirVieux ManoirTornadoCadmusSupreme CourtSoleil Levant"
  },
  {
@@ -125203,6 +128147,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "StNsNsNs",
   "Ped_All": "ブロドウェイズBahriリヴァーマンNever BendNasrullahPrince JohnニジンスキーNorthern DancerBold BidderRobertoHail to ReasonTurn-toNashuaニジンスキーNorthern DancerNantallah"
  },
  {
@@ -125288,6 +128234,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoSw",
+  "Paternal_mig": "NsHaRoHe",
   "Ped_All": "ホットエントリーシングスピールIn the WingsサドラーズウェルズNorthern DancerシャーリーハイツヘイローHail to ReasonエルバジェマキャベリアンミスタープロスペクターRaise a NativeヘイローBustinoバステッドロレンザッチオ"
  },
  {
@@ -125373,6 +128321,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeTe",
+  "Paternal_mig": "PhHaStFa",
   "Ped_All": "ミックスアップサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseトップヴィルハイトップDerring-DoCharlottesvilleリライアンスTantiemeBotticelli"
  },
  {
@@ -125458,6 +128408,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NePh",
+  "Paternal_mig": "NsStRoHa",
   "Ped_All": "ミリタリーガールキングマンボミスタープロスペクターRaise a NativeNative DancerNashuaヌレイエフNorthern DancerProve OutサドラーズウェルズNorthern DancerNearcticBold ReasonPretenseEndeavourSwaps"
  },
  {
@@ -125543,6 +128495,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "ToRo",
+  "Paternal_mig": "NsStStNe",
   "Ped_All": "ムーブユアボディミスワキミスタープロスペクターRaise a NativeNative DancerNashuaBuckpasserTom FoolPrincequilloキートゥザミントグロースタークRibotPrincequilloヘイローHail to ReasonNorthern Dancer"
  },
  {
@@ -125628,6 +128582,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "TeNs",
+  "Paternal_mig": "NtHaStSt",
   "Ped_All": "メイビーアイノーザンテーストNorthern DancerNearcticNearcoNative DancerVictoria ParkChop ChopHyperionディクタスSanctusFine TopWordenPrincely GiftNasrullahPrince Chevalier"
  },
  {
@@ -125713,6 +128669,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "02",
   "Factor_hhht_2": "09",
+  "Paternal_jik": "NsTe",
+  "Paternal_mig": "NsRoStNe",
   "Ped_All": "メモリークロックジャイアンツコーズウェイストームキャットStorm BirdNorthern DancerセクレタリアトラーイブラッシンググルームRobertoシアトルスルーBold ReasoningBoldnesianPokerプライヴェートアカウントDamascusThe Minstrel"
  },
  {
@@ -125798,6 +128756,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NeRo",
+  "Paternal_mig": "NsStStTe",
   "Ped_All": "ランダンプレーGrand SlamゴーンウェストミスタープロスペクターRaise a NativeセクレタリアトエルグランセニョールNorthern DancerキートゥザミントクリスエスRobertoHail to ReasonPrincequilloCyaneTurn-toDamascus"
  },
  {
@@ -125883,6 +128843,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoSw",
+  "Paternal_mig": "NsHaHaFa",
   "Ped_All": "リトルダームGrand LodgeチーフズクラウンダンチヒNorthern DancerセクレタリアトハビタットSir GaylordTudor MelodyThatchingThatchフォルリAbernantバステッドCrepelloQueen's Hussar"
  },
  {
@@ -125968,6 +128930,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "RoFa",
+  "Paternal_mig": "StHaNsSt",
   "Ped_All": "ルーズユアセルフGrindstoneUnbridledファピアノミスタープロスペクターLe FabuleuxDroneSir GaylordchateaugayストームキャットStorm BirdNorthern DancerセクレタリアトGreat NephewHoneywayLe Fabuleux"
  },
  {
@@ -126053,6 +129017,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "ToRo",
+  "Paternal_mig": "HeHaTeNs",
   "Ped_All": "ロジカルシンキングプライヴェートアカウントDamascusSword DancerSunglowMy BabuBuckpasserTom FoolSwapsダンチヒNorthern DancerNearcticAdmiral's VoyageサーアイヴァーSir GaylordNever Bend"
  },
  {
@@ -126138,6 +129104,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "TePh",
+  "Paternal_mig": "PhHaNsHa",
   "Ped_All": "ヴァルハラクイーンサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseポッセフォルリAristophanesBold RulerハイトップDerring-Doセントクレスピン"
  },
  {
@@ -126223,6 +129191,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "StNe",
+  "Paternal_mig": "NsPhToSt",
   "Ped_All": "アイスサイレントタバスコキャットストームキャットStorm BirdNorthern DancerセクレタリアトSauce BoatキートゥザミントBarbizonシーキングザゴールドミスタープロスペクターRaise a NativeBuckpasserヌレイエフNorthern Dancerヒズマジェスティ"
  },
  {
@@ -126308,6 +129278,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "ToNsTeEc",
   "Ped_All": "アイラブエンバクマイネルラヴシーキングザゴールドミスタープロスペクターRaise a NativeBuckpasserリイフォーリファールセクレタリアトブレイヴェストローマンNever BendNasrullahRomanバーバーPrincely Giftライジングフレーム"
  },
  {
@@ -126393,6 +129365,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "NsNtToHi",
   "Ped_All": "アキノカエデMr.GreeleyゴーンウェストミスタープロスペクターRaise a NativeセクレタリアトReviewerBold RulerダンサーズイメージスルーオゴールドシアトルスルーBold ReasoningBuckpasserNorthern DancerNearcticRough'n Tumble"
  },
  {
@@ -126478,6 +129452,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "NsMaNeHa",
   "Ped_All": "アクアドリップリアファンRobertoHail to ReasonTurn-toNashuaLt.StevensNantallahWar AdmiralRubianoファピアノミスタープロスペクターニジンスキーブラッシンググルームRed GodSwaps"
  },
  {
@@ -126563,6 +129539,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "NeNsSwSt",
   "Ped_All": "アシゲショウジョエルコンドルパサーキングマンボミスタープロスペクターRaise a NativeヌレイエフサドラーズウェルズNorthern DancerシアトルスルーFabulous DancerNorthern DancerNearcticThe AxeKaldounカロCarvin"
  },
  {
@@ -126648,6 +129626,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtSt",
+  "Paternal_mig": "NtNeHePh",
   "Ped_All": "アシンメトリーTejano RuntejanoカロフォルティノExclusive NativeWavering MonarchMajestic LightグリーンダンサーLord GaylordSir GaylordTurn-toAmbiorixSauce BoatキートゥザミントBarbizon"
  },
  {
@@ -126733,6 +129713,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "NsRoHiNs",
   "Ped_All": "アセンブルチェリーフサイチペガサスミスタープロスペクターRaise a NativeNative DancerNashuaダンチヒNorthern DancerヘイローLost CodeCodexアーツアンドレターズアクアクFlying PasterGummoNever Bend"
  },
  {
@@ -126818,6 +129800,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "08",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "StHa",
+  "Paternal_mig": "StToMaSt",
   "Ped_All": "アップステイトアサティスTopsiderNorthern DancerNearcticRound TableグロースタークRibotBuckpasserカツラギエースボイズィーボーイKing's TroopヴェンチアチャイナロックRockefellaヒンドスタン"
  },
  {
@@ -126903,6 +129887,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HeHe",
+  "Paternal_mig": "TeStNsFa",
   "Ped_All": "アンフレーヴアンバーシャダイノーザンテーストNorthern DancerNearcticVictoria ParkAmbiopoiseAmbiorixGallant ManDominionDerring-DoDariusPrincely GiftBlakeneyHethersettMarch Past"
  },
  {
@@ -126988,6 +129974,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StHa",
+  "Paternal_mig": "TeHaToHe",
   "Ped_All": "アンヨガジョウズダイナレターノーザンテーストNorthern DancerNearcticVictoria ParkアーツアンドレターズRibotフォルリマルゼンスキーニジンスキーNorthern DancerBuckpasserDelta JudgeTraffic JudgeDjeddah"
  },
  {
@@ -127073,6 +130061,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeFa",
+  "Paternal_mig": "StHeTeNs",
   "Ped_All": "アーカイビンジリアグルームダンサーブラッシンググルームRed GodNasrullahWild RiskリファールNorthern DancerViolon d'IngresノーザンテーストNorthern DancerNearcticVictoria ParkエルセンタウロSideralNever Say Die"
  },
  {
@@ -127158,6 +130148,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "StEcTeFa",
   "Ped_All": "アースクロックエンドスウィープフォーティナイナーミスタープロスペクターRaise a NativeトムロルフDance SpellNorthern DancerThinking CapサンデーサイレンスヘイローHail to ReasonアンダースタンディングサドラーズウェルズNorthern Dancerイングリッシュプリンス"
  },
  {
@@ -127243,6 +130235,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsSt",
+  "Paternal_mig": "HaEcPhMa",
   "Ped_All": "アーノルヘルチェヤマニンゼファーニホンピロウイナースティールハートハビタットチャイナロックブラッシンググルームRed GodガーサントラッキーソブリンニジンスキーNorthern DancerPardaoLe FabuleuxWild RiskBlockhaus"
  },
  {
@@ -127328,6 +130322,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeRo",
+  "Paternal_mig": "StNsHaNe",
   "Ped_All": "イエローウィングサニーブライアンブライアンズタイムRobertoHail to ReasonグロースタークスイフトスワローNorthern DancerファバージトニービンカンパラカラムーンHornbeamマナードCaptain's Gigノーザンテースト"
  },
  {
@@ -127413,6 +130409,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "StSt",
+  "Paternal_mig": "TeToFaSt",
   "Ped_All": "イタリアンマンマデインヒルダンチヒNorthern DancerNearcticAdmiral's VoyageヒズマジェスティRibotBuckpasserリファールNorthern DancerNearcticCourt MartialアレッジドHoist the FlagWild Risk"
  },
  {
@@ -127498,6 +130496,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeFa",
+  "Paternal_mig": "NsPhRoHa",
   "Ped_All": "ウィルウーマンZafonicゴーンウェストミスタープロスペクターRaise a NativeセクレタリアトThe MinstrelNorthern DancerRight TackサドラーズウェルズNorthern DancerNearcticBold ReasonEla-Mana-MouピットカーンWelsh Pageant"
  },
  {
@@ -127583,6 +130583,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaTe",
+  "Paternal_mig": "RoNsNsRo",
   "Ped_All": "ウィルミアンスFavorite TrickフォーントリックClever TrickアイスカペイドFinneganmedieval manNoholmeDistinctiveSaratoga SixアリダーRaise a NativeIrish Castlewise exchangePromised LandFirst Landing"
  },
  {
@@ -127668,6 +130670,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsFa",
+  "Paternal_mig": "TePhHaNs",
   "Ped_All": "ウェディングベルラムタラニジンスキーNorthern DancerNearcticBull PageブラッシンググルームRed GodSnow KnightL'EmigrantThe MinstrelNorthern DancerヴェイグリーノーブルBrigadier GerardQueen's HussarNasram"
  },
  {
@@ -127753,6 +130757,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "SwSt",
+  "Paternal_mig": "FaTeNsSt",
   "Ped_All": "ウォーターブロウモガミリファールNorthern DancerNearcticCourt MartialLucky DebonairVertexPalestinianアスワンノーザンテーストNorthern DancerNever BendプロントPrince Tajムーティエ"
  },
  {
@@ -127838,6 +130844,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "ToHa",
+  "Paternal_mig": "NsHaHaNs",
   "Ped_All": "ウルトラプラスウッドマンミスタープロスペクターRaise a NativeNative DancerNashuaBuckpasserTom FoolSwapsヌレイエフNorthern DancerNearcticフォルリBig SpruceエルバジェWhat a Pleasure"
  },
  {
@@ -127923,6 +130931,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsHe",
+  "Paternal_mig": "SwSwPhMa",
   "Ped_All": "エイシャルスピードアイネスフウジンシーホークエルバジェVandaleFree ManテスコボーイPrincely GiftモンタヴァルラッキーソブリンニジンスキーNorthern DancerPardaoTropiqueFontenayNiccolo Dell'Arca"
  },
  {
@@ -128008,6 +131018,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhNe",
+  "Paternal_mig": "RoHeHaNs",
   "Ped_All": "エクレアントオペラハウスサドラーズウェルズNorthern DancerNearcticBold ReasonハイトップDerring-DoJimmy ReppinレインボウクエストブラッシンググルームRed GodエルバジェPolish Precedentダンチヒシャーリーハイツ"
  },
  {
@@ -128093,6 +131105,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "MaNe",
+  "Paternal_mig": "NsHaHaNs",
   "Ped_All": "エッジライトリアルシャダイRobertoHail to ReasonTurn-toNashuaインリアリティIntentionallyMoslem ChiefガルチミスタープロスペクターRaise a NativeRambunctiousClever TrickアイスカペイドRaja Baba"
  },
  {
@@ -128178,6 +131192,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "PhNe",
+  "Paternal_mig": "NtStNsMa",
   "Ped_All": "エレガントレースEfisioformidableフォルリAristophanesRaise a NativeハイトップDerring-DoRagusaGoldneyevヌレイエフNorthern DancerリヴァーマンPharlyリファールRelic"
  },
  {
@@ -128263,6 +131279,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNs",
+  "Paternal_mig": "TeNeHaSt",
   "Ped_All": "エンジェルシェリードクターデヴィアスアホヌーラロレンザッチオKlaironMartialアレッジドHoist the FlagNorthern DancerヌレイエフNorthern DancerNearcticフォルリWhat a PleasureBold RulerRoyal Union"
  },
  {
@@ -128348,6 +131366,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HeSw",
+  "Paternal_mig": "FaStTeSw",
   "Ped_All": "オオシマナギサソーブレスドPrincely GiftNasrullahNearcoBlue PeterLe LavandouDjebelNoble StarダイハードNever Say DieNasrullahBrumeuxクリノハナプリメログレーロード"
  },
  {
@@ -128433,6 +131453,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "06",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NsRo",
+  "Paternal_mig": "HaNeNsSt",
   "Ped_All": "オニオンスパイススピニングワールドヌレイエフNorthern DancerNearcticフォルリリヴァーマンNever BendNorthfieldsゴーンウェストミスタープロスペクターRaise a NativeセクレタリアトTurn-toRoyal ChargerRound Table"
  },
  {
@@ -128518,6 +131540,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "ToNs",
+  "Paternal_mig": "NsFaPhEc",
   "Ped_All": "オペラリングキンググローリアスNaevusミスタープロスペクターRaise a NativeボールドラッドReflected GloryJesterThe Pie KingノーザリーNorthern DancerNearcticアメリゴネヴァービートNever Say Die大鵬"
  },
  {
@@ -128603,6 +131627,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeNs",
+  "Paternal_mig": "StPhEcSw",
   "Ped_All": "オリミツキネンジャッジアンジェルーチHonest PleasureWhat a PleasureBold RulerTulyarVictoria ParkChop ChopStratusトンピオンTom FoolMenowCount FleetネヴァービートNever Say Dieテッソ"
  },
  {
@@ -128688,6 +131714,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsSt",
+  "Paternal_mig": "NsToStNe",
   "Ped_All": "オレンジサンセットゴーンウェストミスタープロスペクターRaise a NativeNative DancerNashuaセクレタリアトBold RulerTim TamSlewpyシアトルスルーBold ReasoningPrince JohnVerbatimSpeak Johnワンフォーオール"
  },
  {
@@ -128773,6 +131801,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "NsStToFa",
   "Ped_All": "オーガストサンスキャンミスタープロスペクターRaise a NativeNative DancerNashuaニジンスキーNorthern DancerRound TableラシアンルーブルニジンスキーNorthern DancerBuckpasserトウショウボーイテスコボーイソロナウェー"
  },
  {
@@ -128858,6 +131888,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNs",
+  "Paternal_mig": "HeHaStHa",
   "Ped_All": "オールマーチモンズーンKonigsstuhlDschingis KhanTamerlaneTiepolettoSurumuLiteratAuthiサルスTopsiderNorthern DancerPrince JohnミルリーフNever BendPrince Ippi"
  },
  {
@@ -128943,6 +131975,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "RoMa",
+  "Paternal_mig": "RoNtMaNs",
   "Ped_All": "オーロラビジョンコマンダーインチーフダンシングブレーヴリファールNorthern DancerDroneRobertoHail to ReasonRaise a NativeサンシャインボーイテスコボーイPrincely GiftAirborneシルバーシャークBuisson Ardentネヴァービート"
  },
  {
@@ -129028,6 +132062,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "TeNs",
+  "Paternal_mig": "FaToHiMa",
   "Ped_All": "カラーフロートOut of PlaceCox's RidgeBest TurnTurn-toBallydonnellDamascusSword DancerBuckpasserStar de NaskraNaskraNasramClandestineCornish PrinceBold RulerWar Admiral"
  },
  {
@@ -129113,6 +132149,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsHe",
+  "Paternal_mig": "HaEcStNs",
   "Ped_All": "キットフレンドSelkirkシャーペンアップエタンNative DancerRockefellaNebbioloイエローゴッドBe FriendlyカーリアンニジンスキーNorthern DancerRound Tableサガスリュティエアイリッシュリヴァー"
  },
  {
@@ -129198,6 +132236,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "07",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "TeHa",
+  "Paternal_mig": "HaSwHiRo",
   "Ped_All": "キャンパスロージーダイイシスシャーペンアップエタンNative DancerRockefellaリライアンスTantiemeCrepelloCure the BluesStop the MusicHail to Reasonドクターフェイガーヴェイグリーノーブルヴィエナハビタット"
  },
  {
@@ -129283,6 +132323,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsHa",
+  "Paternal_mig": "HaHaHaMa",
   "Ped_All": "クイックアローディアブロデヴィルズバッグヘイローHail to ReasonエルバジェCornish PrinceBold RulerOlympiaトウショウボーイテスコボーイPrincely GiftYour HostチャイナロックRockefellaヤサカ"
  },
  {
@@ -129368,6 +132410,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "08",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "TeMaHaSt",
   "Ped_All": "クリアフォレストジェニュインサンデーサイレンスヘイローHail to ReasonアンダースタンディングWhat LuckBold RulerTentamトニービンカンパラカラムーンHornbeamロイヤルスキーRaja Babaヒンドスタン"
  },
  {
@@ -129453,6 +132497,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNt",
+  "Paternal_mig": "MaTeRoNs",
   "Ped_All": "クリムクレセントデヒアデピュティミニスターVice RegentNorthern DancerBunty's FlightセクレタリアトBold RulerDamascusDanzig ConnectionダンチヒNorthern DancerサーアイヴァーミスタープロスペクターRaise a NativeCurrent Concept"
  },
  {
@@ -129538,6 +132584,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtHa",
+  "Paternal_mig": "NtHeRoHa",
   "Ped_All": "グラスグロスDashing BladeElegant AirシャーリーハイツミルリーフSea-BirdシャーペンアップエタンTropiqueダンシングブレーヴリファールNorthern DancerDroneSurumuLiteratLuciano"
  },
  {
@@ -129623,6 +132671,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "06",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NeRo",
+  "Paternal_mig": "PhNtTeHa",
   "Ped_All": "グリニッジサイフサザンヘイローヘイローHail to ReasonTurn-toCosmic BombNorthern DancerNearcticSea-BirdニジンスキーNorthern DancerNearcticBull PageBold ReasonHail to Reasonフォルリ"
  },
  {
@@ -129708,6 +132758,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoTe",
+  "Paternal_mig": "NsHaStHa",
   "Ped_All": "グリーンメーラーシングスピールIn the WingsサドラーズウェルズNorthern DancerシャーリーハイツヘイローHail to ReasonエルバジェシャーディーダンチヒNorthern DancerHoist the FlagRelkinoRelkoBalidar"
  },
  {
@@ -129793,6 +132845,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeMa",
+  "Paternal_mig": "StPhHiHi",
   "Ped_All": "グーフィーフッタージャッジアンジェルーチHonest PleasureWhat a PleasureBold RulerTulyarVictoria ParkChop ChopStratusプレザントコロニーヒズマジェスティRibotSunrise FlightFull PocketOlden TimesBagdad"
  },
  {
@@ -129878,6 +132932,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhHi",
+  "Paternal_mig": "NsToNeTe",
   "Ped_All": "コイノワルツヘネシーストームキャットStorm BirdNorthern DancerセクレタリアトハワイUtrilloTom CatKirtlingグランディGreat NephewニジンスキーCrimson SatanSpy SongKentucky Pride"
  },
  {
@@ -129963,6 +133019,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "RoHa",
+  "Paternal_mig": "StStMaSw",
   "Ped_All": "コスモスキュートフェアジャッジメントアレッジドHoist the FlagトムロルフPrince JohnRobertoHail to ReasonNight InvaderノーザンアンサーNorthern DancerNearcticWindfieldsチャイナロックRockefellaプリメロ"
  },
  {
@@ -130048,6 +133106,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "TeNe",
+  "Paternal_mig": "PhHaStNs",
   "Ped_All": "サマーハレーションサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseRisen StarセクレタリアトBold RulerヒズマジェスティヌレイエフNorthern DancerWhat a Pleasure"
  },
  {
@@ -130133,6 +133193,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaRo",
+  "Paternal_mig": "PhSwNeHa",
   "Ped_All": "サルサラッテデヴィルズバッグヘイローHail to ReasonTurn-toCosmic BombエルバジェVandaleCohoesD'AccordセクレタリアトBold RulerNorthern DancerMr.LeaderHail to ReasonWarfare"
  },
  {
@@ -130218,6 +133280,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "NeRo",
+  "Paternal_mig": "RoFaFaNs",
   "Ped_All": "サンドメノアオゾラアルムタワケルマキャベリアンミスタープロスペクターRaise a NativeヘイローグリーンデザートダンチヒEla-Mana-MouNorthern ParkNorthern DancerNearcticGreat NephewハビタットSir GaylordRed God"
  },
  {
@@ -130303,6 +133367,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "07",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "TeNt",
+  "Paternal_mig": "NsSwNeNs",
   "Ped_All": "シェリーポップLinamixメンデスベリファリファールカロbretonRelkoアルサイドキングマンボミスタープロスペクターRaise a NativeヌレイエフKrisシャーペンアップカロ"
  },
  {
@@ -130388,6 +133454,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoSw",
+  "Paternal_mig": "StNsHaFa",
   "Ped_All": "シスコムーンクリエイターミルリーフNever BendNasrullahPrincequilloハビタットSir GaylordKythnosビーマイゲストNorthern DancerNearcticTudor MinstrelバステッドCrepelloQueen's Hussar"
  },
  {
@@ -130473,6 +133541,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNt",
+  "Paternal_mig": "TeMaNsRo",
   "Ped_All": "シュシュブリーズフジキセキサンデーサイレンスヘイローHail to ReasonアンダースタンディングLe FabuleuxWild RiskインリアリティシンボリクリスエスクリスエスRobertoGold Meridianティンバーカントリーウッドマンリアルシャダイ"
  },
  {
@@ -130558,6 +133628,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "NsRoStNe",
   "Ped_All": "シュールスレイヤーSouvenir CopyミスタープロスペクターRaise a NativeNative DancerNashuaヌレイエフNorthern DancerStop the MusicアレッジドHoist the FlagトムロルフPrince JohnシアトルスルーBold ReasoningNorthern Dancer"
  },
  {
@@ -130643,6 +133715,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "06",
+  "Paternal_jik": "NsSt",
+  "Paternal_mig": "RoTeToHa",
   "Ped_All": "シルバーデビットカーネギーサドラーズウェルズNorthern DancerNearcticBold ReasonリヴァーマンNever BendSunny BoyマルゼンスキーニジンスキーNorthern DancerBuckpasserダイアトムSicambreチャイナロック"
  },
  {
@@ -130728,6 +133802,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "MaNs",
+  "Paternal_mig": "FaHiStHa",
   "Ped_All": "ジャスティヒットデピュティミニスターVice RegentNorthern DancerNearcticMenetrierBunty's FlightBunty LawlessJabnehLord AvieLord GaylordSir GaylordGallant ManExuberantWhat a PleasureWardlaw"
  },
  {
@@ -130813,6 +133889,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNt",
+  "Paternal_mig": "StToToMa",
   "Ped_All": "スイートストレッチアサティスTopsiderNorthern DancerNearcticRound TableグロースタークRibotBuckpasserスラヴィックダンチヒNorthern DancerBuckpasserクラウンドプリンスRaise a Nativeミンシオ"
  },
  {
@@ -130898,6 +133976,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "MaNs",
+  "Paternal_mig": "EcPhSwEc",
   "Ped_All": "スキップフロアカラードゼダーンGrey SovereignNasrullahVilmorinヴェンチアRelicSayajiraoロードリージSir GaylordTurn-toMr.TroubleグレイモナークGrey Sovereignライジングフレーム"
  },
  {
@@ -130983,6 +134063,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNe",
+  "Paternal_mig": "EcMaHaPh",
   "Ped_All": "スタンドオンリートニービンカンパラカラムーンゼダーンオンリーフォアライフHornbeamHyperionPrecipticニホンピロウイナースティールハートハビタットチャイナロックノーザンテーストNorthern Dancerハワイ"
  },
  {
@@ -131068,6 +134150,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "TeNeStSt",
   "Ped_All": "スチールスチームアドマイヤベガサンデーサイレンスヘイローHail to ReasonアンダースタンディングトニービンカンパラNorthern DancerミルジョージミルリーフNever BendRagusaネヴァービートNever Say DieShantung"
  },
  {
@@ -131153,6 +134237,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "HiSt",
+  "Paternal_mig": "ToNsStNs",
   "Ped_All": "スプリウムマリーCure the BluesStop the MusicHail to ReasonTurn-toTom FoolドクターフェイガーRough'n TumbleBold RulerシアトルスルーBold ReasoningBoldnesianPokerPrince JohnPrincequilloNashua"
  },
  {
@@ -131238,6 +134324,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNe",
+  "Paternal_mig": "StNtStSt",
   "Ped_All": "スメラギヒメレインボウクエストブラッシンググルームRed GodNasrullahWild RiskエルバジェVandaleRaise a NativeリヴァーマンNever BendNasrullahPrince JohnNorthern DancerNearcticDedicate"
  },
  {
@@ -131323,6 +134411,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtNs",
+  "Paternal_mig": "StStHaFa",
   "Ped_All": "スンスンゼネラリストデインヒルダンチヒNorthern DancerヒズマジェスティConquistador CieloミスタープロスペクターHoist the FlagビーマイゲストNorthern DancerNearcticTudor MinstrelリヴァーマンNever BendGreat Nephew"
  },
  {
@@ -131408,6 +134498,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "StNs",
+  "Paternal_mig": "NsHiTeHi",
   "Ped_All": "セントセレナードフォーティナイナーミスタープロスペクターRaise a NativeNative DancerNashuaトムロルフRibotDouble JayAffirmedExclusive NativeRaise a NativeCrafty AdmiralNever BendNasrullahDouble Jay"
  },
  {
@@ -131493,6 +134585,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "ToHe",
+  "Paternal_mig": "NsStNsSt",
   "Ped_All": "ソニックダイバーミスワキミスタープロスペクターRaise a NativeNative DancerNashuaBuckpasserTom FoolPrincequilloアリダーRaise a NativeNative DancerOn-and-OnリュティエKlaironボンモー"
  },
  {
@@ -131578,6 +134672,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "RoPhTeHa",
   "Ped_All": "チークタイムSinndarGrand LodgeチーフズクラウンダンチヒハビタットlashkariミルリーフトップヴィルThe MinstrelNorthern DancerNearcticVictoria ParkNashuaNasrullahSadair"
  },
  {
@@ -131663,6 +134759,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "SwNs",
+  "Paternal_mig": "ToNsTeNs",
   "Ped_All": "ティアエスポワールミシルミスワキミスタープロスペクターRaise a NativeBuckpasserThe AxeMahmoudBold LadパークリージェントVice RegentNorthern DancerVictoria ParkトウショウボーイテスコボーイNever Say Die"
  },
  {
@@ -131748,6 +134846,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "TeNs",
+  "Paternal_mig": "HeTeHaHe",
   "Ped_All": "テンプルナイトブレイヴェストローマンNever BendNasrullahNearcoDjeddahRomanSir GallahadSun AgainミスターシービートウショウボーイテスコボーイトピオバーバーPrincely Giftパーソロン"
  },
  {
@@ -131833,6 +134933,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "SwHa",
+  "Paternal_mig": "StFaHePh",
   "Ped_All": "テンポラヘイズナシュワンブラッシンググルームRed GodNasrullahWild RiskBustinoバステッドQueen's HussarアイリッシュリヴァーリヴァーマンNever BendKlaironShoemakerセントクレスピンDarius"
  },
  {
@@ -131918,6 +135020,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtTe",
+  "Paternal_mig": "HiNsHaEc",
   "Ped_All": "テールリバースRoanokeプレザントコロニーヒズマジェスティRibotSunrise FlightSea-BirdDan CupidCornish PrinceDixieland BandNorthern DancerNearcticDelta JudgePromised LandPalestinianKing Dorsett"
  },
  {
@@ -132003,6 +135107,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoRo",
+  "Paternal_mig": "PhNsToNt",
   "Ped_All": "デザートキューブジョリーズヘイローヘイローHail to ReasonTurn-toCosmic BombサーアイヴァーSir GaylordFleet NasrullahシーキングザゴールドミスタープロスペクターRaise a NativeBuckpasserCyaneTurn-toRestless Native"
  },
  {
@@ -132088,6 +135194,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "06",
+  "Paternal_jik": "TeSt",
+  "Paternal_mig": "StNsStNs",
   "Ped_All": "トライプッシュコロナドズクエストフォーティナイナーミスタープロスペクターRaise a NativeトムロルフDamascusSword DancerBold RulerLord at WarGeneralBrigadier GerardCon BrioVerbatimSpeak JohnFleet Nasrullah"
  },
  {
@@ -132173,6 +135281,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNe",
+  "Paternal_mig": "NsTeHaRo",
   "Ped_All": "ドラマティックレイブライアンズタイムRobertoHail to ReasonTurn-toNashuaグロースタークRibotHasty RoadタマモクロスシービークロスフォルティノシャトーゲイノーザンテーストNorthern Dancerレアリーリーガル"
  },
  {
@@ -132258,6 +135368,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaSt",
+  "Paternal_mig": "NtPhToHa",
   "Ped_All": "ニシノマックスワイルドアゲインアイスカペイドNearcticNearcoNative DancerKhaledHyperionDanteプライヴェートアカウントDamascusSword DancerBuckpasserトムロルフRibotDark Star"
  },
  {
@@ -132343,6 +135455,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeHa",
+  "Paternal_mig": "NsHaNsFa",
   "Ped_All": "ニューカプチーノリンドシェーバーアリダーRaise a NativeNative DancerOn-and-OnCool MoonNearcticDonut KingモーニングフローリックGrey DawnエルバジェBold HourセントクレスピンAureoleアポッスル"
  },
  {
@@ -132428,6 +135542,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "07",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NtNe",
+  "Paternal_mig": "HaRoNeNs",
   "Ped_All": "ヌーヴェルアイパントレセレブルヌレイエフNorthern DancerNearcticフォルリアリダーRaise a NativeハビタットBeringArctic TernSea-BirdリファールサドラーズウェルズNorthern Dancerカロ"
  },
  {
@@ -132513,6 +135629,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoNe",
+  "Paternal_mig": "RoNtRoTe",
   "Ped_All": "ネオインパルスコマンダーインチーフダンシングブレーヴリファールNorthern DancerDroneRobertoHail to ReasonRaise a NativeマキャベリアンミスタープロスペクターRaise a NativeヘイローLomondNorthern DancerDjakao"
  },
  {
@@ -132598,6 +135716,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NePh",
+  "Paternal_mig": "HaNsMaFa",
   "Ped_All": "ハイウェイロックウイニングチケットトニービンカンパラカラムーンHornbeamマルゼンスキーニジンスキーテスコボーイロイヤルスキーRaja BabaBold RulerInvolvementハードリドンHard Sauceソロナウェー"
  },
  {
@@ -132683,6 +135803,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "StNs",
+  "Paternal_mig": "NsTeStMa",
   "Ped_All": "ハッピーブライトクリスエスRobertoHail to ReasonTurn-toNashuaPrincequilloPrince RoseOccupyフォーティナイナーミスタープロスペクターRaise a NativeトムロルフNever BendNasrullahWar Admiral"
  },
  {
@@ -132768,6 +135890,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "ToNe",
+  "Paternal_mig": "NsTeHiNt",
   "Ped_All": "バブルアップリズムシーキングザゴールドミスタープロスペクターRaise a NativeNative DancerNashuaBuckpasserTom FoolHasty RoadプレザントコロニーヒズマジェスティRibotSunrise FlightニジンスキーNorthern Dancerミスタープロスペクター"
  },
  {
@@ -132853,6 +135977,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "TeSwFaHa",
   "Ped_All": "パステルシェイプアグネスタキオンサンデーサイレンスヘイローHail to ReasonアンダースタンディングロイヤルスキーRaja BabaリマンドホワイトマズルダンシングブレーヴリファールEla-Mana-MouトニービンカンパラForceten"
  },
  {
@@ -132938,6 +136064,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NsHe",
+  "Paternal_mig": "StHaSwNs",
   "Ped_All": "パピヨンキュートカポーティシアトルスルーBold ReasoningBoldnesianPokerBald EagleNasrullahDark StarFabulous DancerNorthern DancerNearcticThe AxeSaint Cyrienリュティエボールドラッド"
  },
  {
@@ -133023,6 +136151,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtNs",
+  "Paternal_mig": "HaStMaSw",
   "Ped_All": "ビットクラッカーハートレイクヌレイエフNorthern DancerNearcticフォルリExclusive NativeRaise a NativePrince JohnサンシャインボーイテスコボーイPrincely GiftAirborneスパニッシュイクスプレスSovereign Pathシマタカ"
  },
  {
@@ -133108,6 +136238,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "08",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HaRo",
+  "Paternal_mig": "NsNsFaSt",
   "Ped_All": "ビーナススターエブロスミスタープロスペクターRaise a NativeNative DancerNashuaフォルリAristophanesNantallahヴァイスリーガルNorthern DancerNearcticMenetrierロードリージSir Gaylordヒンドスタン"
  },
  {
@@ -133193,6 +136325,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsRo",
+  "Paternal_mig": "TeNeStSw",
   "Ped_All": "ピコピコマーチアドマイヤベガサンデーサイレンスヘイローHail to ReasonアンダースタンディングトニービンカンパラNorthern DancerTopsiderNorthern DancerNearcticRound TableSir GaylordTurn-toJet Pilot"
  },
  {
@@ -133278,6 +136412,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsHe",
+  "Paternal_mig": "TeToTeHa",
   "Ped_All": "ピニャコラーダタヤスツヨシサンデーサイレンスヘイローHail to ReasonアンダースタンディングカロフォルティノBuckpasserノーザンテーストNorthern DancerNearcticVictoria ParkヒッティングアウェーAmbiorixDetermine"
  },
  {
@@ -133363,6 +136499,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "SwFa",
+  "Paternal_mig": "TeHeTeSt",
   "Ped_All": "ピーチピットアカテナンゴSurumuLiteratBirkhahnリライアンスAggressorCombatMr.JinksThe MinstrelNorthern DancerNearcticVictoria ParkタップオンウッドSallustPrince Tenderfoot"
  },
  {
@@ -133448,6 +136586,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "HaHeNsFa",
   "Ped_All": "フィッシュファイトペンタイアビーマイゲストNorthern DancerNearcticTudor MinstrelミルリーフNever BendBlakeneyサクラショウリパーソロンMilesianフォルティノデイバインギフトPrincely Giftキングスベンチ"
  },
  {
@@ -133533,6 +136673,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "06",
+  "Paternal_jik": "TeNs",
+  "Paternal_mig": "PhHaRoHa",
   "Ped_All": "フィールドリバーサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseシンボリルドルフパーソロンMilesianスピードシンボリネヴァービートNever Say Dieチャイナロック"
  },
  {
@@ -133618,6 +136760,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "PhSt",
+  "Paternal_mig": "NsStNsNs",
   "Ped_All": "フェアハーモニーシルヴァーホークRobertoHail to ReasonTurn-toNashuaアメリゴNearcoMat de CocagneストームキャットStorm BirdNorthern DancerセクレタリアトSauce BoatキートゥザミントGreat Sun"
  },
  {
@@ -133703,6 +136847,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeSt",
+  "Paternal_mig": "TeStToSt",
   "Ped_All": "フォルティッシモBoundaryダンチヒNorthern DancerNearcticAdmiral's VoyageDamascusSword DancerRound TableウッドマンミスタープロスペクターRaise a NativeBuckpasserAferdHoist the FlagBeauquillo"
  },
  {
@@ -133788,6 +136934,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NeHa",
+  "Paternal_mig": "TeHaNsEc",
   "Ped_All": "フォルミモーテバブルガムフェローサンデーサイレンスヘイローHail to ReasonアンダースタンディングリファールNorthern DancerProminerLaw SocietyアレッジドHoist the FlagBoldnesianLucianoHenry the SeventhTicino"
  },
  {
@@ -133873,6 +137021,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StRo",
+  "Paternal_mig": "NsHaTeNs",
   "Ped_All": "フユノエルスキーDynaformerRobertoHail to ReasonTurn-toNashuaヒズマジェスティRibotOlympiaダンチヒNorthern DancerNearcticAdmiral's VoyageSir GaylordTurn-toBold Lad"
  },
  {
@@ -133958,6 +137108,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "HaMaTeHa",
   "Ped_All": "フラムルーベサクラユタカオーテスコボーイPrincely GiftNasrullahHyperionネヴァービートNever Say DieユアハイネスノーザンテーストNorthern DancerNearcticVictoria ParkChieftainBold RulerSwaps"
  },
  {
@@ -134043,6 +137195,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoSt",
+  "Paternal_mig": "StHaStTe",
   "Ped_All": "フレッシュショットラーイブラッシンググルームRed GodNasrullahWild RiskヘイローHail to ReasonエルバジェシアトルスルーBold ReasoningBoldnesianPokerグロースタークRibotHasty Road"
  },
  {
@@ -134128,6 +137282,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "FaHe",
+  "Paternal_mig": "RoSwStSw",
   "Ped_All": "フレッシュパラメオースフェアリーキングNorthern DancerNearcticBold ReasonトロイペティンゴアルサイドカーリアンニジンスキーNorthern DancerRound TableリュティエKlaironパーシア"
  },
  {
@@ -134213,6 +137369,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "MaHa",
+  "Paternal_mig": "NsHaStSw",
   "Ped_All": "ブイネックナイトリアルシャダイRobertoHail to ReasonTurn-toNashuaインリアリティIntentionallyMoslem ChiefスルーザドラゴンシアトルスルーBold ReasoningPrince JohnチャイナロックRockefellaトサミドリ"
  },
  {
@@ -134298,6 +137456,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "08",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "ToNs",
+  "Paternal_mig": "NsHaHaSt",
   "Ped_All": "ブリリアントラバーアフリートミスタープロスペクターRaise a NativeNative DancerNashuaVenetian JesterTom FoolGreen TicketファバージPrincely GiftNasrullahLegend of FranceダイハードNever Say Dieヒンドスタン"
  },
  {
@@ -134383,6 +137543,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NeHa",
+  "Paternal_mig": "NsHeTeNs",
   "Ped_All": "プチライドネットサクラバクシンオーサクラユタカオーテスコボーイPrincely GiftネヴァービートノーザンテーストNorthern DancerAmbiopoiseハバットハビタットSir GaylordSunny BoyサンシーSanctusネヴァービート"
  },
  {
@@ -134468,6 +137630,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "StHaNtHa",
   "Ped_All": "プリプリティティアンブライドルズソングUnbridledファピアノミスタープロスペクターLe FabuleuxカロフォルティノLucky MelGeneral MeetingシアトルスルーBold ReasoningアリダーリヴァーマンNever BendPia Star"
  },
  {
@@ -134553,6 +137717,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "MaMa",
+  "Paternal_mig": "TeRoSwNe",
   "Ped_All": "ヘアルージュダンスオブライフニジンスキーNorthern DancerNearcticBull PageインリアリティIntentionallyFirst LandingGreen ForestShecky GreeneNoholmeThe AxeノウンファクトインリアリティNearctic"
  },
  {
@@ -134638,6 +137804,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "StNs",
+  "Paternal_mig": "NsNsHaSt",
   "Ped_All": "ベアトリーチェMountain CatストームキャットStorm BirdNorthern DancerセクレタリアトキートゥザミントグロースタークNever BendデヴィルズバッグヘイローHail to ReasonエルバジェSilver SeriesChieftainPrincequillo"
  },
  {
@@ -134723,6 +137891,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaFa",
+  "Paternal_mig": "HaEcTeSt",
   "Ped_All": "ベルナルドレディニホンピロウイナースティールハートハビタットSir GaylordAbernantチャイナロックRockefellaライジングフレームノーザンテーストNorthern DancerNearcticVictoria ParkCipolエルセンタウロCourt Harwell"
  },
  {
@@ -134808,6 +137978,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoSt",
+  "Paternal_mig": "RoToHeHe",
   "Ped_All": "ベルベットスカイel pradoサドラーズウェルズNorthern DancerNearcticBold ReasonサーアイヴァーSir GaylordTom FoolケンマールカラムーンゼダーンMilesianターゴワイスRound Tableラパス"
  },
  {
@@ -134893,6 +138065,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeTo",
+  "Paternal_mig": "HaToFaNs",
   "Ped_All": "ペスカトーレアーミジャーレインボウクエストブラッシンググルームRed GodエルバジェNorthern DancerNearcticBuckpasserリファールNorthern DancerNearcticCourt MartialBuckpasserTom FoolOuting Class"
  },
  {
@@ -134978,6 +138152,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "ToNs",
+  "Paternal_mig": "NsHaToSt",
   "Ped_All": "ペディグリフェイスアフリートミスタープロスペクターRaise a NativeNative DancerNashuaVenetian JesterTom FoolGreen TicketマルゼンスキーニジンスキーNorthern DancerBuckpasserダストコマンダーBold Commanderムーティエ"
  },
  {
@@ -135063,6 +138239,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNs",
+  "Paternal_mig": "StHaNtSw",
   "Ped_All": "ボンヌショコラリヴリアリヴァーマンNever BendNasrullahPrince JohnヴェイグリーノーブルヴィエナHoneys AlibiトランスアランティックNearcticNearcoNative DancerテスコボーイPrincely Giftパナスリッパー"
  },
  {
@@ -135148,6 +138326,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "08",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "NsHeStMa",
   "Ped_All": "マイネトリウムLoup SolitaireリアファンRobertoHail to ReasonLt.StevensヌレイエフNorthern DancerプリメラフォーティナイナーミスタープロスペクターRaise a NativeトムロルフリファールNorthern Dancerヴェンチア"
  },
  {
@@ -135233,6 +138413,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NsHe",
+  "Paternal_mig": "TeStRoNs",
   "Ped_All": "ミカエルリップアレミロードトムロルフRibotTeneraniRomanBold ReasoningBoldnesianPappa FourwayコリムスキーNorthern DancerNearcticFrancis S.パーソロンMilesianNashua"
  },
  {
@@ -135318,6 +138500,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "06",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NtTe",
+  "Paternal_mig": "NeNsNsSt",
   "Ped_All": "ミスクラリスナリタトップロードサッカーボーイディクタスSanctusノーザンテーストAffirmedExclusive NativeNever BendBaldskiニジンスキーNorthern DancerBald EagleArgumentKautokeinoRound Table"
  },
  {
@@ -135403,6 +138587,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "StSt",
+  "Paternal_mig": "TeMaNsHi",
   "Ped_All": "ミスミステロンフジキセキサンデーサイレンスヘイローHail to ReasonアンダースタンディングLe FabuleuxWild RiskインリアリティミスタープロスペクターRaise a NativeNative DancerNashuaRoi DagobertSicambreSpy Song"
  },
  {
@@ -135488,6 +138674,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "StNs",
+  "Paternal_mig": "RoRoHaRo",
   "Ped_All": "ミートアップセミナブロードブラッシュアクアクBattle JoinedArmageddonTurn-toHoist the FlagトムロルフTurn-toValid AppealインリアリティIntentionallyMoslem ChiefセクレタリアトBold RulerHail to Reason"
  },
  {
@@ -135573,6 +138761,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeSt",
+  "Paternal_mig": "NsStNsSw",
   "Ped_All": "ムッチャホリデイキングマンボミスタープロスペクターRaise a NativeNative DancerNashuaヌレイエフNorthern DancerProve OutエーピーインディシアトルスルーBold ReasoningセクレタリアトKing's BishopRound TableThe Axe"
  },
  {
@@ -135658,6 +138848,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "StHaToNs",
   "Ped_All": "ムーブメントウィンアンブライドルズソングUnbridledファピアノミスタープロスペクターLe FabuleuxカロフォルティノLucky MelスルーオゴールドシアトルスルーBold ReasoningBuckpasserStorm BirdNorthern DancerNasomo"
  },
  {
@@ -135743,6 +138935,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "ToNe",
+  "Paternal_mig": "StNsHaEc",
   "Ped_All": "メイクキャラメルAvenue of FlagsシアトルスルーBold ReasoningBoldnesianPokerPass the GlassBuckpasserBold BidderYouthアクアクBattle JoinedDark StarNorthern DancerNearcticEight Thirty"
  },
  {
@@ -135828,6 +139022,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HiNs",
+  "Paternal_mig": "PhNsFaSw",
   "Ped_All": "メイプルカラーBenny the DipシルヴァーホークRobertoHail to ReasonアメリゴアクアクBattle JoinedNever BendリファールNorthern DancerNearcticCourt MartialセクレタリアトBold RulerVal de Loir"
  },
  {
@@ -135913,6 +139109,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "08",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NeNs",
+  "Paternal_mig": "StNsStMa",
   "Ped_All": "メグニアンドリアサッカーボーイディクタスSanctusFine TopWordenノーザンテーストNorthern DancerPrincely GiftブライアンズタイムRobertoHail to ReasonグロースタークジョンティオンブルNo Mercyヴェンチア"
  },
  {
@@ -135998,6 +139196,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "HeSt",
+  "Paternal_mig": "PhMaHaHa",
   "Ped_All": "メグロテイオウダルシャーンシャーリーハイツミルリーフNever BendハーディカヌートAbdosArbarヴェンチアL'EmigrantThe MinstrelNorthern DancerヴェイグリーノーブルProve OutグロースタークSanctus"
  },
  {
@@ -136083,6 +139283,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HiNe",
+  "Paternal_mig": "StHiNsSw",
   "Ped_All": "メヒョウブラスターマウントリバーモアブラッシンググルームRed GodNasrullahWild RiskCrimson SatanSpy SongRenegedアリダーRaise a NativeNative DancerOn-and-OnVice RegentNorthern DancerQuadrangle"
  },
  {
@@ -136168,6 +139370,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoNs",
+  "Paternal_mig": "HiRoStTe",
   "Ped_All": "モアアチーブメントCherokee RunRunaway GroomブラッシンググルームRed GodCall the WitnessSilver SaberDroneFrancis S.UnbridledファピアノミスタープロスペクターLe FabuleuxBold ForbesIrish CastleSword Dancer"
  },
  {
@@ -136253,6 +139457,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNs",
+  "Paternal_mig": "StNsPhSw",
   "Ped_All": "モストジョウオウスターオブコジーンコジーンカロフォルティノPrince JohnPia StarOlympiaFleet NasrullahノーザリーNorthern DancerNearcticアメリゴテスコボーイPrincely Giftモンタヴァル"
  },
  {
@@ -136338,6 +139544,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeTe",
+  "Paternal_mig": "PhHaStMa",
   "Ped_All": "ユメノハジマリサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseセクレタリアトBold RulerNasrullahPrincequilloNervous EnergyRoman LineFather John"
  },
  {
@@ -136423,6 +139631,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "HaSt",
+  "Paternal_mig": "TeSwFaEc",
   "Ped_All": "ヨイノユキヤナギダイナガリバーノーザンテーストNorthern DancerNearcticVictoria ParkバウンティアスRockefellaCorrelationトライバルチーフPrincely GiftNasrullahPetitionファラモンドSicambreライジングフレーム"
  },
  {
@@ -136508,6 +139718,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoNs",
+  "Paternal_mig": "FaFaHaFa",
   "Ped_All": "ヨ－クダリアダンシングブレーヴリファールNorthern DancerNearcticCourt MartialDroneSir GaylordPago PagoリヴリアリヴァーマンNever Bendヴェイグリーノーブルマグニテュードミルリーフイーグル"
  },
  {
@@ -136593,6 +139805,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StPh",
+  "Paternal_mig": "HeSwStHa",
   "Ped_All": "ラインシュシュメジロライアンアンバーシャダイノーザンテーストNorthern DancerAmbiopoiseメジロサンマンCharlottesvilleスノッブLomondNorthern DancerNearcticPokerハードツービートハーディカヌートFine Top"
  },
  {
@@ -136678,6 +139892,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NsRo",
+  "Paternal_mig": "RoSwTeNt",
   "Ped_All": "ラズベリーレッドエリシオフェアリーキングNorthern DancerNearcticBold ReasonSlewpyシアトルスルーVal de l'OrneSpectacular BidBold BidderBold RulerPromised LandSolo LandingFirst LandingNative Dancer"
  },
  {
@@ -136763,6 +139979,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "StToNsNe",
   "Ped_All": "リクエストランエーピーインディシアトルスルーBold ReasoningBoldnesianPokerセクレタリアトBold RulerBuckpasserGeiger CounterミスタープロスペクターRaise a NativeNantallahアイリッシュリヴァーリヴァーマンNorthern Dancer"
  },
  {
@@ -136848,6 +140066,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StHa",
+  "Paternal_mig": "TeMaTeSt",
   "Ped_All": "リトルトゥルースフジキセキサンデーサイレンスヘイローHail to ReasonアンダースタンディングLe FabuleuxWild RiskインリアリティノーザンテーストNorthern DancerNearcticVictoria ParkファーザーズイメージSwapsFrench Beige"
  },
  {
@@ -136933,6 +140153,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsHe",
+  "Paternal_mig": "NsNeMaEc",
   "Ped_All": "リバティーゲートDare and GoアリダーRaise a NativeNative DancerOn-and-OnセクレタリアトBold RulerNearcticエンペリーヴェイグリーノーブルヴィエナPostinGray PhantomAmbiorixLiberal Art"
  },
  {
@@ -137018,6 +140240,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "StNs",
+  "Paternal_mig": "StStTeHa",
   "Ped_All": "リボンシトロンサウスアトランティックミルリーフNever BendNasrullahPrincequilloRibotTeneraniDedicateアポッスルBlue PeterFairwayFlag of TruceNever Say DieNasrullahHyperion"
  },
  {
@@ -137103,6 +140327,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NeNt",
+  "Paternal_mig": "HeMaMaNe",
   "Ped_All": "ロマニローストパラダイスクリークアイリッシュリヴァーリヴァーマンNever BendKlaironNorthfieldsNorthern DancerササフラシアトリカルヌレイエフNorthern DancerササフラゴーンウェストミスタープロスペクターNorthern Dancer"
  },
  {
@@ -137188,6 +140414,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNt",
+  "Paternal_mig": "RoSwNsNs",
   "Ped_All": "ロードセレナーデエリシオフェアリーキングNorthern DancerNearcticBold ReasonSlewpyシアトルスルーVal de l'OrneミスタープロスペクターRaise a NativeNative DancerNashuaアリダーRaise a NativeBold Bidder"
  },
  {
@@ -137273,6 +140501,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "TeNs",
+  "Paternal_mig": "PhHaTeNe",
   "Ped_All": "ワンチャンハシルデサンデーサイレンスヘイローHail to ReasonTurn-toCosmic BombアンダースタンディングPromised LandMontparnasseKrisシャーペンアップエタンリライアンスシアトルスルーBold ReasoningNorthern Dancer"
  },
  {
@@ -137358,6 +140588,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "MaHa",
+  "Paternal_mig": "StSwTeSt",
   "Ped_All": "ワールドタイムスムトトバステッドCrepelloDonatelloヴィミーミンシオRelicAlycidonハビタットSir GaylordTurn-toOccupyKashmirTudor MelodyPrince Taj"
  },
  {
@@ -137443,6 +140675,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "StNtStSt",
   "Ped_All": "アクアシャンティーArchクリスエスRobertoHail to ReasonPrincequilloダンチヒNorthern DancerアリダーUnbridledファピアノミスタープロスペクターLe FabuleuxニジンスキーNorthern DancerCharlottesville"
  },
  {
@@ -137528,6 +140762,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "TePhHaHa",
   "Ped_All": "アビスマルラヴァーラムタラニジンスキーNorthern DancerNearcticBull PageブラッシンググルームRed GodSnow KnightマグニテュードミルリーフNever BendセントクレスピンコントライトNever Say Dieカバーラップ二世"
  },
  {
@@ -137613,6 +140849,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NeFa",
+  "Paternal_mig": "StEcMaSt",
   "Ped_All": "アラモープリモエンドスウィープフォーティナイナーミスタープロスペクターRaise a NativeトムロルフDance SpellNorthern DancerThinking CapムトトバステッドCrepelloミンシオGreat NephewHoneywayグロースターク"
  },
  {
@@ -137698,6 +140936,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeHa",
+  "Paternal_mig": "StTeToHa",
   "Ped_All": "アーケードクイーンフサイチソニックデインヒルダンチヒNorthern DancerヒズマジェスティBeldale FlutterAccipiterDjakaoプラグドニックルキートゥザミントグロースタークBuckpasserヴェイグリーノーブルヴィエナHoneys Alibi"
  },
  {
@@ -137783,6 +141023,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "07",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "NeSt",
+  "Paternal_mig": "NsRoNtRo",
   "Ped_All": "イエロースーツスキャターザゴールドミスタープロスペクターRaise a NativeNative DancerNashuaダンチヒNorthern DancerSmartenデイジュールダンチヒNorthern DancerミスタープロスペクターFilibertoRibotハビタット"
  },
  {
@@ -137868,6 +141110,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StHi",
+  "Paternal_mig": "HeSwStHe",
   "Ped_All": "ウィリアムチョコメジロライアンアンバーシャダイノーザンテーストNorthern DancerAmbiopoiseメジロサンマンCharlottesvilleスノッブリヴァーマンNever BendNasrullahPrince JohnTime TestedBetter Selfアワバブー"
  },
  {
@@ -137953,6 +141197,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "08",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NsSt",
+  "Paternal_mig": "ToHaStSt",
   "Ped_All": "ウマガアウカラバンブーアトラスジムフレンチグロースタークRibotTom FoolテスコボーイPrincely GiftMarsyasプリンスオブバーズStorm BirdNorthern DancerキートゥザミントロムルスRibotヒンドスタン"
  },
  {
@@ -138038,6 +141284,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "NeMaSwHi",
   "Ped_All": "エルダーローズトロットサンダーダイナコスモスハンターコムDerring-DoノーザンテーストテスコボーイPrincely GiftリンボーFabulous DancerNorthern DancerNearcticThe AxeブラッシンググルームRed GodBupers"
  },
  {
@@ -138123,6 +141371,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "09",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NtNs",
+  "Paternal_mig": "HaNeNeNe",
   "Ped_All": "カノンメロディメイショウドトウBigstoneラストタイクーントライマイベストポッセAffirmedExclusive NativeニジンスキーリンドシェーバーアリダーRaise a NativeCool Moonトニービンカンパラノーザンテースト"
  },
  {
@@ -138208,6 +141458,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsMa",
+  "Paternal_mig": "NeFaHeHa",
   "Ped_All": "キュートスティールダイタクヘリオスビゼンニシキダンディルートリュティエミンスキーネヴァービートNever Say DieハロウェーナイスダンサーNorthern DancerNearcticLe Beau PrinceヴェンチアRelicYour Host"
  },
  {
@@ -138293,6 +141545,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNt",
+  "Paternal_mig": "TeNeMaNe",
   "Ped_All": "クインアラベルトアグネスワールドダンチヒNorthern DancerNearcticAdmiral's VoyageシアトルスルーBold ReasoningリファールリアルシャダイRobertoHail to ReasonインリアリティガルチミスタープロスペクターClever Trick"
  },
  {
@@ -138378,6 +141632,8 @@ horse=
   "Paternal_hhht": "Ne",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "FaNs",
+  "Paternal_mig": "HaHeNsNe",
   "Ped_All": "ケアポートSiphonItajaraFelicioShantungFalklandKublai KhanSideralSvengaliCarson CityミスタープロスペクターRaise a NativeブラッシンググルームセクレタリアトBold Rulerアイスカペイド"
  },
  {
@@ -138463,6 +141719,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNe",
+  "Paternal_mig": "StStHaSw",
   "Ped_All": "コイノヒナギクティッカネンコジーンカロフォルティノPrince JohnターゴワイスRound TableリベロミスターシービートウショウボーイテスコボーイトピオノーザンテーストNorthern DancerOn Your Mark"
  },
  {
@@ -138548,6 +141806,8 @@ horse=
   "Paternal_hhht": "To",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "TeSt",
+  "Paternal_mig": "NsNeTeTo",
   "Ped_All": "コバルトフォルテレッドランサムRobertoHail to ReasonTurn-toNashuaDamascusSword DancerNearcticダンチヒNorthern DancerNearcticAdmiral's VoyageSette BelloRibotTim Tam"
  },
  {
@@ -138633,6 +141893,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "FaNe",
+  "Paternal_mig": "ToNsMaPh",
   "Ped_All": "サンセットマイヤピルサドスキーPolish PrecedentダンチヒNorthern DancerBuckpasserトロイペティンゴミルリーフトウショウペガサスダンディルートリュティエヴェンチアマルゼンスキーニジンスキーインファチュエイション"
  },
  {
@@ -138718,6 +141980,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeHa",
+  "Paternal_mig": "ToTeNtSt",
   "Ped_All": "サンバカフェハンセルウッドマンミスタープロスペクターRaise a NativeBuckpasserDancing CountNorthern DancerVictoria ParkワイズカウンセラーアレッジドHoist the FlagRaise a NativeディクタスSanctusシンザン"
  },
  {
@@ -138803,6 +142067,8 @@ horse=
   "Paternal_hhht": "To",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "StRo",
+  "Paternal_mig": "NsPhNtTo",
   "Ped_All": "サーフィンサンデイタバスコキャットストームキャットStorm BirdNorthern DancerセクレタリアトSauce BoatキートゥザミントBarbizonNorthern DancerNearcticNearcoNative DancerヘイローHail to ReasonBuckpasser"
  },
  {
@@ -138888,6 +142154,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HiNt",
+  "Paternal_mig": "SwHaNsSt",
   "Ped_All": "シンクロシスターStar de NaskraNaskraNasramNasrullahLe HaarClandestineDouble JayTudor MinstrelApalacheeRound TablePrincequilloNantallahMarshua's DancerRaise a NativeOle Bob Bowers"
  },
  {
@@ -138973,6 +142241,8 @@ horse=
   "Paternal_hhht": "Hi",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "FaSt",
+  "Paternal_mig": "HaHiNsHi",
   "Ped_All": "シンフォニアエリーCox's RidgeBest TurnTurn-toRoyal ChargerSwapsBallydonnellBallyoganCarrier PigeonミスタープロスペクターRaise a NativeNative DancerNashuaトムロルフRibotDouble Jay"
  },
  {
@@ -139058,6 +142328,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "ToNeStFa",
   "Ped_All": "ジョッピンカルヒシアケボノウッドマンミスタープロスペクターRaise a NativeBuckpasserシアトルスルーBold ReasoningリファールサウスアトランティックミルリーフNever BendRibotテスコボーイPrincely Giftソロナウェー"
  },
  {
@@ -139143,6 +142415,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "PhStNeFa",
   "Ped_All": "スズノネチリリムタファーウエクシルヴァーホークRobertoHail to ReasonアメリゴカーリアンニジンスキーゴーマーチングジェイドロバリーミスタープロスペクターRaise a Nativeニジンスキーマルゼンスキーニジンスキーソロナウェー"
  },
  {
@@ -139228,6 +142502,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "PhNt",
+  "Paternal_mig": "RoStTeNs",
   "Ped_All": "スターライトホールエイシンワシントンオジジアンDamascusSword DancerFrancis S.ShamPretensePrince JohnサンデーサイレンスヘイローHail to ReasonアンダースタンディングConquistador CieloミスタープロスペクターNashua"
  },
  {
@@ -139313,6 +142589,8 @@ horse=
   "Paternal_hhht": "Fa",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeMa",
+  "Paternal_mig": "HaSwStFa",
   "Ped_All": "スマイルドロップサクラチトセオートニービンカンパラカラムーンHornbeamノーザンテーストNorthern DancerQuadrangleスルーザドラゴンシアトルスルーBold ReasoningPrince JohnヴェンチアRelicソロナウェー"
  },
  {
@@ -139398,6 +142676,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "HaNe",
+  "Paternal_mig": "NsHeStPh",
   "Ped_All": "セリノハナOld TriesteエーピーインディシアトルスルーBold ReasoningセクレタリアトVigorsGrey DawnCrozierサンシャインフォーエヴァーRobertoHail to ReasonグロースタークNorthern DancerNearcticBarbizon"
  },
  {
@@ -139483,6 +142763,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NsNs",
+  "Paternal_mig": "SwStFaRo",
   "Ped_All": "セレスアースアルカングサガスリュティエKlaironChaparralアイリッシュリヴァーリヴァーマンWild RiskリファールNorthern DancerNearcticCourt MartialリヴァーマンNever BendHail to Reason"
  },
  {
@@ -139568,6 +142850,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "MaNt",
+  "Paternal_mig": "FaStTeTe",
   "Ped_All": "センターラブリーキャロルハウスLord GayleSir GaylordTurn-toCourt MartialシルバーシャークBuisson ArdentヴィミーノーザンテーストNorthern DancerNearcticVictoria ParkNative ChargerNative DancerDamascus"
  },
  {
@@ -139653,6 +142937,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "10",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NtNe",
+  "Paternal_mig": "StSwSwNs",
   "Ped_All": "セントシルヴィアCadeaux GenereuxYoung GenerationBalidarWill SomersShantungシャーペンアップエタンSoderiniKaldounカロフォルティノLe HaarヌレイエフNorthern Dancerセクレタリアト"
  },
  {
@@ -139738,6 +143024,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "NsStPhHe",
   "Ped_All": "ソルティシャックソウルオブザマターPrivate TermsプライヴェートアカウントDamascusBold RulerT.V.CommercialT.V.LarkTellイブンベイミルリーフNever Bendハイトップモガミリファールパーソロン"
  },
  {
@@ -139823,6 +143111,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeHa",
+  "Paternal_mig": "HaNsStSt",
   "Ped_All": "ティアルミナモントブルックBuckarooBuckpasserTom FoolNo RobberyJet DiplomacyExplodentDiplomat WayLomondNorthern DancerNearcticPokerEtonianOwen TudorArctic Prince"
  },
  {
@@ -139908,6 +143198,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "StNe",
+  "Paternal_mig": "RoHiToHa",
   "Ped_All": "ドーターライトシルバーチャームシルバーバックBuckpasserTom FoolHail to ReasonPokerRound TableWise MarginマイニングミスタープロスペクターRaise a NativeBuckpasserClever TrickアイスカペイドPia Star"
  },
  {
@@ -139993,6 +143285,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNe",
+  "Paternal_mig": "RoNePhSt",
   "Ped_All": "ナースホワイトドリームウェルサドラーズウェルズNorthern DancerNearcticBold ReasonアレッジドHoist the FlagNorthfieldsパドスールミルリーフNever BendStar MossノーザンテーストNorthern Dancerマリーノ"
  },
  {
@@ -140078,6 +143372,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "StNe",
+  "Paternal_mig": "HaStToMa",
   "Ped_All": "ハイウエストクロコルージュレインボウクエストブラッシンググルームRed GodエルバジェアレッジドHoist the FlagRound TableミスワキミスタープロスペクターRaise a NativeBuckpasserDixieland BandNorthern Dancerインリアリティ"
  },
  {
@@ -140163,6 +143459,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeMa",
+  "Paternal_mig": "NsHaStSt",
   "Ped_All": "ハイラヴァヒットジェイドロバリーミスタープロスペクターRaise a NativeNative DancerNashuaニジンスキーNorthern DancerフォルリミルジョージミルリーフNever BendRagusaヴェンチアRelicシンザン"
  },
  {
@@ -140248,6 +143546,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "08",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "MaNe",
+  "Paternal_mig": "StRoStSw",
   "Ped_All": "ハッピーライクタイキブリザードシアトルスルーBold ReasoningBoldnesianPokerササフラSheshoonHail to ReasonドクターデヴィアスアホヌーラロレンザッチオアレッジドビーマイゲストNorthern Dancerバステッド"
  },
  {
@@ -140333,6 +143633,8 @@ horse=
   "Paternal_hhht": "Ro",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "NsTe",
+  "Paternal_mig": "NeNeMaRo",
   "Ped_All": "ファンシードールティズナウcee's tizzyRelaunchインリアリティリファールseattle songシアトルスルーナイスダンサーSalt LakeデピュティミニスターVice RegentQueen City LadジャッジャーDamascusHail to Reason"
  },
  {
@@ -140418,6 +143720,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "03",
+  "Paternal_jik": "HaNs",
+  "Paternal_mig": "PhSwNtSt",
   "Ped_All": "ファンタジアラッテSaint BalladoヘイローHail to ReasonTurn-toCosmic BombエルバジェVandaleCohoesアイスカペイドNearcticNearcoNative DancerCircle HomeBold BidderPrince John"
  },
  {
@@ -140503,6 +143807,8 @@ horse=
   "Paternal_hhht": "Nt",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "RoNs",
+  "Paternal_mig": "ToNtStNt",
   "Ped_All": "ファントムマインドウォーニングノウンファクトインリアリティIntentionallyTim TamRobertoHail to ReasonRaise a NativeMajestic LightマジェスティックプリンスRaise a NativeRibotStevwardNashuaNative Dancer"
  },
  {
@@ -140588,6 +143894,8 @@ horse=
   "Paternal_hhht": "Ma",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoNs",
+  "Paternal_mig": "TeStSwMa",
   "Ped_All": "フィルムカッシープルラリズムThe MinstrelNorthern DancerNearcticVictoria ParkRobertoHail to ReasonSicambreカウアイキングNative DancerPolynesianBlenheimネヴァービートNever Say Dieリンボー"
  },
  {
@@ -140673,6 +143981,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "RoNsPhHe",
   "Ped_All": "フォトンクラウントウカイテイオーシンボリルドルフパーソロンMilesianスピードシンボリナイスダンサーNorthern DancerファバージティンバーカントリーウッドマンミスタープロスペクターPretenseノーザンテーストNorthern Dancerヒッティングアウェー"
  },
  {
@@ -140758,6 +144068,8 @@ horse=
   "Paternal_hhht": "He",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "MaNe",
+  "Paternal_mig": "NsNsNsHe",
   "Ped_All": "ホワイトスノーオグリキャップダンシングキャップNative DancerPolynesianGrey SovereignシルバーシャークBuisson Ardentネヴァービートメンデスベリファリファールカロニゾンニジンスキーダンディルート"
  },
  {
@@ -140843,6 +144155,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NeNe",
+  "Paternal_mig": "NsMaNsNs",
   "Ped_All": "マロンフェアリーヒシアリダーアリダーRaise a NativeNative DancerOn-and-OnノノアルコNearcticポリックシャンハイProcidaミスタープロスペクターリヴァーマンマルゼンスキーニジンスキーラフィンゴラ"
  },
  {
@@ -140928,6 +144242,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "08",
+  "Paternal_jik": "StPh",
+  "Paternal_mig": "TeTeMaHa",
   "Ped_All": "ミックスファントシャーディーダンチヒNorthern DancerNearcticAdmiral's VoyageHoist the FlagトムロルフJohns JoyカツラギエースボイズィーボーイKing's TroopヴェンチアイエラパMossboroughゲイタイム"
  },
  {
@@ -141013,6 +144329,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "HaRo",
+  "Paternal_mig": "NsHaTeSw",
   "Ped_All": "ミルクブレッドミシエロConquistador CieloミスタープロスペクターRaise a NativeBold CommanderThatchフォルリNodoubleノーザンテーストNorthern DancerNearcticVictoria ParkTouching WoodRobertoCrepello"
  },
  {
@@ -141098,6 +144416,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "MaNs",
+  "Paternal_mig": "StHiEcEc",
   "Ped_All": "ムシノシラセGreat AboveMinnesota MacRough'n TumbleFree for AllMustangIntentionallyIntentBetter SelfProud Birdieproud clarionHail to ReasonBoleroBig BurnNever BendBetter Bee"
  },
  {
@@ -141183,6 +144503,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "NsNe",
+  "Paternal_mig": "NsNeStSt",
   "Ped_All": "モーターブレイカーセイウンスカイシェリフズスターポッセフォルリカラムーンミルジョージミルリーフモガミMajestic LightマジェスティックプリンスRaise a NativeRibotダンチヒNorthern DancerLe Fabuleux"
  },
  {
@@ -141268,6 +144590,8 @@ horse=
   "Paternal_hhht": "Ha",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StNs",
+  "Paternal_mig": "TeHaHaHa",
   "Ped_All": "ライトブロッサムLord at WarGeneralBrigadier GerardQueen's HussarPanCon BrioRibotAtlasシャーラスタニニジンスキーNorthern DancerThatchリヴァーマンNever Bendハイハット"
  },
  {
@@ -141353,6 +144677,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "RoSt",
+  "Paternal_mig": "HeSwToEc",
   "Ped_All": "ラストスターダストオジジアンDamascusSword DancerSunglowMy BabuFrancis S.Royal ChargerCorrelationマルゼンスキーニジンスキーNorthern DancerBuckpasserボールドリックRound TableWhistler"
  },
  {
@@ -141438,6 +144764,8 @@ horse=
   "Paternal_hhht": "Sw",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "StSt",
+  "Paternal_mig": "MaNsMaSw",
   "Ped_All": "ラブフレイヤゴールデンフェザントカロフォルティノGrey SovereignChamossaireRound TablePrincequilloT.V.LarkアローエクスプレススパニッシュイクスプレスSovereign PathAirborneムーティエSicambreトサミドリ"
  },
  {
@@ -141523,6 +144851,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "05",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "RoHe",
+  "Paternal_mig": "HeSwNsSt",
   "Ped_All": "リゾートアッシュオジジアンDamascusSword DancerSunglowMy BabuFrancis S.Royal ChargerCorrelationRobertoHail to ReasonTurn-toNashuaProntoTimorPrincequillo"
  },
  {
@@ -141608,6 +144938,8 @@ horse=
   "Paternal_hhht": "Ns",
   "Factor_hhht_1": "03",
   "Factor_hhht_2": "01",
+  "Paternal_jik": "HeSw",
+  "Paternal_mig": "HaMaStNs",
   "Ped_All": "ルナアリスミホノブルボンマグニテュードミルリーフNever BendセントクレスピンシャレーリュティエユアハイネスミホシンザンシンザンヒンドスタンムーティエグッドリースノッブGrey Sovereign"
  },
  {
@@ -141693,6 +145025,8 @@ horse=
   "Paternal_hhht": "Ph",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "",
+  "Paternal_jik": "NtSt",
+  "Paternal_mig": "TeRoPhPh",
   "Ped_All": "ロアコンチェルンBelong to MeダンチヒNorthern DancerNearcticAdmiral's VoyageExclusive NativeRaise a NativeHail to ReasonシルヴァーホークRobertoHail to ReasonアメリゴアーツアンドレターズRibotCavan"
  },
  {
@@ -141778,6 +145112,8 @@ horse=
   "Paternal_hhht": "St",
   "Factor_hhht_1": "06",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "SwNe",
+  "Paternal_mig": "ToNsNsSt",
   "Ped_All": "ロイヤルビッテブラックタイアフェアーミスワキミスタープロスペクターRaise a NativeBuckpasserAl HattabThe AxeBold CommanderLaw SocietyアレッジドHoist the FlagBoldnesianStorm BirdNorthern DancerRound Table"
  },
  {
@@ -141863,6 +145199,8 @@ horse=
   "Paternal_hhht": "Te",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "02",
+  "Paternal_jik": "NeNt",
+  "Paternal_mig": "NsNsStTe",
   "Ped_All": "ヴァイオハートバンブービギンバンブーアトラスジムフレンチグロースタークテスコボーイノーザンテーストNorthern DancerダイハードシアトルスルーBold ReasoningBoldnesianPokerアリダーRaise a NativeCrafty Admiral"
  },
  {
@@ -141948,6 +145286,8 @@ horse=
   "Paternal_hhht": "Ec",
   "Factor_hhht_1": "",
   "Factor_hhht_2": "04",
+  "Paternal_jik": "RoHe",
+  "Paternal_mig": "PhFaSwEc",
   "Ped_All": "ヴァージンビートシンボリルドルフパーソロンMilesianMy BabuPharisスピードシンボリロイヤルチャレンヂャーPalestineFabulous DancerNorthern DancerNearcticThe AxeAbdosArbarTicino"
  }
 ]
