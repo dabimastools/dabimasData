@@ -8,14 +8,13 @@ function loadjs(){
   // チェックボックス全てを取得
   var chk = document.querySelectorAll("input[type='checkbox']");
   
-  
   //select要素の取得
   var select = document.querySelector("#selectfact");
   //option要素の取得（配列）
   var options = document.querySelectorAll("#selectfact option");
   
   // ラジオボタン
-  var sei_radio = document.getElementsByName("tab-head");
+  //var sei_radio = document.getElementsByName("tab-head");
   
    // ラジオボタン
   var ped_radio = document.getElementsByName("tab");
@@ -29,11 +28,13 @@ function loadjs(){
   select.addEventListener('change', (event) => {
       let sei = 0;
       let ped = 0;
-  	  for (let i = 0; i < sei_radio.length; i++) {
-  		if (sei_radio[i].id == "1" && sei_radio[i].checked ) {
-  			sei = 1;
-  		}
-  	  }
+
+//      for (let i = 0; i < sei_radio.length; i++) {
+//        if (sei_radio[i].id == "1" && sei_radio[i].checked ) {
+//          sei = 1;
+//        }
+//      }
+
   	  for (let i = 0; i < ped_radio.length; i++) {
   		if ( ped_radio[i].checked ) {
   			ped =  i;
@@ -282,5 +283,5 @@ function dispHorse(chk, sei, ped, factor) {
      sessionStorage.setItem('factor_idx', factor.selectedIndex);
      
      // 絞り込み実施
-     filterHorse(t_arr, ht_arr, mig_arr, jik_arr,ashi_arr, hosi_arr, sei, hibon_arr,factor.value);
+     filterHorse(t_arr, ht_arr, mig_arr, jik_arr,ashi_arr, hosi_arr, sei, hibon_arr ,factor.value);
 }

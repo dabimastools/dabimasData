@@ -571,7 +571,7 @@ function backShow() {
 function initShow() {
     header.innerHTML = getHeader();
 
-    tabHorse.innerHTML = getTabHorse();
+    horselist.innerHTML = getTabHorse();
 
     footer.innerHTML = getFooter();
 }
@@ -623,10 +623,19 @@ function getFactorList() {
 
 
 function filterHorse(t_arr,ht_arr,mig_arr,jik_arr, ashi_arr, hosi_arr, sei, hibon_arr, factor) {
-	var sql = '';
+	var sql_M = '';
+	var sql_F = '';
+	var sqlTmp = '';
+	
 	var sql_base  = 'SELECT * FROM ? h';
 	var sql_order = ' order by SerialNumber ASC';
-	const sql_where = ' where 0 = 0';
+	
+	const sql_where_M = ' where Gender = "1"';
+	const sql_where_F = ' where Gender = "2"';
+
+	sql += sql_base;
+	sql += sql_where;
+	
 	var sql_filter = '';
 	
 	// 父
@@ -640,23 +649,27 @@ function filterHorse(t_arr,ht_arr,mig_arr,jik_arr, ashi_arr, hosi_arr, sei, hibo
 	// 因子
 	sql_filter = filterSqlFactor(sql_filter, factor);
 	
-	sql += sql_base;
-	sql += sql_where;
-	//sql += 'sei = ' + sei ;
-	
 	if (sql_filter.length > 0) {	
-		sql += ' AND ';
-		sql += sql_filter;
+		sqlTmp += ' AND ';
+		sqlTmp += sql_filter;
 	} 
 	if (factor.length == 0) {
-		sql += sql_order;	
+		sqlTmp += sql_order;	
 	} else {
-		sql += sqlOrderFactor(factor);	
-	
+		sqlTmp += sqlOrderFactor(factor);	
 	}
 	
-	var j_horselist = alasql(sql, [horse]);
-	var contents = formatHorse(j_horselist);
+	sql_M = sql_base + sql_where_M + sqlTmp
+	sql_F = sql_base + sql_where_F + sqlTmp
+	
+	//種牡馬リストの取得
+	var j_horselist_M = alasql(sql_M, [horse]);
+	//繁殖牝馬の取得
+	var j_horselist_F = alasql(sql_F, [horse]);
+	
+	
+	var contents = formatHorse(j_horselist_M,j_horselist_F);
+	
 	horselist.innerHTML = contents;
 }
 
@@ -849,15 +862,20 @@ function filterSql_jik(arr, sql_filter, string) {
 }
 
 
-function formatHorse(j_horselist) {
+function formatHorse(j_horselist_M,j_horselist_F) {
 	//html整形
 	var horse_idx_arr = [];
+	let Num_M = 0;
+	let Num_F = 0;
 	let cnt = 0;
 	let tag = '';
-
-	while (j_horselist.length > cnt) {
+	
+	Num_M = j_horselist_M.length
+    tag += '<div class="tabmenu-head"><div class="footer"><label><input name="tab-head" id="0" type="radio" checked="" class="sei"><em>種牡馬 ' + Num_M + '件</em>'
+	//種牡馬
+	while (j_horselist_M.length > cnt) {
 		//配列渡し
-		var j_horse = j_horselist[cnt];	
+		var j_horse = j_horselist_M[cnt];	
 		
 		//ヘッダ部作成
 		tag += getHeaderDetail(j_horse)
@@ -866,9 +884,28 @@ function formatHorse(j_horselist) {
 		
 		cnt++;
 	}
+	tag += '</label>'
+	
+	Num_F = j_horselist_F.length
+    tag += '<label><input name="tab-head" id="1" type="radio" class="sei"><em>牝馬 ' + Num_F + '件</em>'	
+	//牝馬
+	cnt = 0;
+	while (j_horselist_F.length > cnt) {
+		//配列渡し
+		var j_horse = j_horselist_F[cnt];	
+		
+		//ヘッダ部作成
+		tag += getHeaderDetail(j_horse)
+		//血統部作成
+		tag += getContentsDetail(j_horse)
+		
+		cnt++;
+	}
+	
+	tag += '</label></div></div>';
 
 	// 表示状態を維持
-	sessionStorage.setItem('contents', tag);
+	sessionStorage.setItem('horselist', tag);
 	// 条件保存 チェックボックス
     sessionStorage.setItem('horse_idx_arr' ,horse_idx_arr.join(','));
 	return tag;
@@ -922,14 +959,14 @@ function getHeader() {
 
 function getTabHorse() {
     let tag = '<div class="tabmenu-head"><div class="footer"><label><input name="tab-head" id="0" type="radio" checked="" class="sei"><em>種牡馬</em></label><label><input name="tab-head" id="1" type="radio" class="sei"><em>牝馬</em></label></div></div>';
-    sessionStorage.setItem('tabHorse', tag);
+    sessionStorage.setItem('horselist', tag);
     return tag;
 }
 
 function getFooter() {
     let tag = '<div class="footertxt">';
-    tag += '<a class="tw_share" href="http://twitter.com/share?url=https://yanaifarm.github.io/index.html&text=ダビ検&hashtags=ダビ検索" target="_blank">共有</a>';
-    tag += 'ダビ検索<a href="https://twitter.com/yanaiFarm">@やないあいこ牧場</a>　thanks to ふじろん牧場さま</div>';
+    tag += '<a class="tw_share" href="http://twitter.com/share?url=https://yanaifarm.github.io/index.html&text=ダビ娘&hashtags=ダビ娘" target="_blank">共有</a>';
+    tag += 'ダビ娘<a href="https://twitter.com/yanaiFarm">@やないあいこ牧場</a>　thanks to ふじろん牧場さま</div>';
 
     sessionStorage.setItem('footer', tag);	
     return tag;
