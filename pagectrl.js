@@ -82,11 +82,10 @@ function loadjs(){
   //				ped =  i;
   //			}
   //		}
-  		dispHorse(chk , sei, ped, select);
-  		lisnerLink();
-  	
-  	});
-  }
+  //		dispHorse(chk , sei, ped, select);
+  //		lisnerLink();
+  //		});
+  //}
   lisnerLink(); 
 }
 
