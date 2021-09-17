@@ -2,7 +2,7 @@ horse=
 [
  {
   "SerialNumber": "00001",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1568731452",
   "HorseName": "アイシラヌユエ20XX",
   "Rare": "5",
@@ -89,7 +89,7 @@ horse=
  },
  {
   "SerialNumber": "00002",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6162543839",
   "HorseName": "アイスカペイド1973",
   "Rare": "5",
@@ -176,7 +176,7 @@ horse=
  },
  {
   "SerialNumber": "00003",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218163573",
   "HorseName": "アイナドイラヌ20XX",
   "Rare": "5",
@@ -263,7 +263,7 @@ horse=
  },
  {
   "SerialNumber": "00004",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452441686",
   "HorseName": "アイネスフウジン",
   "Rare": "5",
@@ -350,7 +350,7 @@ horse=
  },
  {
   "SerialNumber": "00005",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8315438266",
   "HorseName": "アイランドホワール",
   "Rare": "5",
@@ -437,7 +437,7 @@ horse=
  },
  {
   "SerialNumber": "00006",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218652543",
   "HorseName": "アイランドホワール-瞬発-",
   "Rare": "5",
@@ -524,7 +524,7 @@ horse=
  },
  {
   "SerialNumber": "00007",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452821783",
   "HorseName": "アイリッシュリヴァー-覇走-",
   "Rare": "5",
@@ -611,7 +611,7 @@ horse=
  },
  {
   "SerialNumber": "00008",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8010383245",
   "HorseName": "アウザール1992",
   "Rare": "5",
@@ -698,7 +698,7 @@ horse=
  },
  {
   "SerialNumber": "00009",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7234185331",
   "HorseName": "アカテナンゴ",
   "Rare": "5",
@@ -785,7 +785,7 @@ horse=
  },
  {
   "SerialNumber": "00010",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2863140563",
   "HorseName": "アクアク-瞬発-",
   "Rare": "5",
@@ -872,7 +872,7 @@ horse=
  },
  {
   "SerialNumber": "00011",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9172546832",
   "HorseName": "アグネスタキオン",
   "Rare": "5",
@@ -959,7 +959,7 @@ horse=
  },
  {
   "SerialNumber": "00012",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0281535403",
   "HorseName": "アグネスタキオン2008",
   "Rare": "5",
@@ -1046,7 +1046,7 @@ horse=
  },
  {
   "SerialNumber": "00013",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6538231482",
   "HorseName": "アグネスワールド",
   "Rare": "5",
@@ -1133,7 +1133,7 @@ horse=
  },
  {
   "SerialNumber": "00014",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8412323245",
   "HorseName": "アサティス1989",
   "Rare": "5",
@@ -1220,7 +1220,7 @@ horse=
  },
  {
   "SerialNumber": "00015",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0521328413",
   "HorseName": "アジュディミツオー2006",
   "Rare": "5",
@@ -1307,7 +1307,7 @@ horse=
  },
  {
   "SerialNumber": "00016",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1974821351",
   "HorseName": "アドマイヤソン",
   "Rare": "5",
@@ -1394,7 +1394,7 @@ horse=
  },
  {
   "SerialNumber": "00017",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5834123612",
   "HorseName": "アドマイヤベガ",
   "Rare": "5",
@@ -1481,7 +1481,7 @@ horse=
  },
  {
   "SerialNumber": "00018",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7558731402",
   "HorseName": "アドマイヤムーン",
   "Rare": "5",
@@ -1568,7 +1568,7 @@ horse=
  },
  {
   "SerialNumber": "00019",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5804023319",
   "HorseName": "アドマイヤムーン2007",
   "Rare": "5",
@@ -1655,7 +1655,7 @@ horse=
  },
  {
   "SerialNumber": "00020",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4428165213",
   "HorseName": "アニマルキングダム",
   "Rare": "5",
@@ -1742,7 +1742,7 @@ horse=
  },
  {
   "SerialNumber": "00021",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1624824356",
   "HorseName": "アフリート",
   "Rare": "5",
@@ -1829,7 +1829,7 @@ horse=
  },
  {
   "SerialNumber": "00022",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6428235213",
   "HorseName": "アブクマポーロ1997",
   "Rare": "5",
@@ -1916,7 +1916,7 @@ horse=
  },
  {
   "SerialNumber": "00023",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8615243177",
   "HorseName": "アベシ",
   "Rare": "5",
@@ -2003,7 +2003,7 @@ horse=
  },
  {
   "SerialNumber": "00024",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8335243196",
   "HorseName": "アホヌーラ1987",
   "Rare": "5",
@@ -2090,7 +2090,7 @@ horse=
  },
  {
   "SerialNumber": "00025",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8775243170",
   "HorseName": "アマヲカケル",
   "Rare": "5",
@@ -2177,7 +2177,7 @@ horse=
  },
  {
   "SerialNumber": "00026",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2391439658",
   "HorseName": "アメリカンファラオ-覇走-",
   "Rare": "5",
@@ -2264,7 +2264,7 @@ horse=
  },
  {
   "SerialNumber": "00027",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2314537248",
   "HorseName": "アメリカンファラオ2015",
   "Rare": "5",
@@ -2351,7 +2351,7 @@ horse=
  },
  {
   "SerialNumber": "00028",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6558431442",
   "HorseName": "アメリカンポスト",
   "Rare": "5",
@@ -2438,7 +2438,7 @@ horse=
  },
  {
   "SerialNumber": "00029",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8315458264",
   "HorseName": "アメリゴ-覇走-",
   "Rare": "5",
@@ -2525,7 +2525,7 @@ horse=
  },
  {
   "SerialNumber": "00030",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2839140533",
   "HorseName": "アリダー1990",
   "Rare": "5",
@@ -2612,7 +2612,7 @@ horse=
  },
  {
   "SerialNumber": "00031",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1254825356",
   "HorseName": "アルアイン",
   "Rare": "5",
@@ -2699,7 +2699,7 @@ horse=
  },
  {
   "SerialNumber": "00032",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9478535712",
   "HorseName": "アルコル",
   "Rare": "5",
@@ -2786,7 +2786,7 @@ horse=
  },
  {
   "SerialNumber": "00033",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0521318423",
   "HorseName": "アルサイド1958",
   "Rare": "5",
@@ -2873,7 +2873,7 @@ horse=
  },
  {
   "SerialNumber": "00034",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2832141593",
   "HorseName": "アルサイド1959",
   "Rare": "5",
@@ -2960,7 +2960,7 @@ horse=
  },
  {
   "SerialNumber": "00035",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2836142543",
   "HorseName": "アルザオ-覇走-",
   "Rare": "5",
@@ -3047,7 +3047,7 @@ horse=
  },
  {
   "SerialNumber": "00036",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2521308413",
   "HorseName": "アルムタワケル1999",
   "Rare": "5",
@@ -3134,7 +3134,7 @@ horse=
  },
  {
   "SerialNumber": "00037",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1428735213",
   "HorseName": "アレッジド1977",
   "Rare": "5",
@@ -3221,7 +3221,7 @@ horse=
  },
  {
   "SerialNumber": "00038",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8165243168",
   "HorseName": "アレミロード",
   "Rare": "5",
@@ -3308,7 +3308,7 @@ horse=
  },
  {
   "SerialNumber": "00039",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3578731422",
   "HorseName": "アロゲート2016",
   "Rare": "5",
@@ -3395,7 +3395,7 @@ horse=
  },
  {
   "SerialNumber": "00040",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3123844251",
   "HorseName": "アンダースタンディング-覇走-",
   "Rare": "5",
@@ -3482,7 +3482,7 @@ horse=
  },
  {
   "SerialNumber": "00041",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452521786",
   "HorseName": "アンバーシャダイ",
   "Rare": "5",
@@ -3569,7 +3569,7 @@ horse=
  },
  {
   "SerialNumber": "00042",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1564824353",
   "HorseName": "アンブライドルズソング-覇走-",
   "Rare": "5",
@@ -3656,7 +3656,7 @@ horse=
  },
  {
   "SerialNumber": "00043",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3354124082",
   "HorseName": "アーツアンドレターズ1969",
   "Rare": "5",
@@ -3743,7 +3743,7 @@ horse=
  },
  {
   "SerialNumber": "00044",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5412364983",
   "HorseName": "アーティアス",
   "Rare": "5",
@@ -3830,7 +3830,7 @@ horse=
  },
  {
   "SerialNumber": "00045",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2234185372",
   "HorseName": "アーミジャー1992",
   "Rare": "5",
@@ -3917,7 +3917,7 @@ horse=
  },
  {
   "SerialNumber": "00046",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3351124382",
   "HorseName": "イエローゴッド1978",
   "Rare": "5",
@@ -4004,7 +4004,7 @@ horse=
  },
  {
   "SerialNumber": "00047",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3355124180",
   "HorseName": "イシノヒカル1972",
   "Rare": "5",
@@ -4091,7 +4091,7 @@ horse=
  },
  {
   "SerialNumber": "00048",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0035284114",
   "HorseName": "イッカクジュウ",
   "Rare": "5",
@@ -4178,7 +4178,7 @@ horse=
  },
  {
   "SerialNumber": "00049",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7214185342",
   "HorseName": "イナリアン",
   "Rare": "5",
@@ -4265,7 +4265,7 @@ horse=
  },
  {
   "SerialNumber": "00050",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5844523310",
   "HorseName": "イナリワン1988",
   "Rare": "5",
@@ -4352,7 +4352,7 @@ horse=
  },
  {
   "SerialNumber": "00051",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5712334983",
   "HorseName": "イナリワン1989",
   "Rare": "5",
@@ -4439,7 +4439,7 @@ horse=
  },
  {
   "SerialNumber": "00052",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6588231432",
   "HorseName": "イフラージ",
   "Rare": "5",
@@ -4526,7 +4526,7 @@ horse=
  },
  {
   "SerialNumber": "00053",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1904826353",
   "HorseName": "イブンベイ1990",
   "Rare": "5",
@@ -4613,7 +4613,7 @@ horse=
  },
  {
   "SerialNumber": "00054",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6548431452",
   "HorseName": "イルミネーション",
   "Rare": "5",
@@ -4700,7 +4700,7 @@ horse=
  },
  {
   "SerialNumber": "00055",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5712314985",
   "HorseName": "イレコンドルパサー",
   "Rare": "5",
@@ -4787,7 +4787,7 @@ horse=
  },
  {
   "SerialNumber": "00056",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4264185331",
   "HorseName": "インターメゾ",
   "Rare": "5",
@@ -4874,7 +4874,7 @@ horse=
  },
  {
   "SerialNumber": "00057",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5264185330",
   "HorseName": "インディアンチャーリー",
   "Rare": "5",
@@ -4961,7 +4961,7 @@ horse=
  },
  {
   "SerialNumber": "00058",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3548931432",
   "HorseName": "インペリアルダンサー2003",
   "Rare": "5",
@@ -5048,7 +5048,7 @@ horse=
  },
  {
   "SerialNumber": "00059",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3558631452",
   "HorseName": "インリアリティ1977",
   "Rare": "5",
@@ -5135,7 +5135,7 @@ horse=
  },
  {
   "SerialNumber": "00060",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8965243124",
   "HorseName": "インヴィンシブルスピリット",
   "Rare": "5",
@@ -5222,7 +5222,7 @@ horse=
  },
  {
   "SerialNumber": "00061",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218618523",
   "HorseName": "イーグルカフェ",
   "Rare": "5",
@@ -5309,7 +5309,7 @@ horse=
  },
  {
   "SerialNumber": "00062",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1074825383",
   "HorseName": "イーグルカフェ",
   "Rare": "5",
@@ -5396,7 +5396,7 @@ horse=
  },
  {
   "SerialNumber": "00063",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8835243173",
   "HorseName": "イーグルカフェ2002",
   "Rare": "5",
@@ -5483,7 +5483,7 @@ horse=
  },
  {
   "SerialNumber": "00064",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3123844053",
   "HorseName": "イージーゴア1989",
   "Rare": "5",
@@ -5570,7 +5570,7 @@ horse=
  },
  {
   "SerialNumber": "00065",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0314539248",
   "HorseName": "ウィングドラヴ1995",
   "Rare": "5",
@@ -5657,7 +5657,7 @@ horse=
  },
  {
   "SerialNumber": "00066",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1754820356",
   "HorseName": "ウェルノール",
   "Rare": "5",
@@ -5744,7 +5744,7 @@ horse=
  },
  {
   "SerialNumber": "00067",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6214458369",
   "HorseName": "ウォーエンブレム",
   "Rare": "5",
@@ -5831,7 +5831,7 @@ horse=
  },
  {
   "SerialNumber": "00068",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2264185333",
   "HorseName": "ウォーニング",
   "Rare": "5",
@@ -5918,7 +5918,7 @@ horse=
  },
  {
   "SerialNumber": "00069",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8014613245",
   "HorseName": "ウォーフロント-瞬発-",
   "Rare": "5",
@@ -6005,7 +6005,7 @@ horse=
  },
  {
   "SerialNumber": "00070",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5412364488",
   "HorseName": "ウッドマン-覇走-",
   "Rare": "5",
@@ -6092,7 +6092,7 @@ horse=
  },
  {
   "SerialNumber": "00071",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218334573",
   "HorseName": "ウッドマン1990",
   "Rare": "5",
@@ -6179,7 +6179,7 @@ horse=
  },
  {
   "SerialNumber": "00072",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0478335213",
   "HorseName": "エイシンヒカリ",
   "Rare": "5",
@@ -6266,7 +6266,7 @@ horse=
  },
  {
   "SerialNumber": "00073",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218361573",
   "HorseName": "エイシンプレストン2003",
   "Rare": "5",
@@ -6353,7 +6353,7 @@ horse=
  },
  {
   "SerialNumber": "00074",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8865243161",
   "HorseName": "エクシードアンドエクセル",
   "Rare": "5",
@@ -6440,7 +6440,7 @@ horse=
  },
  {
   "SerialNumber": "00075",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2832148523",
   "HorseName": "エピファネイア-覇走-",
   "Rare": "5",
@@ -6527,7 +6527,7 @@ horse=
  },
  {
   "SerialNumber": "00076",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8535243167",
   "HorseName": "エフフォーリア-闘覇-",
   "Rare": "5",
@@ -6614,7 +6614,7 @@ horse=
  },
  {
   "SerialNumber": "00077",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5281530403",
   "HorseName": "エリモジョージ1976",
   "Rare": "5",
@@ -6701,7 +6701,7 @@ horse=
  },
  {
   "SerialNumber": "00078",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3518731482",
   "HorseName": "エルグランセニョール1984",
   "Rare": "5",
@@ -6788,7 +6788,7 @@ horse=
  },
  {
   "SerialNumber": "00079",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0264185317",
   "HorseName": "エルコンドルパサー",
   "Rare": "5",
@@ -6875,7 +6875,7 @@ horse=
  },
  {
   "SerialNumber": "00080",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7182543836",
   "HorseName": "エルコンドルパサー",
   "Rare": "5",
@@ -6962,7 +6962,7 @@ horse=
  },
  {
   "SerialNumber": "00081",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2832147533",
   "HorseName": "エルコンドルパサー-覇走-",
   "Rare": "5",
@@ -7049,7 +7049,7 @@ horse=
  },
  {
   "SerialNumber": "00082",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3123846051",
   "HorseName": "エルコンドルパサー1999",
   "Rare": "5",
@@ -7136,7 +7136,7 @@ horse=
  },
  {
   "SerialNumber": "00083",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7172543837",
   "HorseName": "エルヴストローム2005",
   "Rare": "5",
@@ -7223,7 +7223,7 @@ horse=
  },
  {
   "SerialNumber": "00084",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3353124182",
   "HorseName": "エレクトロキューショニスト2006",
   "Rare": "5",
@@ -7310,7 +7310,7 @@ horse=
  },
  {
   "SerialNumber": "00085",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3428265213",
   "HorseName": "エンドスウィープ",
   "Rare": "5",
@@ -7397,7 +7397,7 @@ horse=
  },
  {
   "SerialNumber": "00086",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0498315213",
   "HorseName": "エースタナハシ",
   "Rare": "5",
@@ -7484,7 +7484,7 @@ horse=
  },
  {
   "SerialNumber": "00087",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452471683",
   "HorseName": "エーピーインディ1992",
   "Rare": "5",
@@ -7571,7 +7571,7 @@ horse=
  },
  {
   "SerialNumber": "00088",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6548631432",
   "HorseName": "オアシスドリーム",
   "Rare": "5",
@@ -7658,7 +7658,7 @@ horse=
  },
  {
   "SerialNumber": "00089",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8212343245",
   "HorseName": "オグリキャップ-覇煌-",
   "Rare": "5",
@@ -7745,7 +7745,7 @@ horse=
  },
  {
   "SerialNumber": "00090",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2830147553",
   "HorseName": "オグリキャップ1990",
   "Rare": "5",
@@ -7832,7 +7832,7 @@ horse=
  },
  {
   "SerialNumber": "00091",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8710313245",
   "HorseName": "オサイチジョージ1990",
   "Rare": "5",
@@ -7919,7 +7919,7 @@ horse=
  },
  {
   "SerialNumber": "00092",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7234188310",
   "HorseName": "オサムフォレスト",
   "Rare": "5",
@@ -8006,7 +8006,7 @@ horse=
  },
  {
   "SerialNumber": "00093",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2408835213",
   "HorseName": "オジジアン1986",
   "Rare": "5",
@@ -8093,7 +8093,7 @@ horse=
  },
  {
   "SerialNumber": "00094",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2817143543",
   "HorseName": "オトコノビガク",
   "Rare": "5",
@@ -8180,7 +8180,7 @@ horse=
  },
  {
   "SerialNumber": "00095",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3281530423",
   "HorseName": "オペラハウス-剛健-",
   "Rare": "5",
@@ -8267,7 +8267,7 @@ horse=
  },
  {
   "SerialNumber": "00096",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9234185320",
   "HorseName": "オペラハウス1993",
   "Rare": "5",
@@ -8354,7 +8354,7 @@ horse=
  },
  {
   "SerialNumber": "00097",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218362563",
   "HorseName": "オメガパフューム2019",
   "Rare": "5",
@@ -8441,7 +8441,7 @@ horse=
  },
  {
   "SerialNumber": "00098",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2837144513",
   "HorseName": "オルフェーヴル",
   "Rare": "5",
@@ -8528,7 +8528,7 @@ horse=
  },
  {
   "SerialNumber": "00099",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1825949339",
   "HorseName": "オルフェーヴル-覇走-",
   "Rare": "5",
@@ -8615,7 +8615,7 @@ horse=
  },
  {
   "SerialNumber": "00100",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9315498232",
   "HorseName": "オルフェーヴル-覇靭-",
   "Rare": "5",
@@ -8702,7 +8702,7 @@ horse=
  },
  {
   "SerialNumber": "00101",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3614530278",
   "HorseName": "オルフェーヴル2013",
   "Rare": "5",
@@ -8789,7 +8789,7 @@ horse=
  },
  {
   "SerialNumber": "00102",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5912334783",
   "HorseName": "カコイーシーズ1991",
   "Rare": "5",
@@ -8876,7 +8876,7 @@ horse=
  },
  {
   "SerialNumber": "00103",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1578731442",
   "HorseName": "カサンドラデンセツ",
   "Rare": "5",
@@ -8963,7 +8963,7 @@ horse=
  },
  {
   "SerialNumber": "00104",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1074824357",
   "HorseName": "カズタカイザー",
   "Rare": "5",
@@ -9050,7 +9050,7 @@ horse=
  },
  {
   "SerialNumber": "00105",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0314537268",
   "HorseName": "カズタカイザー",
   "Rare": "5",
@@ -9137,7 +9137,7 @@ horse=
  },
  {
   "SerialNumber": "00106",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8465243129",
   "HorseName": "カズタカイザー？",
   "Rare": "5",
@@ -9224,7 +9224,7 @@ horse=
  },
  {
   "SerialNumber": "00107",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2877140513",
   "HorseName": "カズタカイザー？",
   "Rare": "5",
@@ -9311,7 +9311,7 @@ horse=
  },
  {
   "SerialNumber": "00108",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8915243192",
   "HorseName": "カツラギエース",
   "Rare": "5",
@@ -9398,7 +9398,7 @@ horse=
  },
  {
   "SerialNumber": "00109",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3123841650",
   "HorseName": "カツラギエース-覇靭-",
   "Rare": "5",
@@ -9485,7 +9485,7 @@ horse=
  },
  {
   "SerialNumber": "00110",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2035280314",
   "HorseName": "カツラギエース1984",
   "Rare": "5",
@@ -9572,7 +9572,7 @@ horse=
  },
  {
   "SerialNumber": "00111",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3548731452",
   "HorseName": "カツラノハイセイコ",
   "Rare": "5",
@@ -9659,7 +9659,7 @@ horse=
  },
  {
   "SerialNumber": "00112",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1374825353",
   "HorseName": "カネヒキリ2005",
   "Rare": "5",
@@ -9746,7 +9746,7 @@ horse=
  },
  {
   "SerialNumber": "00113",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3352124480",
   "HorseName": "カブトシロー1967",
   "Rare": "5",
@@ -9833,7 +9833,7 @@ horse=
  },
  {
   "SerialNumber": "00114",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3588731412",
   "HorseName": "カブラヤオー1975",
   "Rare": "5",
@@ -9920,7 +9920,7 @@ horse=
  },
  {
   "SerialNumber": "00115",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8015603245",
   "HorseName": "カポーティ",
   "Rare": "5",
@@ -10007,7 +10007,7 @@ horse=
  },
  {
   "SerialNumber": "00116",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3123843054",
   "HorseName": "カラムーン1974",
   "Rare": "5",
@@ -10094,7 +10094,7 @@ horse=
  },
  {
   "SerialNumber": "00117",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452971183",
   "HorseName": "カリフォルニアクローム2014",
   "Rare": "5",
@@ -10181,7 +10181,7 @@ horse=
  },
  {
   "SerialNumber": "00118",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5844323312",
   "HorseName": "カロ1977",
   "Rare": "5",
@@ -10268,7 +10268,7 @@ horse=
  },
  {
   "SerialNumber": "00119",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452491483",
   "HorseName": "カンパニー2009",
   "Rare": "5",
@@ -10355,7 +10355,7 @@ horse=
  },
  {
   "SerialNumber": "00120",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2839142513",
   "HorseName": "カーネギー1994",
   "Rare": "5",
@@ -10442,7 +10442,7 @@ horse=
  },
  {
   "SerialNumber": "00121",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7315488262",
   "HorseName": "カーリアン",
   "Rare": "5",
@@ -10529,7 +10529,7 @@ horse=
  },
  {
   "SerialNumber": "00122",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5864123312",
   "HorseName": "カーリアン-瞬発-",
   "Rare": "5",
@@ -10616,7 +10616,7 @@ horse=
  },
  {
   "SerialNumber": "00123",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2281531423",
   "HorseName": "カーリン-覇走-",
   "Rare": "5",
@@ -10703,7 +10703,7 @@ horse=
  },
  {
   "SerialNumber": "00124",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8865243107",
   "HorseName": "ガリレオ",
   "Rare": "5",
@@ -10790,7 +10790,7 @@ horse=
  },
  {
   "SerialNumber": "00125",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1281532423",
   "HorseName": "ガリレオ-闘覇-",
   "Rare": "5",
@@ -10877,7 +10877,7 @@ horse=
  },
  {
   "SerialNumber": "00126",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452771383",
   "HorseName": "ガリレオ2001",
   "Rare": "5",
@@ -10964,7 +10964,7 @@ horse=
  },
  {
   "SerialNumber": "00127",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8012633245",
   "HorseName": "ガリレオゴールド",
   "Rare": "5",
@@ -11051,7 +11051,7 @@ horse=
  },
  {
   "SerialNumber": "00128",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3568931412",
   "HorseName": "ガルチ-瞬発-",
   "Rare": "5",
@@ -11138,7 +11138,7 @@ horse=
  },
  {
   "SerialNumber": "00129",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5314537218",
   "HorseName": "ガルチ1988",
   "Rare": "5",
@@ -11225,7 +11225,7 @@ horse=
  },
  {
   "SerialNumber": "00130",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7214185333",
   "HorseName": "ガンザリボルバー",
   "Rare": "5",
@@ -11312,7 +11312,7 @@ horse=
  },
  {
   "SerialNumber": "00131",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6314530278",
   "HorseName": "ガンランナー2017",
   "Rare": "5",
@@ -11399,7 +11399,7 @@ horse=
  },
  {
   "SerialNumber": "00132",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8315438239",
   "HorseName": "ガーサント1970",
   "Rare": "5",
@@ -11486,7 +11486,7 @@ horse=
  },
  {
   "SerialNumber": "00133",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218357523",
   "HorseName": "キズナ2014",
   "Rare": "5",
@@ -11573,7 +11573,7 @@ horse=
  },
  {
   "SerialNumber": "00134",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9315448237",
   "HorseName": "キタサンブラック",
   "Rare": "5",
@@ -11660,7 +11660,7 @@ horse=
  },
  {
   "SerialNumber": "00135",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1044828356",
   "HorseName": "キタサンブラック",
   "Rare": "5",
@@ -11747,7 +11747,7 @@ horse=
  },
  {
   "SerialNumber": "00136",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2234185381",
   "HorseName": "キタサンブラック-闘煌-",
   "Rare": "5",
@@ -11834,7 +11834,7 @@ horse=
  },
  {
   "SerialNumber": "00137",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452171983",
   "HorseName": "キタサンブラック2016",
   "Rare": "5",
@@ -11921,7 +11921,7 @@ horse=
  },
  {
   "SerialNumber": "00138",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452671483",
   "HorseName": "キタサンブラック2017",
   "Rare": "5",
@@ -12008,7 +12008,7 @@ horse=
  },
  {
   "SerialNumber": "00139",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5824123316",
   "HorseName": "キタノカチドキ1974",
   "Rare": "5",
@@ -12095,7 +12095,7 @@ horse=
  },
  {
   "SerialNumber": "00140",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0234185347",
   "HorseName": "キャメロット2012",
   "Rare": "5",
@@ -12182,7 +12182,7 @@ horse=
  },
  {
   "SerialNumber": "00141",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7985473231",
   "HorseName": "キャロルハウス1989",
   "Rare": "5",
@@ -12269,7 +12269,7 @@ horse=
  },
  {
   "SerialNumber": "00142",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8665243127",
   "HorseName": "キャンディライド",
   "Rare": "5",
@@ -12356,7 +12356,7 @@ horse=
  },
  {
   "SerialNumber": "00143",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2445310821",
   "HorseName": "キョウイチブレイブ",
   "Rare": "5",
@@ -12443,7 +12443,7 @@ horse=
  },
  {
   "SerialNumber": "00144",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5884123310",
   "HorseName": "キングオブキングス1998",
   "Rare": "5",
@@ -12530,7 +12530,7 @@ horse=
  },
  {
   "SerialNumber": "00145",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3121840950",
   "HorseName": "キングオブチェーン",
   "Rare": "5",
@@ -12617,7 +12617,7 @@ horse=
  },
  {
   "SerialNumber": "00146",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7264185310",
   "HorseName": "キングカメハメハ",
   "Rare": "5",
@@ -12704,7 +12704,7 @@ horse=
  },
  {
   "SerialNumber": "00147",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9314532228",
   "HorseName": "キングカメハメハ-覇走-",
   "Rare": "5",
@@ -12791,7 +12791,7 @@ horse=
  },
  {
   "SerialNumber": "00148",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3588031482",
   "HorseName": "キングカメハメハ2012",
   "Rare": "5",
@@ -12878,7 +12878,7 @@ horse=
  },
  {
   "SerialNumber": "00149",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8019113245",
   "HorseName": "キングコング",
   "Rare": "5",
@@ -12965,7 +12965,7 @@ horse=
  },
  {
   "SerialNumber": "00150",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3350124086",
   "HorseName": "キングズベスト-闘覇-",
   "Rare": "5",
@@ -13052,7 +13052,7 @@ horse=
  },
  {
   "SerialNumber": "00151",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3408735213",
   "HorseName": "キングズベスト2007",
   "Rare": "5",
@@ -13139,7 +13139,7 @@ horse=
  },
  {
   "SerialNumber": "00152",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5804223119",
   "HorseName": "キングマカベ-瞬闘-",
   "Rare": "5",
@@ -13226,7 +13226,7 @@ horse=
  },
  {
   "SerialNumber": "00153",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1364826353",
   "HorseName": "キングマンボ-覇煌-",
   "Rare": "5",
@@ -13313,7 +13313,7 @@ horse=
  },
  {
   "SerialNumber": "00154",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5712334488",
   "HorseName": "キングマンボ1993",
   "Rare": "5",
@@ -13400,7 +13400,7 @@ horse=
  },
  {
   "SerialNumber": "00155",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5912334288",
   "HorseName": "キングマンボ2001",
   "Rare": "5",
@@ -13487,7 +13487,7 @@ horse=
  },
  {
   "SerialNumber": "00156",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9585493231",
   "HorseName": "キンシャサノキセキ2010",
   "Rare": "5",
@@ -13574,7 +13574,7 @@ horse=
  },
  {
   "SerialNumber": "00157",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5894023310",
   "HorseName": "キートゥザミント1972",
   "Rare": "5",
@@ -13661,7 +13661,7 @@ horse=
  },
  {
   "SerialNumber": "00158",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2866142513",
   "HorseName": "ギャロップダイナ",
   "Rare": "5",
@@ -13748,7 +13748,7 @@ horse=
  },
  {
   "SerialNumber": "00159",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7214758338",
   "HorseName": "ギルデッドタイム1992",
   "Rare": "5",
@@ -13835,7 +13835,7 @@ horse=
  },
  {
   "SerialNumber": "00160",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6214558368",
   "HorseName": "クラウンドプリンス",
   "Rare": "5",
@@ -13922,7 +13922,7 @@ horse=
  },
  {
   "SerialNumber": "00161",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8665243154",
   "HorseName": "クラウンドプリンス",
   "Rare": "5",
@@ -14009,7 +14009,7 @@ horse=
  },
  {
   "SerialNumber": "00162",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6598431402",
   "HorseName": "クリエイター",
   "Rare": "5",
@@ -14096,7 +14096,7 @@ horse=
  },
  {
   "SerialNumber": "00163",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8512313245",
   "HorseName": "クリスエス-闘志-",
   "Rare": "5",
@@ -14183,7 +14183,7 @@ horse=
  },
  {
   "SerialNumber": "00164",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8410343245",
   "HorseName": "クリスエス1999",
   "Rare": "5",
@@ -14270,7 +14270,7 @@ horse=
  },
  {
   "SerialNumber": "00165",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452061886",
   "HorseName": "クリスタルグリッターズ",
   "Rare": "5",
@@ -14357,7 +14357,7 @@ horse=
  },
  {
   "SerialNumber": "00166",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1314536268",
   "HorseName": "クリソベリル-砂煌-",
   "Rare": "5",
@@ -14444,7 +14444,7 @@ horse=
  },
  {
   "SerialNumber": "00167",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2832146543",
   "HorseName": "クリソベリル2019",
   "Rare": "5",
@@ -14531,7 +14531,7 @@ horse=
  },
  {
   "SerialNumber": "00168",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9438537912",
   "HorseName": "クリミナルタイプ1990",
   "Rare": "5",
@@ -14618,7 +14618,7 @@ horse=
  },
  {
   "SerialNumber": "00169",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5212364985",
   "HorseName": "クロフネ",
   "Rare": "5",
@@ -14705,7 +14705,7 @@ horse=
  },
  {
   "SerialNumber": "00170",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452561683",
   "HorseName": "クロフネ-瞬走-",
   "Rare": "5",
@@ -14792,7 +14792,7 @@ horse=
  },
  {
   "SerialNumber": "00171",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452791183",
   "HorseName": "クロフネ2001",
   "Rare": "5",
@@ -14879,7 +14879,7 @@ horse=
  },
  {
   "SerialNumber": "00172",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2405332821",
   "HorseName": "グラスワンダー-覇走-",
   "Rare": "5",
@@ -14966,7 +14966,7 @@ horse=
  },
  {
   "SerialNumber": "00173",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6408435213",
   "HorseName": "グラスワンダー1999",
   "Rare": "5",
@@ -15053,7 +15053,7 @@ horse=
  },
  {
   "SerialNumber": "00174",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218375523",
   "HorseName": "グランディ1975",
   "Rare": "5",
@@ -15140,7 +15140,7 @@ horse=
  },
  {
   "SerialNumber": "00175",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8735243129",
   "HorseName": "グリーングラス-闘煌-",
   "Rare": "5",
@@ -15227,7 +15227,7 @@ horse=
  },
  {
   "SerialNumber": "00176",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9162543836",
   "HorseName": "グリーングラス1976",
   "Rare": "5",
@@ -15314,7 +15314,7 @@ horse=
  },
  {
   "SerialNumber": "00177",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3314537238",
   "HorseName": "グリーングラス1977",
   "Rare": "5",
@@ -15401,7 +15401,7 @@ horse=
  },
  {
   "SerialNumber": "00178",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218359503",
   "HorseName": "グリーンデザート1994",
   "Rare": "5",
@@ -15488,7 +15488,7 @@ horse=
  },
  {
   "SerialNumber": "00179",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452461783",
   "HorseName": "グルームダンサー1987",
   "Rare": "5",
@@ -15575,7 +15575,7 @@ horse=
  },
  {
   "SerialNumber": "00180",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452841286",
   "HorseName": "ケンダルジャン",
   "Rare": "5",
@@ -15662,7 +15662,7 @@ horse=
  },
  {
   "SerialNumber": "00181",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1844820356",
   "HorseName": "ケンマール-覇走-",
   "Rare": "5",
@@ -15749,7 +15749,7 @@ horse=
  },
  {
   "SerialNumber": "00182",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218641563",
   "HorseName": "ケープクロス",
   "Rare": "5",
@@ -15836,7 +15836,7 @@ horse=
  },
  {
   "SerialNumber": "00183",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7152543839",
   "HorseName": "ゲームイズオーバー",
   "Rare": "5",
@@ -15923,7 +15923,7 @@ horse=
  },
  {
   "SerialNumber": "00184",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7214185360",
   "HorseName": "コウカイテイオー",
   "Rare": "5",
@@ -16010,7 +16010,7 @@ horse=
  },
  {
   "SerialNumber": "00185",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8335243178",
   "HorseName": "コジーン1996",
   "Rare": "5",
@@ -16097,7 +16097,7 @@ horse=
  },
  {
   "SerialNumber": "00186",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6214958337",
   "HorseName": "コタシャーン1993",
   "Rare": "5",
@@ -16184,7 +16184,7 @@ horse=
  },
  {
   "SerialNumber": "00187",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9468534912",
   "HorseName": "コパノリッキー",
   "Rare": "5",
@@ -16271,7 +16271,7 @@ horse=
  },
  {
   "SerialNumber": "00188",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1424826356",
   "HorseName": "コマンダーインチーフ",
   "Rare": "5",
@@ -16358,7 +16358,7 @@ horse=
  },
  {
   "SerialNumber": "00189",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9685483231",
   "HorseName": "コマンダーインチーフ1993",
   "Rare": "5",
@@ -16445,7 +16445,7 @@ horse=
  },
  {
   "SerialNumber": "00190",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3315488266",
   "HorseName": "コングラッツ",
   "Rare": "5",
@@ -16532,7 +16532,7 @@ horse=
  },
  {
   "SerialNumber": "00191",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6315488236",
   "HorseName": "コンサートボーイ1997",
   "Rare": "5",
@@ -16619,7 +16619,7 @@ horse=
  },
  {
   "SerialNumber": "00192",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3508931472",
   "HorseName": "コンサーン2001",
   "Rare": "5",
@@ -16706,7 +16706,7 @@ horse=
  },
  {
   "SerialNumber": "00193",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1924824353",
   "HorseName": "コントレイル-覇走-",
   "Rare": "5",
@@ -16793,7 +16793,7 @@ horse=
  },
  {
   "SerialNumber": "00194",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1614532278",
   "HorseName": "ゴーストザッパー",
   "Rare": "5",
@@ -16880,7 +16880,7 @@ horse=
  },
  {
   "SerialNumber": "00195",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5412364785",
   "HorseName": "ゴールデンフェザント",
   "Rare": "5",
@@ -16967,7 +16967,7 @@ horse=
  },
  {
   "SerialNumber": "00196",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2865142523",
   "HorseName": "ゴールドアクター",
   "Rare": "5",
@@ -17054,7 +17054,7 @@ horse=
  },
  {
   "SerialNumber": "00197",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2192546837",
   "HorseName": "ゴールドアリュール",
   "Rare": "5",
@@ -17141,7 +17141,7 @@ horse=
  },
  {
   "SerialNumber": "00198",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0438465213",
   "HorseName": "ゴールドアリュール-剛健-",
   "Rare": "5",
@@ -17228,7 +17228,7 @@ horse=
  },
  {
   "SerialNumber": "00199",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8438538912",
   "HorseName": "ゴールドアリュール2002",
   "Rare": "5",
@@ -17315,7 +17315,7 @@ horse=
  },
  {
   "SerialNumber": "00200",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218638503",
   "HorseName": "ゴールドシップ",
   "Rare": "5",
@@ -17402,7 +17402,7 @@ horse=
  },
  {
   "SerialNumber": "00201",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9315428239",
   "HorseName": "ゴールドシップ-剛健-",
   "Rare": "5",
@@ -17489,7 +17489,7 @@ horse=
  },
  {
   "SerialNumber": "00202",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218339523",
   "HorseName": "ゴールドシップ-覇走-",
   "Rare": "5",
@@ -17576,7 +17576,7 @@ horse=
  },
  {
   "SerialNumber": "00203",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4315498237",
   "HorseName": "ゴールドシップ2012",
   "Rare": "5",
@@ -17663,7 +17663,7 @@ horse=
  },
  {
   "SerialNumber": "00204",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2435331801",
   "HorseName": "ゴールドシップ2013",
   "Rare": "5",
@@ -17750,7 +17750,7 @@ horse=
  },
  {
   "SerialNumber": "00205",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3353124380",
   "HorseName": "ゴーンウェスト1990",
   "Rare": "5",
@@ -17837,7 +17837,7 @@ horse=
  },
  {
   "SerialNumber": "00206",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1674824351",
   "HorseName": "サイゴノショウ",
   "Rare": "5",
@@ -17924,7 +17924,7 @@ horse=
  },
  {
   "SerialNumber": "00207",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218190573",
   "HorseName": "サイレンスススズカ",
   "Rare": "5",
@@ -18011,7 +18011,7 @@ horse=
  },
  {
   "SerialNumber": "00208",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0614535258",
   "HorseName": "サイレンススズカ",
   "Rare": "5",
@@ -18098,7 +18098,7 @@ horse=
  },
  {
   "SerialNumber": "00209",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3314532288",
   "HorseName": "サイレンススズカ-覇禊-",
   "Rare": "5",
@@ -18185,7 +18185,7 @@ horse=
  },
  {
   "SerialNumber": "00210",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3123845250",
   "HorseName": "サイレンススズカ-覇走-",
   "Rare": "5",
@@ -18272,7 +18272,7 @@ horse=
  },
  {
   "SerialNumber": "00211",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3598731402",
   "HorseName": "サイレンススズカ1998",
   "Rare": "5",
@@ -18359,7 +18359,7 @@ horse=
  },
  {
   "SerialNumber": "00212",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8612303245",
   "HorseName": "サガス1984",
   "Rare": "5",
@@ -18446,7 +18446,7 @@ horse=
  },
  {
   "SerialNumber": "00213",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6538531452",
   "HorseName": "サクセスブロッケン",
   "Rare": "5",
@@ -18533,7 +18533,7 @@ horse=
  },
  {
   "SerialNumber": "00214",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8635243193",
   "HorseName": "サクソンウォリアー2018",
   "Rare": "5",
@@ -18620,7 +18620,7 @@ horse=
  },
  {
   "SerialNumber": "00215",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5912334585",
   "HorseName": "サクラショウリ1978",
   "Rare": "5",
@@ -18707,7 +18707,7 @@ horse=
  },
  {
   "SerialNumber": "00216",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5844023612",
   "HorseName": "サクラスターオー",
   "Rare": "5",
@@ -18794,7 +18794,7 @@ horse=
  },
  {
   "SerialNumber": "00217",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452321986",
   "HorseName": "サクラバクシンオー",
   "Rare": "5",
@@ -18881,7 +18881,7 @@ horse=
  },
  {
   "SerialNumber": "00218",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7314536208",
   "HorseName": "サクラバクシンオー-瞬発-",
   "Rare": "5",
@@ -18968,7 +18968,7 @@ horse=
  },
  {
   "SerialNumber": "00219",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218368503",
   "HorseName": "サクラバクシンオー1993",
   "Rare": "5",
@@ -19055,7 +19055,7 @@ horse=
  },
  {
   "SerialNumber": "00220",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3123845052",
   "HorseName": "サクラバクシンオー1994",
   "Rare": "5",
@@ -19142,7 +19142,7 @@ horse=
  },
  {
   "SerialNumber": "00221",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1744821356",
   "HorseName": "サクラユタカオー-闘志-",
   "Rare": "5",
@@ -19229,7 +19229,7 @@ horse=
  },
  {
   "SerialNumber": "00222",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2315498239",
   "HorseName": "サクラユタカオー1989",
   "Rare": "5",
@@ -19316,7 +19316,7 @@ horse=
  },
  {
   "SerialNumber": "00223",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8935243109",
   "HorseName": "サクラローレル",
   "Rare": "5",
@@ -19403,7 +19403,7 @@ horse=
  },
  {
   "SerialNumber": "00224",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8935243172",
   "HorseName": "サクラローレル1996",
   "Rare": "5",
@@ -19490,7 +19490,7 @@ horse=
  },
  {
   "SerialNumber": "00225",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2832143573",
   "HorseName": "ササフラ1970",
   "Rare": "5",
@@ -19577,7 +19577,7 @@ horse=
  },
  {
   "SerialNumber": "00226",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452351686",
   "HorseName": "サザンヘイロー",
   "Rare": "5",
@@ -19664,7 +19664,7 @@ horse=
  },
  {
   "SerialNumber": "00227",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2114537268",
   "HorseName": "サザンヘイロー",
   "Rare": "5",
@@ -19751,7 +19751,7 @@ horse=
  },
  {
   "SerialNumber": "00228",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3598031472",
   "HorseName": "サザンヘイロー1994",
   "Rare": "5",
@@ -19838,7 +19838,7 @@ horse=
  },
  {
   "SerialNumber": "00229",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9214958361",
   "HorseName": "サッカーボーイ",
   "Rare": "5",
@@ -19925,7 +19925,7 @@ horse=
  },
  {
   "SerialNumber": "00230",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2864143523",
   "HorseName": "サッカーボーイ-覇走-",
   "Rare": "5",
@@ -20012,7 +20012,7 @@ horse=
  },
  {
   "SerialNumber": "00231",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3123843252",
   "HorseName": "サッカーボーイ1988",
   "Rare": "5",
@@ -20099,7 +20099,7 @@ horse=
  },
  {
   "SerialNumber": "00232",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8017133245",
   "HorseName": "サッカーボール",
   "Rare": "5",
@@ -20186,7 +20186,7 @@ horse=
  },
  {
   "SerialNumber": "00233",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5912334981",
   "HorseName": "サトノクラウン2016",
   "Rare": "5",
@@ -20273,7 +20273,7 @@ horse=
  },
  {
   "SerialNumber": "00234",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1474824353",
   "HorseName": "サトノダイヤモンド2016",
   "Rare": "5",
@@ -20360,7 +20360,7 @@ horse=
  },
  {
   "SerialNumber": "00235",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4428435213",
   "HorseName": "サドラーズウェルズ-覇煌-",
   "Rare": "5",
@@ -20447,7 +20447,7 @@ horse=
  },
  {
   "SerialNumber": "00236",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1704828353",
   "HorseName": "サドラーズウェルズ1984",
   "Rare": "5",
@@ -20534,7 +20534,7 @@ horse=
  },
  {
   "SerialNumber": "00237",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5814323612",
   "HorseName": "サニーブライアン",
   "Rare": "5",
@@ -20621,7 +20621,7 @@ horse=
  },
  {
   "SerialNumber": "00238",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7214958336",
   "HorseName": "サニーブライアン1997",
   "Rare": "5",
@@ -20708,7 +20708,7 @@ horse=
  },
  {
   "SerialNumber": "00239",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5114537238",
   "HorseName": "サムライゴエモン",
   "Rare": "5",
@@ -20795,7 +20795,7 @@ horse=
  },
  {
   "SerialNumber": "00240",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1428465213",
   "HorseName": "サルス",
   "Rare": "5",
@@ -20882,7 +20882,7 @@ horse=
  },
  {
   "SerialNumber": "00241",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2864142533",
   "HorseName": "サンシャインフォーエヴァー",
   "Rare": "5",
@@ -20969,7 +20969,7 @@ horse=
  },
  {
   "SerialNumber": "00242",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218348523",
   "HorseName": "サンタクロース",
   "Rare": "5",
@@ -21056,7 +21056,7 @@ horse=
  },
  {
   "SerialNumber": "00243",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1494822353",
   "HorseName": "サンデーサイレンス-極走-",
   "Rare": "5",
@@ -21143,7 +21143,7 @@ horse=
  },
  {
   "SerialNumber": "00244",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2234185318",
   "HorseName": "サンデーサイレンス-覇煌-",
   "Rare": "5",
@@ -21230,7 +21230,7 @@ horse=
  },
  {
   "SerialNumber": "00245",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5874223310",
   "HorseName": "サンデーサイレンス1989",
   "Rare": "5",
@@ -21317,7 +21317,7 @@ horse=
  },
  {
   "SerialNumber": "00246",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7234185304",
   "HorseName": "サンデーサイレンス1995",
   "Rare": "5",
@@ -21404,7 +21404,7 @@ horse=
  },
  {
   "SerialNumber": "00247",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4314532278",
   "HorseName": "サーアイヴァー1968",
   "Rare": "5",
@@ -21491,7 +21491,7 @@ horse=
  },
  {
   "SerialNumber": "00248",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5685496231",
   "HorseName": "サーハリールイス",
   "Rare": "5",
@@ -21578,7 +21578,7 @@ horse=
  },
  {
   "SerialNumber": "00249",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8565243146",
   "HorseName": "サーハリールイス-覇走-",
   "Rare": "5",
@@ -21665,7 +21665,7 @@ horse=
  },
  {
   "SerialNumber": "00250",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1824822356",
   "HorseName": "サーパーシー",
   "Rare": "5",
@@ -21752,7 +21752,7 @@ horse=
  },
  {
   "SerialNumber": "00251",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8317103245",
   "HorseName": "ザンテツケン",
   "Rare": "5",
@@ -21839,7 +21839,7 @@ horse=
  },
  {
   "SerialNumber": "00252",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2836145513",
   "HorseName": "シアトリカル-覇走-",
   "Rare": "5",
@@ -21926,7 +21926,7 @@ horse=
  },
  {
   "SerialNumber": "00253",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5314530288",
   "HorseName": "シアトリカル1987",
   "Rare": "5",
@@ -22013,7 +22013,7 @@ horse=
  },
  {
   "SerialNumber": "00254",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2839143503",
   "HorseName": "シアトルスルー1977",
   "Rare": "5",
@@ -22100,7 +22100,7 @@ horse=
  },
  {
   "SerialNumber": "00255",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218386503",
   "HorseName": "シェリフズスター1995",
   "Rare": "5",
@@ -22187,7 +22187,7 @@ horse=
  },
  {
   "SerialNumber": "00256",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452691283",
   "HorseName": "シガー1995",
   "Rare": "5",
@@ -22274,7 +22274,7 @@ horse=
  },
  {
   "SerialNumber": "00257",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1774823351",
   "HorseName": "シチョウセイ20XX",
   "Rare": "5",
@@ -22361,7 +22361,7 @@ horse=
  },
  {
   "SerialNumber": "00258",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5412364686",
   "HorseName": "シビルウォー",
   "Rare": "5",
@@ -22448,7 +22448,7 @@ horse=
  },
  {
   "SerialNumber": "00259",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2832142583",
   "HorseName": "シャーディー1989",
   "Rare": "5",
@@ -22535,7 +22535,7 @@ horse=
  },
  {
   "SerialNumber": "00260",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218314593",
   "HorseName": "シャーペンアップ1979",
   "Rare": "5",
@@ -22622,7 +22622,7 @@ horse=
  },
  {
   "SerialNumber": "00261",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2836140563",
   "HorseName": "シャーリーハイツ-剛健-",
   "Rare": "5",
@@ -22709,7 +22709,7 @@ horse=
  },
  {
   "SerialNumber": "00262",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8214758337",
   "HorseName": "シュヴァルグラン",
   "Rare": "5",
@@ -22796,7 +22796,7 @@ horse=
  },
  {
   "SerialNumber": "00263",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5214758376",
   "HorseName": "シュヴァルグラン",
   "Rare": "5",
@@ -22883,7 +22883,7 @@ horse=
  },
  {
   "SerialNumber": "00264",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6598231422",
   "HorseName": "シユーニ",
   "Rare": "5",
@@ -22970,7 +22970,7 @@ horse=
  },
  {
   "SerialNumber": "00265",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0468435213",
   "HorseName": "シルバーシャーク-覇走-",
   "Rare": "5",
@@ -23057,7 +23057,7 @@ horse=
  },
  {
   "SerialNumber": "00266",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3350124482",
   "HorseName": "シルバーチャーム-覇走-",
   "Rare": "5",
@@ -23144,7 +23144,7 @@ horse=
  },
  {
   "SerialNumber": "00267",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4281531403",
   "HorseName": "シルバーチャーム1997",
   "Rare": "5",
@@ -23231,7 +23231,7 @@ horse=
  },
  {
   "SerialNumber": "00268",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5985466231",
   "HorseName": "シルバーバック",
   "Rare": "5",
@@ -23318,7 +23318,7 @@ horse=
  },
  {
   "SerialNumber": "00269",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5412364389",
   "HorseName": "シルバーバック-覇走-",
   "Rare": "5",
@@ -23405,7 +23405,7 @@ horse=
  },
  {
   "SerialNumber": "00270",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1774821353",
   "HorseName": "シルヴァーホーク1997",
   "Rare": "5",
@@ -23492,7 +23492,7 @@ horse=
  },
  {
   "SerialNumber": "00271",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452621686",
   "HorseName": "シロッコ",
   "Rare": "5",
@@ -23579,7 +23579,7 @@ horse=
  },
  {
   "SerialNumber": "00272",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0314536278",
   "HorseName": "シロッコ-覇煌-",
   "Rare": "5",
@@ -23666,7 +23666,7 @@ horse=
  },
  {
   "SerialNumber": "00273",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2862147503",
   "HorseName": "シングスピール",
   "Rare": "5",
@@ -23753,7 +23753,7 @@ horse=
  },
  {
   "SerialNumber": "00274",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2234185390",
   "HorseName": "シングスピール-剛健-",
   "Rare": "5",
@@ -23840,7 +23840,7 @@ horse=
  },
  {
   "SerialNumber": "00275",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218636523",
   "HorseName": "シンコウキング",
   "Rare": "5",
@@ -23927,7 +23927,7 @@ horse=
  },
  {
   "SerialNumber": "00276",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2234185354",
   "HorseName": "シンボリクリスエス-覇走-",
   "Rare": "5",
@@ -24014,7 +24014,7 @@ horse=
  },
  {
   "SerialNumber": "00277",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2281533403",
   "HorseName": "シンボリクリスエス2002",
   "Rare": "5",
@@ -24101,7 +24101,7 @@ horse=
  },
  {
   "SerialNumber": "00278",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8865243152",
   "HorseName": "シンボリルドルフ",
   "Rare": "5",
@@ -24188,7 +24188,7 @@ horse=
  },
  {
   "SerialNumber": "00279",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8235243197",
   "HorseName": "シンボリルドルフ-剛健-",
   "Rare": "5",
@@ -24275,7 +24275,7 @@ horse=
  },
  {
   "SerialNumber": "00280",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8428035213",
   "HorseName": "シンボリルドルフ-極走-",
   "Rare": "5",
@@ -24362,7 +24362,7 @@ horse=
  },
  {
   "SerialNumber": "00281",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3281532403",
   "HorseName": "シンボリルドルフ1984",
   "Rare": "5",
@@ -24449,7 +24449,7 @@ horse=
  },
  {
   "SerialNumber": "00282",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218325573",
   "HorseName": "シンボリルドルフ1985",
   "Rare": "5",
@@ -24536,7 +24536,7 @@ horse=
  },
  {
   "SerialNumber": "00283",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5212364787",
   "HorseName": "シーキングザゴールド",
   "Rare": "5",
@@ -24623,7 +24623,7 @@ horse=
  },
  {
   "SerialNumber": "00284",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1604829353",
   "HorseName": "シーザスターズ2009",
   "Rare": "5",
@@ -24710,7 +24710,7 @@ horse=
  },
  {
   "SerialNumber": "00285",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7192543835",
   "HorseName": "ジェイドロバリー1989",
   "Rare": "5",
@@ -24797,7 +24797,7 @@ horse=
  },
  {
   "SerialNumber": "00286",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452371783",
   "HorseName": "ジェイペグ2008",
   "Rare": "5",
@@ -24884,7 +24884,7 @@ horse=
  },
  {
   "SerialNumber": "00287",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4862591638",
   "HorseName": "ジェニュイン",
   "Rare": "5",
@@ -24971,7 +24971,7 @@ horse=
  },
  {
   "SerialNumber": "00288",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1374827351",
   "HorseName": "ジゲンザガンナー",
   "Rare": "5",
@@ -25058,7 +25058,7 @@ horse=
  },
  {
   "SerialNumber": "00289",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1614535248",
   "HorseName": "ジムフレンチ",
   "Rare": "5",
@@ -25145,7 +25145,7 @@ horse=
  },
  {
   "SerialNumber": "00290",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2651437958",
   "HorseName": "ジムフレンチ",
   "Rare": "5",
@@ -25232,7 +25232,7 @@ horse=
  },
  {
   "SerialNumber": "00291",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8635243175",
   "HorseName": "ジャイアンツコーズウェイ2000",
   "Rare": "5",
@@ -25319,7 +25319,7 @@ horse=
  },
  {
   "SerialNumber": "00292",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218616543",
   "HorseName": "ジャコモ",
   "Rare": "5",
@@ -25406,7 +25406,7 @@ horse=
  },
  {
   "SerialNumber": "00293",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1424829353",
   "HorseName": "ジャスタウェイ-覇走-",
   "Rare": "5",
@@ -25493,7 +25493,7 @@ horse=
  },
  {
   "SerialNumber": "00294",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8017313245",
   "HorseName": "ジャスタウェイ2014",
   "Rare": "5",
@@ -25580,7 +25580,7 @@ horse=
  },
  {
   "SerialNumber": "00295",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9214958334",
   "HorseName": "ジャスティファイ-覇走-",
   "Rare": "5",
@@ -25667,7 +25667,7 @@ horse=
  },
  {
   "SerialNumber": "00296",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5834623310",
   "HorseName": "ジャスティファイ2018",
   "Rare": "5",
@@ -25754,7 +25754,7 @@ horse=
  },
  {
   "SerialNumber": "00297",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6614534208",
   "HorseName": "ジャワゴールド-闘志-",
   "Rare": "5",
@@ -25841,7 +25841,7 @@ horse=
  },
  {
   "SerialNumber": "00298",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1408935213",
   "HorseName": "ジルザル1989",
   "Rare": "5",
@@ -25928,7 +25928,7 @@ horse=
  },
  {
   "SerialNumber": "00299",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9214185340",
   "HorseName": "スイーツマカベ",
   "Rare": "5",
@@ -26015,7 +26015,7 @@ horse=
  },
  {
   "SerialNumber": "00300",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8112623245",
   "HorseName": "スカイメサ",
   "Rare": "5",
@@ -26102,7 +26102,7 @@ horse=
  },
  {
   "SerialNumber": "00301",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5612364486",
   "HorseName": "スキャットダディ",
   "Rare": "5",
@@ -26189,7 +26189,7 @@ horse=
  },
  {
   "SerialNumber": "00302",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218308563",
   "HorseName": "スキャン-瞬発-",
   "Rare": "5",
@@ -26276,7 +26276,7 @@ horse=
  },
  {
   "SerialNumber": "00303",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7485496231",
   "HorseName": "スクリーンヒーロー",
   "Rare": "5",
@@ -26363,7 +26363,7 @@ horse=
  },
  {
   "SerialNumber": "00304",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9172543835",
   "HorseName": "スクリーンヒーロー2008",
   "Rare": "5",
@@ -26450,7 +26450,7 @@ horse=
  },
  {
   "SerialNumber": "00305",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218341593",
   "HorseName": "スズパレード1987",
   "Rare": "5",
@@ -26537,7 +26537,7 @@ horse=
  },
  {
   "SerialNumber": "00306",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8935243127",
   "HorseName": "スティールハート1980",
   "Rare": "5",
@@ -26624,7 +26624,7 @@ horse=
  },
  {
   "SerialNumber": "00307",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8110373245",
   "HorseName": "スティールハート1985",
   "Rare": "5",
@@ -26711,7 +26711,7 @@ horse=
  },
  {
   "SerialNumber": "00308",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6508731462",
   "HorseName": "ステイゴールド",
   "Rare": "5",
@@ -26798,7 +26798,7 @@ horse=
  },
  {
   "SerialNumber": "00309",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9985453231",
   "HorseName": "ステイゴールド-剛健-",
   "Rare": "5",
@@ -26885,7 +26885,7 @@ horse=
  },
  {
   "SerialNumber": "00310",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7315478236",
   "HorseName": "ステイゴールド-極走-",
   "Rare": "5",
@@ -26972,7 +26972,7 @@ horse=
  },
  {
   "SerialNumber": "00311",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8117303245",
   "HorseName": "ステイゴールド2001",
   "Rare": "5",
@@ -27059,7 +27059,7 @@ horse=
  },
  {
   "SerialNumber": "00312",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5212364589",
   "HorseName": "ストリートクライ",
   "Rare": "5",
@@ -27146,7 +27146,7 @@ horse=
  },
  {
   "SerialNumber": "00313",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2314532298",
   "HorseName": "ストリートクライ-瞬砂-",
   "Rare": "5",
@@ -27233,7 +27233,7 @@ horse=
  },
  {
   "SerialNumber": "00314",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452951086",
   "HorseName": "ストリートボス",
   "Rare": "5",
@@ -27320,7 +27320,7 @@ horse=
  },
  {
   "SerialNumber": "00315",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6528431472",
   "HorseName": "ストロベリーロード",
   "Rare": "5",
@@ -27407,7 +27407,7 @@ horse=
  },
  {
   "SerialNumber": "00316",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8765243144",
   "HorseName": "ストロングエイト-覇走-",
   "Rare": "5",
@@ -27494,7 +27494,7 @@ horse=
  },
  {
   "SerialNumber": "00317",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218643543",
   "HorseName": "ストームキャット-覇走-",
   "Rare": "5",
@@ -27581,7 +27581,7 @@ horse=
  },
  {
   "SerialNumber": "00318",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5315488237",
   "HorseName": "ストームキャット1999",
   "Rare": "5",
@@ -27668,7 +27668,7 @@ horse=
  },
  {
   "SerialNumber": "00319",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7408335213",
   "HorseName": "スピードシンボリ1967",
   "Rare": "5",
@@ -27755,7 +27755,7 @@ horse=
  },
  {
   "SerialNumber": "00320",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6350124182",
   "HorseName": "スプリットフィンガー",
   "Rare": "5",
@@ -27842,7 +27842,7 @@ horse=
  },
  {
   "SerialNumber": "00321",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8810303245",
   "HorseName": "スペシャルウィーク",
   "Rare": "5",
@@ -27929,7 +27929,7 @@ horse=
  },
  {
   "SerialNumber": "00322",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0234185338",
   "HorseName": "スペシャルウィーク",
   "Rare": "5",
@@ -28016,7 +28016,7 @@ horse=
  },
  {
   "SerialNumber": "00323",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5212334988",
   "HorseName": "スペシャルウィーク-覇煌-",
   "Rare": "5",
@@ -28103,7 +28103,7 @@ horse=
  },
  {
   "SerialNumber": "00324",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1294824353",
   "HorseName": "スペシャルウィーク-覇走-",
   "Rare": "5",
@@ -28190,7 +28190,7 @@ horse=
  },
  {
   "SerialNumber": "00325",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8315458237",
   "HorseName": "スペシャルウィーク1999",
   "Rare": "5",
@@ -28277,7 +28277,7 @@ horse=
  },
  {
   "SerialNumber": "00326",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3538731462",
   "HorseName": "スペンドアバック1985",
   "Rare": "5",
@@ -28364,7 +28364,7 @@ horse=
  },
  {
   "SerialNumber": "00327",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5612334588",
   "HorseName": "スマートファルコン-砂覇-",
   "Rare": "5",
@@ -28451,7 +28451,7 @@ horse=
  },
  {
   "SerialNumber": "00328",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0234185392",
   "HorseName": "スマートファルコン2011",
   "Rare": "5",
@@ -28538,7 +28538,7 @@ horse=
  },
  {
   "SerialNumber": "00329",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3314837208",
   "HorseName": "スミノココロ",
   "Rare": "5",
@@ -28625,7 +28625,7 @@ horse=
  },
  {
   "SerialNumber": "00330",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7315448239",
   "HorseName": "スラマニ2003",
   "Rare": "5",
@@ -28712,7 +28712,7 @@ horse=
  },
  {
   "SerialNumber": "00331",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2862140573",
   "HorseName": "スルーオゴールド",
   "Rare": "5",
@@ -28799,7 +28799,7 @@ horse=
  },
  {
   "SerialNumber": "00332",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4932581938",
   "HorseName": "スワーヴリチャード2018",
   "Rare": "5",
@@ -28886,7 +28886,7 @@ horse=
  },
  {
   "SerialNumber": "00333",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5804423117",
   "HorseName": "スーパークリック",
   "Rare": "5",
@@ -28973,7 +28973,7 @@ horse=
  },
  {
   "SerialNumber": "00334",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5804223317",
   "HorseName": "スーパークリーク",
   "Rare": "5",
@@ -29060,7 +29060,7 @@ horse=
  },
  {
   "SerialNumber": "00335",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2521318403",
   "HorseName": "スーパークリーク-剛健-",
   "Rare": "5",
@@ -29147,7 +29147,7 @@ horse=
  },
  {
   "SerialNumber": "00336",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218377503",
   "HorseName": "スーパークリーク1990",
   "Rare": "5",
@@ -29234,7 +29234,7 @@ horse=
  },
  {
   "SerialNumber": "00337",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5712334785",
   "HorseName": "セイウンスカイ1998",
   "Rare": "5",
@@ -29321,7 +29321,7 @@ horse=
  },
  {
   "SerialNumber": "00338",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3578931402",
   "HorseName": "セイウンスカイ2002",
   "Rare": "5",
@@ -29408,7 +29408,7 @@ horse=
  },
  {
   "SerialNumber": "00339",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7192541837",
   "HorseName": "セイブンスゴイ",
   "Rare": "5",
@@ -29495,7 +29495,7 @@ horse=
  },
  {
   "SerialNumber": "00340",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8305023014",
   "HorseName": "セクレタリアト1973",
   "Rare": "5",
@@ -29582,7 +29582,7 @@ horse=
  },
  {
   "SerialNumber": "00341",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1314539238",
   "HorseName": "セクレタリアト1992",
   "Rare": "5",
@@ -29669,7 +29669,7 @@ horse=
  },
  {
   "SerialNumber": "00342",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4172546837",
   "HorseName": "セダン",
   "Rare": "5",
@@ -29756,7 +29756,7 @@ horse=
  },
  {
   "SerialNumber": "00343",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7508731452",
   "HorseName": "セプテンシンケン",
   "Rare": "5",
@@ -29843,7 +29843,7 @@ horse=
  },
  {
   "SerialNumber": "00344",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218703573",
   "HorseName": "セプテンセイゴー",
   "Rare": "5",
@@ -29930,7 +29930,7 @@ horse=
  },
  {
   "SerialNumber": "00345",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8112353245",
   "HorseName": "セントニコラスアビー-闘覇-",
   "Rare": "5",
@@ -30017,7 +30017,7 @@ horse=
  },
  {
   "SerialNumber": "00346",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1764822353",
   "HorseName": "セントマークスバシリカ-瞬走-",
   "Rare": "5",
@@ -30104,7 +30104,7 @@ horse=
  },
  {
   "SerialNumber": "00347",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2391437858",
   "HorseName": "セントライト1941",
   "Rare": "5",
@@ -30191,7 +30191,7 @@ horse=
  },
  {
   "SerialNumber": "00348",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4832591938",
   "HorseName": "ゼダーン1968",
   "Rare": "5",
@@ -30278,7 +30278,7 @@ horse=
  },
  {
   "SerialNumber": "00349",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2830145573",
   "HorseName": "ゼンノロブロイ2004",
   "Rare": "5",
@@ -30365,7 +30365,7 @@ horse=
  },
  {
   "SerialNumber": "00350",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452621983",
   "HorseName": "ソットサス-剛健-",
   "Rare": "5",
@@ -30452,7 +30452,7 @@ horse=
  },
  {
   "SerialNumber": "00351",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5314532268",
   "HorseName": "タイキシャトル-瞬発-",
   "Rare": "5",
@@ -30539,7 +30539,7 @@ horse=
  },
  {
   "SerialNumber": "00352",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4314537228",
   "HorseName": "タイキシャトル1998",
   "Rare": "5",
@@ -30626,7 +30626,7 @@ horse=
  },
  {
   "SerialNumber": "00353",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6182546834",
   "HorseName": "タイキブリザード",
   "Rare": "5",
@@ -30713,7 +30713,7 @@ horse=
  },
  {
   "SerialNumber": "00354",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7438539912",
   "HorseName": "タイキブリザード1997",
   "Rare": "5",
@@ -30800,7 +30800,7 @@ horse=
  },
  {
   "SerialNumber": "00355",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5412364884",
   "HorseName": "タイトスポット",
   "Rare": "5",
@@ -30887,7 +30887,7 @@ horse=
  },
  {
   "SerialNumber": "00356",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1724826353",
   "HorseName": "タイムフォーアチェンジ1984",
   "Rare": "5",
@@ -30974,7 +30974,7 @@ horse=
  },
  {
   "SerialNumber": "00357",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7315468264",
   "HorseName": "タケシバオー-剛健-",
   "Rare": "5",
@@ -31061,7 +31061,7 @@ horse=
  },
  {
   "SerialNumber": "00358",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3350124680",
   "HorseName": "タケホープ",
   "Rare": "5",
@@ -31148,7 +31148,7 @@ horse=
  },
  {
   "SerialNumber": "00359",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6315478264",
   "HorseName": "タップダンスシチー-覇走-",
   "Rare": "5",
@@ -31235,7 +31235,7 @@ horse=
  },
  {
   "SerialNumber": "00360",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0234185365",
   "HorseName": "タニノチカラ1974",
   "Rare": "5",
@@ -31322,7 +31322,7 @@ horse=
  },
  {
   "SerialNumber": "00361",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2837141543",
   "HorseName": "タバスコキャット",
   "Rare": "5",
@@ -31409,7 +31409,7 @@ horse=
  },
  {
   "SerialNumber": "00362",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2860148513",
   "HorseName": "タピット",
   "Rare": "5",
@@ -31496,7 +31496,7 @@ horse=
  },
  {
   "SerialNumber": "00363",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3598231452",
   "HorseName": "タピット-砂覇-",
   "Rare": "5",
@@ -31583,7 +31583,7 @@ horse=
  },
  {
   "SerialNumber": "00364",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7885483231",
   "HorseName": "タピット2014",
   "Rare": "5",
@@ -31670,7 +31670,7 @@ horse=
  },
  {
   "SerialNumber": "00365",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2817142553",
   "HorseName": "タマノクロス",
   "Rare": "5",
@@ -31757,7 +31757,7 @@ horse=
  },
  {
   "SerialNumber": "00366",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4962551938",
   "HorseName": "タマモクロス",
   "Rare": "5",
@@ -31844,7 +31844,7 @@ horse=
  },
  {
   "SerialNumber": "00367",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2428635213",
   "HorseName": "タマモクロス-剛健-",
   "Rare": "5",
@@ -31931,7 +31931,7 @@ horse=
  },
  {
   "SerialNumber": "00368",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3123840057",
   "HorseName": "タマモクロス1988",
   "Rare": "5",
@@ -32018,7 +32018,7 @@ horse=
  },
  {
   "SerialNumber": "00369",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2862143543",
   "HorseName": "タヤスツヨシ",
   "Rare": "5",
@@ -32105,7 +32105,7 @@ horse=
  },
  {
   "SerialNumber": "00370",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6588431412",
   "HorseName": "ダイイシス",
   "Rare": "5",
@@ -32192,7 +32192,7 @@ horse=
  },
  {
   "SerialNumber": "00371",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3568231482",
   "HorseName": "ダイタクヘリオス1991",
   "Rare": "5",
@@ -32279,7 +32279,7 @@ horse=
  },
  {
   "SerialNumber": "00372",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452871283",
   "HorseName": "ダイタクヘリオス1992",
   "Rare": "5",
@@ -32366,7 +32366,7 @@ horse=
  },
  {
   "SerialNumber": "00373",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452821486",
   "HorseName": "ダイナガリバー",
   "Rare": "5",
@@ -32453,7 +32453,7 @@ horse=
  },
  {
   "SerialNumber": "00374",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5712314787",
   "HorseName": "ダイヤモンドチャーム",
   "Rare": "5",
@@ -32540,7 +32540,7 @@ horse=
  },
  {
   "SerialNumber": "00375",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3614537208",
   "HorseName": "ダイワメジャー",
   "Rare": "5",
@@ -32627,7 +32627,7 @@ horse=
  },
  {
   "SerialNumber": "00376",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1624827353",
   "HorseName": "ダイワメジャー-闘覇-",
   "Rare": "5",
@@ -32714,7 +32714,7 @@ horse=
  },
  {
   "SerialNumber": "00377",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2830149533",
   "HorseName": "ダイワメジャー2006",
   "Rare": "5",
@@ -32801,7 +32801,7 @@ horse=
  },
  {
   "SerialNumber": "00378",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6214958364",
   "HorseName": "ダラカニ",
   "Rare": "5",
@@ -32888,7 +32888,7 @@ horse=
  },
  {
   "SerialNumber": "00379",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5854223312",
   "HorseName": "ダラカニ-覇走-",
   "Rare": "5",
@@ -32975,7 +32975,7 @@ horse=
  },
  {
   "SerialNumber": "00380",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7234185313",
   "HorseName": "ダルシャーン1984",
   "Rare": "5",
@@ -33062,7 +33062,7 @@ horse=
  },
  {
   "SerialNumber": "00381",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3558731442",
   "HorseName": "ダンシングブレーヴ1986",
   "Rare": "5",
@@ -33149,7 +33149,7 @@ horse=
  },
  {
   "SerialNumber": "00382",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2830143593",
   "HorseName": "ダンシングブレーヴ1990",
   "Rare": "5",
@@ -33236,7 +33236,7 @@ horse=
  },
  {
   "SerialNumber": "00383",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7214458368",
   "HorseName": "ダンシングモス",
   "Rare": "5",
@@ -33323,7 +33323,7 @@ horse=
  },
  {
   "SerialNumber": "00384",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9468538512",
   "HorseName": "ダンシングモス",
   "Rare": "5",
@@ -33410,7 +33410,7 @@ horse=
  },
  {
   "SerialNumber": "00385",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8835243191",
   "HorseName": "ダンスインザダーク1996",
   "Rare": "5",
@@ -33497,7 +33497,7 @@ horse=
  },
  {
   "SerialNumber": "00386",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1824825353",
   "HorseName": "ダンチヒ-瞬走-",
   "Rare": "5",
@@ -33584,7 +33584,7 @@ horse=
  },
  {
   "SerialNumber": "00387",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0035282314",
   "HorseName": "ダンチヒ1992",
   "Rare": "5",
@@ -33671,7 +33671,7 @@ horse=
  },
  {
   "SerialNumber": "00388",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9214258368",
   "HorseName": "ダークエンジェル",
   "Rare": "5",
@@ -33758,7 +33758,7 @@ horse=
  },
  {
   "SerialNumber": "00389",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4315478239",
   "HorseName": "チャペルロイヤル2003",
   "Rare": "5",
@@ -33845,7 +33845,7 @@ horse=
  },
  {
   "SerialNumber": "00390",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3126841350",
   "HorseName": "チヤンピオンスター",
   "Rare": "5",
@@ -33932,7 +33932,7 @@ horse=
  },
  {
   "SerialNumber": "00391",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2468235213",
   "HorseName": "チーフズクラウン-砂覇-",
   "Rare": "5",
@@ -34019,7 +34019,7 @@ horse=
  },
  {
   "SerialNumber": "00392",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4214958339",
   "HorseName": "ツインターボ1993",
   "Rare": "5",
@@ -34106,7 +34106,7 @@ horse=
  },
  {
   "SerialNumber": "00393",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452921683",
   "HorseName": "ティズナウ-闘志-",
   "Rare": "5",
@@ -34193,7 +34193,7 @@ horse=
  },
  {
   "SerialNumber": "00394",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2832144563",
   "HorseName": "ティズナウ-闘覇-",
   "Rare": "5",
@@ -34280,7 +34280,7 @@ horse=
  },
  {
   "SerialNumber": "00395",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218395503",
   "HorseName": "ティズナウ2001",
   "Rare": "5",
@@ -34367,7 +34367,7 @@ horse=
  },
  {
   "SerialNumber": "00396",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7214658339",
   "HorseName": "ティンガーラ-瞬走-",
   "Rare": "5",
@@ -34454,7 +34454,7 @@ horse=
  },
  {
   "SerialNumber": "00397",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5512364487",
   "HorseName": "ティンバーカントリー",
   "Rare": "5",
@@ -34541,7 +34541,7 @@ horse=
  },
  {
   "SerialNumber": "00398",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8016323245",
   "HorseName": "テイエムオペラオー-覇走-",
   "Rare": "5",
@@ -34628,7 +34628,7 @@ horse=
  },
  {
   "SerialNumber": "00399",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7785493231",
   "HorseName": "テイエムオペラオー2000",
   "Rare": "5",
@@ -34715,7 +34715,7 @@ horse=
  },
  {
   "SerialNumber": "00400",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3356124080",
   "HorseName": "テイエムオペラオー2001",
   "Rare": "5",
@@ -34802,7 +34802,7 @@ horse=
  },
  {
   "SerialNumber": "00401",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218353563",
   "HorseName": "テスコボーイ-瞬走-",
   "Rare": "5",
@@ -34889,7 +34889,7 @@ horse=
  },
  {
   "SerialNumber": "00402",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3123842055",
   "HorseName": "テスコボーイ1974",
   "Rare": "5",
@@ -34976,7 +34976,7 @@ horse=
  },
  {
   "SerialNumber": "00403",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9234185311",
   "HorseName": "テスタマッタ2009",
   "Rare": "5",
@@ -35063,7 +35063,7 @@ horse=
  },
  {
   "SerialNumber": "00404",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3315498265",
   "HorseName": "テルテンリュウ",
   "Rare": "5",
@@ -35150,7 +35150,7 @@ horse=
  },
  {
   "SerialNumber": "00405",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8815243175",
   "HorseName": "テンニカエル",
   "Rare": "5",
@@ -35237,7 +35237,7 @@ horse=
  },
  {
   "SerialNumber": "00406",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218393523",
   "HorseName": "テンポイント-闘覇-",
   "Rare": "5",
@@ -35324,7 +35324,7 @@ horse=
  },
  {
   "SerialNumber": "00407",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5912334684",
   "HorseName": "テンポイント1976",
   "Rare": "5",
@@ -35411,7 +35411,7 @@ horse=
  },
  {
   "SerialNumber": "00408",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1674822353",
   "HorseName": "テンポイント1977",
   "Rare": "5",
@@ -35498,7 +35498,7 @@ horse=
  },
  {
   "SerialNumber": "00409",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452971381",
   "HorseName": "ディアトレンチコート",
   "Rare": "5",
@@ -35585,7 +35585,7 @@ horse=
  },
  {
   "SerialNumber": "00410",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1244826356",
   "HorseName": "ディクタス-剛健-",
   "Rare": "5",
@@ -35672,7 +35672,7 @@ horse=
  },
  {
   "SerialNumber": "00411",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6568531422",
   "HorseName": "ディスタントリラティヴ",
   "Rare": "5",
@@ -35759,7 +35759,7 @@ horse=
  },
  {
   "SerialNumber": "00412",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6548531442",
   "HorseName": "ディスタントリラティヴ",
   "Rare": "5",
@@ -35846,7 +35846,7 @@ horse=
  },
  {
   "SerialNumber": "00413",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8665243145",
   "HorseName": "ディラントーマス",
   "Rare": "5",
@@ -35933,7 +35933,7 @@ horse=
  },
  {
   "SerialNumber": "00414",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218604573",
   "HorseName": "ディープインパクト",
   "Rare": "5",
@@ -36020,7 +36020,7 @@ horse=
  },
  {
   "SerialNumber": "00415",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8314532238",
   "HorseName": "ディープインパクト-覇煌-",
   "Rare": "5",
@@ -36107,7 +36107,7 @@ horse=
  },
  {
   "SerialNumber": "00416",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9785473231",
   "HorseName": "ディープインパクト-覇走-",
   "Rare": "5",
@@ -36194,7 +36194,7 @@ horse=
  },
  {
   "SerialNumber": "00417",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2837142533",
   "HorseName": "ディープインパクト2005",
   "Rare": "5",
@@ -36281,7 +36281,7 @@ horse=
  },
  {
   "SerialNumber": "00418",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4314530298",
   "HorseName": "ディープインパクト2007",
   "Rare": "5",
@@ -36368,7 +36368,7 @@ horse=
  },
  {
   "SerialNumber": "00419",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8408235213",
   "HorseName": "ディープインパクト2009",
   "Rare": "5",
@@ -36455,7 +36455,7 @@ horse=
  },
  {
   "SerialNumber": "00420",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8114603245",
   "HorseName": "デイジュール",
   "Rare": "5",
@@ -36542,7 +36542,7 @@ horse=
  },
  {
   "SerialNumber": "00421",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5214958338",
   "HorseName": "デイラミ1999",
   "Rare": "5",
@@ -36629,7 +36629,7 @@ horse=
  },
  {
   "SerialNumber": "00422",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5804723312",
   "HorseName": "デインヒル-覇走-",
   "Rare": "5",
@@ -36716,7 +36716,7 @@ horse=
  },
  {
   "SerialNumber": "00423",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1314537258",
   "HorseName": "デインヒル1989",
   "Rare": "5",
@@ -36803,7 +36803,7 @@ horse=
  },
  {
   "SerialNumber": "00424",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5804323316",
   "HorseName": "デザートキング1997",
   "Rare": "5",
@@ -36890,7 +36890,7 @@ horse=
  },
  {
   "SerialNumber": "00425",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3126841251",
   "HorseName": "デヒア",
   "Rare": "5",
@@ -36977,7 +36977,7 @@ horse=
  },
  {
   "SerialNumber": "00426",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1458165213",
   "HorseName": "デヒア-瞬発-",
   "Rare": "5",
@@ -37064,7 +37064,7 @@ horse=
  },
  {
   "SerialNumber": "00427",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2391438758",
   "HorseName": "デピュティミニスター1997",
   "Rare": "5",
@@ -37151,7 +37151,7 @@ horse=
  },
  {
   "SerialNumber": "00428",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5912334189",
   "HorseName": "デュランダル2003",
   "Rare": "5",
@@ -37238,7 +37238,7 @@ horse=
  },
  {
   "SerialNumber": "00429",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452801983",
   "HorseName": "デヴィルズバッグ1994",
   "Rare": "5",
@@ -37325,7 +37325,7 @@ horse=
  },
  {
   "SerialNumber": "00430",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2315478277",
   "HorseName": "デーモンクライズ",
   "Rare": "5",
@@ -37412,7 +37412,7 @@ horse=
  },
  {
   "SerialNumber": "00431",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4314539208",
   "HorseName": "トゥルーナイト",
   "Rare": "5",
@@ -37499,7 +37499,7 @@ horse=
  },
  {
   "SerialNumber": "00432",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7214758365",
   "HorseName": "トウカイテイオー",
   "Rare": "5",
@@ -37586,7 +37586,7 @@ horse=
  },
  {
   "SerialNumber": "00433",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8435243195",
   "HorseName": "トウカイテイオー-闘志-",
   "Rare": "5",
@@ -37673,7 +37673,7 @@ horse=
  },
  {
   "SerialNumber": "00434",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3123840255",
   "HorseName": "トウカイテイオー-闘覇-",
   "Rare": "5",
@@ -37760,7 +37760,7 @@ horse=
  },
  {
   "SerialNumber": "00435",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5408535213",
   "HorseName": "トウカイテイオー1992",
   "Rare": "5",
@@ -37847,7 +37847,7 @@ horse=
  },
  {
   "SerialNumber": "00436",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7234185340",
   "HorseName": "トウカイテイオー1993",
   "Rare": "5",
@@ -37934,7 +37934,7 @@ horse=
  },
  {
   "SerialNumber": "00437",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2234185309",
   "HorseName": "トウショウボーイ-覇禊-",
   "Rare": "5",
@@ -38021,7 +38021,7 @@ horse=
  },
  {
   "SerialNumber": "00438",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2391436958",
   "HorseName": "トウショウボーイ1976",
   "Rare": "5",
@@ -38108,7 +38108,7 @@ horse=
  },
  {
   "SerialNumber": "00439",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3478035213",
   "HorseName": "トウショウボーイ1977",
   "Rare": "5",
@@ -38195,7 +38195,7 @@ horse=
  },
  {
   "SerialNumber": "00440",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6518531472",
   "HorseName": "トップヴィル",
   "Rare": "5",
@@ -38282,7 +38282,7 @@ horse=
  },
  {
   "SerialNumber": "00441",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218304873",
   "HorseName": "トニービン",
   "Rare": "5",
@@ -38369,7 +38369,7 @@ horse=
  },
  {
   "SerialNumber": "00442",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2415331821",
   "HorseName": "トニービン-覇煌-",
   "Rare": "5",
@@ -38456,7 +38456,7 @@ horse=
  },
  {
   "SerialNumber": "00443",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218370573",
   "HorseName": "トニービン1988",
   "Rare": "5",
@@ -38543,7 +38543,7 @@ horse=
  },
  {
   "SerialNumber": "00444",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2865141533",
   "HorseName": "トムロルフ",
   "Rare": "5",
@@ -38630,7 +38630,7 @@ horse=
  },
  {
   "SerialNumber": "00445",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1448265213",
   "HorseName": "トライバルチーフ",
   "Rare": "5",
@@ -38717,7 +38717,7 @@ horse=
  },
  {
   "SerialNumber": "00446",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0614534268",
   "HorseName": "トランセンド",
   "Rare": "5",
@@ -38804,7 +38804,7 @@ horse=
  },
  {
   "SerialNumber": "00447",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5912334387",
   "HorseName": "トランセンド2011",
   "Rare": "5",
@@ -38891,7 +38891,7 @@ horse=
  },
  {
   "SerialNumber": "00448",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218305593",
   "HorseName": "トロイ1979",
   "Rare": "5",
@@ -38978,7 +38978,7 @@ horse=
  },
  {
   "SerialNumber": "00449",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1174827353",
   "HorseName": "トロットサンダー1996",
   "Rare": "5",
@@ -39065,7 +39065,7 @@ horse=
  },
  {
   "SerialNumber": "00450",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8235243179",
   "HorseName": "トロットスター2001",
   "Rare": "5",
@@ -39152,7 +39152,7 @@ horse=
  },
  {
   "SerialNumber": "00451",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9614530218",
   "HorseName": "ドゥラメンテ",
   "Rare": "5",
@@ -39239,7 +39239,7 @@ horse=
  },
  {
   "SerialNumber": "00452",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2830148543",
   "HorseName": "ドゥラメンテ2015",
   "Rare": "5",
@@ -39326,7 +39326,7 @@ horse=
  },
  {
   "SerialNumber": "00453",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6132546839",
   "HorseName": "ドクターデヴィアス",
   "Rare": "5",
@@ -39413,7 +39413,7 @@ horse=
  },
  {
   "SerialNumber": "00454",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5614534218",
   "HorseName": "ドクターフェイガー",
   "Rare": "5",
@@ -39500,7 +39500,7 @@ horse=
  },
  {
   "SerialNumber": "00455",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2234185363",
   "HorseName": "ドバイミレニアム-覇走-",
   "Rare": "5",
@@ -39587,7 +39587,7 @@ horse=
  },
  {
   "SerialNumber": "00456",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8610323245",
   "HorseName": "ドバイミレニアム2000",
   "Rare": "5",
@@ -39674,7 +39674,7 @@ horse=
  },
  {
   "SerialNumber": "00457",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2691437558",
   "HorseName": "ドバウィ",
   "Rare": "5",
@@ -39761,7 +39761,7 @@ horse=
  },
  {
   "SerialNumber": "00458",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8365243148",
   "HorseName": "ドバウィ-剛健-",
   "Rare": "5",
@@ -39848,7 +39848,7 @@ horse=
  },
  {
   "SerialNumber": "00459",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7314532248",
   "HorseName": "ドリームジャーニー-覇煌-",
   "Rare": "5",
@@ -39935,7 +39935,7 @@ horse=
  },
  {
   "SerialNumber": "00460",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1524828353",
   "HorseName": "ドリームジャーニー-覇走-",
   "Rare": "5",
@@ -40022,7 +40022,7 @@ horse=
  },
  {
   "SerialNumber": "00461",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3578631432",
   "HorseName": "ドリームジャーニー-闘覇-",
   "Rare": "5",
@@ -40109,7 +40109,7 @@ horse=
  },
  {
   "SerialNumber": "00462",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0521308433",
   "HorseName": "ドリームジャーニー2009",
   "Rare": "5",
@@ -40196,7 +40196,7 @@ horse=
  },
  {
   "SerialNumber": "00463",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2641439858",
   "HorseName": "ナイキアディライト",
   "Rare": "5",
@@ -40283,7 +40283,7 @@ horse=
  },
  {
   "SerialNumber": "00464",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1344825356",
   "HorseName": "ナオキ-剛健-",
   "Rare": "5",
@@ -40370,7 +40370,7 @@ horse=
  },
  {
   "SerialNumber": "00465",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0234185374",
   "HorseName": "ナオキ1975",
   "Rare": "5",
@@ -40457,7 +40457,7 @@ horse=
  },
  {
   "SerialNumber": "00466",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2448165213",
   "HorseName": "ナカヤマフェスタ-覇走-",
   "Rare": "5",
@@ -40544,7 +40544,7 @@ horse=
  },
  {
   "SerialNumber": "00467",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1594821353",
   "HorseName": "ナシュワン2001",
   "Rare": "5",
@@ -40631,7 +40631,7 @@ horse=
  },
  {
   "SerialNumber": "00468",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6538631442",
   "HorseName": "ナスルエルアラブ",
   "Rare": "5",
@@ -40718,7 +40718,7 @@ horse=
  },
  {
   "SerialNumber": "00469",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4408635213",
   "HorseName": "ナリタブライアン",
   "Rare": "5",
@@ -40805,7 +40805,7 @@ horse=
  },
  {
   "SerialNumber": "00470",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5315438269",
   "HorseName": "ナリタブライアン",
   "Rare": "5",
@@ -40892,7 +40892,7 @@ horse=
  },
  {
   "SerialNumber": "00471",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9234185302",
   "HorseName": "ナリタブライアン-剛健-",
   "Rare": "5",
@@ -40979,7 +40979,7 @@ horse=
  },
  {
   "SerialNumber": "00472",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218332593",
   "HorseName": "ナリタブライアン-覇走-",
   "Rare": "5",
@@ -41066,7 +41066,7 @@ horse=
  },
  {
   "SerialNumber": "00473",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2830146563",
   "HorseName": "ナリタブライアン1993",
   "Rare": "5",
@@ -41153,7 +41153,7 @@ horse=
  },
  {
   "SerialNumber": "00474",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3528731472",
   "HorseName": "ナリタブライアン1994",
   "Rare": "5",
@@ -41240,7 +41240,7 @@ horse=
  },
  {
   "SerialNumber": "00475",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2817147503",
   "HorseName": "ナントセイケン20XX",
   "Rare": "5",
@@ -41327,7 +41327,7 @@ horse=
  },
  {
   "SerialNumber": "00476",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1554822356",
   "HorseName": "ニシュウネンキネン",
   "Rare": "5",
@@ -41414,7 +41414,7 @@ horse=
  },
  {
   "SerialNumber": "00477",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1035281314",
   "HorseName": "ニジンスキー1970",
   "Rare": "5",
@@ -41501,7 +41501,7 @@ horse=
  },
  {
   "SerialNumber": "00478",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2405334801",
   "HorseName": "ニットエイト1968",
   "Rare": "5",
@@ -41588,7 +41588,7 @@ horse=
  },
  {
   "SerialNumber": "00479",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2478135213",
   "HorseName": "ニッポーテイオー1987",
   "Rare": "5",
@@ -41675,7 +41675,7 @@ horse=
  },
  {
   "SerialNumber": "00480",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3123840750",
   "HorseName": "ニホンピロウイナー",
   "Rare": "5",
@@ -41762,7 +41762,7 @@ horse=
  },
  {
   "SerialNumber": "00481",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452151886",
   "HorseName": "ニホンピロウイナー-覇走-",
   "Rare": "5",
@@ -41849,7 +41849,7 @@ horse=
  },
  {
   "SerialNumber": "00482",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5428335213",
   "HorseName": "ヌレイエフ-瞬走-",
   "Rare": "5",
@@ -41936,7 +41936,7 @@ horse=
  },
  {
   "SerialNumber": "00483",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1478235213",
   "HorseName": "ヌレイエフ1987",
   "Rare": "5",
@@ -42023,7 +42023,7 @@ horse=
  },
  {
   "SerialNumber": "00484",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2839141523",
   "HorseName": "ネイエフ-覇走-",
   "Rare": "5",
@@ -42110,7 +42110,7 @@ horse=
  },
  {
   "SerialNumber": "00485",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6315458239",
   "HorseName": "ネオユニヴァース2003",
   "Rare": "5",
@@ -42197,7 +42197,7 @@ horse=
  },
  {
   "SerialNumber": "00486",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1064829353",
   "HorseName": "ネヴァービート1970",
   "Rare": "5",
@@ -42284,7 +42284,7 @@ horse=
  },
  {
   "SerialNumber": "00487",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3448065213",
   "HorseName": "ノウンファクト-瞬発-",
   "Rare": "5",
@@ -42371,7 +42371,7 @@ horse=
  },
  {
   "SerialNumber": "00488",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3351124580",
   "HorseName": "ノウンファクト1980",
   "Rare": "5",
@@ -42458,7 +42458,7 @@ horse=
  },
  {
   "SerialNumber": "00489",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218654523",
   "HorseName": "ノットアシングルダウト",
   "Rare": "5",
@@ -42545,7 +42545,7 @@ horse=
  },
  {
   "SerialNumber": "00490",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3614534238",
   "HorseName": "ノヴェリスト-覇走-",
   "Rare": "5",
@@ -42632,7 +42632,7 @@ horse=
  },
  {
   "SerialNumber": "00491",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0521338403",
   "HorseName": "ノヴェリスト2013",
   "Rare": "5",
@@ -42719,7 +42719,7 @@ horse=
  },
  {
   "SerialNumber": "00492",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8214258369",
   "HorseName": "ノーアテンション",
   "Rare": "5",
@@ -42806,7 +42806,7 @@ horse=
  },
  {
   "SerialNumber": "00493",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5814023615",
   "HorseName": "ノーアテンション-強靱-",
   "Rare": "5",
@@ -42893,7 +42893,7 @@ horse=
  },
  {
   "SerialNumber": "00494",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4314536238",
   "HorseName": "ノーザンテースト-極走-",
   "Rare": "5",
@@ -42980,7 +42980,7 @@ horse=
  },
  {
   "SerialNumber": "00495",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0498135213",
   "HorseName": "ノーザンテースト1974",
   "Rare": "5",
@@ -43067,7 +43067,7 @@ horse=
  },
  {
   "SerialNumber": "00496",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2371439858",
   "HorseName": "ノーザンテースト1982",
   "Rare": "5",
@@ -43154,7 +43154,7 @@ horse=
  },
  {
   "SerialNumber": "00497",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3528631482",
   "HorseName": "ハイエストオナー-闘覇-",
   "Rare": "5",
@@ -43241,7 +43241,7 @@ horse=
  },
  {
   "SerialNumber": "00498",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5614535208",
   "HorseName": "ハイシャパラル",
   "Rare": "5",
@@ -43328,7 +43328,7 @@ horse=
  },
  {
   "SerialNumber": "00499",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2830144583",
   "HorseName": "ハイセイコー",
   "Rare": "5",
@@ -43415,7 +43415,7 @@ horse=
  },
  {
   "SerialNumber": "00500",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5192546834",
   "HorseName": "ハイセイコー",
   "Rare": "5",
@@ -43502,7 +43502,7 @@ horse=
  },
  {
   "SerialNumber": "00501",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1664823353",
   "HorseName": "ハイセイコー-覇靭-",
   "Rare": "5",
@@ -43589,7 +43589,7 @@ horse=
  },
  {
   "SerialNumber": "00502",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3354124280",
   "HorseName": "ハイセイコー1972",
   "Rare": "5",
@@ -43676,7 +43676,7 @@ horse=
  },
  {
   "SerialNumber": "00503",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5804923310",
   "HorseName": "ハイセイコー1974",
   "Rare": "5",
@@ -43763,7 +43763,7 @@ horse=
  },
  {
   "SerialNumber": "00504",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452091883",
   "HorseName": "ハイトップ1972",
   "Rare": "5",
@@ -43850,7 +43850,7 @@ horse=
  },
  {
   "SerialNumber": "00505",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6114539208",
   "HorseName": "ハイフライフロー-覇煌-",
   "Rare": "5",
@@ -43937,7 +43937,7 @@ horse=
  },
  {
   "SerialNumber": "00506",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8035243199",
   "HorseName": "ハイランドリール2015",
   "Rare": "5",
@@ -44024,7 +44024,7 @@ horse=
  },
  {
   "SerialNumber": "00507",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218606553",
   "HorseName": "ハウスバスター",
   "Rare": "5",
@@ -44111,7 +44111,7 @@ horse=
  },
  {
   "SerialNumber": "00508",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2234185336",
   "HorseName": "ハチェットマン1976",
   "Rare": "5",
@@ -44198,7 +44198,7 @@ horse=
  },
  {
   "SerialNumber": "00509",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218672523",
   "HorseName": "ハットトリック",
   "Rare": "5",
@@ -44285,7 +44285,7 @@ horse=
  },
  {
   "SerialNumber": "00510",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2314536258",
   "HorseName": "ハツシバオー-砂煌-",
   "Rare": "5",
@@ -44372,7 +44372,7 @@ horse=
  },
  {
   "SerialNumber": "00511",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1538731482",
   "HorseName": "ハネダブライアン",
   "Rare": "5",
@@ -44459,7 +44459,7 @@ horse=
  },
  {
   "SerialNumber": "00512",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2234185327",
   "HorseName": "ハリケーンラン2005",
   "Rare": "5",
@@ -44546,7 +44546,7 @@ horse=
  },
  {
   "SerialNumber": "00513",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4182546836",
   "HorseName": "ハワイ",
   "Rare": "5",
@@ -44633,7 +44633,7 @@ horse=
  },
  {
   "SerialNumber": "00514",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5804123615",
   "HorseName": "ハンセル",
   "Rare": "5",
@@ -44720,7 +44720,7 @@ horse=
  },
  {
   "SerialNumber": "00515",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3558931422",
   "HorseName": "ハンターコム1970",
   "Rare": "5",
@@ -44807,7 +44807,7 @@ horse=
  },
  {
   "SerialNumber": "00516",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0478065213",
   "HorseName": "ハーツクライ",
   "Rare": "5",
@@ -44894,7 +44894,7 @@ horse=
  },
  {
   "SerialNumber": "00517",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1194825353",
   "HorseName": "ハーツクライ-覇走-",
   "Rare": "5",
@@ -44981,7 +44981,7 @@ horse=
  },
  {
   "SerialNumber": "00518",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8510333245",
   "HorseName": "ハーツクライ2005",
   "Rare": "5",
@@ -45068,7 +45068,7 @@ horse=
  },
  {
   "SerialNumber": "00519",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2415333801",
   "HorseName": "ハービンジャー2010",
   "Rare": "5",
@@ -45155,7 +45155,7 @@ horse=
  },
  {
   "SerialNumber": "00520",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6172543838",
   "HorseName": "バゴ-覇煌-",
   "Rare": "5",
@@ -45242,7 +45242,7 @@ horse=
  },
  {
   "SerialNumber": "00521",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3428535213",
   "HorseName": "バゴ2004",
   "Rare": "5",
@@ -45329,7 +45329,7 @@ horse=
  },
  {
   "SerialNumber": "00522",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2864144513",
   "HorseName": "バステッド-覇煌-",
   "Rare": "5",
@@ -45416,7 +45416,7 @@ horse=
  },
  {
   "SerialNumber": "00523",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8135243198",
   "HorseName": "バステッド1967",
   "Rare": "5",
@@ -45503,7 +45503,7 @@ horse=
  },
  {
   "SerialNumber": "00524",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8312603245",
   "HorseName": "バンブーアトラス",
   "Rare": "5",
@@ -45590,7 +45590,7 @@ horse=
  },
  {
   "SerialNumber": "00525",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2866140533",
   "HorseName": "バンブーメモリー",
   "Rare": "5",
@@ -45677,7 +45677,7 @@ horse=
  },
  {
   "SerialNumber": "00526",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8465243147",
   "HorseName": "バーナーディニ",
   "Rare": "5",
@@ -45764,7 +45764,7 @@ horse=
  },
  {
   "SerialNumber": "00527",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5814823310",
   "HorseName": "パレスミュージック1995",
   "Rare": "5",
@@ -45851,7 +45851,7 @@ horse=
  },
  {
   "SerialNumber": "00528",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8314530258",
   "HorseName": "パントレセレブル1997",
   "Rare": "5",
@@ -45938,7 +45938,7 @@ horse=
  },
  {
   "SerialNumber": "00529",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9142543838",
   "HorseName": "パーソロン1971",
   "Rare": "5",
@@ -46025,7 +46025,7 @@ horse=
  },
  {
   "SerialNumber": "00530",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7314530268",
   "HorseName": "ヒカルタカイ1968",
   "Rare": "5",
@@ -46112,7 +46112,7 @@ horse=
  },
  {
   "SerialNumber": "00531",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1454823356",
   "HorseName": "ヒコボシ",
   "Rare": "5",
@@ -46199,7 +46199,7 @@ horse=
  },
  {
   "SerialNumber": "00532",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6518431482",
   "HorseName": "ヒズマジェスティ-覇煌-",
   "Rare": "5",
@@ -46286,7 +46286,7 @@ horse=
  },
  {
   "SerialNumber": "00533",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5132048310",
   "HorseName": "ヒズマジェスティ1982",
   "Rare": "5",
@@ -46373,7 +46373,7 @@ horse=
  },
  {
   "SerialNumber": "00534",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218107593",
   "HorseName": "ヒャクネンニヒトリ",
   "Rare": "5",
@@ -46460,7 +46460,7 @@ horse=
  },
  {
   "SerialNumber": "00535",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5612334687",
   "HorseName": "ヒンドスタン-闘煌-",
   "Rare": "5",
@@ -46547,7 +46547,7 @@ horse=
  },
  {
   "SerialNumber": "00536",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2478315213",
   "HorseName": "ビアハヤヒデ",
   "Rare": "5",
@@ -46634,7 +46634,7 @@ horse=
  },
  {
   "SerialNumber": "00537",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3482771083",
   "HorseName": "ビワハヤヒデ",
   "Rare": "5",
@@ -46721,7 +46721,7 @@ horse=
  },
  {
   "SerialNumber": "00538",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2817144533",
   "HorseName": "ビワハヤヒデ",
   "Rare": "5",
@@ -46808,7 +46808,7 @@ horse=
  },
  {
   "SerialNumber": "00539",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5612334786",
   "HorseName": "ビワハヤヒデ-闘煌-",
   "Rare": "5",
@@ -46895,7 +46895,7 @@ horse=
  },
  {
   "SerialNumber": "00540",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8835243128",
   "HorseName": "ビワハヤヒデ1993",
   "Rare": "5",
@@ -46982,7 +46982,7 @@ horse=
  },
  {
   "SerialNumber": "00541",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2837145503",
   "HorseName": "ビワハヤヒデ1994",
   "Rare": "5",
@@ -47069,7 +47069,7 @@ horse=
  },
  {
   "SerialNumber": "00542",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2425330821",
   "HorseName": "ビーマイゲスト1982",
   "Rare": "5",
@@ -47156,7 +47156,7 @@ horse=
  },
  {
   "SerialNumber": "00543",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8265243167",
   "HorseName": "ピルサドスキー",
   "Rare": "5",
@@ -47243,7 +47243,7 @@ horse=
  },
  {
   "SerialNumber": "00544",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7428135213",
   "HorseName": "ピルサドスキー-覇走-",
   "Rare": "5",
@@ -47330,7 +47330,7 @@ horse=
  },
  {
   "SerialNumber": "00545",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9152543837",
   "HorseName": "ピルサドスキー1997",
   "Rare": "5",
@@ -47417,7 +47417,7 @@ horse=
  },
  {
   "SerialNumber": "00546",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1468065213",
   "HorseName": "ピンズ",
   "Rare": "5",
@@ -47504,7 +47504,7 @@ horse=
  },
  {
   "SerialNumber": "00547",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452751286",
   "HorseName": "ファインニードル",
   "Rare": "5",
@@ -47591,7 +47591,7 @@ horse=
  },
  {
   "SerialNumber": "00548",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3352124282",
   "HorseName": "ファザーランド-瞬発-",
   "Rare": "5",
@@ -47678,7 +47678,7 @@ horse=
  },
  {
   "SerialNumber": "00549",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5824223612",
   "HorseName": "ファストネットロック",
   "Rare": "5",
@@ -47765,7 +47765,7 @@ horse=
  },
  {
   "SerialNumber": "00550",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3558231492",
   "HorseName": "ファピアノ1981",
   "Rare": "5",
@@ -47852,7 +47852,7 @@ horse=
  },
  {
   "SerialNumber": "00551",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5814123614",
   "HorseName": "フェアリーキング",
   "Rare": "5",
@@ -47939,7 +47939,7 @@ horse=
  },
  {
   "SerialNumber": "00552",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8635243166",
   "HorseName": "フェートメーカー1975",
   "Rare": "5",
@@ -48026,7 +48026,7 @@ horse=
  },
  {
   "SerialNumber": "00553",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3568631442",
   "HorseName": "フォルティノ1962",
   "Rare": "5",
@@ -48113,7 +48113,7 @@ horse=
  },
  {
   "SerialNumber": "00554",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5212334889",
   "HorseName": "フォルリ1966",
   "Rare": "5",
@@ -48200,7 +48200,7 @@ horse=
  },
  {
   "SerialNumber": "00555",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5614532238",
   "HorseName": "フォーティナイナー",
   "Rare": "5",
@@ -48287,7 +48287,7 @@ horse=
  },
  {
   "SerialNumber": "00556",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3123841254",
   "HorseName": "フォーティナイナー1987",
   "Rare": "5",
@@ -48374,7 +48374,7 @@ horse=
  },
  {
   "SerialNumber": "00557",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218615553",
   "HorseName": "フォーントリック",
   "Rare": "5",
@@ -48461,7 +48461,7 @@ horse=
  },
  {
   "SerialNumber": "00558",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2985496231",
   "HorseName": "フサイチペガサス",
   "Rare": "5",
@@ -48548,7 +48548,7 @@ horse=
  },
  {
   "SerialNumber": "00559",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218316573",
   "HorseName": "フジキセキ2003",
   "Rare": "5",
@@ -48635,7 +48635,7 @@ horse=
  },
  {
   "SerialNumber": "00560",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2832145553",
   "HorseName": "フラワーアレイ2009",
   "Rare": "5",
@@ -48722,7 +48722,7 @@ horse=
  },
  {
   "SerialNumber": "00561",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218366523",
   "HorseName": "フランケル-覇走-",
   "Rare": "5",
@@ -48809,7 +48809,7 @@ horse=
  },
  {
   "SerialNumber": "00562",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218343573",
   "HorseName": "フランケル2012",
   "Rare": "5",
@@ -48896,7 +48896,7 @@ horse=
  },
  {
   "SerialNumber": "00563",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5912334882",
   "HorseName": "フリオーソ-砂煌-",
   "Rare": "5",
@@ -48983,7 +48983,7 @@ horse=
  },
  {
   "SerialNumber": "00564",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7468536912",
   "HorseName": "ブライアンズタイム",
   "Rare": "5",
@@ -49070,7 +49070,7 @@ horse=
  },
  {
   "SerialNumber": "00565",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1264827353",
   "HorseName": "ブライアンズタイム-覇煌-",
   "Rare": "5",
@@ -49157,7 +49157,7 @@ horse=
  },
  {
   "SerialNumber": "00566",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2837140553",
   "HorseName": "ブライアンズタイム1995",
   "Rare": "5",
@@ -49244,7 +49244,7 @@ horse=
  },
  {
   "SerialNumber": "00567",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0234185383",
   "HorseName": "ブラストワンピース2018",
   "Rare": "5",
@@ -49331,7 +49331,7 @@ horse=
  },
  {
   "SerialNumber": "00568",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1324827356",
   "HorseName": "ブラックタイアフェアー",
   "Rare": "5",
@@ -49418,7 +49418,7 @@ horse=
  },
  {
   "SerialNumber": "00569",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452291683",
   "HorseName": "ブラックタイド2012",
   "Rare": "5",
@@ -49505,7 +49505,7 @@ horse=
  },
  {
   "SerialNumber": "00570",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452961283",
   "HorseName": "ブラックホーク-覇走-",
   "Rare": "5",
@@ -49592,7 +49592,7 @@ horse=
  },
  {
   "SerialNumber": "00571",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1281534403",
   "HorseName": "ブラッシンググルーム1978",
   "Rare": "5",
@@ -49679,7 +49679,7 @@ horse=
  },
  {
   "SerialNumber": "00572",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5512364388",
   "HorseName": "ブレイヴェストローマン",
   "Rare": "5",
@@ -49766,7 +49766,7 @@ horse=
  },
  {
   "SerialNumber": "00573",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218634543",
   "HorseName": "ブロードブラッシュ-闘志-",
   "Rare": "5",
@@ -49853,7 +49853,7 @@ horse=
  },
  {
   "SerialNumber": "00574",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4785496231",
   "HorseName": "プライヴェートアカウント-闘志-",
   "Rare": "5",
@@ -49940,7 +49940,7 @@ horse=
  },
  {
   "SerialNumber": "00575",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0234185329",
   "HorseName": "プライヴェートアカウント1988",
   "Rare": "5",
@@ -50027,7 +50027,7 @@ horse=
  },
  {
   "SerialNumber": "00576",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5804323613",
   "HorseName": "プラグドニックル-瞬発-",
   "Rare": "5",
@@ -50114,7 +50114,7 @@ horse=
  },
  {
   "SerialNumber": "00577",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6264185311",
   "HorseName": "プラティニ",
   "Rare": "5",
@@ -50201,7 +50201,7 @@ horse=
  },
  {
   "SerialNumber": "00578",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1094826353",
   "HorseName": "プルーデント",
   "Rare": "5",
@@ -50288,7 +50288,7 @@ horse=
  },
  {
   "SerialNumber": "00579",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5874023312",
   "HorseName": "プレザントコロニー-闘志-",
   "Rare": "5",
@@ -50375,7 +50375,7 @@ horse=
  },
  {
   "SerialNumber": "00580",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0235280314",
   "HorseName": "プレザントタップ1992",
   "Rare": "5",
@@ -50462,7 +50462,7 @@ horse=
  },
  {
   "SerialNumber": "00581",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9182543834",
   "HorseName": "ヘイロー1983",
   "Rare": "5",
@@ -50549,7 +50549,7 @@ horse=
  },
  {
   "SerialNumber": "00582",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5864323310",
   "HorseName": "ヘクタープロテクター1990",
   "Rare": "5",
@@ -50636,7 +50636,7 @@ horse=
  },
  {
   "SerialNumber": "00583",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452541586",
   "HorseName": "ベルワイド-剛健-",
   "Rare": "5",
@@ -50723,7 +50723,7 @@ horse=
  },
  {
   "SerialNumber": "00584",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3578231472",
   "HorseName": "ペイザバトラー1988",
   "Rare": "5",
@@ -50810,7 +50810,7 @@ horse=
  },
  {
   "SerialNumber": "00585",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5824023614",
   "HorseName": "ペティンゴ",
   "Rare": "5",
@@ -50897,7 +50897,7 @@ horse=
  },
  {
   "SerialNumber": "00586",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218350593",
   "HorseName": "ペンタイア2004",
   "Rare": "5",
@@ -50984,7 +50984,7 @@ horse=
  },
  {
   "SerialNumber": "00587",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2817145523",
   "HorseName": "ホクトシチセイゴー20XX",
   "Rare": "5",
@@ -51071,7 +51071,7 @@ horse=
  },
  {
   "SerialNumber": "00588",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6315498217",
   "HorseName": "ホクトシンケン20XX",
   "Rare": "5",
@@ -51158,7 +51158,7 @@ horse=
  },
  {
   "SerialNumber": "00589",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452091586",
   "HorseName": "ホッコータルマエ",
   "Rare": "5",
@@ -51245,7 +51245,7 @@ horse=
  },
  {
   "SerialNumber": "00590",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2836146503",
   "HorseName": "ホッコータルマエ-瞬砂-",
   "Rare": "5",
@@ -51332,7 +51332,7 @@ horse=
  },
  {
   "SerialNumber": "00591",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7122547838",
   "HorseName": "ホーリーシックス",
   "Rare": "5",
@@ -51419,7 +51419,7 @@ horse=
  },
  {
   "SerialNumber": "00592",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1054827356",
   "HorseName": "ホーリーローマンエンペラー",
   "Rare": "5",
@@ -51506,7 +51506,7 @@ horse=
  },
  {
   "SerialNumber": "00593",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5264185321",
   "HorseName": "ポッセ",
   "Rare": "5",
@@ -51593,7 +51593,7 @@ horse=
  },
  {
   "SerialNumber": "00594",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452371981",
   "HorseName": "ポマードファルコン",
   "Rare": "5",
@@ -51680,7 +51680,7 @@ horse=
  },
  {
   "SerialNumber": "00595",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3315488239",
   "HorseName": "ポリッシュネイビー1987",
   "Rare": "5",
@@ -51767,7 +51767,7 @@ horse=
  },
  {
   "SerialNumber": "00596",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2641438958",
   "HorseName": "マイスワロー",
   "Rare": "5",
@@ -51854,7 +51854,7 @@ horse=
  },
  {
   "SerialNumber": "00597",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5712334389",
   "HorseName": "マウントリバーモア1987",
   "Rare": "5",
@@ -51941,7 +51941,7 @@ horse=
  },
  {
   "SerialNumber": "00598",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218307573",
   "HorseName": "マカヒキ2016",
   "Rare": "5",
@@ -52028,7 +52028,7 @@ horse=
  },
  {
   "SerialNumber": "00599",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2819140553",
   "HorseName": "マカベノチェーン",
   "Rare": "5",
@@ -52115,7 +52115,7 @@ horse=
  },
  {
   "SerialNumber": "00600",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8565243155",
   "HorseName": "マキャベリアン",
   "Rare": "5",
@@ -52202,7 +52202,7 @@ horse=
  },
  {
   "SerialNumber": "00601",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218371563",
   "HorseName": "マキャベリアン-瞬闘-",
   "Rare": "5",
@@ -52289,7 +52289,7 @@ horse=
  },
  {
   "SerialNumber": "00602",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6214758339",
   "HorseName": "マキャベリアン1989",
   "Rare": "5",
@@ -52376,7 +52376,7 @@ horse=
  },
  {
   "SerialNumber": "00603",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3528931452",
   "HorseName": "マキャベリアン1998",
   "Rare": "5",
@@ -52463,7 +52463,7 @@ horse=
  },
  {
   "SerialNumber": "00604",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452271883",
   "HorseName": "マグニテュード",
   "Rare": "5",
@@ -52550,7 +52550,7 @@ horse=
  },
  {
   "SerialNumber": "00605",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1694820353",
   "HorseName": "マジェスティックプリンス1969",
   "Rare": "5",
@@ -52637,7 +52637,7 @@ horse=
  },
  {
   "SerialNumber": "00606",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0614532288",
   "HorseName": "マスタークラフツマン",
   "Rare": "5",
@@ -52724,7 +52724,7 @@ horse=
  },
  {
   "SerialNumber": "00607",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5912334486",
   "HorseName": "マツリダゴッホ2007",
   "Rare": "5",
@@ -52811,7 +52811,7 @@ horse=
  },
  {
   "SerialNumber": "00608",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0281533423",
   "HorseName": "マヤノトップガン-覇走-",
   "Rare": "5",
@@ -52898,7 +52898,7 @@ horse=
  },
  {
   "SerialNumber": "00609",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9192543833",
   "HorseName": "マヤノトップガン1995",
   "Rare": "5",
@@ -52985,7 +52985,7 @@ horse=
  },
  {
   "SerialNumber": "00610",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3123847050",
   "HorseName": "マヤノトップガン1996",
   "Rare": "5",
@@ -53072,7 +53072,7 @@ horse=
  },
  {
   "SerialNumber": "00611",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1074828353",
   "HorseName": "マヤノトップガン1997",
   "Rare": "5",
@@ -53159,7 +53159,7 @@ horse=
  },
  {
   "SerialNumber": "00612",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2264185351",
   "HorseName": "マリブムーン",
   "Rare": "5",
@@ -53246,7 +53246,7 @@ horse=
  },
  {
   "SerialNumber": "00613",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5814123317",
   "HorseName": "マルゼンスキー1977",
   "Rare": "5",
@@ -53333,7 +53333,7 @@ horse=
  },
  {
   "SerialNumber": "00614",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8315478262",
   "HorseName": "マンデュロ",
   "Rare": "5",
@@ -53420,7 +53420,7 @@ horse=
  },
  {
   "SerialNumber": "00615",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452391583",
   "HorseName": "マンハッタンカフェ-剛健-",
   "Rare": "5",
@@ -53507,7 +53507,7 @@ horse=
  },
  {
   "SerialNumber": "00616",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2425332801",
   "HorseName": "マンハッタンカフェ2001",
   "Rare": "5",
@@ -53594,7 +53594,7 @@ horse=
  },
  {
   "SerialNumber": "00617",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8535243194",
   "HorseName": "マークオブディスティンクション1990",
   "Rare": "5",
@@ -53681,7 +53681,7 @@ horse=
  },
  {
   "SerialNumber": "00618",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218721573",
   "HorseName": "マーシーズラブ",
   "Rare": "5",
@@ -53768,7 +53768,7 @@ horse=
  },
  {
   "SerialNumber": "00619",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0428835213",
   "HorseName": "マーベラスサンデー1997",
   "Rare": "5",
@@ -53855,7 +53855,7 @@ horse=
  },
  {
   "SerialNumber": "00620",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5428065213",
   "HorseName": "ミスターシービー",
   "Rare": "5",
@@ -53942,7 +53942,7 @@ horse=
  },
  {
   "SerialNumber": "00621",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452591383",
   "HorseName": "ミスターシービー-瞬発-",
   "Rare": "5",
@@ -54029,7 +54029,7 @@ horse=
  },
  {
   "SerialNumber": "00622",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7234185322",
   "HorseName": "ミスターシービー1983",
   "Rare": "5",
@@ -54116,7 +54116,7 @@ horse=
  },
  {
   "SerialNumber": "00623",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452721883",
   "HorseName": "ミスタープロスペクター-極走-",
   "Rare": "5",
@@ -54203,7 +54203,7 @@ horse=
  },
  {
   "SerialNumber": "00624",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5315468239",
   "HorseName": "ミスタープロスペクター1984",
   "Rare": "5",
@@ -54290,7 +54290,7 @@ horse=
  },
  {
   "SerialNumber": "00625",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9408135213",
   "HorseName": "ミスタープロスペクター1987",
   "Rare": "5",
@@ -54377,7 +54377,7 @@ horse=
  },
  {
   "SerialNumber": "00626",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6314532258",
   "HorseName": "ミスワキ-覇走-",
   "Rare": "5",
@@ -54464,7 +54464,7 @@ horse=
  },
  {
   "SerialNumber": "00627",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452901883",
   "HorseName": "ミスワキ1980",
   "Rare": "5",
@@ -54551,7 +54551,7 @@ horse=
  },
  {
   "SerialNumber": "00628",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2817140573",
   "HorseName": "ミソノブルボン",
   "Rare": "5",
@@ -54638,7 +54638,7 @@ horse=
  },
  {
   "SerialNumber": "00629",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4264185313",
   "HorseName": "ミハルオー",
   "Rare": "5",
@@ -54725,7 +54725,7 @@ horse=
  },
  {
   "SerialNumber": "00630",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1924821356",
   "HorseName": "ミホシンザン",
   "Rare": "5",
@@ -54812,7 +54812,7 @@ horse=
  },
  {
   "SerialNumber": "00631",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6234185332",
   "HorseName": "ミホノブルボン-闘覇-",
   "Rare": "5",
@@ -54899,7 +54899,7 @@ horse=
  },
  {
   "SerialNumber": "00632",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218352573",
   "HorseName": "ミホノブルボン1992",
   "Rare": "5",
@@ -54986,7 +54986,7 @@ horse=
  },
  {
   "SerialNumber": "00633",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1498035213",
   "HorseName": "ミホノブルボン1994",
   "Rare": "5",
@@ -55073,7 +55073,7 @@ horse=
  },
  {
   "SerialNumber": "00634",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8715243176",
   "HorseName": "ミマモルアイモアル20XX",
   "Rare": "5",
@@ -55160,7 +55160,7 @@ horse=
  },
  {
   "SerialNumber": "00635",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452571781",
   "HorseName": "ミリタリーショット",
   "Rare": "5",
@@ -55247,7 +55247,7 @@ horse=
  },
  {
   "SerialNumber": "00636",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6885466231",
   "HorseName": "ミルジョージ",
   "Rare": "5",
@@ -55334,7 +55334,7 @@ horse=
  },
  {
   "SerialNumber": "00637",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218323593",
   "HorseName": "ミルジョージ1984",
   "Rare": "5",
@@ -55421,7 +55421,7 @@ horse=
  },
  {
   "SerialNumber": "00638",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5314536228",
   "HorseName": "ミルリーフ1978",
   "Rare": "5",
@@ -55508,7 +55508,7 @@ horse=
  },
  {
   "SerialNumber": "00639",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2862141563",
   "HorseName": "ムトト",
   "Rare": "5",
@@ -55595,7 +55595,7 @@ horse=
  },
  {
   "SerialNumber": "00640",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6315478237",
   "HorseName": "ムーチョマッチョマン2013",
   "Rare": "5",
@@ -55682,7 +55682,7 @@ horse=
  },
  {
   "SerialNumber": "00641",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1804827353",
   "HorseName": "メイショウサムソン",
   "Rare": "5",
@@ -55769,7 +55769,7 @@ horse=
  },
  {
   "SerialNumber": "00642",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2234185345",
   "HorseName": "メイショウサムソン-覇走-",
   "Rare": "5",
@@ -55856,7 +55856,7 @@ horse=
  },
  {
   "SerialNumber": "00643",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8735243165",
   "HorseName": "メイショウサムソン-闘覇-",
   "Rare": "5",
@@ -55943,7 +55943,7 @@ horse=
  },
  {
   "SerialNumber": "00644",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2832149513",
   "HorseName": "メイセイオペラ1999",
   "Rare": "5",
@@ -56030,7 +56030,7 @@ horse=
  },
  {
   "SerialNumber": "00645",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8214458367",
   "HorseName": "メジロアサマ-剛健-",
   "Rare": "5",
@@ -56117,7 +56117,7 @@ horse=
  },
  {
   "SerialNumber": "00646",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1874820353",
   "HorseName": "メジロティターン",
   "Rare": "5",
@@ -56204,7 +56204,7 @@ horse=
  },
  {
   "SerialNumber": "00647",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2614534248",
   "HorseName": "メジロティターン-剛健-",
   "Rare": "5",
@@ -56291,7 +56291,7 @@ horse=
  },
  {
   "SerialNumber": "00648",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3295194688",
   "HorseName": "メジロデュレン",
   "Rare": "5",
@@ -56378,7 +56378,7 @@ horse=
  },
  {
   "SerialNumber": "00649",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6588531402",
   "HorseName": "メジロデュレン-剛健-",
   "Rare": "5",
@@ -56465,7 +56465,7 @@ horse=
  },
  {
   "SerialNumber": "00650",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4264185304",
   "HorseName": "メジロデュレン-闘煌-",
   "Rare": "5",
@@ -56552,7 +56552,7 @@ horse=
  },
  {
   "SerialNumber": "00651",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9438539712",
   "HorseName": "メジロパーマー",
   "Rare": "5",
@@ -56639,7 +56639,7 @@ horse=
  },
  {
   "SerialNumber": "00652",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8216303245",
   "HorseName": "メジロマックイーン-剛禊-",
   "Rare": "5",
@@ -56726,7 +56726,7 @@ horse=
  },
  {
   "SerialNumber": "00653",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3123841056",
   "HorseName": "メジロマックイーン1991",
   "Rare": "5",
@@ -56813,7 +56813,7 @@ horse=
  },
  {
   "SerialNumber": "00654",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6314537208",
   "HorseName": "メジロマックイーン1992",
   "Rare": "5",
@@ -56900,7 +56900,7 @@ horse=
  },
  {
   "SerialNumber": "00655",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1350124187",
   "HorseName": "メジロマッコイーン",
   "Rare": "5",
@@ -56987,7 +56987,7 @@ horse=
  },
  {
   "SerialNumber": "00656",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4962591538",
   "HorseName": "メジロムサシ",
   "Rare": "5",
@@ -57074,7 +57074,7 @@ horse=
  },
  {
   "SerialNumber": "00657",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218663523",
   "HorseName": "メジロライアン",
   "Rare": "5",
@@ -57161,7 +57161,7 @@ horse=
  },
  {
   "SerialNumber": "00658",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452571583",
   "HorseName": "メジロライアン1991",
   "Rare": "5",
@@ -57248,7 +57248,7 @@ horse=
  },
  {
   "SerialNumber": "00659",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0281510473",
   "HorseName": "メジロライオン",
   "Rare": "5",
@@ -57335,7 +57335,7 @@ horse=
  },
  {
   "SerialNumber": "00660",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4152546839",
   "HorseName": "メダグリアドーロ",
   "Rare": "5",
@@ -57422,7 +57422,7 @@ horse=
  },
  {
   "SerialNumber": "00661",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8735243174",
   "HorseName": "メリーナイス",
   "Rare": "5",
@@ -57509,7 +57509,7 @@ horse=
  },
  {
   "SerialNumber": "00662",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0614536248",
   "HorseName": "モアザンレディ",
   "Rare": "5",
@@ -57596,7 +57596,7 @@ horse=
  },
  {
   "SerialNumber": "00663",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2862144533",
   "HorseName": "モガミ",
   "Rare": "5",
@@ -57683,7 +57683,7 @@ horse=
  },
  {
   "SerialNumber": "00664",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8435243177",
   "HorseName": "モガミ1986",
   "Rare": "5",
@@ -57770,7 +57770,7 @@ horse=
  },
  {
   "SerialNumber": "00665",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1825649639",
   "HorseName": "モンジュー",
   "Rare": "5",
@@ -57857,7 +57857,7 @@ horse=
  },
  {
   "SerialNumber": "00666",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8935243163",
   "HorseName": "モンジュー-闘煌-",
   "Rare": "5",
@@ -57944,7 +57944,7 @@ horse=
  },
  {
   "SerialNumber": "00667",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5712334884",
   "HorseName": "モンジュー1999",
   "Rare": "5",
@@ -58031,7 +58031,7 @@ horse=
  },
  {
   "SerialNumber": "00668",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3538931442",
   "HorseName": "モンズーン1993",
   "Rare": "5",
@@ -58118,7 +58118,7 @@ horse=
  },
  {
   "SerialNumber": "00669",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8210363245",
   "HorseName": "モンテプリンス1982",
   "Rare": "5",
@@ -58205,7 +58205,7 @@ horse=
  },
  {
   "SerialNumber": "00670",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2661438758",
   "HorseName": "モントブルック",
   "Rare": "5",
@@ -58292,7 +58292,7 @@ horse=
  },
  {
   "SerialNumber": "00671",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8214958335",
   "HorseName": "モーリス-覇走-",
   "Rare": "5",
@@ -58379,7 +58379,7 @@ horse=
  },
  {
   "SerialNumber": "00672",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1274826353",
   "HorseName": "モーリス2015",
   "Rare": "5",
@@ -58466,7 +58466,7 @@ horse=
  },
  {
   "SerialNumber": "00673",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8935243190",
   "HorseName": "モーリス2016",
   "Rare": "5",
@@ -58553,7 +58553,7 @@ horse=
  },
  {
   "SerialNumber": "00674",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2661437858",
   "HorseName": "ヤエノムテキ",
   "Rare": "5",
@@ -58640,7 +58640,7 @@ horse=
  },
  {
   "SerialNumber": "00675",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9214758336",
   "HorseName": "ヤマニンゼファー1993",
   "Rare": "5",
@@ -58727,7 +58727,7 @@ horse=
  },
  {
   "SerialNumber": "00676",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452671087",
   "HorseName": "ユキオー",
   "Rare": "5",
@@ -58814,7 +58814,7 @@ horse=
  },
  {
   "SerialNumber": "00677",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3568731432",
   "HorseName": "ユキオー",
   "Rare": "5",
@@ -58901,7 +58901,7 @@ horse=
  },
  {
   "SerialNumber": "00678",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8575243172",
   "HorseName": "ユベシ",
   "Rare": "5",
@@ -58988,7 +58988,7 @@ horse=
  },
  {
   "SerialNumber": "00679",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452921386",
   "HorseName": "ユートピア",
   "Rare": "5",
@@ -59075,7 +59075,7 @@ horse=
  },
  {
   "SerialNumber": "00680",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5214958365",
   "HorseName": "ライスシャワー",
   "Rare": "5",
@@ -59162,7 +59162,7 @@ horse=
  },
  {
   "SerialNumber": "00681",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5315498236",
   "HorseName": "ライスシャワー-剛健-",
   "Rare": "5",
@@ -59249,7 +59249,7 @@ horse=
  },
  {
   "SerialNumber": "00682",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2445330801",
   "HorseName": "ライスシャワー1993",
   "Rare": "5",
@@ -59336,7 +59336,7 @@ horse=
  },
  {
   "SerialNumber": "00683",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3314539218",
   "HorseName": "ライスシャワー1995",
   "Rare": "5",
@@ -59423,7 +59423,7 @@ horse=
  },
  {
   "SerialNumber": "00684",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2714537208",
   "HorseName": "ライトオブエンド",
   "Rare": "5",
@@ -59510,7 +59510,7 @@ horse=
  },
  {
   "SerialNumber": "00685",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0478515213",
   "HorseName": "ライフシャワー",
   "Rare": "5",
@@ -59597,7 +59597,7 @@ horse=
  },
  {
   "SerialNumber": "00686",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2865144503",
   "HorseName": "ラストタイクーン",
   "Rare": "5",
@@ -59684,7 +59684,7 @@ horse=
  },
  {
   "SerialNumber": "00687",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5834423312",
   "HorseName": "ラムタラ-剛健-",
   "Rare": "5",
@@ -59771,7 +59771,7 @@ horse=
  },
  {
   "SerialNumber": "00688",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9314530248",
   "HorseName": "ラムタラ1995",
   "Rare": "5",
@@ -59858,7 +59858,7 @@ horse=
  },
  {
   "SerialNumber": "00689",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5152546838",
   "HorseName": "ランザガントレット",
   "Rare": "5",
@@ -59945,7 +59945,7 @@ horse=
  },
  {
   "SerialNumber": "00690",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0714537228",
   "HorseName": "ラヴレス",
   "Rare": "5",
@@ -60032,7 +60032,7 @@ horse=
  },
  {
   "SerialNumber": "00691",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4162546838",
   "HorseName": "ラーイ-覇走-",
   "Rare": "5",
@@ -60119,7 +60119,7 @@ horse=
  },
  {
   "SerialNumber": "00692",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3578031492",
   "HorseName": "ラーイ1996",
   "Rare": "5",
@@ -60206,7 +60206,7 @@ horse=
  },
  {
   "SerialNumber": "00693",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3588231462",
   "HorseName": "リアファン1984",
   "Rare": "5",
@@ -60293,7 +60293,7 @@ horse=
  },
  {
   "SerialNumber": "00694",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452891083",
   "HorseName": "リアルインパクト2011",
   "Rare": "5",
@@ -60380,7 +60380,7 @@ horse=
  },
  {
   "SerialNumber": "00695",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5712334686",
   "HorseName": "リアルシャダイ1993",
   "Rare": "5",
@@ -60467,7 +60467,7 @@ horse=
  },
  {
   "SerialNumber": "00696",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8865243143",
   "HorseName": "リアルスティール",
   "Rare": "5",
@@ -60554,7 +60554,7 @@ horse=
  },
  {
   "SerialNumber": "00697",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7315468237",
   "HorseName": "リダウツチョイス1999",
   "Rare": "5",
@@ -60641,7 +60641,7 @@ horse=
  },
  {
   "SerialNumber": "00698",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6558231462",
   "HorseName": "リツンタイクーン",
   "Rare": "5",
@@ -60728,7 +60728,7 @@ horse=
  },
  {
   "SerialNumber": "00699",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8312333245",
   "HorseName": "リファール1972",
   "Rare": "5",
@@ -60815,7 +60815,7 @@ horse=
  },
  {
   "SerialNumber": "00700",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5712374286",
   "HorseName": "リベリングラブ",
   "Rare": "5",
@@ -60902,7 +60902,7 @@ horse=
  },
  {
   "SerialNumber": "00701",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218326563",
   "HorseName": "リマンド-闘志-",
   "Rare": "5",
@@ -60989,7 +60989,7 @@ horse=
  },
  {
   "SerialNumber": "00702",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5814623312",
   "HorseName": "リュティエ1968",
   "Rare": "5",
@@ -61076,7 +61076,7 @@ horse=
  },
  {
   "SerialNumber": "00703",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1034829356",
   "HorseName": "リライアンス-闘煌-",
   "Rare": "5",
@@ -61163,7 +61163,7 @@ horse=
  },
  {
   "SerialNumber": "00704",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9315448264",
   "HorseName": "リワイルディング",
   "Rare": "5",
@@ -61250,7 +61250,7 @@ horse=
  },
  {
   "SerialNumber": "00705",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218384523",
   "HorseName": "リヴァーマン1980",
   "Rare": "5",
@@ -61337,7 +61337,7 @@ horse=
  },
  {
   "SerialNumber": "00706",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2864145503",
   "HorseName": "リヴリア",
   "Rare": "5",
@@ -61424,7 +61424,7 @@ horse=
  },
  {
   "SerialNumber": "00707",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218136573",
   "HorseName": "ルパンザサード",
   "Rare": "5",
@@ -61511,7 +61511,7 @@ horse=
  },
  {
   "SerialNumber": "00708",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8735243192",
   "HorseName": "ルヴァンスレーヴ2018",
   "Rare": "5",
@@ -61598,7 +61598,7 @@ horse=
  },
  {
   "SerialNumber": "00709",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6351124082",
   "HorseName": "レイデオロ",
   "Rare": "5",
@@ -61685,7 +61685,7 @@ horse=
  },
  {
   "SerialNumber": "00710",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3808731462",
   "HorseName": "レインボウクエスト",
   "Rare": "5",
@@ -61772,7 +61772,7 @@ horse=
  },
  {
   "SerialNumber": "00711",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5132148300",
   "HorseName": "レインボウクエスト1985",
   "Rare": "5",
@@ -61859,7 +61859,7 @@ horse=
  },
  {
   "SerialNumber": "00712",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3518931462",
   "HorseName": "レインボウクエスト1991",
   "Rare": "5",
@@ -61946,7 +61946,7 @@ horse=
  },
  {
   "SerialNumber": "00713",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4264185340",
   "HorseName": "レイヴンズパス",
   "Rare": "5",
@@ -62033,7 +62033,7 @@ horse=
  },
  {
   "SerialNumber": "00714",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2371438958",
   "HorseName": "レッドファルクス",
   "Rare": "5",
@@ -62120,7 +62120,7 @@ horse=
  },
  {
   "SerialNumber": "00715",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9132543839",
   "HorseName": "レッドランサム1994",
   "Rare": "5",
@@ -62207,7 +62207,7 @@ horse=
  },
  {
   "SerialNumber": "00716",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4315488265",
   "HorseName": "レッドロード",
   "Rare": "5",
@@ -62294,7 +62294,7 @@ horse=
  },
  {
   "SerialNumber": "00717",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6578431422",
   "HorseName": "レッドロード",
   "Rare": "5",
@@ -62381,7 +62381,7 @@ horse=
  },
  {
   "SerialNumber": "00718",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6350124083",
   "HorseName": "レモンドロップキッド-覇走-",
   "Rare": "5",
@@ -62468,7 +62468,7 @@ horse=
  },
  {
   "SerialNumber": "00719",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8310353245",
   "HorseName": "レモンドロップキッド2001",
   "Rare": "5",
@@ -62555,7 +62555,7 @@ horse=
  },
  {
   "SerialNumber": "00720",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9885463231",
   "HorseName": "ロイヤルアカデミー-覇走-",
   "Rare": "5",
@@ -62642,7 +62642,7 @@ horse=
  },
  {
   "SerialNumber": "00721",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8565243128",
   "HorseName": "ロウマン",
   "Rare": "5",
@@ -62729,7 +62729,7 @@ horse=
  },
  {
   "SerialNumber": "00722",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452191783",
   "HorseName": "ロゴタイプ2017",
   "Rare": "5",
@@ -62816,7 +62816,7 @@ horse=
  },
  {
   "SerialNumber": "00723",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3123842253",
   "HorseName": "ロジャーバローズ2019",
   "Rare": "5",
@@ -62903,7 +62903,7 @@ horse=
  },
  {
   "SerialNumber": "00724",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8535243176",
   "HorseName": "ロックオブジブラルタル2002",
   "Rare": "5",
@@ -62990,7 +62990,7 @@ horse=
  },
  {
   "SerialNumber": "00725",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6234185305",
   "HorseName": "ロミタス-闘志-",
   "Rare": "5",
@@ -63077,7 +63077,7 @@ horse=
  },
  {
   "SerialNumber": "00726",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1144827356",
   "HorseName": "ロレンザッチオ",
   "Rare": "5",
@@ -63164,7 +63164,7 @@ horse=
  },
  {
   "SerialNumber": "00727",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5854423310",
   "HorseName": "ロングエース1972",
   "Rare": "5",
@@ -63251,7 +63251,7 @@ horse=
  },
  {
   "SerialNumber": "00728",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6528931422",
   "HorseName": "ロードカナロア",
   "Rare": "5",
@@ -63338,7 +63338,7 @@ horse=
  },
  {
   "SerialNumber": "00729",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2314539228",
   "HorseName": "ロードカナロア-瞬発-",
   "Rare": "5",
@@ -63425,7 +63425,7 @@ horse=
  },
  {
   "SerialNumber": "00730",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6234185350",
   "HorseName": "ロードカナロア-瞬走-",
   "Rare": "5",
@@ -63512,7 +63512,7 @@ horse=
  },
  {
   "SerialNumber": "00731",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0234185356",
   "HorseName": "ロードカナロア2013",
   "Rare": "5",
@@ -63599,7 +63599,7 @@ horse=
  },
  {
   "SerialNumber": "00732",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8315448265",
   "HorseName": "ローレルゲレイロ",
   "Rare": "5",
@@ -63686,7 +63686,7 @@ horse=
  },
  {
   "SerialNumber": "00733",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5512364586",
   "HorseName": "ワイルドアゲイン",
   "Rare": "5",
@@ -63773,7 +63773,7 @@ horse=
  },
  {
   "SerialNumber": "00734",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5824723310",
   "HorseName": "ワイルドアゲイン1984",
   "Rare": "5",
@@ -63860,7 +63860,7 @@ horse=
  },
  {
   "SerialNumber": "00735",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452661583",
   "HorseName": "ワンフォーオール1970",
   "Rare": "5",
@@ -63947,7 +63947,7 @@ horse=
  },
  {
   "SerialNumber": "00736",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1394823353",
   "HorseName": "ヴァーミリアン2007",
   "Rare": "5",
@@ -64034,7 +64034,7 @@ horse=
  },
  {
   "SerialNumber": "00737",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8012363245",
   "HorseName": "ヴィクトワールピサ-闘志-",
   "Rare": "5",
@@ -64121,7 +64121,7 @@ horse=
  },
  {
   "SerialNumber": "00738",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5824023317",
   "HorseName": "ヴィクトワールピサ2011",
   "Rare": "5",
@@ -64208,7 +64208,7 @@ horse=
  },
  {
   "SerialNumber": "00739",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5824523312",
   "HorseName": "ヴェイグリーノーブル1973",
   "Rare": "5",
@@ -64295,7 +64295,7 @@ horse=
  },
  {
   "SerialNumber": "00740",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7985491231",
   "HorseName": "アイアムアカペラオー",
   "Rare": "4",
@@ -64382,7 +64382,7 @@ horse=
  },
  {
   "SerialNumber": "00741",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2862146513",
   "HorseName": "アイネスフウジン",
   "Rare": "4",
@@ -64469,7 +64469,7 @@ horse=
  },
  {
   "SerialNumber": "00742",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218660553",
   "HorseName": "アイランドホワール",
   "Rare": "4",
@@ -64556,7 +64556,7 @@ horse=
  },
  {
   "SerialNumber": "00743",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218154573",
   "HorseName": "アイリスフウジン",
   "Rare": "4",
@@ -64643,7 +64643,7 @@ horse=
  },
  {
   "SerialNumber": "00744",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218656503",
   "HorseName": "アイルハヴアナザー",
   "Rare": "4",
@@ -64730,7 +64730,7 @@ horse=
  },
  {
   "SerialNumber": "00745",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6548231472",
   "HorseName": "アウォーディー",
   "Rare": "4",
@@ -64817,7 +64817,7 @@ horse=
  },
  {
   "SerialNumber": "00746",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5712364683",
   "HorseName": "アグネスデジタル",
   "Rare": "4",
@@ -64904,7 +64904,7 @@ horse=
  },
  {
   "SerialNumber": "00747",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2691434858",
   "HorseName": "アグネスフライト",
   "Rare": "4",
@@ -64991,7 +64991,7 @@ horse=
  },
  {
   "SerialNumber": "00748",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7162546835",
   "HorseName": "アドマイヤコジーン",
   "Rare": "4",
@@ -65078,7 +65078,7 @@ horse=
  },
  {
   "SerialNumber": "00749",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2867142503",
   "HorseName": "アドマイヤムーン",
   "Rare": "4",
@@ -65165,7 +65165,7 @@ horse=
  },
  {
   "SerialNumber": "00750",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2264185306",
   "HorseName": "アルバート",
   "Rare": "4",
@@ -65252,7 +65252,7 @@ horse=
  },
  {
   "SerialNumber": "00751",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1164825356",
   "HorseName": "イキートス",
   "Rare": "4",
@@ -65339,7 +65339,7 @@ horse=
  },
  {
   "SerialNumber": "00752",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5612364585",
   "HorseName": "イシノサンデー",
   "Rare": "4",
@@ -65426,7 +65426,7 @@ horse=
  },
  {
   "SerialNumber": "00753",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1364823356",
   "HorseName": "イブキマイカグラ",
   "Rare": "4",
@@ -65513,7 +65513,7 @@ horse=
  },
  {
   "SerialNumber": "00754",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5612364783",
   "HorseName": "インティライミ",
   "Rare": "4",
@@ -65600,7 +65600,7 @@ horse=
  },
  {
   "SerialNumber": "00755",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1444824356",
   "HorseName": "ウィズアプルーバル",
   "Rare": "4",
@@ -65687,7 +65687,7 @@ horse=
  },
  {
   "SerialNumber": "00756",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2691436658",
   "HorseName": "ウイニングチケット",
   "Rare": "4",
@@ -65774,7 +65774,7 @@ horse=
  },
  {
   "SerialNumber": "00757",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1464822356",
   "HorseName": "ウインバリアシオン",
   "Rare": "4",
@@ -65861,7 +65861,7 @@ horse=
  },
  {
   "SerialNumber": "00758",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2867140523",
   "HorseName": "ウォーエンブレム",
   "Rare": "4",
@@ -65948,7 +65948,7 @@ horse=
  },
  {
   "SerialNumber": "00759",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1604826356",
   "HorseName": "ウォーフロント",
   "Rare": "4",
@@ -66035,7 +66035,7 @@ horse=
  },
  {
   "SerialNumber": "00760",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5712314688",
   "HorseName": "ウワラバッ",
   "Rare": "4",
@@ -66122,7 +66122,7 @@ horse=
  },
  {
   "SerialNumber": "00761",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5612364189",
   "HorseName": "ウンガロ",
   "Rare": "4",
@@ -66209,7 +66209,7 @@ horse=
  },
  {
   "SerialNumber": "00762",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6408165213",
   "HorseName": "エアシェイディ",
   "Rare": "4",
@@ -66296,7 +66296,7 @@ horse=
  },
  {
   "SerialNumber": "00763",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3614532258",
   "HorseName": "エアシャカール",
   "Rare": "4",
@@ -66383,7 +66383,7 @@ horse=
  },
  {
   "SerialNumber": "00764",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218665503",
   "HorseName": "エイシンフラッシュ",
   "Rare": "4",
@@ -66470,7 +66470,7 @@ horse=
  },
  {
   "SerialNumber": "00765",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4315448269",
   "HorseName": "エイシンワシントン",
   "Rare": "4",
@@ -66557,7 +66557,7 @@ horse=
  },
  {
   "SerialNumber": "00766",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2182546838",
   "HorseName": "エクィアーノ",
   "Rare": "4",
@@ -66644,7 +66644,7 @@ horse=
  },
  {
   "SerialNumber": "00767",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2865140543",
   "HorseName": "エクセレントアート",
   "Rare": "4",
@@ -66731,7 +66731,7 @@ horse=
  },
  {
   "SerialNumber": "00768",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5012364789",
   "HorseName": "エスケンデレヤ",
   "Rare": "4",
@@ -66818,7 +66818,7 @@ horse=
  },
  {
   "SerialNumber": "00769",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218674503",
   "HorseName": "エスポワールシチー",
   "Rare": "4",
@@ -66905,7 +66905,7 @@ horse=
  },
  {
   "SerialNumber": "00770",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6578031462",
   "HorseName": "エピファネイア",
   "Rare": "4",
@@ -66992,7 +66992,7 @@ horse=
  },
  {
   "SerialNumber": "00771",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452641486",
   "HorseName": "エルバジェ",
   "Rare": "4",
@@ -67079,7 +67079,7 @@ horse=
  },
  {
   "SerialNumber": "00772",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7528731432",
   "HorseName": "エンドオブジーニアス",
   "Rare": "4",
@@ -67166,7 +67166,7 @@ horse=
  },
  {
   "SerialNumber": "00773",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452771086",
   "HorseName": "エンパイアメーカー",
   "Rare": "4",
@@ -67253,7 +67253,7 @@ horse=
  },
  {
   "SerialNumber": "00774",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1274822357",
   "HorseName": "エースオブハート",
   "Rare": "4",
@@ -67340,7 +67340,7 @@ horse=
  },
  {
   "SerialNumber": "00775",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1654821356",
   "HorseName": "オジュウチョウサン",
   "Rare": "4",
@@ -67427,7 +67427,7 @@ horse=
  },
  {
   "SerialNumber": "00776",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2671437758",
   "HorseName": "オペラハウス",
   "Rare": "4",
@@ -67514,7 +67514,7 @@ horse=
  },
  {
   "SerialNumber": "00777",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2614535238",
   "HorseName": "オリオンザサンクス",
   "Rare": "4",
@@ -67601,7 +67601,7 @@ horse=
  },
  {
   "SerialNumber": "00778",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5172546836",
   "HorseName": "オースミシャダイ",
   "Rare": "4",
@@ -67688,7 +67688,7 @@ horse=
  },
  {
   "SerialNumber": "00779",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5512364289",
   "HorseName": "オールドヴィック",
   "Rare": "4",
@@ -67775,7 +67775,7 @@ horse=
  },
  {
   "SerialNumber": "00780",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2860147523",
   "HorseName": "カネヒキリ",
   "Rare": "4",
@@ -67862,7 +67862,7 @@ horse=
  },
  {
   "SerialNumber": "00781",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452701786",
   "HorseName": "カーリン",
   "Rare": "4",
@@ -67949,7 +67949,7 @@ horse=
  },
  {
   "SerialNumber": "00782",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3408465213",
   "HorseName": "キズナ",
   "Rare": "4",
@@ -68036,7 +68036,7 @@ horse=
  },
  {
   "SerialNumber": "00783",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3126841053",
   "HorseName": "キタサンブラック",
   "Rare": "4",
@@ -68123,7 +68123,7 @@ horse=
  },
  {
   "SerialNumber": "00784",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2860143563",
   "HorseName": "キトゥンズジョイ",
   "Rare": "4",
@@ -68210,7 +68210,7 @@ horse=
  },
  {
   "SerialNumber": "00785",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1350124682",
   "HorseName": "キョウイチファイト",
   "Rare": "4",
@@ -68297,7 +68297,7 @@ horse=
  },
  {
   "SerialNumber": "00786",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5785486231",
   "HorseName": "キョウエイレア",
   "Rare": "4",
@@ -68384,7 +68384,7 @@ horse=
  },
  {
   "SerialNumber": "00787",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4114539228",
   "HorseName": "キングカメハメハ",
   "Rare": "4",
@@ -68471,7 +68471,7 @@ horse=
  },
  {
   "SerialNumber": "00788",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218622573",
   "HorseName": "キングズベスト",
   "Rare": "4",
@@ -68558,7 +68558,7 @@ horse=
  },
  {
   "SerialNumber": "00789",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1294826351",
   "HorseName": "キングズベスト",
   "Rare": "4",
@@ -68645,7 +68645,7 @@ horse=
  },
  {
   "SerialNumber": "00790",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8265243176",
   "HorseName": "キングヘイロー",
   "Rare": "4",
@@ -68732,7 +68732,7 @@ horse=
  },
  {
   "SerialNumber": "00791",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6508431492",
   "HorseName": "キートゥザミント",
   "Rare": "4",
@@ -68819,7 +68819,7 @@ horse=
  },
  {
   "SerialNumber": "00792",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452761186",
   "HorseName": "ギニョール",
   "Rare": "4",
@@ -68906,7 +68906,7 @@ horse=
  },
  {
   "SerialNumber": "00793",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2614536228",
   "HorseName": "クラレント",
   "Rare": "4",
@@ -68993,7 +68993,7 @@ horse=
  },
  {
   "SerialNumber": "00794",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218614563",
   "HorseName": "クロコルージュ",
   "Rare": "4",
@@ -69080,7 +69080,7 @@ horse=
  },
  {
   "SerialNumber": "00795",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7122546839",
   "HorseName": "クロフネ",
   "Rare": "4",
@@ -69167,7 +69167,7 @@ horse=
  },
  {
   "SerialNumber": "00796",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2671436858",
   "HorseName": "グラスワンダー",
   "Rare": "4",
@@ -69254,7 +69254,7 @@ horse=
  },
  {
   "SerialNumber": "00797",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452941186",
   "HorseName": "グリーンダンサー",
   "Rare": "4",
@@ -69341,7 +69341,7 @@ horse=
  },
  {
   "SerialNumber": "00798",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452241886",
   "HorseName": "グロースターク",
   "Rare": "4",
@@ -69428,7 +69428,7 @@ horse=
  },
  {
   "SerialNumber": "00799",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8310623245",
   "HorseName": "ケープブランコ",
   "Rare": "4",
@@ -69515,7 +69515,7 @@ horse=
  },
  {
   "SerialNumber": "00800",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2465310801",
   "HorseName": "ゲンブタートル",
   "Rare": "4",
@@ -69602,7 +69602,7 @@ horse=
  },
  {
   "SerialNumber": "00801",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2691439358",
   "HorseName": "コスモバルク",
   "Rare": "4",
@@ -69689,7 +69689,7 @@ horse=
  },
  {
   "SerialNumber": "00802",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8665243172",
   "HorseName": "コマンズ",
   "Rare": "4",
@@ -69776,7 +69776,7 @@ horse=
  },
  {
   "SerialNumber": "00803",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8765243153",
   "HorseName": "コンサートボーイ",
   "Rare": "4",
@@ -69863,7 +69863,7 @@ horse=
  },
  {
   "SerialNumber": "00804",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1598731422",
   "HorseName": "コールドジップ",
   "Rare": "4",
@@ -69950,7 +69950,7 @@ horse=
  },
  {
   "SerialNumber": "00805",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0192546839",
   "HorseName": "ゴスホークケン",
   "Rare": "4",
@@ -70037,7 +70037,7 @@ horse=
  },
  {
   "SerialNumber": "00806",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6264185302",
   "HorseName": "ゴーゴーゼット",
   "Rare": "4",
@@ -70124,7 +70124,7 @@ horse=
  },
  {
   "SerialNumber": "00807",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8212613245",
   "HorseName": "ゴールデンキャスト",
   "Rare": "4",
@@ -70211,7 +70211,7 @@ horse=
  },
  {
   "SerialNumber": "00808",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8614532208",
   "HorseName": "ゴールデンスネイク",
   "Rare": "4",
@@ -70298,7 +70298,7 @@ horse=
  },
  {
   "SerialNumber": "00809",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6528231492",
   "HorseName": "ゴールデンセンツ",
   "Rare": "4",
@@ -70385,7 +70385,7 @@ horse=
  },
  {
   "SerialNumber": "00810",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2264185342",
   "HorseName": "ゴールデンダリア",
   "Rare": "4",
@@ -70472,7 +70472,7 @@ horse=
  },
  {
   "SerialNumber": "00811",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5912364681",
   "HorseName": "ゴールデンホーン",
   "Rare": "4",
@@ -70559,7 +70559,7 @@ horse=
  },
  {
   "SerialNumber": "00812",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9192546830",
   "HorseName": "ゴールドアクター",
   "Rare": "4",
@@ -70646,7 +70646,7 @@ horse=
  },
  {
   "SerialNumber": "00813",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2671435958",
   "HorseName": "ゴールドアリュール",
   "Rare": "4",
@@ -70733,7 +70733,7 @@ horse=
  },
  {
   "SerialNumber": "00814",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3126842250",
   "HorseName": "ゴールドアンドアイボリー",
   "Rare": "4",
@@ -70820,7 +70820,7 @@ horse=
  },
  {
   "SerialNumber": "00815",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218670543",
   "HorseName": "ゴールドウェイ",
   "Rare": "4",
@@ -70907,7 +70907,7 @@ horse=
  },
  {
   "SerialNumber": "00816",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6614532228",
   "HorseName": "ゴールドドリーム",
   "Rare": "4",
@@ -70994,7 +70994,7 @@ horse=
  },
  {
   "SerialNumber": "00817",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3126840252",
   "HorseName": "ゴールドマウンテン",
   "Rare": "4",
@@ -71081,7 +71081,7 @@ horse=
  },
  {
   "SerialNumber": "00818",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0614537238",
   "HorseName": "サウスヴィグラス",
   "Rare": "4",
@@ -71168,7 +71168,7 @@ horse=
  },
  {
   "SerialNumber": "00819",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8217113245",
   "HorseName": "サクマバクシンオー",
   "Rare": "4",
@@ -71255,7 +71255,7 @@ horse=
  },
  {
   "SerialNumber": "00820",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6578531412",
   "HorseName": "サクラサニーオー",
   "Rare": "4",
@@ -71342,7 +71342,7 @@ horse=
  },
  {
   "SerialNumber": "00821",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0468165213",
   "HorseName": "サクラチトセオー",
   "Rare": "4",
@@ -71429,7 +71429,7 @@ horse=
  },
  {
   "SerialNumber": "00822",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2315488267",
   "HorseName": "サクラバクシンオー",
   "Rare": "4",
@@ -71516,7 +71516,7 @@ horse=
  },
  {
   "SerialNumber": "00823",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6518731452",
   "HorseName": "サクラプレジデント",
   "Rare": "4",
@@ -71603,7 +71603,7 @@ horse=
  },
  {
   "SerialNumber": "00824",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1825748639",
   "HorseName": "サクラユタカオー",
   "Rare": "4",
@@ -71690,7 +71690,7 @@ horse=
  },
  {
   "SerialNumber": "00825",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8465243174",
   "HorseName": "サクラローレル",
   "Rare": "4",
@@ -71777,7 +71777,7 @@ horse=
  },
  {
   "SerialNumber": "00826",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5912364483",
   "HorseName": "サトノアレス",
   "Rare": "4",
@@ -71864,7 +71864,7 @@ horse=
  },
  {
   "SerialNumber": "00827",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9142546835",
   "HorseName": "サトノクラウン",
   "Rare": "4",
@@ -71951,7 +71951,7 @@ horse=
  },
  {
   "SerialNumber": "00828",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5012364987",
   "HorseName": "サトノダイヤモンド",
   "Rare": "4",
@@ -72038,7 +72038,7 @@ horse=
  },
  {
   "SerialNumber": "00829",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452501986",
   "HorseName": "サマーバード",
   "Rare": "4",
@@ -72125,7 +72125,7 @@ horse=
  },
  {
   "SerialNumber": "00830",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1474826351",
   "HorseName": "サンハーイ",
   "Rare": "4",
@@ -72212,7 +72212,7 @@ horse=
  },
  {
   "SerialNumber": "00831",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218642553",
   "HorseName": "サンライズソア",
   "Rare": "4",
@@ -72299,7 +72299,7 @@ horse=
  },
  {
   "SerialNumber": "00832",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6114537228",
   "HorseName": "ザイタクヘリオス",
   "Rare": "4",
@@ -72386,7 +72386,7 @@ horse=
  },
  {
   "SerialNumber": "00833",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2264185360",
   "HorseName": "シックスセンス",
   "Rare": "4",
@@ -72473,7 +72473,7 @@ horse=
  },
  {
   "SerialNumber": "00834",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9315488260",
   "HorseName": "シビルウォー",
   "Rare": "4",
@@ -72560,7 +72560,7 @@ horse=
  },
  {
   "SerialNumber": "00835",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2691438458",
   "HorseName": "シャドウゲイト",
   "Rare": "4",
@@ -72647,7 +72647,7 @@ horse=
  },
  {
   "SerialNumber": "00836",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218645523",
   "HorseName": "シュヴァルグラン",
   "Rare": "4",
@@ -72734,7 +72734,7 @@ horse=
  },
  {
   "SerialNumber": "00837",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5315448277",
   "HorseName": "シュヴァルグラン",
   "Rare": "4",
@@ -72821,7 +72821,7 @@ horse=
  },
  {
   "SerialNumber": "00838",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2264185315",
   "HorseName": "ショワジール",
   "Rare": "4",
@@ -72908,7 +72908,7 @@ horse=
  },
  {
   "SerialNumber": "00839",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8915243174",
   "HorseName": "ションボリインディ",
   "Rare": "4",
@@ -72995,7 +72995,7 @@ horse=
  },
  {
   "SerialNumber": "00840",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6152546837",
   "HorseName": "シルクフェイマス",
   "Rare": "4",
@@ -73082,7 +73082,7 @@ horse=
  },
  {
   "SerialNumber": "00841",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452721586",
   "HorseName": "シンボリインディ",
   "Rare": "4",
@@ -73169,7 +73169,7 @@ horse=
  },
  {
   "SerialNumber": "00842",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8865243170",
   "HorseName": "シンボリクリスエス",
   "Rare": "4",
@@ -73256,7 +73256,7 @@ horse=
  },
  {
   "SerialNumber": "00843",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1524825356",
   "HorseName": "シーザスターズ",
   "Rare": "4",
@@ -73343,7 +73343,7 @@ horse=
  },
  {
   "SerialNumber": "00844",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5315488264",
   "HorseName": "ジオポンティ",
   "Rare": "4",
@@ -73430,7 +73430,7 @@ horse=
  },
  {
   "SerialNumber": "00845",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6548031492",
   "HorseName": "ジャスタウェイ",
   "Rare": "4",
@@ -73517,7 +73517,7 @@ horse=
  },
  {
   "SerialNumber": "00846",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0428565213",
   "HorseName": "ジャワゴールド",
   "Rare": "4",
@@ -73604,7 +73604,7 @@ horse=
  },
  {
   "SerialNumber": "00847",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452171686",
   "HorseName": "ジャングルポケット",
   "Rare": "4",
@@ -73691,7 +73691,7 @@ horse=
  },
  {
   "SerialNumber": "00848",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6508531482",
   "HorseName": "ジャンプスタート",
   "Rare": "4",
@@ -73778,7 +73778,7 @@ horse=
  },
  {
   "SerialNumber": "00849",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218631573",
   "HorseName": "スウェプトオーヴァーボード",
   "Rare": "4",
@@ -73865,7 +73865,7 @@ horse=
  },
  {
   "SerialNumber": "00850",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3315478267",
   "HorseName": "スズカマンボ",
   "Rare": "4",
@@ -73952,7 +73952,7 @@ horse=
  },
  {
   "SerialNumber": "00851",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452861086",
   "HorseName": "スターマン",
   "Rare": "4",
@@ -74039,7 +74039,7 @@ horse=
  },
  {
   "SerialNumber": "00852",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5214558369",
   "HorseName": "ステューデントカウンシル",
   "Rare": "4",
@@ -74126,7 +74126,7 @@ horse=
  },
  {
   "SerialNumber": "00853",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4408365213",
   "HorseName": "ストリートセンス",
   "Rare": "4",
@@ -74213,7 +74213,7 @@ horse=
  },
  {
   "SerialNumber": "00854",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9214758318",
   "HorseName": "ストレートフラッシュ",
   "Rare": "4",
@@ -74300,7 +74300,7 @@ horse=
  },
  {
   "SerialNumber": "00855",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1354824356",
   "HorseName": "ストロングエイト",
   "Rare": "4",
@@ -74387,7 +74387,7 @@ horse=
  },
  {
   "SerialNumber": "00856",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452471386",
   "HorseName": "スニッツェル",
   "Rare": "4",
@@ -74474,7 +74474,7 @@ horse=
  },
  {
   "SerialNumber": "00857",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2860144553",
   "HorseName": "スピルバーグ",
   "Rare": "4",
@@ -74561,7 +74561,7 @@ horse=
  },
  {
   "SerialNumber": "00858",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452171587",
   "HorseName": "スプラウト",
   "Rare": "4",
@@ -74648,7 +74648,7 @@ horse=
  },
  {
   "SerialNumber": "00859",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7152546836",
   "HorseName": "スペシャルウィーク",
   "Rare": "4",
@@ -74735,7 +74735,7 @@ horse=
  },
  {
   "SerialNumber": "00860",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452421886",
   "HorseName": "スマーティジョーンズ",
   "Rare": "4",
@@ -74822,7 +74822,7 @@ horse=
  },
  {
   "SerialNumber": "00861",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2862145523",
   "HorseName": "スマートストライク",
   "Rare": "4",
@@ -74909,7 +74909,7 @@ horse=
  },
  {
   "SerialNumber": "00862",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5844223610",
   "HorseName": "スマートファルコン",
   "Rare": "4",
@@ -74996,7 +74996,7 @@ horse=
  },
  {
   "SerialNumber": "00863",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218627523",
   "HorseName": "セイウンスカイ",
   "Rare": "4",
@@ -75083,7 +75083,7 @@ horse=
  },
  {
   "SerialNumber": "00864",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8838243170",
   "HorseName": "セイウンスカイ",
   "Rare": "4",
@@ -75170,7 +75170,7 @@ horse=
  },
  {
   "SerialNumber": "00865",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5834123117",
   "HorseName": "ゼニガタチェイサー",
   "Rare": "4",
@@ -75257,7 +75257,7 @@ horse=
  },
  {
   "SerialNumber": "00866",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5712364287",
   "HorseName": "ゼンノロブロイ",
   "Rare": "4",
@@ -75344,7 +75344,7 @@ horse=
  },
  {
   "SerialNumber": "00867",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1574820356",
   "HorseName": "タイキシャトル",
   "Rare": "4",
@@ -75431,7 +75431,7 @@ horse=
  },
  {
   "SerialNumber": "00868",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8415243179",
   "HorseName": "タイキシャベル",
   "Rare": "4",
@@ -75518,7 +75518,7 @@ horse=
  },
  {
   "SerialNumber": "00869",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4114537248",
   "HorseName": "タイヤメジャー",
   "Rare": "4",
@@ -75605,7 +75605,7 @@ horse=
  },
  {
   "SerialNumber": "00870",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1124829356",
   "HorseName": "タグラ",
   "Rare": "4",
@@ -75692,7 +75692,7 @@ horse=
  },
  {
   "SerialNumber": "00871",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5315478265",
   "HorseName": "タップダンスシチー",
   "Rare": "4",
@@ -75779,7 +75779,7 @@ horse=
  },
  {
   "SerialNumber": "00872",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6315448267",
   "HorseName": "タニノギムレット",
   "Rare": "4",
@@ -75866,7 +75866,7 @@ horse=
  },
  {
   "SerialNumber": "00873",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7172541839",
   "HorseName": "タネモミジイサン",
   "Rare": "4",
@@ -75953,7 +75953,7 @@ horse=
  },
  {
   "SerialNumber": "00874",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452051986",
   "HorseName": "タヤスツヨシ",
   "Rare": "4",
@@ -76040,7 +76040,7 @@ horse=
  },
  {
   "SerialNumber": "00875",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8315498260",
   "HorseName": "タートルボウル",
   "Rare": "4",
@@ -76127,7 +76127,7 @@ horse=
  },
  {
   "SerialNumber": "00876",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5512364982",
   "HorseName": "ダイタクヘリオス",
   "Rare": "4",
@@ -76214,7 +76214,7 @@ horse=
  },
  {
   "SerialNumber": "00877",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8065243169",
   "HorseName": "ダイユウサク",
   "Rare": "4",
@@ -76301,7 +76301,7 @@ horse=
  },
  {
   "SerialNumber": "00878",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8165243159",
   "HorseName": "ダイワメジャー",
   "Rare": "4",
@@ -76388,7 +76388,7 @@ horse=
  },
  {
   "SerialNumber": "00879",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4862561938",
   "HorseName": "ダノンシャンティ",
   "Rare": "4",
@@ -76475,7 +76475,7 @@ horse=
  },
  {
   "SerialNumber": "00880",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6427983915",
   "HorseName": "ダノンレジェンド",
   "Rare": "4",
@@ -76562,7 +76562,7 @@ horse=
  },
  {
   "SerialNumber": "00881",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7785466231",
   "HorseName": "ダンスインザダーク",
   "Rare": "4",
@@ -76649,7 +76649,7 @@ horse=
  },
  {
   "SerialNumber": "00882",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3478215213",
   "HorseName": "ダンディハット",
   "Rare": "4",
@@ -76736,7 +76736,7 @@ horse=
  },
  {
   "SerialNumber": "00883",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1094828351",
   "HorseName": "チェインドリーム",
   "Rare": "4",
@@ -76823,7 +76823,7 @@ horse=
  },
  {
   "SerialNumber": "00884",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6558531432",
   "HorseName": "ツインターボ",
   "Rare": "4",
@@ -76910,7 +76910,7 @@ horse=
  },
  {
   "SerialNumber": "00885",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1614536238",
   "HorseName": "ツルマルボーイ",
   "Rare": "4",
@@ -76997,7 +76997,7 @@ horse=
  },
  {
   "SerialNumber": "00886",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6588031452",
   "HorseName": "テスタマッタ",
   "Rare": "4",
@@ -77084,7 +77084,7 @@ horse=
  },
  {
   "SerialNumber": "00887",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0264185308",
   "HorseName": "ディープブリランテ",
   "Rare": "4",
@@ -77171,7 +77171,7 @@ horse=
  },
  {
   "SerialNumber": "00888",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218683503",
   "HorseName": "ディーマジェスティ",
   "Rare": "4",
@@ -77258,7 +77258,7 @@ horse=
  },
  {
   "SerialNumber": "00889",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6214758366",
   "HorseName": "デュランダル",
   "Rare": "4",
@@ -77345,7 +77345,7 @@ horse=
  },
  {
   "SerialNumber": "00890",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8565243164",
   "HorseName": "トゥザグローリー",
   "Rare": "4",
@@ -77432,7 +77432,7 @@ horse=
  },
  {
   "SerialNumber": "00891",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5012364888",
   "HorseName": "トゥザワールド",
   "Rare": "4",
@@ -77519,7 +77519,7 @@ horse=
  },
  {
   "SerialNumber": "00892",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452191486",
   "HorseName": "トウショウファルコ",
   "Rare": "4",
@@ -77606,7 +77606,7 @@ horse=
  },
  {
   "SerialNumber": "00893",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4214958366",
   "HorseName": "トシグリーン",
   "Rare": "4",
@@ -77693,7 +77693,7 @@ horse=
  },
  {
   "SerialNumber": "00894",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2405361801",
   "HorseName": "トランセンド",
   "Rare": "4",
@@ -77780,7 +77780,7 @@ horse=
  },
  {
   "SerialNumber": "00895",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0448365213",
   "HorseName": "トロットサンダー",
   "Rare": "4",
@@ -77867,7 +77867,7 @@ horse=
  },
  {
   "SerialNumber": "00896",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9468539412",
   "HorseName": "トーシンブリザード",
   "Rare": "4",
@@ -77954,7 +77954,7 @@ horse=
  },
  {
   "SerialNumber": "00897",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1264824356",
   "HorseName": "トーホウジャッカル",
   "Rare": "4",
@@ -78041,7 +78041,7 @@ horse=
  },
  {
   "SerialNumber": "00898",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3126843051",
   "HorseName": "ドリームジャーニー",
   "Rare": "4",
@@ -78128,7 +78128,7 @@ horse=
  },
  {
   "SerialNumber": "00899",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5612364981",
   "HorseName": "ドリームパスポート",
   "Rare": "4",
@@ -78215,7 +78215,7 @@ horse=
  },
  {
   "SerialNumber": "00900",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5478015213",
   "HorseName": "ナイスニイチャ",
   "Rare": "4",
@@ -78302,7 +78302,7 @@ horse=
  },
  {
   "SerialNumber": "00901",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5804223614",
   "HorseName": "ナイスネイチャ",
   "Rare": "4",
@@ -78389,7 +78389,7 @@ horse=
  },
  {
   "SerialNumber": "00902",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6985456231",
   "HorseName": "ナチュラリズム",
   "Rare": "4",
@@ -78476,7 +78476,7 @@ horse=
  },
  {
   "SerialNumber": "00903",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9985426231",
   "HorseName": "ナリタトップロード",
   "Rare": "4",
@@ -78563,7 +78563,7 @@ horse=
  },
  {
   "SerialNumber": "00904",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452671681",
   "HorseName": "ナントロクセイ",
   "Rare": "4",
@@ -78650,7 +78650,7 @@ horse=
  },
  {
   "SerialNumber": "00905",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8965243160",
   "HorseName": "ニホンピロアワーズ",
   "Rare": "4",
@@ -78737,7 +78737,7 @@ horse=
  },
  {
   "SerialNumber": "00906",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218172573",
   "HorseName": "ヌスミノビガク",
   "Rare": "4",
@@ -78824,7 +78824,7 @@ horse=
  },
  {
   "SerialNumber": "00907",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1074825356",
   "HorseName": "ネオユニヴァース",
   "Rare": "4",
@@ -78911,7 +78911,7 @@ horse=
  },
  {
   "SerialNumber": "00908",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8665243163",
   "HorseName": "ネーハイシーザー",
   "Rare": "4",
@@ -78998,7 +78998,7 @@ horse=
  },
  {
   "SerialNumber": "00909",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5814523610",
   "HorseName": "ノヴェリスト",
   "Rare": "4",
@@ -79085,7 +79085,7 @@ horse=
  },
  {
   "SerialNumber": "00910",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4885486231",
   "HorseName": "ハビタット",
   "Rare": "4",
@@ -79172,7 +79172,7 @@ horse=
  },
  {
   "SerialNumber": "00911",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8265243194",
   "HorseName": "ハードスパン",
   "Rare": "4",
@@ -79259,7 +79259,7 @@ horse=
  },
  {
   "SerialNumber": "00912",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6351124280",
   "HorseName": "ハービンジャー",
   "Rare": "4",
@@ -79346,7 +79346,7 @@ horse=
  },
  {
   "SerialNumber": "00913",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7122843839",
   "HorseName": "バゴ",
   "Rare": "4",
@@ -79433,7 +79433,7 @@ horse=
  },
  {
   "SerialNumber": "00914",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9468536712",
   "HorseName": "バゴ",
   "Rare": "4",
@@ -79520,7 +79520,7 @@ horse=
  },
  {
   "SerialNumber": "00915",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8765243126",
   "HorseName": "バブルガムフェロー",
   "Rare": "4",
@@ -79607,7 +79607,7 @@ horse=
  },
  {
   "SerialNumber": "00916",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8114537208",
   "HorseName": "バンビーメモリー",
   "Rare": "4",
@@ -79694,7 +79694,7 @@ horse=
  },
  {
   "SerialNumber": "00917",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2651439758",
   "HorseName": "バンブーメモリー",
   "Rare": "4",
@@ -79781,7 +79781,7 @@ horse=
  },
  {
   "SerialNumber": "00918",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4614532248",
   "HorseName": "バーナーディニ",
   "Rare": "4",
@@ -79868,7 +79868,7 @@ horse=
  },
  {
   "SerialNumber": "00919",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1724823356",
   "HorseName": "パラダイスクリーク",
   "Rare": "4",
@@ -79955,7 +79955,7 @@ horse=
  },
  {
   "SerialNumber": "00920",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6585496231",
   "HorseName": "ヒットザターゲット",
   "Rare": "4",
@@ -80042,7 +80042,7 @@ horse=
  },
  {
   "SerialNumber": "00921",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1114537278",
   "HorseName": "ヒデブッ",
   "Rare": "4",
@@ -80129,7 +80129,7 @@ horse=
  },
  {
   "SerialNumber": "00922",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452551486",
   "HorseName": "ビッグアーサー",
   "Rare": "4",
@@ -80216,7 +80216,7 @@ horse=
  },
  {
   "SerialNumber": "00923",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5912364384",
   "HorseName": "ビッグサンデー",
   "Rare": "4",
@@ -80303,7 +80303,7 @@ horse=
  },
  {
   "SerialNumber": "00924",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2691435758",
   "HorseName": "ビワハヤヒデ",
   "Rare": "4",
@@ -80390,7 +80390,7 @@ horse=
  },
  {
   "SerialNumber": "00925",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3126840450",
   "HorseName": "ピルサドスキー",
   "Rare": "4",
@@ -80477,7 +80477,7 @@ horse=
  },
  {
   "SerialNumber": "00926",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1614539208",
   "HorseName": "ファイングレイン",
   "Rare": "4",
@@ -80564,7 +80564,7 @@ horse=
  },
  {
   "SerialNumber": "00927",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6568731402",
   "HorseName": "ファルブラヴ",
   "Rare": "4",
@@ -80651,7 +80651,7 @@ horse=
  },
  {
   "SerialNumber": "00928",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1825948637",
   "HorseName": "ファンタスティックライト",
   "Rare": "4",
@@ -80738,7 +80738,7 @@ horse=
  },
  {
   "SerialNumber": "00929",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2869140503",
   "HorseName": "フェノーメノ",
   "Rare": "4",
@@ -80825,7 +80825,7 @@ horse=
  },
  {
   "SerialNumber": "00930",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1614537228",
   "HorseName": "フジキセキ",
   "Rare": "4",
@@ -80912,7 +80912,7 @@ horse=
  },
  {
   "SerialNumber": "00931",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8365243157",
   "HorseName": "フジノマッケンオー",
   "Rare": "4",
@@ -80999,7 +80999,7 @@ horse=
  },
  {
   "SerialNumber": "00932",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452561386",
   "HorseName": "フジヤマケンザン",
   "Rare": "4",
@@ -81086,7 +81086,7 @@ horse=
  },
  {
   "SerialNumber": "00933",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5912364087",
   "HorseName": "フリオーソ",
   "Rare": "4",
@@ -81173,7 +81173,7 @@ horse=
  },
  {
   "SerialNumber": "00934",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452361586",
   "HorseName": "フレッシュボイス",
   "Rare": "4",
@@ -81260,7 +81260,7 @@ horse=
  },
  {
   "SerialNumber": "00935",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8365243175",
   "HorseName": "フレンチデピュティ",
   "Rare": "4",
@@ -81347,7 +81347,7 @@ horse=
  },
  {
   "SerialNumber": "00936",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1094823356",
   "HorseName": "ブラックタイド",
   "Rare": "4",
@@ -81434,7 +81434,7 @@ horse=
  },
  {
   "SerialNumber": "00937",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6578231442",
   "HorseName": "ブロードブラッシュ",
   "Rare": "4",
@@ -81521,7 +81521,7 @@ horse=
  },
  {
   "SerialNumber": "00938",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2864140553",
   "HorseName": "プライヴェートアカウント",
   "Rare": "4",
@@ -81608,7 +81608,7 @@ horse=
  },
  {
   "SerialNumber": "00939",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7192546832",
   "HorseName": "プリサイスエンド",
   "Rare": "4",
@@ -81695,7 +81695,7 @@ horse=
  },
  {
   "SerialNumber": "00940",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7614532218",
   "HorseName": "プレストウコウ",
   "Rare": "4",
@@ -81782,7 +81782,7 @@ horse=
  },
  {
   "SerialNumber": "00941",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1274823356",
   "HorseName": "ヘニーヒューズ",
   "Rare": "4",
@@ -81869,7 +81869,7 @@ horse=
  },
  {
   "SerialNumber": "00942",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218602593",
   "HorseName": "ベルシャザール",
   "Rare": "4",
@@ -81956,7 +81956,7 @@ horse=
  },
  {
   "SerialNumber": "00943",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452651386",
   "HorseName": "ベルワイド",
   "Rare": "4",
@@ -82043,7 +82043,7 @@ horse=
  },
  {
   "SerialNumber": "00944",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6528531462",
   "HorseName": "ホウシュウエイト",
   "Rare": "4",
@@ -82130,7 +82130,7 @@ horse=
  },
  {
   "SerialNumber": "00945",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2817146513",
   "HorseName": "ホクトボーイ",
   "Rare": "4",
@@ -82217,7 +82217,7 @@ horse=
  },
  {
   "SerialNumber": "00946",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2214758379",
   "HorseName": "ホクトボーイ",
   "Rare": "4",
@@ -82304,7 +82304,7 @@ horse=
  },
  {
   "SerialNumber": "00947",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1558731462",
   "HorseName": "ホストヘリオス",
   "Rare": "4",
@@ -82391,7 +82391,7 @@ horse=
  },
  {
   "SerialNumber": "00948",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5315458267",
   "HorseName": "ホワイトマズル",
   "Rare": "4",
@@ -82478,7 +82478,7 @@ horse=
  },
  {
   "SerialNumber": "00949",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6538731432",
   "HorseName": "ボストンハーバー",
   "Rare": "4",
@@ -82565,7 +82565,7 @@ horse=
  },
  {
   "SerialNumber": "00950",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4762591738",
   "HorseName": "マイネルラヴ",
   "Rare": "4",
@@ -82652,7 +82652,7 @@ horse=
  },
  {
   "SerialNumber": "00951",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6578631402",
   "HorseName": "マイネルレコルト",
   "Rare": "4",
@@ -82739,7 +82739,7 @@ horse=
  },
  {
   "SerialNumber": "00952",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6528631452",
   "HorseName": "マサラッキ",
   "Rare": "4",
@@ -82826,7 +82826,7 @@ horse=
  },
  {
   "SerialNumber": "00953",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2866143503",
   "HorseName": "マチカネフクキタル",
   "Rare": "4",
@@ -82913,7 +82913,7 @@ horse=
  },
  {
   "SerialNumber": "00954",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7274185300",
   "HorseName": "マックロサキー",
   "Rare": "4",
@@ -83000,7 +83000,7 @@ horse=
  },
  {
   "SerialNumber": "00955",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9315468262",
   "HorseName": "マックロサキー",
   "Rare": "4",
@@ -83087,7 +83087,7 @@ horse=
  },
  {
   "SerialNumber": "00956",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2691433958",
   "HorseName": "マッチョウノ",
   "Rare": "4",
@@ -83174,7 +83174,7 @@ horse=
  },
  {
   "SerialNumber": "00957",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6528731442",
   "HorseName": "マンハッタンカフェ",
   "Rare": "4",
@@ -83261,7 +83261,7 @@ horse=
  },
  {
   "SerialNumber": "00958",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8065243196",
   "HorseName": "マーベラスサンデー",
   "Rare": "4",
@@ -83348,7 +83348,7 @@ horse=
  },
  {
   "SerialNumber": "00959",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4315478266",
   "HorseName": "ミズンマスト",
   "Rare": "4",
@@ -83435,7 +83435,7 @@ horse=
  },
  {
   "SerialNumber": "00960",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6315468265",
   "HorseName": "ミッキーロケット",
   "Rare": "4",
@@ -83522,7 +83522,7 @@ horse=
  },
  {
   "SerialNumber": "00961",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218607543",
   "HorseName": "ムトト",
   "Rare": "4",
@@ -83609,7 +83609,7 @@ horse=
  },
  {
   "SerialNumber": "00962",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3214758369",
   "HorseName": "メイショウサムソン",
   "Rare": "4",
@@ -83696,7 +83696,7 @@ horse=
  },
  {
   "SerialNumber": "00963",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5142546839",
   "HorseName": "メジロデュレン",
   "Rare": "4",
@@ -83783,7 +83783,7 @@ horse=
  },
  {
   "SerialNumber": "00964",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1528731492",
   "HorseName": "メジロパーマン",
   "Rare": "4",
@@ -83870,7 +83870,7 @@ horse=
  },
  {
   "SerialNumber": "00965",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9214558365",
   "HorseName": "メジロパーマー",
   "Rare": "4",
@@ -83957,7 +83957,7 @@ horse=
  },
  {
   "SerialNumber": "00966",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1064826356",
   "HorseName": "メジロブライト",
   "Rare": "4",
@@ -84044,7 +84044,7 @@ horse=
  },
  {
   "SerialNumber": "00967",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5712374088",
   "HorseName": "メリディロクセイ",
   "Rare": "4",
@@ -84131,7 +84131,7 @@ horse=
  },
  {
   "SerialNumber": "00968",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218127573",
   "HorseName": "モンジャー",
   "Rare": "4",
@@ -84218,7 +84218,7 @@ horse=
  },
  {
   "SerialNumber": "00969",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8468539512",
   "HorseName": "モンジュー",
   "Rare": "4",
@@ -84305,7 +84305,7 @@ horse=
  },
  {
   "SerialNumber": "00970",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3295184698",
   "HorseName": "モーニン",
   "Rare": "4",
@@ -84392,7 +84392,7 @@ horse=
  },
  {
   "SerialNumber": "00971",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8465243192",
   "HorseName": "モーリス",
   "Rare": "4",
@@ -84479,7 +84479,7 @@ horse=
  },
  {
   "SerialNumber": "00972",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7214185315",
   "HorseName": "ヤブキマイカグラ",
   "Rare": "4",
@@ -84566,7 +84566,7 @@ horse=
  },
  {
   "SerialNumber": "00973",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5612364387",
   "HorseName": "ヤマカツエース",
   "Rare": "4",
@@ -84653,7 +84653,7 @@ horse=
  },
  {
   "SerialNumber": "00974",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9315438265",
   "HorseName": "ヤマニンゼファー",
   "Rare": "4",
@@ -84740,7 +84740,7 @@ horse=
  },
  {
   "SerialNumber": "00975",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3121842750",
   "HorseName": "ヤマミンゼファー",
   "Rare": "4",
@@ -84827,7 +84827,7 @@ horse=
  },
  {
   "SerialNumber": "00976",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0281560423",
   "HorseName": "ユウキュウ",
   "Rare": "4",
@@ -84914,7 +84914,7 @@ horse=
  },
  {
   "SerialNumber": "00977",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3114537258",
   "HorseName": "ヨイノムテキ",
   "Rare": "4",
@@ -85001,7 +85001,7 @@ horse=
  },
  {
   "SerialNumber": "00978",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452571286",
   "HorseName": "ヨハネスブルグ",
   "Rare": "4",
@@ -85088,7 +85088,7 @@ horse=
  },
  {
   "SerialNumber": "00979",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2315468269",
   "HorseName": "ラブリーデイ",
   "Rare": "4",
@@ -85175,7 +85175,7 @@ horse=
  },
  {
   "SerialNumber": "00980",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4315498264",
   "HorseName": "ランザガントレット",
   "Rare": "4",
@@ -85262,7 +85262,7 @@ horse=
  },
  {
   "SerialNumber": "00981",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452851186",
   "HorseName": "ラーイ",
   "Rare": "4",
@@ -85349,7 +85349,7 @@ horse=
  },
  {
   "SerialNumber": "00982",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1294821356",
   "HorseName": "リアルインパクト",
   "Rare": "4",
@@ -85436,7 +85436,7 @@ horse=
  },
  {
   "SerialNumber": "00983",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218620593",
   "HorseName": "リアルスティール",
   "Rare": "4",
@@ -85523,7 +85523,7 @@ horse=
  },
  {
   "SerialNumber": "00984",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452391286",
   "HorseName": "リオンディーズ",
   "Rare": "4",
@@ -85610,7 +85610,7 @@ horse=
  },
  {
   "SerialNumber": "00985",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8214558366",
   "HorseName": "リキアイタイカン",
   "Rare": "4",
@@ -85697,7 +85697,7 @@ horse=
  },
  {
   "SerialNumber": "00986",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218623563",
   "HorseName": "リンカーン",
   "Rare": "4",
@@ -85784,7 +85784,7 @@ horse=
  },
  {
   "SerialNumber": "00987",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1224828356",
   "HorseName": "ルアーヴル",
   "Rare": "4",
@@ -85871,7 +85871,7 @@ horse=
  },
  {
   "SerialNumber": "00988",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218690523",
   "HorseName": "ルーラーオブザワールド",
   "Rare": "4",
@@ -85958,7 +85958,7 @@ horse=
  },
  {
   "SerialNumber": "00989",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218632563",
   "HorseName": "レッツゴーターキン",
   "Rare": "4",
@@ -86045,7 +86045,7 @@ horse=
  },
  {
   "SerialNumber": "00990",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6548931402",
   "HorseName": "ロゴタイプ",
   "Rare": "4",
@@ -86132,7 +86132,7 @@ horse=
  },
  {
   "SerialNumber": "00991",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9485476231",
   "HorseName": "ロジユニヴァース",
   "Rare": "4",
@@ -86219,7 +86219,7 @@ horse=
  },
  {
   "SerialNumber": "00992",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5712364386",
   "HorseName": "ロージズインメイ",
   "Rare": "4",
@@ -86306,7 +86306,7 @@ horse=
  },
  {
   "SerialNumber": "00993",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5912364285",
   "HorseName": "ローズキングダム",
   "Rare": "4",
@@ -86393,7 +86393,7 @@ horse=
  },
  {
   "SerialNumber": "00994",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6558731412",
   "HorseName": "ワイルドラッシュ",
   "Rare": "4",
@@ -86480,7 +86480,7 @@ horse=
  },
  {
   "SerialNumber": "00995",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1825949636",
   "HorseName": "ワンアンドオンリー",
   "Rare": "4",
@@ -86567,7 +86567,7 @@ horse=
  },
  {
   "SerialNumber": "00996",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9585466231",
   "HorseName": "ワンダーアキュート",
   "Rare": "4",
@@ -86654,7 +86654,7 @@ horse=
  },
  {
   "SerialNumber": "00997",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6558031482",
   "HorseName": "ヴァーミリアン",
   "Rare": "4",
@@ -86741,7 +86741,7 @@ horse=
  },
  {
   "SerialNumber": "00998",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4614530268",
   "HorseName": "ヴィクトワールピサ",
   "Rare": "4",
@@ -86828,7 +86828,7 @@ horse=
  },
  {
   "SerialNumber": "00999",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2866141523",
   "HorseName": "アイダホ",
   "Rare": "3",
@@ -86915,7 +86915,7 @@ horse=
  },
  {
   "SerialNumber": "01000",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452251786",
   "HorseName": "アイルトンシンボリ",
   "Rare": "3",
@@ -87002,7 +87002,7 @@ horse=
  },
  {
   "SerialNumber": "01001",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8510603245",
   "HorseName": "アサクサキングス",
   "Rare": "3",
@@ -87089,7 +87089,7 @@ horse=
  },
  {
   "SerialNumber": "01002",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4214758368",
   "HorseName": "アサクサデンエン",
   "Rare": "3",
@@ -87176,7 +87176,7 @@ horse=
  },
  {
   "SerialNumber": "01003",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6468539712",
   "HorseName": "アジュディケーティング",
   "Rare": "3",
@@ -87263,7 +87263,7 @@ horse=
  },
  {
   "SerialNumber": "01004",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1504827356",
   "HorseName": "アドマイヤオーラ",
   "Rare": "3",
@@ -87350,7 +87350,7 @@ horse=
  },
  {
   "SerialNumber": "01005",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7214658366",
   "HorseName": "アドマイヤデウス",
   "Rare": "3",
@@ -87437,7 +87437,7 @@ horse=
  },
  {
   "SerialNumber": "01006",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1825849637",
   "HorseName": "アドマイヤドン",
   "Rare": "3",
@@ -87524,7 +87524,7 @@ horse=
  },
  {
   "SerialNumber": "01007",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8214758364",
   "HorseName": "アドマイヤマックス",
   "Rare": "3",
@@ -87611,7 +87611,7 @@ horse=
  },
  {
   "SerialNumber": "01008",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6142546838",
   "HorseName": "アドマイヤラクティ",
   "Rare": "3",
@@ -87698,7 +87698,7 @@ horse=
  },
  {
   "SerialNumber": "01009",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7264185301",
   "HorseName": "アポロキングダム",
   "Rare": "3",
@@ -87785,7 +87785,7 @@ horse=
  },
  {
   "SerialNumber": "01010",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5612364684",
   "HorseName": "アメリカンボス",
   "Rare": "3",
@@ -87872,7 +87872,7 @@ horse=
  },
  {
   "SerialNumber": "01011",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5712364485",
   "HorseName": "アルカセット",
   "Rare": "3",
@@ -87959,7 +87959,7 @@ horse=
  },
  {
   "SerialNumber": "01012",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4962571738",
   "HorseName": "アルデバラン",
   "Rare": "3",
@@ -88046,7 +88046,7 @@ horse=
  },
  {
   "SerialNumber": "01013",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5614530258",
   "HorseName": "アンライバルド",
   "Rare": "3",
@@ -88133,7 +88133,7 @@ horse=
  },
  {
   "SerialNumber": "01014",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2661439658",
   "HorseName": "イラプト",
   "Rare": "3",
@@ -88220,7 +88220,7 @@ horse=
  },
  {
   "SerialNumber": "01015",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7468538712",
   "HorseName": "エアジハード",
   "Rare": "3",
@@ -88307,7 +88307,7 @@ horse=
  },
  {
   "SerialNumber": "01016",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5864023610",
   "HorseName": "エアスピネル",
   "Rare": "3",
@@ -88394,7 +88394,7 @@ horse=
  },
  {
   "SerialNumber": "01017",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8765243162",
   "HorseName": "エアダブリン",
   "Rare": "3",
@@ -88481,7 +88481,7 @@ horse=
  },
  {
   "SerialNumber": "01018",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6162546836",
   "HorseName": "エイシンガイモン",
   "Rare": "3",
@@ -88568,7 +88568,7 @@ horse=
  },
  {
   "SerialNumber": "01019",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218681523",
   "HorseName": "エシェム",
   "Rare": "3",
@@ -88655,7 +88655,7 @@ horse=
  },
  {
   "SerialNumber": "01020",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7214558367",
   "HorseName": "オフサイドトラップ",
   "Rare": "3",
@@ -88742,7 +88742,7 @@ horse=
  },
  {
   "SerialNumber": "01021",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9315468217",
   "HorseName": "オレハモッテルゼ",
   "Rare": "3",
@@ -88829,7 +88829,7 @@ horse=
  },
  {
   "SerialNumber": "01022",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6568631412",
   "HorseName": "オースミタイクーン",
   "Rare": "3",
@@ -88916,7 +88916,7 @@ horse=
  },
  {
   "SerialNumber": "01023",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1704825356",
   "HorseName": "カジノドライヴ",
   "Rare": "3",
@@ -89003,7 +89003,7 @@ horse=
  },
  {
   "SerialNumber": "01024",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2865143513",
   "HorseName": "カネイコマ",
   "Rare": "3",
@@ -89090,7 +89090,7 @@ horse=
  },
  {
   "SerialNumber": "01025",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6264185320",
   "HorseName": "カネツクロス",
   "Rare": "3",
@@ -89177,7 +89177,7 @@ horse=
  },
  {
   "SerialNumber": "01026",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2315498266",
   "HorseName": "カミノクレッセ",
   "Rare": "3",
@@ -89264,7 +89264,7 @@ horse=
  },
  {
   "SerialNumber": "01027",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5264185303",
   "HorseName": "カミノテシオ",
   "Rare": "3",
@@ -89351,7 +89351,7 @@ horse=
  },
  {
   "SerialNumber": "01028",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1374822356",
   "HorseName": "カリズマティック",
   "Rare": "3",
@@ -89438,7 +89438,7 @@ horse=
  },
  {
   "SerialNumber": "01029",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452661286",
   "HorseName": "カリブソング",
   "Rare": "3",
@@ -89525,7 +89525,7 @@ horse=
  },
  {
   "SerialNumber": "01030",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5824223117",
   "HorseName": "カルビソング",
   "Rare": "3",
@@ -89612,7 +89612,7 @@ horse=
  },
  {
   "SerialNumber": "01031",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1304829356",
   "HorseName": "カレンブラックヒル",
   "Rare": "3",
@@ -89699,7 +89699,7 @@ horse=
  },
  {
   "SerialNumber": "01032",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218640573",
   "HorseName": "カンパニー",
   "Rare": "3",
@@ -89786,7 +89786,7 @@ horse=
  },
  {
   "SerialNumber": "01033",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1614534258",
   "HorseName": "ガンコ",
   "Rare": "3",
@@ -89873,7 +89873,7 @@ horse=
  },
  {
   "SerialNumber": "01034",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2671439558",
   "HorseName": "キャプテンスティーヴ",
   "Rare": "3",
@@ -89960,7 +89960,7 @@ horse=
  },
  {
   "SerialNumber": "01035",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6353124080",
   "HorseName": "キャプテントゥーレ",
   "Rare": "3",
@@ -90047,7 +90047,7 @@ horse=
  },
  {
   "SerialNumber": "01036",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5834323610",
   "HorseName": "キンシャサノキセキ",
   "Rare": "3",
@@ -90134,7 +90134,7 @@ horse=
  },
  {
   "SerialNumber": "01037",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8465243156",
   "HorseName": "クリスマスギフト",
   "Rare": "3",
@@ -90221,7 +90221,7 @@ horse=
  },
  {
   "SerialNumber": "01038",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7614530238",
   "HorseName": "グランプリボス",
   "Rare": "3",
@@ -90308,7 +90308,7 @@ horse=
  },
  {
   "SerialNumber": "01039",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6518631462",
   "HorseName": "グリークダンス",
   "Rare": "3",
@@ -90395,7 +90395,7 @@ horse=
  },
  {
   "SerialNumber": "01040",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4614536208",
   "HorseName": "グレートローマン",
   "Rare": "3",
@@ -90482,7 +90482,7 @@ horse=
  },
  {
   "SerialNumber": "01041",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0264185353",
   "HorseName": "ケイアイドウソジン",
   "Rare": "3",
@@ -90569,7 +90569,7 @@ horse=
  },
  {
   "SerialNumber": "01042",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5712364980",
   "HorseName": "ケイムホーム",
   "Rare": "3",
@@ -90656,7 +90656,7 @@ horse=
  },
  {
   "SerialNumber": "01043",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4214658369",
   "HorseName": "コガネパワー",
   "Rare": "3",
@@ -90743,7 +90743,7 @@ horse=
  },
  {
   "SerialNumber": "01044",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6598031442",
   "HorseName": "コパノジングー",
   "Rare": "3",
@@ -90830,7 +90830,7 @@ horse=
  },
  {
   "SerialNumber": "01045",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8665243109",
   "HorseName": "コパノリチャード",
   "Rare": "3",
@@ -90917,7 +90917,7 @@ horse=
  },
  {
   "SerialNumber": "01046",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7585486231",
   "HorseName": "コンデュイット",
   "Rare": "3",
@@ -91004,7 +91004,7 @@ horse=
  },
  {
   "SerialNumber": "01047",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2867141513",
   "HorseName": "ゴールドヘイロー",
   "Rare": "3",
@@ -91091,7 +91091,7 @@ horse=
  },
  {
   "SerialNumber": "01048",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5612364288",
   "HorseName": "サイレントハンター",
   "Rare": "3",
@@ -91178,7 +91178,7 @@ horse=
  },
  {
   "SerialNumber": "01049",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7468539612",
   "HorseName": "サウンズオブアース",
   "Rare": "3",
@@ -91265,7 +91265,7 @@ horse=
  },
  {
   "SerialNumber": "01050",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8214958362",
   "HorseName": "サクラセンチュリー",
   "Rare": "3",
@@ -91352,7 +91352,7 @@ horse=
  },
  {
   "SerialNumber": "01051",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6428983815",
   "HorseName": "サクラメガワンダー",
   "Rare": "3",
@@ -91439,7 +91439,7 @@ horse=
  },
  {
   "SerialNumber": "01052",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1904823356",
   "HorseName": "サトノアラジン",
   "Rare": "3",
@@ -91526,7 +91526,7 @@ horse=
  },
  {
   "SerialNumber": "01053",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1174824356",
   "HorseName": "サムライハート",
   "Rare": "3",
@@ -91613,7 +91613,7 @@ horse=
  },
  {
   "SerialNumber": "01054",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218692503",
   "HorseName": "サンカルロ",
   "Rare": "3",
@@ -91700,7 +91700,7 @@ horse=
  },
  {
   "SerialNumber": "01055",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2458065213",
   "HorseName": "サンデーブランチ",
   "Rare": "3",
@@ -91787,7 +91787,7 @@ horse=
  },
  {
   "SerialNumber": "01056",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3614535228",
   "HorseName": "サージュウェルズ",
   "Rare": "3",
@@ -91874,7 +91874,7 @@ horse=
  },
  {
   "SerialNumber": "01057",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4315468267",
   "HorseName": "シニスターミニスター",
   "Rare": "3",
@@ -91961,7 +91961,7 @@ horse=
  },
  {
   "SerialNumber": "01058",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452161786",
   "HorseName": "シャケトラ",
   "Rare": "3",
@@ -92048,7 +92048,7 @@ horse=
  },
  {
   "SerialNumber": "01059",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2671438658",
   "HorseName": "ショウナンカンプ",
   "Rare": "3",
@@ -92135,7 +92135,7 @@ horse=
  },
  {
   "SerialNumber": "01060",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6558631422",
   "HorseName": "ショウナンマイティ",
   "Rare": "3",
@@ -92222,7 +92222,7 @@ horse=
  },
  {
   "SerialNumber": "01061",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6538431462",
   "HorseName": "ショウリョウウマ",
   "Rare": "3",
@@ -92309,7 +92309,7 @@ horse=
  },
  {
   "SerialNumber": "01062",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6614530248",
   "HorseName": "シルバーステート",
   "Rare": "3",
@@ -92396,7 +92396,7 @@ horse=
  },
  {
   "SerialNumber": "01063",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6350124380",
   "HorseName": "シルバーチャーム",
   "Rare": "3",
@@ -92483,7 +92483,7 @@ horse=
  },
  {
   "SerialNumber": "01064",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5468538912",
   "HorseName": "シルポート",
   "Rare": "3",
@@ -92570,7 +92570,7 @@ horse=
  },
  {
   "SerialNumber": "01065",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8468535912",
   "HorseName": "シロニイ",
   "Rare": "3",
@@ -92657,7 +92657,7 @@ horse=
  },
  {
   "SerialNumber": "01066",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5612364882",
   "HorseName": "シンコウエドワード",
   "Rare": "3",
@@ -92744,7 +92744,7 @@ horse=
  },
  {
   "SerialNumber": "01067",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7885456231",
   "HorseName": "ジャイアントレッカー",
   "Rare": "3",
@@ -92831,7 +92831,7 @@ horse=
  },
  {
   "SerialNumber": "01068",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0264185344",
   "HorseName": "ジョーカプチーノ",
   "Rare": "3",
@@ -92918,7 +92918,7 @@ horse=
  },
  {
   "SerialNumber": "01069",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5214658368",
   "HorseName": "スギノハヤカゼ",
   "Rare": "3",
@@ -93005,7 +93005,7 @@ horse=
  },
  {
   "SerialNumber": "01070",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1474821356",
   "HorseName": "スズカフェニックス",
   "Rare": "3",
@@ -93092,7 +93092,7 @@ horse=
  },
  {
   "SerialNumber": "01071",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452451586",
   "HorseName": "スズマッハ",
   "Rare": "3",
@@ -93179,7 +93179,7 @@ horse=
  },
  {
   "SerialNumber": "01072",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8565243173",
   "HorseName": "スタチューオブリバティ",
   "Rare": "3",
@@ -93266,7 +93266,7 @@ horse=
  },
  {
   "SerialNumber": "01073",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5804623610",
   "HorseName": "スターリングローズ",
   "Rare": "3",
@@ -93353,7 +93353,7 @@ horse=
  },
  {
   "SerialNumber": "01074",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9468537612",
   "HorseName": "ステファノス",
   "Rare": "3",
@@ -93440,7 +93440,7 @@ horse=
  },
  {
   "SerialNumber": "01075",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452261686",
   "HorseName": "ステージチャンプ",
   "Rare": "3",
@@ -93527,7 +93527,7 @@ horse=
  },
  {
   "SerialNumber": "01076",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6429783915",
   "HorseName": "ストラヴィンスキー",
   "Rare": "3",
@@ -93614,7 +93614,7 @@ horse=
  },
  {
   "SerialNumber": "01077",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9214758363",
   "HorseName": "ストーミングホーム",
   "Rare": "3",
@@ -93701,7 +93701,7 @@ horse=
  },
  {
   "SerialNumber": "01078",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0408765213",
   "HorseName": "スピードワールド",
   "Rare": "3",
@@ -93788,7 +93788,7 @@ horse=
  },
  {
   "SerialNumber": "01079",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8315408269",
   "HorseName": "スマートロビン",
   "Rare": "3",
@@ -93875,7 +93875,7 @@ horse=
  },
  {
   "SerialNumber": "01080",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5804023616",
   "HorseName": "セキテイリュウオー",
   "Rare": "3",
@@ -93962,7 +93962,7 @@ horse=
  },
  {
   "SerialNumber": "01081",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8065243178",
   "HorseName": "ゼンノエルシド",
   "Rare": "3",
@@ -94049,7 +94049,7 @@ horse=
  },
  {
   "SerialNumber": "01082",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8010653245",
   "HorseName": "ソングオブウインド",
   "Rare": "3",
@@ -94136,7 +94136,7 @@ horse=
  },
  {
   "SerialNumber": "01083",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5712364188",
   "HorseName": "タイムパラドックス",
   "Rare": "3",
@@ -94223,7 +94223,7 @@ horse=
  },
  {
   "SerialNumber": "01084",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4478115213",
   "HorseName": "タダノツヨシ",
   "Rare": "3",
@@ -94310,7 +94310,7 @@ horse=
  },
  {
   "SerialNumber": "01085",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1274828351",
   "HorseName": "ダイコウサク",
   "Rare": "3",
@@ -94397,7 +94397,7 @@ horse=
  },
  {
   "SerialNumber": "01086",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1804824356",
   "HorseName": "ダイシンオレンジ",
   "Rare": "3",
@@ -94484,7 +94484,7 @@ horse=
  },
  {
   "SerialNumber": "01087",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9162546833",
   "HorseName": "ダノンシャーク",
   "Rare": "3",
@@ -94571,7 +94571,7 @@ horse=
  },
  {
   "SerialNumber": "01088",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9885436231",
   "HorseName": "ダノンバラード",
   "Rare": "3",
@@ -94658,7 +94658,7 @@ horse=
  },
  {
   "SerialNumber": "01089",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8214658365",
   "HorseName": "ダブリンライオン",
   "Rare": "3",
@@ -94745,7 +94745,7 @@ horse=
  },
  {
   "SerialNumber": "01090",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5712364584",
   "HorseName": "チチカステナンゴ",
   "Rare": "3",
@@ -94832,7 +94832,7 @@ horse=
  },
  {
   "SerialNumber": "01091",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5162546837",
   "HorseName": "チョコ",
   "Rare": "3",
@@ -94919,7 +94919,7 @@ horse=
  },
  {
   "SerialNumber": "01092",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7172546834",
   "HorseName": "チーフベアハート",
   "Rare": "3",
@@ -95006,7 +95006,7 @@ horse=
  },
  {
   "SerialNumber": "01093",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8165243177",
   "HorseName": "ティンバーカントリー",
   "Rare": "3",
@@ -95093,7 +95093,7 @@ horse=
  },
  {
   "SerialNumber": "01094",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7132546838",
   "HorseName": "テイエムオペラオー",
   "Rare": "3",
@@ -95180,7 +95180,7 @@ horse=
  },
  {
   "SerialNumber": "01095",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0264185362",
   "HorseName": "テレグノシス",
   "Rare": "3",
@@ -95267,7 +95267,7 @@ horse=
  },
  {
   "SerialNumber": "01096",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4862581738",
   "HorseName": "ディクタット",
   "Rare": "3",
@@ -95354,7 +95354,7 @@ horse=
  },
  {
   "SerialNumber": "01097",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452271586",
   "HorseName": "ディープスカイ",
   "Rare": "3",
@@ -95441,7 +95441,7 @@ horse=
  },
  {
   "SerialNumber": "01098",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1825847639",
   "HorseName": "デスペラード",
   "Rare": "3",
@@ -95528,7 +95528,7 @@ horse=
  },
  {
   "SerialNumber": "01099",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218650563",
   "HorseName": "トウカイトリック",
   "Rare": "3",
@@ -95615,7 +95615,7 @@ horse=
  },
  {
   "SerialNumber": "01100",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2614530288",
   "HorseName": "トウケイヘイロー",
   "Rare": "3",
@@ -95702,7 +95702,7 @@ horse=
  },
  {
   "SerialNumber": "01101",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8110643245",
   "HorseName": "トーセンジョーダン",
   "Rare": "3",
@@ -95789,7 +95789,7 @@ horse=
  },
  {
   "SerialNumber": "01102",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1281561403",
   "HorseName": "トーセンラー",
   "Rare": "3",
@@ -95876,7 +95876,7 @@ horse=
  },
  {
   "SerialNumber": "01103",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218651553",
   "HorseName": "トーヨーリファール",
   "Rare": "3",
@@ -95963,7 +95963,7 @@ horse=
  },
  {
   "SerialNumber": "01104",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0264185371",
   "HorseName": "ナカヤマフェスタ",
   "Rare": "3",
@@ -96050,7 +96050,7 @@ horse=
  },
  {
   "SerialNumber": "01105",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6315458266",
   "HorseName": "ナリタキングオー",
   "Rare": "3",
@@ -96137,7 +96137,7 @@ horse=
  },
  {
   "SerialNumber": "01106",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7214185306",
   "HorseName": "ナントゴシャセイ",
   "Rare": "3",
@@ -96224,7 +96224,7 @@ horse=
  },
  {
   "SerialNumber": "01107",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0521308406",
   "HorseName": "ノボトゥルー",
   "Rare": "3",
@@ -96311,7 +96311,7 @@ horse=
  },
  {
   "SerialNumber": "01108",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1214958369",
   "HorseName": "ハイアーゲーム",
   "Rare": "3",
@@ -96398,7 +96398,7 @@ horse=
  },
  {
   "SerialNumber": "01109",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2860141583",
   "HorseName": "ハーランズホリデー",
   "Rare": "3",
@@ -96485,7 +96485,7 @@ horse=
  },
  {
   "SerialNumber": "01110",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9102546839",
   "HorseName": "バトルプラン",
   "Rare": "3",
@@ -96572,7 +96572,7 @@ horse=
  },
  {
   "SerialNumber": "01111",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6508931442",
   "HorseName": "バランスオブゲーム",
   "Rare": "3",
@@ -96659,7 +96659,7 @@ horse=
  },
  {
   "SerialNumber": "01112",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2837140823",
   "HorseName": "パイロ",
   "Rare": "3",
@@ -96746,7 +96746,7 @@ horse=
  },
  {
   "SerialNumber": "01113",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5712364782",
   "HorseName": "パイロ",
   "Rare": "3",
@@ -96833,7 +96833,7 @@ horse=
  },
  {
   "SerialNumber": "01114",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5712314589",
   "HorseName": "ヒサシマル",
   "Rare": "3",
@@ -96920,7 +96920,7 @@ horse=
  },
  {
   "SerialNumber": "01115",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9315428266",
   "HorseName": "ヒシマサル",
   "Rare": "3",
@@ -97007,7 +97007,7 @@ horse=
  },
  {
   "SerialNumber": "01116",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6352124180",
   "HorseName": "ヒシミラクル",
   "Rare": "3",
@@ -97094,7 +97094,7 @@ horse=
  },
  {
   "SerialNumber": "01117",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8665243190",
   "HorseName": "ヒルノダムール",
   "Rare": "3",
@@ -97181,7 +97181,7 @@ horse=
  },
  {
   "SerialNumber": "01118",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1664820356",
   "HorseName": "ビコーペガサス",
   "Rare": "3",
@@ -97268,7 +97268,7 @@ horse=
  },
  {
   "SerialNumber": "01119",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2428365213",
   "HorseName": "ビッグゴールド",
   "Rare": "3",
@@ -97355,7 +97355,7 @@ horse=
  },
  {
   "SerialNumber": "01120",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7685476231",
   "HorseName": "ファスリエフ",
   "Rare": "3",
@@ -97442,7 +97442,7 @@ horse=
  },
  {
   "SerialNumber": "01121",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7985446231",
   "HorseName": "フサイチコンコルド",
   "Rare": "3",
@@ -97529,7 +97529,7 @@ horse=
  },
  {
   "SerialNumber": "01122",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1574825351",
   "HorseName": "フラッシュボイス",
   "Rare": "3",
@@ -97616,7 +97616,7 @@ horse=
  },
  {
   "SerialNumber": "01123",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1315498267",
   "HorseName": "ブラックホーク",
   "Rare": "3",
@@ -97703,7 +97703,7 @@ horse=
  },
  {
   "SerialNumber": "01124",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5264185312",
   "HorseName": "ホウシュウリッチ",
   "Rare": "3",
@@ -97790,7 +97790,7 @@ horse=
  },
  {
   "SerialNumber": "01125",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6508631472",
   "HorseName": "ホクトヘリオス",
   "Rare": "3",
@@ -97877,7 +97877,7 @@ horse=
  },
  {
   "SerialNumber": "01126",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8465243165",
   "HorseName": "ホッカイルソー",
   "Rare": "3",
@@ -97964,7 +97964,7 @@ horse=
  },
  {
   "SerialNumber": "01127",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5912364582",
   "HorseName": "ホワイトベッセル",
   "Rare": "3",
@@ -98051,7 +98051,7 @@ horse=
  },
  {
   "SerialNumber": "01128",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6214658367",
   "HorseName": "マイネルブリッジ",
   "Rare": "3",
@@ -98138,7 +98138,7 @@ horse=
  },
  {
   "SerialNumber": "01129",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452491186",
   "HorseName": "マイネルレーニア",
   "Rare": "3",
@@ -98225,7 +98225,7 @@ horse=
  },
  {
   "SerialNumber": "01130",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2264185324",
   "HorseName": "マジンプロスパー",
   "Rare": "3",
@@ -98312,7 +98312,7 @@ horse=
  },
  {
   "SerialNumber": "01131",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8468537712",
   "HorseName": "マツリダゴッホ",
   "Rare": "3",
@@ -98399,7 +98399,7 @@ horse=
  },
  {
   "SerialNumber": "01132",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2661436958",
   "HorseName": "マティリアル",
   "Rare": "3",
@@ -98486,7 +98486,7 @@ horse=
  },
  {
   "SerialNumber": "01133",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5214758367",
   "HorseName": "マヤノトップガン",
   "Rare": "3",
@@ -98573,7 +98573,7 @@ horse=
  },
  {
   "SerialNumber": "01134",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7315448266",
   "HorseName": "マルターズアポジー",
   "Rare": "3",
@@ -98660,7 +98660,7 @@ horse=
  },
  {
   "SerialNumber": "01135",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9285496231",
   "HorseName": "ミッキーアイル",
   "Rare": "3",
@@ -98747,7 +98747,7 @@ horse=
  },
  {
   "SerialNumber": "01136",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7315458265",
   "HorseName": "ムッシュシェクル",
   "Rare": "3",
@@ -98834,7 +98834,7 @@ horse=
  },
  {
   "SerialNumber": "01137",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218605563",
   "HorseName": "ムービースター",
   "Rare": "3",
@@ -98921,7 +98921,7 @@ horse=
  },
  {
   "SerialNumber": "01138",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9315418267",
   "HorseName": "メイショウボーラー",
   "Rare": "3",
@@ -99008,7 +99008,7 @@ horse=
  },
  {
   "SerialNumber": "01139",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5315468266",
   "HorseName": "メジロアルダン",
   "Rare": "3",
@@ -99095,7 +99095,7 @@ horse=
  },
  {
   "SerialNumber": "01140",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3121840752",
   "HorseName": "メジロデュラン",
   "Rare": "3",
@@ -99182,7 +99182,7 @@ horse=
  },
  {
   "SerialNumber": "01141",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452771581",
   "HorseName": "メジロヨルダン",
   "Rare": "3",
@@ -99269,7 +99269,7 @@ horse=
  },
  {
   "SerialNumber": "01142",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8468538612",
   "HorseName": "ユーセイトップラン",
   "Rare": "3",
@@ -99356,7 +99356,7 @@ horse=
  },
  {
   "SerialNumber": "01143",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3126842052",
   "HorseName": "ラスカルスズカ",
   "Rare": "3",
@@ -99443,7 +99443,7 @@ horse=
  },
  {
   "SerialNumber": "01144",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9214658364",
   "HorseName": "ラストインパクト",
   "Rare": "3",
@@ -99530,7 +99530,7 @@ horse=
  },
  {
   "SerialNumber": "01145",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4264185322",
   "HorseName": "ラブアタックショコラ",
   "Rare": "3",
@@ -99617,7 +99617,7 @@ horse=
  },
  {
   "SerialNumber": "01146",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1564821356",
   "HorseName": "ランニングフリー",
   "Rare": "3",
@@ -99704,7 +99704,7 @@ horse=
  },
  {
   "SerialNumber": "01147",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5512364784",
   "HorseName": "リンドホシ",
   "Rare": "3",
@@ -99791,7 +99791,7 @@ horse=
  },
  {
   "SerialNumber": "01148",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9182546831",
   "HorseName": "リーチザクラウン",
   "Rare": "3",
@@ -99878,7 +99878,7 @@ horse=
  },
  {
   "SerialNumber": "01149",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9122546837",
   "HorseName": "ルーラーシップ",
   "Rare": "3",
@@ -99965,7 +99965,7 @@ horse=
  },
  {
   "SerialNumber": "01150",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6172546835",
   "HorseName": "レインボーライン",
   "Rare": "3",
@@ -100052,7 +100052,7 @@ horse=
  },
  {
   "SerialNumber": "01151",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4962581638",
   "HorseName": "レオダーバン",
   "Rare": "3",
@@ -100139,7 +100139,7 @@ horse=
  },
  {
   "SerialNumber": "01152",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8365243166",
   "HorseName": "ロイヤルスズカ",
   "Rare": "3",
@@ -100226,7 +100226,7 @@ horse=
  },
  {
   "SerialNumber": "01153",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6192546833",
   "HorseName": "ロイヤルタッチ",
   "Rare": "3",
@@ -100313,7 +100313,7 @@ horse=
  },
  {
   "SerialNumber": "01154",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7315438267",
   "HorseName": "ロドリゴデトリアーノ",
   "Rare": "3",
@@ -100400,7 +100400,7 @@ horse=
  },
  {
   "SerialNumber": "01155",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6548731422",
   "HorseName": "ローエングリン",
   "Rare": "3",
@@ -100487,7 +100487,7 @@ horse=
  },
  {
   "SerialNumber": "01156",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6685486231",
   "HorseName": "ローゼンカバリー",
   "Rare": "3",
@@ -100574,7 +100574,7 @@ horse=
  },
  {
   "SerialNumber": "01157",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6785476231",
   "HorseName": "ローゼンクロイツ",
   "Rare": "3",
@@ -100661,7 +100661,7 @@ horse=
  },
  {
   "SerialNumber": "01158",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4562591938",
   "HorseName": "ワークフォース",
   "Rare": "3",
@@ -100748,7 +100748,7 @@ horse=
  },
  {
   "SerialNumber": "01159",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9152546834",
   "HorseName": "ワールドエース",
   "Rare": "3",
@@ -100835,7 +100835,7 @@ horse=
  },
  {
   "SerialNumber": "01160",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5212364886",
   "HorseName": "ヴォルシェーブ",
   "Rare": "3",
@@ -100922,7 +100922,7 @@ horse=
  },
  {
   "SerialNumber": "01161",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0264185335",
   "HorseName": "アスカクリチャン",
   "Rare": "2",
@@ -101009,7 +101009,7 @@ horse=
  },
  {
   "SerialNumber": "01162",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218613573",
   "HorseName": "アドマイヤジャパン",
   "Rare": "2",
@@ -101096,7 +101096,7 @@ horse=
  },
  {
   "SerialNumber": "01163",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0264185380",
   "HorseName": "アポインテッドデイ",
   "Rare": "2",
@@ -101183,7 +101183,7 @@ horse=
  },
  {
   "SerialNumber": "01164",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2860145543",
   "HorseName": "アーネストリー",
   "Rare": "2",
@@ -101270,7 +101270,7 @@ horse=
  },
  {
   "SerialNumber": "01165",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5408265213",
   "HorseName": "イスラボニータ",
   "Rare": "2",
@@ -101357,7 +101357,7 @@ horse=
  },
  {
   "SerialNumber": "01166",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7182546833",
   "HorseName": "イーグルカフェ",
   "Rare": "2",
@@ -101444,7 +101444,7 @@ horse=
  },
  {
   "SerialNumber": "01167",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5824423610",
   "HorseName": "ウインクリューガー",
   "Rare": "2",
@@ -101531,7 +101531,7 @@ horse=
  },
  {
   "SerialNumber": "01168",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2860146533",
   "HorseName": "エイシンアポロン",
   "Rare": "2",
@@ -101618,7 +101618,7 @@ horse=
  },
  {
   "SerialNumber": "01169",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0264185326",
   "HorseName": "エーシントップ",
   "Rare": "2",
@@ -101705,7 +101705,7 @@ horse=
  },
  {
   "SerialNumber": "01170",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452801686",
   "HorseName": "エーシンフォワード",
   "Rare": "2",
@@ -101792,7 +101792,7 @@ horse=
  },
  {
   "SerialNumber": "01171",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7408065213",
   "HorseName": "オウケンブルースリ",
   "Rare": "2",
@@ -101879,7 +101879,7 @@ horse=
  },
  {
   "SerialNumber": "01172",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8315428267",
   "HorseName": "オレハマッテルゼ",
   "Rare": "2",
@@ -101966,7 +101966,7 @@ horse=
  },
  {
   "SerialNumber": "01173",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1614530298",
   "HorseName": "サダムパテック",
   "Rare": "2",
@@ -102053,7 +102053,7 @@ horse=
  },
  {
   "SerialNumber": "01174",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2408565213",
   "HorseName": "サニングデール",
   "Rare": "2",
@@ -102140,7 +102140,7 @@ horse=
  },
  {
   "SerialNumber": "01175",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2172546839",
   "HorseName": "サニーデイズ",
   "Rare": "2",
@@ -102227,7 +102227,7 @@ horse=
  },
  {
   "SerialNumber": "01176",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2860140593",
   "HorseName": "ザール",
   "Rare": "2",
@@ -102314,7 +102314,7 @@ horse=
  },
  {
   "SerialNumber": "01177",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218629503",
   "HorseName": "シベリアンホーク",
   "Rare": "2",
@@ -102401,7 +102401,7 @@ horse=
  },
  {
   "SerialNumber": "01178",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452371486",
   "HorseName": "シーキングザダイヤ",
   "Rare": "2",
@@ -102488,7 +102488,7 @@ horse=
  },
  {
   "SerialNumber": "01179",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5712364881",
   "HorseName": "スクワートルスクワート",
   "Rare": "2",
@@ -102575,7 +102575,7 @@ horse=
  },
  {
   "SerialNumber": "01180",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3126840054",
   "HorseName": "スズカコーズウェイ",
   "Rare": "2",
@@ -102662,7 +102662,7 @@ horse=
  },
  {
   "SerialNumber": "01181",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218647503",
   "HorseName": "ストロングリターン",
   "Rare": "2",
@@ -102749,7 +102749,7 @@ horse=
  },
  {
   "SerialNumber": "01182",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8410613245",
   "HorseName": "スーパーホーネット",
   "Rare": "2",
@@ -102836,7 +102836,7 @@ horse=
  },
  {
   "SerialNumber": "01183",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1404828356",
   "HorseName": "セレスハント",
   "Rare": "2",
@@ -102923,7 +102923,7 @@ horse=
  },
  {
   "SerialNumber": "01184",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452601886",
   "HorseName": "タップダンスシチー",
   "Rare": "2",
@@ -103010,7 +103010,7 @@ horse=
  },
  {
   "SerialNumber": "01185",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8765243108",
   "HorseName": "ディサイファ",
   "Rare": "2",
@@ -103097,7 +103097,7 @@ horse=
  },
  {
   "SerialNumber": "01186",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8210633245",
   "HorseName": "デビッドジュニア",
   "Rare": "2",
@@ -103184,7 +103184,7 @@ horse=
  },
  {
   "SerialNumber": "01187",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6518931432",
   "HorseName": "トウカイパルサー",
   "Rare": "2",
@@ -103271,7 +103271,7 @@ horse=
  },
  {
   "SerialNumber": "01188",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452071786",
   "HorseName": "トワイニング",
   "Rare": "2",
@@ -103358,7 +103358,7 @@ horse=
  },
  {
   "SerialNumber": "01189",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1408665213",
   "HorseName": "トーセンスターダム",
   "Rare": "2",
@@ -103445,7 +103445,7 @@ horse=
  },
  {
   "SerialNumber": "01190",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5912364186",
   "HorseName": "トーセンブライト",
   "Rare": "2",
@@ -103532,7 +103532,7 @@ horse=
  },
  {
   "SerialNumber": "01191",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2415360801",
   "HorseName": "トーホウエンペラー",
   "Rare": "2",
@@ -103619,7 +103619,7 @@ horse=
  },
  {
   "SerialNumber": "01192",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1315478269",
   "HorseName": "トーワウィナー",
   "Rare": "2",
@@ -103706,7 +103706,7 @@ horse=
  },
  {
   "SerialNumber": "01193",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0281562403",
   "HorseName": "ノボジャック",
   "Rare": "2",
@@ -103793,7 +103793,7 @@ horse=
  },
  {
   "SerialNumber": "01194",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452901586",
   "HorseName": "バトルライン",
   "Rare": "2",
@@ -103880,7 +103880,7 @@ horse=
  },
  {
   "SerialNumber": "01195",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2860142573",
   "HorseName": "パーソナルラッシュ",
   "Rare": "2",
@@ -103967,7 +103967,7 @@ horse=
  },
  {
   "SerialNumber": "01196",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2281560403",
   "HorseName": "フサイチリシャール",
   "Rare": "2",
@@ -104054,7 +104054,7 @@ horse=
  },
  {
   "SerialNumber": "01197",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452591086",
   "HorseName": "ペルーサ",
   "Rare": "2",
@@ -104141,7 +104141,7 @@ horse=
  },
  {
   "SerialNumber": "01198",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0614539218",
   "HorseName": "マイネルスターリー",
   "Rare": "2",
@@ -104228,7 +104228,7 @@ horse=
  },
  {
   "SerialNumber": "01199",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7142546837",
   "HorseName": "ルールオブロー",
   "Rare": "2",
@@ -104315,7 +104315,7 @@ horse=
  },
  {
   "SerialNumber": "01200",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452671186",
   "HorseName": "ロードアルティマ",
   "Rare": "2",
@@ -104402,7 +104402,7 @@ horse=
  },
  {
   "SerialNumber": "01201",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218611593",
   "HorseName": "ワイルドワンダー",
   "Rare": "2",
@@ -104489,7 +104489,7 @@ horse=
  },
  {
   "SerialNumber": "01202",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "7614533208",
   "HorseName": "オウザキネン",
   "Rare": "1",
@@ -104576,7 +104576,7 @@ horse=
  },
  {
   "SerialNumber": "01203",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1394820356",
   "HorseName": "オマワリサン",
   "Rare": "1",
@@ -104663,7 +104663,7 @@ horse=
  },
  {
   "SerialNumber": "01204",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8614530228",
   "HorseName": "オリオンザサンクス",
   "Rare": "1",
@@ -104750,7 +104750,7 @@ horse=
  },
  {
   "SerialNumber": "01205",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218661543",
   "HorseName": "オレニホレルナヨ",
   "Rare": "1",
@@ -104837,7 +104837,7 @@ horse=
  },
  {
   "SerialNumber": "01206",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3614536218",
   "HorseName": "オーバーザリミッツ",
   "Rare": "1",
@@ -104924,7 +104924,7 @@ horse=
  },
  {
   "SerialNumber": "01207",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3126844050",
   "HorseName": "カルストンライトオ",
   "Rare": "1",
@@ -105011,7 +105011,7 @@ horse=
  },
  {
   "SerialNumber": "01208",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8265243158",
   "HorseName": "カントウオウザ",
   "Rare": "1",
@@ -105098,7 +105098,7 @@ horse=
  },
  {
   "SerialNumber": "01209",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1154826356",
   "HorseName": "キュウシュウオキナワオウザ",
   "Rare": "1",
@@ -105185,7 +105185,7 @@ horse=
  },
  {
   "SerialNumber": "01210",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8965243151",
   "HorseName": "キンキオウザ",
   "Rare": "1",
@@ -105272,7 +105272,7 @@ horse=
  },
  {
   "SerialNumber": "01211",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8965243142",
   "HorseName": "クリムゾントワ",
   "Rare": "1",
@@ -105359,7 +105359,7 @@ horse=
  },
  {
   "SerialNumber": "01212",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2862142553",
   "HorseName": "コイノボリ",
   "Rare": "1",
@@ -105446,7 +105446,7 @@ horse=
  },
  {
   "SerialNumber": "01213",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "0478038213",
   "HorseName": "サンシュウネンキネン",
   "Rare": "1",
@@ -105533,7 +105533,7 @@ horse=
  },
  {
   "SerialNumber": "01214",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1644822356",
   "HorseName": "サンテンゴキネン",
   "Rare": "1",
@@ -105620,7 +105620,7 @@ horse=
  },
  {
   "SerialNumber": "01215",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218625543",
   "HorseName": "シュヤクハキミダ",
   "Rare": "1",
@@ -105707,7 +105707,7 @@ horse=
  },
  {
   "SerialNumber": "01216",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4614534228",
   "HorseName": "シンネンフクヨコイ",
   "Rare": "1",
@@ -105794,7 +105794,7 @@ horse=
  },
  {
   "SerialNumber": "01217",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3315458269",
   "HorseName": "ジーカップダイスキ",
   "Rare": "1",
@@ -105881,7 +105881,7 @@ horse=
  },
  {
   "SerialNumber": "01218",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6568431432",
   "HorseName": "スーパーカップ",
   "Rare": "1",
@@ -105968,7 +105968,7 @@ horse=
  },
  {
   "SerialNumber": "01219",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5844023117",
   "HorseName": "タカイタカイ",
   "Rare": "1",
@@ -106055,7 +106055,7 @@ horse=
  },
  {
   "SerialNumber": "01220",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8565243191",
   "HorseName": "タッチミーノット",
   "Rare": "1",
@@ -106142,7 +106142,7 @@ horse=
  },
  {
   "SerialNumber": "01221",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218609523",
   "HorseName": "タマモサポート",
   "Rare": "1",
@@ -106229,7 +106229,7 @@ horse=
  },
  {
   "SerialNumber": "01222",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9214458366",
   "HorseName": "ダイヨンカイオウザ",
   "Rare": "1",
@@ -106316,7 +106316,7 @@ horse=
  },
  {
   "SerialNumber": "01223",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5512364883",
   "HorseName": "ダビキャラキネン",
   "Rare": "1",
@@ -106403,7 +106403,7 @@ horse=
  },
  {
   "SerialNumber": "01224",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4468539912",
   "HorseName": "ダメダメダメダメダ",
   "Rare": "1",
@@ -106490,7 +106490,7 @@ horse=
  },
  {
   "SerialNumber": "01225",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4614535218",
   "HorseName": "チュウゴクシコクオウザ",
   "Rare": "1",
@@ -106577,7 +106577,7 @@ horse=
  },
  {
   "SerialNumber": "01226",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2651438858",
   "HorseName": "チュウブオウザ",
   "Rare": "1",
@@ -106664,7 +106664,7 @@ horse=
  },
  {
   "SerialNumber": "01227",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5512364685",
   "HorseName": "チョコ",
   "Rare": "1",
@@ -106751,7 +106751,7 @@ horse=
  },
  {
   "SerialNumber": "01228",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452741386",
   "HorseName": "ツリスタ",
   "Rare": "1",
@@ -106838,7 +106838,7 @@ horse=
  },
  {
   "SerialNumber": "01229",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452341786",
   "HorseName": "トゥインクルレース",
   "Rare": "1",
@@ -106925,7 +106925,7 @@ horse=
  },
  {
   "SerialNumber": "01230",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5182546835",
   "HorseName": "トウホクオウザ",
   "Rare": "1",
@@ -107012,7 +107012,7 @@ horse=
  },
  {
   "SerialNumber": "01231",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1194822356",
   "HorseName": "ナイスミーチュー",
   "Rare": "1",
@@ -107099,7 +107099,7 @@ horse=
  },
  {
   "SerialNumber": "01232",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452291386",
   "HorseName": "ネコパンチ",
   "Rare": "1",
@@ -107186,7 +107186,7 @@ horse=
  },
  {
   "SerialNumber": "01233",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8365243193",
   "HorseName": "ネルトスグアサ",
   "Rare": "1",
@@ -107273,7 +107273,7 @@ horse=
  },
  {
   "SerialNumber": "01234",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "1825946639",
   "HorseName": "ノラネコ",
   "Rare": "1",
@@ -107360,7 +107360,7 @@ horse=
  },
  {
   "SerialNumber": "01235",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8765243171",
   "HorseName": "フォーティナイナーズサン",
   "Rare": "1",
@@ -107447,7 +107447,7 @@ horse=
  },
  {
   "SerialNumber": "01236",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5804423612",
   "HorseName": "フジサイレンス",
   "Rare": "1",
@@ -107534,7 +107534,7 @@ horse=
  },
  {
   "SerialNumber": "01237",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "5885476231",
   "HorseName": "ホッカイドウオウザ",
   "Rare": "1",
@@ -107621,7 +107621,7 @@ horse=
  },
  {
   "SerialNumber": "01238",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8992136594",
   "HorseName": "ボクニモユメハアル",
   "Rare": "1",
@@ -107708,7 +107708,7 @@ horse=
  },
  {
   "SerialNumber": "01239",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2614537218",
   "HorseName": "マイネルセレクト",
   "Rare": "1",
@@ -107795,7 +107795,7 @@ horse=
  },
  {
   "SerialNumber": "01240",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3214958367",
   "HorseName": "マズイマズイウマイ",
   "Rare": "1",
@@ -107882,7 +107882,7 @@ horse=
  },
  {
   "SerialNumber": "01241",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9132546836",
   "HorseName": "マチカネイワシミズ",
   "Rare": "1",
@@ -107969,7 +107969,7 @@ horse=
  },
  {
   "SerialNumber": "01242",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218624553",
   "HorseName": "ムーンライトパレス",
   "Rare": "1",
@@ -108056,7 +108056,7 @@ horse=
  },
  {
   "SerialNumber": "01243",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9112546838",
   "HorseName": "メイショウクオリア",
   "Rare": "1",
@@ -108143,7 +108143,7 @@ horse=
  },
  {
   "SerialNumber": "01244",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "4218633553",
   "HorseName": "メイメイケン",
   "Rare": "1",
@@ -108230,7 +108230,7 @@ horse=
  },
  {
   "SerialNumber": "01245",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "9385486231",
   "HorseName": "モグモグパクパク",
   "Rare": "1",
@@ -108317,7 +108317,7 @@ horse=
  },
  {
   "SerialNumber": "01246",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "6538931412",
   "HorseName": "モチ",
   "Rare": "1",
@@ -108404,7 +108404,7 @@ horse=
  },
  {
   "SerialNumber": "01247",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452141986",
   "HorseName": "ヨンシュウネンキネン",
   "Rare": "1",
@@ -108491,7 +108491,7 @@ horse=
  },
  {
   "SerialNumber": "01248",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2864141543",
   "HorseName": "ヨンテンゴキネン",
   "Rare": "1",
@@ -108578,7 +108578,7 @@ horse=
  },
  {
   "SerialNumber": "01249",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "2214958368",
   "HorseName": "ローレルゲレイロ",
   "Rare": "1",
@@ -108665,7 +108665,7 @@ horse=
  },
  {
   "SerialNumber": "01250",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "3452461486",
   "HorseName": "ワンモアライブ",
   "Rare": "1",
@@ -108752,7 +108752,7 @@ horse=
  },
  {
   "SerialNumber": "01251",
-  "Gender": "1",
+  "Gender": "0",
   "HorseId": "8965243106",
   "HorseName": "ヴァンセンヌ",
   "Rare": "1",
@@ -108839,7 +108839,7 @@ horse=
  },
  {
   "SerialNumber": "01252",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2804223617",
   "HorseName": "アイシテマース",
   "Rare": "名牝",
@@ -108926,7 +108926,7 @@ horse=
  },
  {
   "SerialNumber": "01253",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6528231492",
   "HorseName": "アパパネ",
   "Rare": "名牝",
@@ -109013,7 +109013,7 @@ horse=
  },
  {
   "SerialNumber": "01254",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6428983815",
   "HorseName": "アルバトール",
   "Rare": "名牝",
@@ -109100,7 +109100,7 @@ horse=
  },
  {
   "SerialNumber": "01255",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2862145523",
   "HorseName": "アロマパレード",
   "Rare": "名牝",
@@ -109187,7 +109187,7 @@ horse=
  },
  {
   "SerialNumber": "01256",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2264185351",
   "HorseName": "アンジュデジール",
   "Rare": "名牝",
@@ -109274,7 +109274,7 @@ horse=
  },
  {
   "SerialNumber": "01257",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6528631452",
   "HorseName": "アーバンシー",
   "Rare": "名牝",
@@ -109361,7 +109361,7 @@ horse=
  },
  {
   "SerialNumber": "01258",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2264185324",
   "HorseName": "アーモンドアイ",
   "Rare": "名牝",
@@ -109448,7 +109448,7 @@ horse=
  },
  {
   "SerialNumber": "01259",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8765243162",
   "HorseName": "イクノディクタス",
   "Rare": "名牝",
@@ -109535,7 +109535,7 @@ horse=
  },
  {
   "SerialNumber": "01260",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4218611593",
   "HorseName": "ウィキウィキ",
   "Rare": "名牝",
@@ -109622,7 +109622,7 @@ horse=
  },
  {
   "SerialNumber": "01261",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2862140573",
   "HorseName": "ウオッカ",
   "Rare": "名牝",
@@ -109709,7 +109709,7 @@ horse=
  },
  {
   "SerialNumber": "01262",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8565243191",
   "HorseName": "エアグルーヴ",
   "Rare": "名牝",
@@ -109796,7 +109796,7 @@ horse=
  },
  {
   "SerialNumber": "01263",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "0614532288",
   "HorseName": "エイシンサニー",
   "Rare": "名牝",
@@ -109883,7 +109883,7 @@ horse=
  },
  {
   "SerialNumber": "01264",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "0281560423",
   "HorseName": "エリンバード",
   "Rare": "名牝",
@@ -109970,7 +109970,7 @@ horse=
  },
  {
   "SerialNumber": "01265",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6598231422",
   "HorseName": "エルプス",
   "Rare": "名牝",
@@ -110057,7 +110057,7 @@ horse=
  },
  {
   "SerialNumber": "01266",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2264185315",
   "HorseName": "エンブレイスマイン",
   "Rare": "名牝",
@@ -110144,7 +110144,7 @@ horse=
  },
  {
   "SerialNumber": "01267",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5814323612",
   "HorseName": "オリヒメ",
   "Rare": "名牝",
@@ -110231,7 +110231,7 @@ horse=
  },
  {
   "SerialNumber": "01268",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8112623245",
   "HorseName": "ガイアクイーン",
   "Rare": "名牝",
@@ -110318,7 +110318,7 @@ horse=
  },
  {
   "SerialNumber": "01269",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1315478269",
   "HorseName": "キャタリナ",
   "Rare": "名牝",
@@ -110405,7 +110405,7 @@ horse=
  },
  {
   "SerialNumber": "01270",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5212364688",
   "HorseName": "キャピタリスト",
   "Rare": "名牝",
@@ -110492,7 +110492,7 @@ horse=
  },
  {
   "SerialNumber": "01271",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2182546838",
   "HorseName": "キョウエイタップ",
   "Rare": "名牝",
@@ -110579,7 +110579,7 @@ horse=
  },
  {
   "SerialNumber": "01272",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6351124082",
   "HorseName": "クイーンズリング",
   "Rare": "名牝",
@@ -110666,7 +110666,7 @@ horse=
  },
  {
   "SerialNumber": "01273",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "9485476231",
   "HorseName": "クリスタルスノー",
   "Rare": "名牝",
@@ -110753,7 +110753,7 @@ horse=
  },
  {
   "SerialNumber": "01274",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "7264182340",
   "HorseName": "グラマラスボディ",
   "Rare": "名牝",
@@ -110840,7 +110840,7 @@ horse=
  },
  {
   "SerialNumber": "01275",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1214958369",
   "HorseName": "グランチャント",
   "Rare": "名牝",
@@ -110927,7 +110927,7 @@ horse=
  },
  {
   "SerialNumber": "01276",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8992136594",
   "HorseName": "グリフィスランナー",
   "Rare": "名牝",
@@ -111014,7 +111014,7 @@ horse=
  },
  {
   "SerialNumber": "01277",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5428065213",
   "HorseName": "グレイスプレスト",
   "Rare": "名牝",
@@ -111101,7 +111101,7 @@ horse=
  },
  {
   "SerialNumber": "01278",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5612364288",
   "HorseName": "グレイフライト",
   "Rare": "名牝",
@@ -111188,7 +111188,7 @@ horse=
  },
  {
   "SerialNumber": "01279",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "9214258368",
   "HorseName": "サクラクレアー",
   "Rare": "名牝",
@@ -111275,7 +111275,7 @@ horse=
  },
  {
   "SerialNumber": "01280",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2192546837",
   "HorseName": "サドラーズギャル",
   "Rare": "名牝",
@@ -111362,7 +111362,7 @@ horse=
  },
  {
   "SerialNumber": "01281",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5834123612",
   "HorseName": "サフメルディ",
   "Rare": "名牝",
@@ -111449,7 +111449,7 @@ horse=
  },
  {
   "SerialNumber": "01282",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6585496231",
   "HorseName": "サマーハピネス",
   "Rare": "名牝",
@@ -111536,7 +111536,7 @@ horse=
  },
  {
   "SerialNumber": "01283",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3126841251",
   "HorseName": "サンドピアリス",
   "Rare": "名牝",
@@ -111623,7 +111623,7 @@ horse=
  },
  {
   "SerialNumber": "01284",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1064826356",
   "HorseName": "サンビスタ",
   "Rare": "名牝",
@@ -111710,7 +111710,7 @@ horse=
  },
  {
   "SerialNumber": "01285",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2862143543",
   "HorseName": "シアンフェリア",
   "Rare": "名牝",
@@ -111797,7 +111797,7 @@ horse=
  },
  {
   "SerialNumber": "01286",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8765243126",
   "HorseName": "シュガーハート",
   "Rare": "名牝",
@@ -111884,7 +111884,7 @@ horse=
  },
  {
   "SerialNumber": "01287",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8212613245",
   "HorseName": "シンハライト",
   "Rare": "名牝",
@@ -111971,7 +111971,7 @@ horse=
  },
  {
   "SerialNumber": "01288",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "0614539218",
   "HorseName": "シーザリオ",
   "Rare": "名牝",
@@ -112058,7 +112058,7 @@ horse=
  },
  {
   "SerialNumber": "01289",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4218672523",
   "HorseName": "シームレスラウンド",
   "Rare": "名牝",
@@ -112145,7 +112145,7 @@ horse=
  },
  {
   "SerialNumber": "01290",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8614532208",
   "HorseName": "ジェンティルドンナ",
   "Rare": "名牝",
@@ -112232,7 +112232,7 @@ horse=
  },
  {
   "SerialNumber": "01291",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "0428565213",
   "HorseName": "ジュエラー",
   "Rare": "名牝",
@@ -112319,7 +112319,7 @@ horse=
  },
  {
   "SerialNumber": "01292",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2866140533",
   "HorseName": "スイートライシュ",
   "Rare": "名牝",
@@ -112406,7 +112406,7 @@ horse=
  },
  {
   "SerialNumber": "01293",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4218681523",
   "HorseName": "スイープトウショウ",
   "Rare": "名牝",
@@ -112493,7 +112493,7 @@ horse=
  },
  {
   "SerialNumber": "01294",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8315408269",
   "HorseName": "スウィートダウニー",
   "Rare": "名牝",
@@ -112580,7 +112580,7 @@ horse=
  },
  {
   "SerialNumber": "01295",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4218609523",
   "HorseName": "スカーレットブーケ",
   "Rare": "名牝",
@@ -112667,7 +112667,7 @@ horse=
  },
  {
   "SerialNumber": "01296",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5804423612",
   "HorseName": "スカーレットレディ",
   "Rare": "名牝",
@@ -112754,7 +112754,7 @@ horse=
  },
  {
   "SerialNumber": "01297",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1825748639",
   "HorseName": "ステアクライマー",
   "Rare": "名牝",
@@ -112841,7 +112841,7 @@ horse=
  },
  {
   "SerialNumber": "01298",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3452921386",
   "HorseName": "スティルインラブ",
   "Rare": "名牝",
@@ -112928,7 +112928,7 @@ horse=
  },
  {
   "SerialNumber": "01299",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2866142513",
   "HorseName": "ストレイトガール",
   "Rare": "名牝",
@@ -113015,7 +113015,7 @@ horse=
  },
  {
   "SerialNumber": "01300",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1824822356",
   "HorseName": "スプリングマンボ",
   "Rare": "名牝",
@@ -113102,7 +113102,7 @@ horse=
  },
  {
   "SerialNumber": "01301",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1428465213",
   "HorseName": "スモーキーローズ",
   "Rare": "名牝",
@@ -113189,7 +113189,7 @@ horse=
  },
  {
   "SerialNumber": "01302",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3452621686",
   "HorseName": "スロープクラウン",
   "Rare": "名牝",
@@ -113276,7 +113276,7 @@ horse=
  },
  {
   "SerialNumber": "01303",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5614532238",
   "HorseName": "スーパーシェビニオン",
   "Rare": "名牝",
@@ -113363,7 +113363,7 @@ horse=
  },
  {
   "SerialNumber": "01304",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4862561938",
   "HorseName": "スーヴニール",
   "Rare": "名牝",
@@ -113450,7 +113450,7 @@ horse=
  },
  {
   "SerialNumber": "01305",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8214258369",
   "HorseName": "セカンドアニバサリ",
   "Rare": "名牝",
@@ -113537,7 +113537,7 @@ horse=
  },
  {
   "SerialNumber": "01306",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3452721586",
   "HorseName": "ソルベントステージ",
   "Rare": "名牝",
@@ -113624,7 +113624,7 @@ horse=
  },
  {
   "SerialNumber": "01307",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1194822356",
   "HorseName": "タニノシスター",
   "Rare": "名牝",
@@ -113711,7 +113711,7 @@ horse=
  },
  {
   "SerialNumber": "01308",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4218607273",
   "HorseName": "ダイクスカーレット",
   "Rare": "名牝",
@@ -113798,7 +113798,7 @@ horse=
  },
  {
   "SerialNumber": "01309",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4614532248",
   "HorseName": "ダイナカール",
   "Rare": "名牝",
@@ -113885,7 +113885,7 @@ horse=
  },
  {
   "SerialNumber": "01310",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "0478362213",
   "HorseName": "ダイヤアクトレス",
   "Rare": "名牝",
@@ -113972,7 +113972,7 @@ horse=
  },
  {
   "SerialNumber": "01311",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6614532228",
   "HorseName": "ダイワスカーレット",
   "Rare": "名牝",
@@ -114059,7 +114059,7 @@ horse=
  },
  {
   "SerialNumber": "01312",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2862144533",
   "HorseName": "ダンスインザムード",
   "Rare": "名牝",
@@ -114146,7 +114146,7 @@ horse=
  },
  {
   "SerialNumber": "01313",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5212364985",
   "HorseName": "ダンスパートナー",
   "Rare": "名牝",
@@ -114233,7 +114233,7 @@ horse=
  },
  {
   "SerialNumber": "01314",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5804023616",
   "HorseName": "チャージャー",
   "Rare": "名牝",
@@ -114320,7 +114320,7 @@ horse=
  },
  {
   "SerialNumber": "01315",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3295184698",
   "HorseName": "ツバキブレイヴ",
   "Rare": "名牝",
@@ -114407,7 +114407,7 @@ horse=
  },
  {
   "SerialNumber": "01316",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6568231452",
   "HorseName": "テイクトゥハート",
   "Rare": "名牝",
@@ -114494,7 +114494,7 @@ horse=
  },
  {
   "SerialNumber": "01317",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8565243128",
   "HorseName": "テンペストクイーン",
   "Rare": "名牝",
@@ -114581,7 +114581,7 @@ horse=
  },
  {
   "SerialNumber": "01318",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6427983915",
   "HorseName": "デブリーフィング",
   "Rare": "名牝",
@@ -114668,7 +114668,7 @@ horse=
  },
  {
   "SerialNumber": "01319",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8665243127",
   "HorseName": "トエルフェスカ",
   "Rare": "名牝",
@@ -114755,7 +114755,7 @@ horse=
  },
  {
   "SerialNumber": "01320",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1424826356",
   "HorseName": "トキガキタノダ",
   "Rare": "名牝",
@@ -114842,7 +114842,7 @@ horse=
  },
  {
   "SerialNumber": "01321",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2315498266",
   "HorseName": "トナカイ",
   "Rare": "名牝",
@@ -114929,7 +114929,7 @@ horse=
  },
  {
   "SerialNumber": "01322",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4614536208",
   "HorseName": "トランジスタ",
   "Rare": "名牝",
@@ -115016,7 +115016,7 @@ horse=
  },
  {
   "SerialNumber": "01323",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4962551938",
   "HorseName": "トランピアス",
   "Rare": "名牝",
@@ -115103,7 +115103,7 @@ horse=
  },
  {
   "SerialNumber": "01324",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6578231442",
   "HorseName": "トレヴ",
   "Rare": "名牝",
@@ -115190,7 +115190,7 @@ horse=
  },
  {
   "SerialNumber": "01325",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4214958366",
   "HorseName": "トワイライトメロー",
   "Rare": "名牝",
@@ -115277,7 +115277,7 @@ horse=
  },
  {
   "SerialNumber": "01326",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6315498262",
   "HorseName": "トーンスタイル",
   "Rare": "名牝",
@@ -115364,7 +115364,7 @@ horse=
  },
  {
   "SerialNumber": "01327",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5912364483",
   "HorseName": "ドリームフルール",
   "Rare": "名牝",
@@ -115451,7 +115451,7 @@ horse=
  },
  {
   "SerialNumber": "01328",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4218645523",
   "HorseName": "ニシノフラワー",
   "Rare": "名牝",
@@ -115538,7 +115538,7 @@ horse=
  },
  {
   "SerialNumber": "01329",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8312603245",
   "HorseName": "ネイジュシエル",
   "Rare": "名牝",
@@ -115625,7 +115625,7 @@ horse=
  },
  {
   "SerialNumber": "01330",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6264185320",
   "HorseName": "ノヴァフィラメント",
   "Rare": "名牝",
@@ -115712,7 +115712,7 @@ horse=
  },
  {
   "SerialNumber": "01331",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6548231472",
   "HorseName": "ノースフライト",
   "Rare": "名牝",
@@ -115799,7 +115799,7 @@ horse=
  },
  {
   "SerialNumber": "01332",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6558231462",
   "HorseName": "ノースリアルト",
   "Rare": "名牝",
@@ -115886,7 +115886,7 @@ horse=
  },
  {
   "SerialNumber": "01333",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3452191486",
   "HorseName": "ハイベロシティ",
   "Rare": "名牝",
@@ -115973,7 +115973,7 @@ horse=
  },
  {
   "SerialNumber": "01334",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3126840720",
   "HorseName": "ハニートラップ",
   "Rare": "名牝",
@@ -116060,7 +116060,7 @@ horse=
  },
  {
   "SerialNumber": "01335",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1324827356",
   "HorseName": "ハリウッドドリーム",
   "Rare": "名牝",
@@ -116147,7 +116147,7 @@ horse=
  },
  {
   "SerialNumber": "01336",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2614532268",
   "HorseName": "ハルスコール",
   "Rare": "名牝",
@@ -116234,7 +116234,7 @@ horse=
  },
  {
   "SerialNumber": "01337",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8012633245",
   "HorseName": "ハルーワスウィート",
   "Rare": "名牝",
@@ -116321,7 +116321,7 @@ horse=
  },
  {
   "SerialNumber": "01338",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4428165213",
   "HorseName": "ハートサマ",
   "Rare": "名牝",
@@ -116408,7 +116408,7 @@ horse=
  },
  {
   "SerialNumber": "01339",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3126842250",
   "HorseName": "ハープスター",
   "Rare": "名牝",
@@ -116495,7 +116495,7 @@ horse=
  },
  {
   "SerialNumber": "01340",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8265243194",
   "HorseName": "ハーベストムーン",
   "Rare": "名牝",
@@ -116582,7 +116582,7 @@ horse=
  },
  {
   "SerialNumber": "01341",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8315478262",
   "HorseName": "バンドラー",
   "Rare": "名牝",
@@ -116669,7 +116669,7 @@ horse=
  },
  {
   "SerialNumber": "01342",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2264185360",
   "HorseName": "パシフィカス",
   "Rare": "名牝",
@@ -116756,7 +116756,7 @@ horse=
  },
  {
   "SerialNumber": "01343",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "9315468262",
   "HorseName": "パティナ",
   "Rare": "名牝",
@@ -116843,7 +116843,7 @@ horse=
  },
  {
   "SerialNumber": "01344",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "0468165213",
   "HorseName": "ヒシアマゾン",
   "Rare": "名牝",
@@ -116930,7 +116930,7 @@ horse=
  },
  {
   "SerialNumber": "01345",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6350124182",
   "HorseName": "ヒストリックスター",
   "Rare": "名牝",
@@ -117017,7 +117017,7 @@ horse=
  },
  {
   "SerialNumber": "01346",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3295194688",
   "HorseName": "ビビッドカラー",
   "Rare": "名牝",
@@ -117104,7 +117104,7 @@ horse=
  },
  {
   "SerialNumber": "01347",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4218618523",
   "HorseName": "ビリーヴ",
   "Rare": "名牝",
@@ -117191,7 +117191,7 @@ horse=
  },
  {
   "SerialNumber": "01348",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "9112546838",
   "HorseName": "ビワハイジ",
   "Rare": "名牝",
@@ -117278,7 +117278,7 @@ horse=
  },
  {
   "SerialNumber": "01349",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2862146513",
   "HorseName": "ピュアセレモニー",
   "Rare": "名牝",
@@ -117365,7 +117365,7 @@ horse=
  },
  {
   "SerialNumber": "01350",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8214958362",
   "HorseName": "ピーススプレッド",
   "Rare": "名牝",
@@ -117452,7 +117452,7 @@ horse=
  },
  {
   "SerialNumber": "01351",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6508631472",
   "HorseName": "ファビラスラフイン",
   "Rare": "名牝",
@@ -117539,7 +117539,7 @@ horse=
  },
  {
   "SerialNumber": "01352",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2862147503",
   "HorseName": "ファルダーサイン",
   "Rare": "名牝",
@@ -117626,7 +117626,7 @@ horse=
  },
  {
   "SerialNumber": "01353",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3452861086",
   "HorseName": "ファレノプシス",
   "Rare": "名牝",
@@ -117713,7 +117713,7 @@ horse=
  },
  {
   "SerialNumber": "01354",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3452491186",
   "HorseName": "フォローアンジュ",
   "Rare": "名牝",
@@ -117800,7 +117800,7 @@ horse=
  },
  {
   "SerialNumber": "01355",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6588231432",
   "HorseName": "フライングウォーター",
   "Rare": "名牝",
@@ -117887,7 +117887,7 @@ horse=
  },
  {
   "SerialNumber": "01356",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3452821486",
   "HorseName": "フラワーパーク",
   "Rare": "名牝",
@@ -117974,7 +117974,7 @@ horse=
  },
  {
   "SerialNumber": "01357",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2264185342",
   "HorseName": "ブエナビスタ",
   "Rare": "名牝",
@@ -118061,7 +118061,7 @@ horse=
  },
  {
   "SerialNumber": "01358",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4218627523",
   "HorseName": "ブラックエンブレム",
   "Rare": "名牝",
@@ -118148,7 +118148,7 @@ horse=
  },
  {
   "SerialNumber": "01359",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "7315488262",
   "HorseName": "ブランモンド",
   "Rare": "名牝",
@@ -118235,7 +118235,7 @@ horse=
  },
  {
   "SerialNumber": "01360",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6264185302",
   "HorseName": "プリントショップ",
   "Rare": "名牝",
@@ -118322,7 +118322,7 @@ horse=
  },
  {
   "SerialNumber": "01361",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1524825356",
   "HorseName": "プリーストライン",
   "Rare": "名牝",
@@ -118409,7 +118409,7 @@ horse=
  },
  {
   "SerialNumber": "01362",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4218636523",
   "HorseName": "ベイルバリケイド",
   "Rare": "名牝",
@@ -118496,7 +118496,7 @@ horse=
  },
  {
   "SerialNumber": "01363",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4218663523",
   "HorseName": "ベガ",
   "Rare": "名牝",
@@ -118583,7 +118583,7 @@ horse=
  },
  {
   "SerialNumber": "01364",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1624824356",
   "HorseName": "ベルクリート",
   "Rare": "名牝",
@@ -118670,7 +118670,7 @@ horse=
  },
  {
   "SerialNumber": "01365",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5844023612",
   "HorseName": "ホクトベガ",
   "Rare": "名牝",
@@ -118757,7 +118757,7 @@ horse=
  },
  {
   "SerialNumber": "01366",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4218605563",
   "HorseName": "ホワイトラビッツ",
   "Rare": "名牝",
@@ -118844,7 +118844,7 @@ horse=
  },
  {
   "SerialNumber": "01367",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4218623563",
   "HorseName": "ポイントファイブ",
   "Rare": "名牝",
@@ -118931,7 +118931,7 @@ horse=
  },
  {
   "SerialNumber": "01368",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "9985426231",
   "HorseName": "マジェスティレイ",
   "Rare": "名牝",
@@ -119018,7 +119018,7 @@ horse=
  },
  {
   "SerialNumber": "01369",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "9468534912",
   "HorseName": "マリアミラージュ",
   "Rare": "名牝",
@@ -119105,7 +119105,7 @@ horse=
  },
  {
   "SerialNumber": "01370",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5212364589",
   "HorseName": "マリアライト",
   "Rare": "名牝",
@@ -119192,7 +119192,7 @@ horse=
  },
  {
   "SerialNumber": "01371",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5212364886",
   "HorseName": "マルペンサ",
   "Rare": "名牝",
@@ -119279,7 +119279,7 @@ horse=
  },
  {
   "SerialNumber": "01372",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3452521786",
   "HorseName": "ミココノチカラ",
   "Rare": "名牝",
@@ -119366,7 +119366,7 @@ horse=
  },
  {
   "SerialNumber": "01373",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3126840252",
   "HorseName": "ミッキークイーン",
   "Rare": "名牝",
@@ -119453,7 +119453,7 @@ horse=
  },
  {
   "SerialNumber": "01374",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5824223612",
   "HorseName": "メジャーエンブレム",
   "Rare": "名牝",
@@ -119540,7 +119540,7 @@ horse=
  },
  {
   "SerialNumber": "01375",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3452321986",
   "HorseName": "メジロオーロラ",
   "Rare": "名牝",
@@ -119627,7 +119627,7 @@ horse=
  },
  {
   "SerialNumber": "01376",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3452661286",
   "HorseName": "メジロドーベル",
   "Rare": "名牝",
@@ -119714,7 +119714,7 @@ horse=
  },
  {
   "SerialNumber": "01377",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6518931432",
   "HorseName": "メジロフランシス",
   "Rare": "名牝",
@@ -119801,7 +119801,7 @@ horse=
  },
  {
   "SerialNumber": "01378",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3452421886",
   "HorseName": "メジロラモーヌ",
   "Rare": "名牝",
@@ -119888,7 +119888,7 @@ horse=
  },
  {
   "SerialNumber": "01379",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "9214958361",
   "HorseName": "メゾンフォルティー",
   "Rare": "名牝",
@@ -119975,7 +119975,7 @@ horse=
  },
  {
   "SerialNumber": "01380",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2614536228",
   "HorseName": "メモリーレーン",
   "Rare": "名牝",
@@ -120062,7 +120062,7 @@ horse=
  },
  {
   "SerialNumber": "01381",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8017613242",
   "HorseName": "モズカッチャン",
   "Rare": "名牝",
@@ -120149,7 +120149,7 @@ horse=
  },
  {
   "SerialNumber": "01382",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2691438458",
   "HorseName": "ラストスピアー",
   "Rare": "名牝",
@@ -120236,7 +120236,7 @@ horse=
  },
  {
   "SerialNumber": "01383",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8965243160",
   "HorseName": "ラフィアン",
   "Rare": "名牝",
@@ -120323,7 +120323,7 @@ horse=
  },
  {
   "SerialNumber": "01384",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1825847639",
   "HorseName": "ラフオーシャン",
   "Rare": "名牝",
@@ -120410,7 +120410,7 @@ horse=
  },
  {
   "SerialNumber": "01385",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1074828326",
   "HorseName": "ラブスイーツ",
   "Rare": "名牝",
@@ -120497,7 +120497,7 @@ horse=
  },
  {
   "SerialNumber": "01386",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4218654523",
   "HorseName": "ラルジュメール",
   "Rare": "名牝",
@@ -120584,7 +120584,7 @@ horse=
  },
  {
   "SerialNumber": "01387",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "7614532218",
   "HorseName": "ラローズブランシュ",
   "Rare": "名牝",
@@ -120671,7 +120671,7 @@ horse=
  },
  {
   "SerialNumber": "01388",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1264824356",
   "HorseName": "リスグラシュー",
   "Rare": "名牝",
@@ -120758,7 +120758,7 @@ horse=
  },
  {
   "SerialNumber": "01389",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "9142546835",
   "HorseName": "リュミエールレイン",
   "Rare": "名牝",
@@ -120845,7 +120845,7 @@ horse=
  },
  {
   "SerialNumber": "01390",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3614532258",
   "HorseName": "ルインズリープ",
   "Rare": "名牝",
@@ -120932,7 +120932,7 @@ horse=
  },
  {
   "SerialNumber": "01391",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2862141563",
   "HorseName": "ルイーゼ",
   "Rare": "名牝",
@@ -121019,7 +121019,7 @@ horse=
  },
  {
   "SerialNumber": "01392",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8965243124",
   "HorseName": "ルートオブハート",
   "Rare": "名牝",
@@ -121106,7 +121106,7 @@ horse=
  },
  {
   "SerialNumber": "01393",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2172546839",
   "HorseName": "レイアンタレス",
   "Rare": "名牝",
@@ -121193,7 +121193,7 @@ horse=
  },
  {
   "SerialNumber": "01394",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1224828356",
   "HorseName": "レッドリヴェール",
   "Rare": "名牝",
@@ -121280,7 +121280,7 @@ horse=
  },
  {
   "SerialNumber": "01395",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6614237208",
   "HorseName": "レディグリード",
   "Rare": "名牝",
@@ -121367,7 +121367,7 @@ horse=
  },
  {
   "SerialNumber": "01396",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1124829356",
   "HorseName": "ロメーラス",
   "Rare": "名牝",
@@ -121454,7 +121454,7 @@ horse=
  },
  {
   "SerialNumber": "01397",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2428365213",
   "HorseName": "ヴィブロス",
   "Rare": "名牝",
@@ -121541,7 +121541,7 @@ horse=
  },
  {
   "SerialNumber": "01398",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2264185333",
   "HorseName": "ヴィルシーナ",
   "Rare": "名牝",
@@ -121628,7 +121628,7 @@ horse=
  },
  {
   "SerialNumber": "01399",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "9192546830",
   "HorseName": "アイムファウンダー",
   "Rare": "優",
@@ -121715,7 +121715,7 @@ horse=
  },
  {
   "SerialNumber": "01400",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4315448269",
   "HorseName": "アイリッシュリリー",
   "Rare": "優",
@@ -121802,7 +121802,7 @@ horse=
  },
  {
   "SerialNumber": "01401",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2691437558",
   "HorseName": "アニオンギャップ",
   "Rare": "優",
@@ -121889,7 +121889,7 @@ horse=
  },
  {
   "SerialNumber": "01402",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4662581938",
   "HorseName": "アマルテアソング",
   "Rare": "優",
@@ -121976,7 +121976,7 @@ horse=
  },
  {
   "SerialNumber": "01403",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5214958365",
   "HorseName": "アルカシヨン",
   "Rare": "優",
@@ -122063,7 +122063,7 @@ horse=
  },
  {
   "SerialNumber": "01404",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3315458269",
   "HorseName": "アンフェアデッキ",
   "Rare": "優",
@@ -122150,7 +122150,7 @@ horse=
  },
  {
   "SerialNumber": "01405",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8065243196",
   "HorseName": "イーライザ",
   "Rare": "優",
@@ -122237,7 +122237,7 @@ horse=
  },
  {
   "SerialNumber": "01406",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6315428269",
   "HorseName": "ウィルロック",
   "Rare": "優",
@@ -122324,7 +122324,7 @@ horse=
  },
  {
   "SerialNumber": "01407",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6538931412",
   "HorseName": "ウイニングパス",
   "Rare": "優",
@@ -122411,7 +122411,7 @@ horse=
  },
  {
   "SerialNumber": "01408",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "9172546832",
   "HorseName": "エメラルドマサキ",
   "Rare": "優",
@@ -122498,7 +122498,7 @@ horse=
  },
  {
   "SerialNumber": "01409",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2264185306",
   "HorseName": "カクテルパレス",
   "Rare": "優",
@@ -122585,7 +122585,7 @@ horse=
  },
  {
   "SerialNumber": "01410",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "9385486231",
   "HorseName": "ガーディアンダウン",
   "Rare": "優",
@@ -122672,7 +122672,7 @@ horse=
  },
  {
   "SerialNumber": "01411",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2691439358",
   "HorseName": "キャットファイト",
   "Rare": "優",
@@ -122759,7 +122759,7 @@ horse=
  },
  {
   "SerialNumber": "01412",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2691436658",
   "HorseName": "キャリーステップ",
   "Rare": "優",
@@ -122846,7 +122846,7 @@ horse=
  },
  {
   "SerialNumber": "01413",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1394820356",
   "HorseName": "キャリーファクト",
   "Rare": "優",
@@ -122933,7 +122933,7 @@ horse=
  },
  {
   "SerialNumber": "01414",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "9162546833",
   "HorseName": "クリップクリッピー",
   "Rare": "優",
@@ -123020,7 +123020,7 @@ horse=
  },
  {
   "SerialNumber": "01415",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "7214958363",
   "HorseName": "グランドオープン",
   "Rare": "優",
@@ -123107,7 +123107,7 @@ horse=
  },
  {
   "SerialNumber": "01416",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3214958367",
   "HorseName": "コスミックレイン",
   "Rare": "優",
@@ -123194,7 +123194,7 @@ horse=
  },
  {
   "SerialNumber": "01417",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2691434858",
   "HorseName": "コンディションアイ",
   "Rare": "優",
@@ -123281,7 +123281,7 @@ horse=
  },
  {
   "SerialNumber": "01418",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1825649639",
   "HorseName": "コールマイナンバー",
   "Rare": "優",
@@ -123368,7 +123368,7 @@ horse=
  },
  {
   "SerialNumber": "01419",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4468539912",
   "HorseName": "シャトルスピード",
   "Rare": "優",
@@ -123455,7 +123455,7 @@ horse=
  },
  {
   "SerialNumber": "01420",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8468535912",
   "HorseName": "スライドソーサー",
   "Rare": "優",
@@ -123542,7 +123542,7 @@ horse=
  },
  {
   "SerialNumber": "01421",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8365243193",
   "HorseName": "セルフメンション",
   "Rare": "優",
@@ -123629,7 +123629,7 @@ horse=
  },
  {
   "SerialNumber": "01422",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "7468536912",
   "HorseName": "ソロミュートソング",
   "Rare": "優",
@@ -123716,7 +123716,7 @@ horse=
  },
  {
   "SerialNumber": "01423",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6538231482",
   "HorseName": "タケノマジック",
   "Rare": "優",
@@ -123803,7 +123803,7 @@ horse=
  },
  {
   "SerialNumber": "01424",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1825946639",
   "HorseName": "ダダナイト",
   "Rare": "優",
@@ -123890,7 +123890,7 @@ horse=
  },
  {
   "SerialNumber": "01425",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4762571938",
   "HorseName": "ナイトアローン",
   "Rare": "優",
@@ -123977,7 +123977,7 @@ horse=
  },
  {
   "SerialNumber": "01426",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6468537912",
   "HorseName": "ノーブレスメドレー",
   "Rare": "優",
@@ -124064,7 +124064,7 @@ horse=
  },
  {
   "SerialNumber": "01427",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5912364681",
   "HorseName": "ハロウィンパーティ",
   "Rare": "優",
@@ -124151,7 +124151,7 @@ horse=
  },
  {
   "SerialNumber": "01428",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5912364384",
   "HorseName": "ビバラビーダ",
   "Rare": "優",
@@ -124238,7 +124238,7 @@ horse=
  },
  {
   "SerialNumber": "01429",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2691433958",
   "HorseName": "ファーストオーダー",
   "Rare": "優",
@@ -124325,7 +124325,7 @@ horse=
  },
  {
   "SerialNumber": "01430",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6214958364",
   "HorseName": "ファーストドリップ",
   "Rare": "優",
@@ -124412,7 +124412,7 @@ horse=
  },
  {
   "SerialNumber": "01431",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "7315418269",
   "HorseName": "プルークボーゲン",
   "Rare": "優",
@@ -124499,7 +124499,7 @@ horse=
  },
  {
   "SerialNumber": "01432",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "9685456231",
   "HorseName": "プルーフマスカラ",
   "Rare": "優",
@@ -124586,7 +124586,7 @@ horse=
  },
  {
   "SerialNumber": "01433",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "9785446231",
   "HorseName": "ポストプレイヤー",
   "Rare": "優",
@@ -124673,7 +124673,7 @@ horse=
  },
  {
   "SerialNumber": "01434",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5912364780",
   "HorseName": "ミームセンス",
   "Rare": "優",
@@ -124760,7 +124760,7 @@ horse=
  },
  {
   "SerialNumber": "01435",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3452291386",
   "HorseName": "モアクライマックス",
   "Rare": "優",
@@ -124847,7 +124847,7 @@ horse=
  },
  {
   "SerialNumber": "01436",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6548931402",
   "HorseName": "モワソレイユ",
   "Rare": "優",
@@ -124934,7 +124934,7 @@ horse=
  },
  {
   "SerialNumber": "01437",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6429983715",
   "HorseName": "ヨロコビノウタ",
   "Rare": "優",
@@ -125021,7 +125021,7 @@ horse=
  },
  {
   "SerialNumber": "01438",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "9132546836",
   "HorseName": "ラブコネクション",
   "Rare": "優",
@@ -125108,7 +125108,7 @@ horse=
  },
  {
   "SerialNumber": "01439",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5912364582",
   "HorseName": "ヴァージンマリー",
   "Rare": "優",
@@ -125195,7 +125195,7 @@ horse=
  },
  {
   "SerialNumber": "01440",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1408665213",
   "HorseName": "アイムホーム",
   "Rare": "良",
@@ -125282,7 +125282,7 @@ horse=
  },
  {
   "SerialNumber": "01441",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5912364087",
   "HorseName": "アクセスマップ",
   "Rare": "良",
@@ -125369,7 +125369,7 @@ horse=
  },
  {
   "SerialNumber": "01442",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8765243108",
   "HorseName": "ウォータードリップ",
   "Rare": "良",
@@ -125456,7 +125456,7 @@ horse=
  },
  {
   "SerialNumber": "01443",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3452601886",
   "HorseName": "ウルトラサブマリン",
   "Rare": "良",
@@ -125543,7 +125543,7 @@ horse=
  },
  {
   "SerialNumber": "01444",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3452091586",
   "HorseName": "エターナルフォース",
   "Rare": "良",
@@ -125630,7 +125630,7 @@ horse=
  },
  {
   "SerialNumber": "01445",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2860148513",
   "HorseName": "エンジニアベイ",
   "Rare": "良",
@@ -125717,7 +125717,7 @@ horse=
  },
  {
   "SerialNumber": "01446",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5012364888",
   "HorseName": "オフタックル",
   "Rare": "良",
@@ -125804,7 +125804,7 @@ horse=
  },
  {
   "SerialNumber": "01447",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5912364285",
   "HorseName": "オルタナティブ",
   "Rare": "良",
@@ -125891,7 +125891,7 @@ horse=
  },
  {
   "SerialNumber": "01448",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3452591086",
   "HorseName": "オーロラマルシェ",
   "Rare": "良",
@@ -125978,7 +125978,7 @@ horse=
  },
  {
   "SerialNumber": "01449",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "9152546834",
   "HorseName": "キャバルリーシング",
   "Rare": "良",
@@ -126065,7 +126065,7 @@ horse=
  },
  {
   "SerialNumber": "01450",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1094823356",
   "HorseName": "クラップクラップ",
   "Rare": "良",
@@ -126152,7 +126152,7 @@ horse=
  },
  {
   "SerialNumber": "01451",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6351124280",
   "HorseName": "クレイジーバカンス",
   "Rare": "良",
@@ -126239,7 +126239,7 @@ horse=
  },
  {
   "SerialNumber": "01452",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5814523610",
   "HorseName": "クロスステップ",
   "Rare": "良",
@@ -126326,7 +126326,7 @@ horse=
  },
  {
   "SerialNumber": "01453",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3126843051",
   "HorseName": "グラブアバイト",
   "Rare": "良",
@@ -126413,7 +126413,7 @@ horse=
  },
  {
   "SerialNumber": "01454",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8465243192",
   "HorseName": "グロウライト",
   "Rare": "良",
@@ -126500,7 +126500,7 @@ horse=
  },
  {
   "SerialNumber": "01455",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "9585466231",
   "HorseName": "ココナッツガール",
   "Rare": "良",
@@ -126587,7 +126587,7 @@ horse=
  },
  {
   "SerialNumber": "01456",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "9614530218",
   "HorseName": "シグナルキャッチ",
   "Rare": "良",
@@ -126674,7 +126674,7 @@ horse=
  },
  {
   "SerialNumber": "01457",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6588031452",
   "HorseName": "シュガーレードル",
   "Rare": "良",
@@ -126761,7 +126761,7 @@ horse=
  },
  {
   "SerialNumber": "01458",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2214958368",
   "HorseName": "シンデレラシナリオ",
   "Rare": "良",
@@ -126848,7 +126848,7 @@ horse=
  },
  {
   "SerialNumber": "01459",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "0264185371",
   "HorseName": "シーサファイア",
   "Rare": "良",
@@ -126935,7 +126935,7 @@ horse=
  },
  {
   "SerialNumber": "01460",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2691435758",
   "HorseName": "ジョックロッカー",
   "Rare": "良",
@@ -127022,7 +127022,7 @@ horse=
  },
  {
   "SerialNumber": "01461",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "0264185308",
   "HorseName": "スクラムマスター",
   "Rare": "良",
@@ -127109,7 +127109,7 @@ horse=
  },
  {
   "SerialNumber": "01462",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4218683503",
   "HorseName": "スリートリック",
   "Rare": "良",
@@ -127196,7 +127196,7 @@ horse=
  },
  {
   "SerialNumber": "01463",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3452391286",
   "HorseName": "ダンスホールクイン",
   "Rare": "良",
@@ -127283,7 +127283,7 @@ horse=
  },
  {
   "SerialNumber": "01464",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1614539208",
   "HorseName": "ダンチェック",
   "Rare": "良",
@@ -127370,7 +127370,7 @@ horse=
  },
  {
   "SerialNumber": "01465",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2405361801",
   "HorseName": "ドリームランナー",
   "Rare": "良",
@@ -127457,7 +127457,7 @@ horse=
  },
  {
   "SerialNumber": "01466",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1294821356",
   "HorseName": "ナイトライダース",
   "Rare": "良",
@@ -127544,7 +127544,7 @@ horse=
  },
  {
   "SerialNumber": "01467",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6508931442",
   "HorseName": "ハツコイケール",
   "Rare": "良",
@@ -127631,7 +127631,7 @@ horse=
  },
  {
   "SerialNumber": "01468",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4562591938",
   "HorseName": "ハピネスシンキング",
   "Rare": "良",
@@ -127718,7 +127718,7 @@ horse=
  },
  {
   "SerialNumber": "01469",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8665243190",
   "HorseName": "ハードトリック",
   "Rare": "良",
@@ -127805,7 +127805,7 @@ horse=
  },
  {
   "SerialNumber": "01470",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6528931422",
   "HorseName": "ピストルランブ",
   "Rare": "良",
@@ -127892,7 +127892,7 @@ horse=
  },
  {
   "SerialNumber": "01471",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4218602593",
   "HorseName": "フェイクスリーパー",
   "Rare": "良",
@@ -127979,7 +127979,7 @@ horse=
  },
  {
   "SerialNumber": "01472",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "0315488269",
   "HorseName": "ブリングイットオン",
   "Rare": "良",
@@ -128066,7 +128066,7 @@ horse=
  },
  {
   "SerialNumber": "01473",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "9285496231",
   "HorseName": "ブロドウェイズ",
   "Rare": "良",
@@ -128153,7 +128153,7 @@ horse=
  },
  {
   "SerialNumber": "01474",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "9102546839",
   "HorseName": "ホットエントリー",
   "Rare": "良",
@@ -128240,7 +128240,7 @@ horse=
  },
  {
   "SerialNumber": "01475",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2315468269",
   "HorseName": "ミックスアップ",
   "Rare": "良",
@@ -128327,7 +128327,7 @@ horse=
  },
  {
   "SerialNumber": "01476",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4218620593",
   "HorseName": "ミリタリーガール",
   "Rare": "良",
@@ -128414,7 +128414,7 @@ horse=
  },
  {
   "SerialNumber": "01477",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1281561403",
   "HorseName": "ムーブユアボディ",
   "Rare": "良",
@@ -128501,7 +128501,7 @@ horse=
  },
  {
   "SerialNumber": "01478",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2869140503",
   "HorseName": "メイビーアイ",
   "Rare": "良",
@@ -128588,7 +128588,7 @@ horse=
  },
  {
   "SerialNumber": "01479",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2614530288",
   "HorseName": "メモリークロック",
   "Rare": "良",
@@ -128675,7 +128675,7 @@ horse=
  },
  {
   "SerialNumber": "01480",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8110643245",
   "HorseName": "ランダンプレー",
   "Rare": "良",
@@ -128762,7 +128762,7 @@ horse=
  },
  {
   "SerialNumber": "01481",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2860141583",
   "HorseName": "リトルダーム",
   "Rare": "良",
@@ -128849,7 +128849,7 @@ horse=
  },
  {
   "SerialNumber": "01482",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "9122546837",
   "HorseName": "ルーズユアセルフ",
   "Rare": "良",
@@ -128936,7 +128936,7 @@ horse=
  },
  {
   "SerialNumber": "01483",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8165243195",
   "HorseName": "ロジカルシンキング",
   "Rare": "良",
@@ -129023,7 +129023,7 @@ horse=
  },
  {
   "SerialNumber": "01484",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5315438269",
   "HorseName": "ヴァルハラクイーン",
   "Rare": "良",
@@ -129110,7 +129110,7 @@ horse=
  },
  {
   "SerialNumber": "01485",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3452671186",
   "HorseName": "アイスサイレント",
   "Rare": "可",
@@ -129197,7 +129197,7 @@ horse=
  },
  {
   "SerialNumber": "01486",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8310623245",
   "HorseName": "アイラブエンバク",
   "Rare": "可",
@@ -129284,7 +129284,7 @@ horse=
  },
  {
   "SerialNumber": "01487",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2408565213",
   "HorseName": "アキノカエデ",
   "Rare": "可",
@@ -129371,7 +129371,7 @@ horse=
  },
  {
   "SerialNumber": "01488",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4614530268",
   "HorseName": "アクアドリップ",
   "Rare": "可",
@@ -129458,7 +129458,7 @@ horse=
  },
  {
   "SerialNumber": "01489",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4218692503",
   "HorseName": "アシゲショウジョ",
   "Rare": "可",
@@ -129545,7 +129545,7 @@ horse=
  },
  {
   "SerialNumber": "01490",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "9315488260",
   "HorseName": "アシンメトリー",
   "Rare": "可",
@@ -129632,7 +129632,7 @@ horse=
  },
  {
   "SerialNumber": "01491",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1604826356",
   "HorseName": "アセンブルチェリー",
   "Rare": "可",
@@ -129719,7 +129719,7 @@ horse=
  },
  {
   "SerialNumber": "01492",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "0264185317",
   "HorseName": "アップステイト",
   "Rare": "可",
@@ -129806,7 +129806,7 @@ horse=
  },
  {
   "SerialNumber": "01493",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3452901586",
   "HorseName": "アンフレーヴ",
   "Rare": "可",
@@ -129893,7 +129893,7 @@ horse=
  },
  {
   "SerialNumber": "01494",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4214758368",
   "HorseName": "アンヨガジョウズ",
   "Rare": "可",
@@ -129980,7 +129980,7 @@ horse=
  },
  {
   "SerialNumber": "01495",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1374822356",
   "HorseName": "アーカイビンジリア",
   "Rare": "可",
@@ -130067,7 +130067,7 @@ horse=
  },
  {
   "SerialNumber": "01496",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2281560403",
   "HorseName": "アースクロック",
   "Rare": "可",
@@ -130154,7 +130154,7 @@ horse=
  },
  {
   "SerialNumber": "01497",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "7132546838",
   "HorseName": "アーノルヘルチェ",
   "Rare": "可",
@@ -130241,7 +130241,7 @@ horse=
  },
  {
   "SerialNumber": "01498",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1474821356",
   "HorseName": "イエローウィング",
   "Rare": "可",
@@ -130328,7 +130328,7 @@ horse=
  },
  {
   "SerialNumber": "01499",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5844223610",
   "HorseName": "イタリアンマンマ",
   "Rare": "可",
@@ -130415,7 +130415,7 @@ horse=
  },
  {
   "SerialNumber": "01500",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8315428267",
   "HorseName": "ウィルウーマン",
   "Rare": "可",
@@ -130502,7 +130502,7 @@ horse=
  },
  {
   "SerialNumber": "01501",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6429783915",
   "HorseName": "ウィルミアンス",
   "Rare": "可",
@@ -130589,7 +130589,7 @@ horse=
  },
  {
   "SerialNumber": "01502",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3408465213",
   "HorseName": "ウェディングベル",
   "Rare": "可",
@@ -130676,7 +130676,7 @@ horse=
  },
  {
   "SerialNumber": "01503",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "7264185301",
   "HorseName": "ウォーターブロウ",
   "Rare": "可",
@@ -130763,7 +130763,7 @@ horse=
  },
  {
   "SerialNumber": "01504",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8315498260",
   "HorseName": "ウルトラプラス",
   "Rare": "可",
@@ -130850,7 +130850,7 @@ horse=
  },
  {
   "SerialNumber": "01505",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1704825356",
   "HorseName": "エイシャルスピード",
   "Rare": "可",
@@ -130937,7 +130937,7 @@ horse=
  },
  {
   "SerialNumber": "01506",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5712364980",
   "HorseName": "エクレアント",
   "Rare": "可",
@@ -131024,7 +131024,7 @@ horse=
  },
  {
   "SerialNumber": "01507",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4218613573",
   "HorseName": "エッジライト",
   "Rare": "可",
@@ -131111,7 +131111,7 @@ horse=
  },
  {
   "SerialNumber": "01508",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8065243178",
   "HorseName": "エレガントレース",
   "Rare": "可",
@@ -131198,7 +131198,7 @@ horse=
  },
  {
   "SerialNumber": "01509",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3452801686",
   "HorseName": "エンジェルシェリー",
   "Rare": "可",
@@ -131285,7 +131285,7 @@ horse=
  },
  {
   "SerialNumber": "01510",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3428265213",
   "HorseName": "オオシマナギサ",
   "Rare": "可",
@@ -131372,7 +131372,7 @@ horse=
  },
  {
   "SerialNumber": "01511",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "7142546837",
   "HorseName": "オニオンスパイス",
   "Rare": "可",
@@ -131459,7 +131459,7 @@ horse=
  },
  {
   "SerialNumber": "01512",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4218640573",
   "HorseName": "オペラリング",
   "Rare": "可",
@@ -131546,7 +131546,7 @@ horse=
  },
  {
   "SerialNumber": "01513",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4218690523",
   "HorseName": "オリミツキネン",
   "Rare": "可",
@@ -131633,7 +131633,7 @@ horse=
  },
  {
   "SerialNumber": "01514",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "0264185344",
   "HorseName": "オレンジサンセット",
   "Rare": "可",
@@ -131720,7 +131720,7 @@ horse=
  },
  {
   "SerialNumber": "01515",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "0264185326",
   "HorseName": "オーガストサン",
   "Rare": "可",
@@ -131807,7 +131807,7 @@ horse=
  },
  {
   "SerialNumber": "01516",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5824423610",
   "HorseName": "オールマーチ",
   "Rare": "可",
@@ -131894,7 +131894,7 @@ horse=
  },
  {
   "SerialNumber": "01517",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2860145543",
   "HorseName": "オーロラビジョン",
   "Rare": "可",
@@ -131981,7 +131981,7 @@ horse=
  },
  {
   "SerialNumber": "01518",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1174824356",
   "HorseName": "カラーフロート",
   "Rare": "可",
@@ -132068,7 +132068,7 @@ horse=
  },
  {
   "SerialNumber": "01519",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "7182546833",
   "HorseName": "キットフレンド",
   "Rare": "可",
@@ -132155,7 +132155,7 @@ horse=
  },
  {
   "SerialNumber": "01520",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4962571738",
   "HorseName": "キャンパスロージー",
   "Rare": "可",
@@ -132242,7 +132242,7 @@ horse=
  },
  {
   "SerialNumber": "01521",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3452371486",
   "HorseName": "クイックアロー",
   "Rare": "可",
@@ -132329,7 +132329,7 @@ horse=
  },
  {
   "SerialNumber": "01522",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "0264185362",
   "HorseName": "クリアフォレスト",
   "Rare": "可",
@@ -132416,7 +132416,7 @@ horse=
  },
  {
   "SerialNumber": "01523",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5614530258",
   "HorseName": "クリムクレセント",
   "Rare": "可",
@@ -132503,7 +132503,7 @@ horse=
  },
  {
   "SerialNumber": "01524",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8214758364",
   "HorseName": "グラスグロス",
   "Rare": "可",
@@ -132590,7 +132590,7 @@ horse=
  },
  {
   "SerialNumber": "01525",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "7985446231",
   "HorseName": "グリニッジサイフ",
   "Rare": "可",
@@ -132677,7 +132677,7 @@ horse=
  },
  {
   "SerialNumber": "01526",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1825849637",
   "HorseName": "グリーンメーラー",
   "Rare": "可",
@@ -132764,7 +132764,7 @@ horse=
  },
  {
   "SerialNumber": "01527",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5012364987",
   "HorseName": "グーフィーフッター",
   "Rare": "可",
@@ -132851,7 +132851,7 @@ horse=
  },
  {
   "SerialNumber": "01528",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8614530228",
   "HorseName": "コイノワルツ",
   "Rare": "可",
@@ -132938,7 +132938,7 @@ horse=
  },
  {
   "SerialNumber": "01529",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "7192546832",
   "HorseName": "コスモスキュート",
   "Rare": "可",
@@ -133025,7 +133025,7 @@ horse=
  },
  {
   "SerialNumber": "01530",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6353124080",
   "HorseName": "サマーハレーション",
   "Rare": "可",
@@ -133112,7 +133112,7 @@ horse=
  },
  {
   "SerialNumber": "01531",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8010653245",
   "HorseName": "サルサラッテ",
   "Rare": "可",
@@ -133199,7 +133199,7 @@ horse=
  },
  {
   "SerialNumber": "01532",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5834323610",
   "HorseName": "サンドメノアオゾラ",
   "Rare": "可",
@@ -133286,7 +133286,7 @@ horse=
  },
  {
   "SerialNumber": "01533",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5854123610",
   "HorseName": "シェリーポップ",
   "Rare": "可",
@@ -133373,7 +133373,7 @@ horse=
  },
  {
   "SerialNumber": "01534",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2860143563",
   "HorseName": "シスコムーン",
   "Rare": "可",
@@ -133460,7 +133460,7 @@ horse=
  },
  {
   "SerialNumber": "01535",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1924821356",
   "HorseName": "シュシュブリーズ",
   "Rare": "可",
@@ -133547,7 +133547,7 @@ horse=
  },
  {
   "SerialNumber": "01536",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2860147523",
   "HorseName": "シュールスレイヤー",
   "Rare": "可",
@@ -133634,7 +133634,7 @@ horse=
  },
  {
   "SerialNumber": "01537",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1504827356",
   "HorseName": "シルバーデビット",
   "Rare": "可",
@@ -133721,7 +133721,7 @@ horse=
  },
  {
   "SerialNumber": "01538",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2860146533",
   "HorseName": "ジャスティヒット",
   "Rare": "可",
@@ -133808,7 +133808,7 @@ horse=
  },
  {
   "SerialNumber": "01539",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2867141513",
   "HorseName": "スイートストレッチ",
   "Rare": "可",
@@ -133895,7 +133895,7 @@ horse=
  },
  {
   "SerialNumber": "01540",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2985496231",
   "HorseName": "スキップフロア",
   "Rare": "可",
@@ -133982,7 +133982,7 @@ horse=
  },
  {
   "SerialNumber": "01541",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6352124180",
   "HorseName": "スタンドオンリー",
   "Rare": "可",
@@ -134069,7 +134069,7 @@ horse=
  },
  {
   "SerialNumber": "01542",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "9214758363",
   "HorseName": "スチールスチーム",
   "Rare": "可",
@@ -134156,7 +134156,7 @@ horse=
  },
  {
   "SerialNumber": "01543",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8210633245",
   "HorseName": "スプリウムマリー",
   "Rare": "可",
@@ -134243,7 +134243,7 @@ horse=
  },
  {
   "SerialNumber": "01544",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8465243174",
   "HorseName": "スメラギヒメ",
   "Rare": "可",
@@ -134330,7 +134330,7 @@ horse=
  },
  {
   "SerialNumber": "01545",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2860142573",
   "HorseName": "スンスン",
   "Rare": "可",
@@ -134417,7 +134417,7 @@ horse=
  },
  {
   "SerialNumber": "01546",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8510603245",
   "HorseName": "セントセレナード",
   "Rare": "可",
@@ -134504,7 +134504,7 @@ horse=
  },
  {
   "SerialNumber": "01547",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2860149503",
   "HorseName": "ソニックダイバー",
   "Rare": "可",
@@ -134591,7 +134591,7 @@ horse=
  },
  {
   "SerialNumber": "01548",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "0192546839",
   "HorseName": "チークタイム",
   "Rare": "可",
@@ -134678,7 +134678,7 @@ horse=
  },
  {
   "SerialNumber": "01549",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5804623610",
   "HorseName": "ティアエスポワール",
   "Rare": "可",
@@ -134765,7 +134765,7 @@ horse=
  },
  {
   "SerialNumber": "01550",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4218674503",
   "HorseName": "テンプルナイト",
   "Rare": "可",
@@ -134852,7 +134852,7 @@ horse=
  },
  {
   "SerialNumber": "01551",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8565243173",
   "HorseName": "テンポラヘイズ",
   "Rare": "可",
@@ -134939,7 +134939,7 @@ horse=
  },
  {
   "SerialNumber": "01552",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "0264185335",
   "HorseName": "テールリバース",
   "Rare": "可",
@@ -135026,7 +135026,7 @@ horse=
  },
  {
   "SerialNumber": "01553",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1825948637",
   "HorseName": "デザートキューブ",
   "Rare": "可",
@@ -135113,7 +135113,7 @@ horse=
  },
  {
   "SerialNumber": "01554",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "0281562403",
   "HorseName": "トライプッシュ",
   "Rare": "可",
@@ -135200,7 +135200,7 @@ horse=
  },
  {
   "SerialNumber": "01555",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1315498267",
   "HorseName": "ドラマティックレイ",
   "Rare": "可",
@@ -135287,7 +135287,7 @@ horse=
  },
  {
   "SerialNumber": "01556",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "0264185353",
   "HorseName": "ニシノマックス",
   "Rare": "可",
@@ -135374,7 +135374,7 @@ horse=
  },
  {
   "SerialNumber": "01557",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2614537218",
   "HorseName": "ニューカプチーノ",
   "Rare": "可",
@@ -135461,7 +135461,7 @@ horse=
  },
  {
   "SerialNumber": "01558",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6350124380",
   "HorseName": "ヌーヴェルアイ",
   "Rare": "可",
@@ -135548,7 +135548,7 @@ horse=
  },
  {
   "SerialNumber": "01559",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4218629503",
   "HorseName": "ネオインパルス",
   "Rare": "可",
@@ -135635,7 +135635,7 @@ horse=
  },
  {
   "SerialNumber": "01560",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4218638503",
   "HorseName": "ハイウェイロック",
   "Rare": "可",
@@ -135722,7 +135722,7 @@ horse=
  },
  {
   "SerialNumber": "01561",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5012364789",
   "HorseName": "ハッピーブライト",
   "Rare": "可",
@@ -135809,7 +135809,7 @@ horse=
  },
  {
   "SerialNumber": "01562",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1614530298",
   "HorseName": "バブルアップリズム",
   "Rare": "可",
@@ -135896,7 +135896,7 @@ horse=
  },
  {
   "SerialNumber": "01563",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6408165213",
   "HorseName": "パステルシェイプ",
   "Rare": "可",
@@ -135983,7 +135983,7 @@ horse=
  },
  {
   "SerialNumber": "01564",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "0408765213",
   "HorseName": "パピヨンキュート",
   "Rare": "可",
@@ -136070,7 +136070,7 @@ horse=
  },
  {
   "SerialNumber": "01565",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5712364485",
   "HorseName": "ビットクラッカー",
   "Rare": "可",
@@ -136157,7 +136157,7 @@ horse=
  },
  {
   "SerialNumber": "01566",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5408265213",
   "HorseName": "ビーナススター",
   "Rare": "可",
@@ -136244,7 +136244,7 @@ horse=
  },
  {
   "SerialNumber": "01567",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6614530248",
   "HorseName": "ピコピコマーチ",
   "Rare": "可",
@@ -136331,7 +136331,7 @@ horse=
  },
  {
   "SerialNumber": "01568",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "7614530238",
   "HorseName": "ピニャコラーダ",
   "Rare": "可",
@@ -136418,7 +136418,7 @@ horse=
  },
  {
   "SerialNumber": "01569",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3126840054",
   "HorseName": "ピーチピット",
   "Rare": "可",
@@ -136505,7 +136505,7 @@ horse=
  },
  {
   "SerialNumber": "01570",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6538731432",
   "HorseName": "フィッシュファイト",
   "Rare": "可",
@@ -136592,7 +136592,7 @@ horse=
  },
  {
   "SerialNumber": "01571",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3126842052",
   "HorseName": "フィールドリバー",
   "Rare": "可",
@@ -136679,7 +136679,7 @@ horse=
  },
  {
   "SerialNumber": "01572",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6548731422",
   "HorseName": "フェアハーモニー",
   "Rare": "可",
@@ -136766,7 +136766,7 @@ horse=
  },
  {
   "SerialNumber": "01573",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1804824356",
   "HorseName": "フォルティッシモ",
   "Rare": "可",
@@ -136853,7 +136853,7 @@ horse=
  },
  {
   "SerialNumber": "01574",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "9315418267",
   "HorseName": "フォルミモーテ",
   "Rare": "可",
@@ -136940,7 +136940,7 @@ horse=
  },
  {
   "SerialNumber": "01575",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "7408065213",
   "HorseName": "フユノエルスキー",
   "Rare": "可",
@@ -137027,7 +137027,7 @@ horse=
  },
  {
   "SerialNumber": "01576",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3126844050",
   "HorseName": "フラムルーベ",
   "Rare": "可",
@@ -137114,7 +137114,7 @@ horse=
  },
  {
   "SerialNumber": "01577",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "0521308406",
   "HorseName": "フレッシュショット",
   "Rare": "可",
@@ -137201,7 +137201,7 @@ horse=
  },
  {
   "SerialNumber": "01578",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3315478267",
   "HorseName": "フレッシュパラメ",
   "Rare": "可",
@@ -137288,7 +137288,7 @@ horse=
  },
  {
   "SerialNumber": "01579",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4218647503",
   "HorseName": "ブイネックナイト",
   "Rare": "可",
@@ -137375,7 +137375,7 @@ horse=
  },
  {
   "SerialNumber": "01580",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8765243171",
   "HorseName": "ブリリアントラバー",
   "Rare": "可",
@@ -137462,7 +137462,7 @@ horse=
  },
  {
   "SerialNumber": "01581",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3452701786",
   "HorseName": "プチライドネット",
   "Rare": "可",
@@ -137549,7 +137549,7 @@ horse=
  },
  {
   "SerialNumber": "01582",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4862581738",
   "HorseName": "プリプリティティ",
   "Rare": "可",
@@ -137636,7 +137636,7 @@ horse=
  },
  {
   "SerialNumber": "01583",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5712364881",
   "HorseName": "ヘアルージュ",
   "Rare": "可",
@@ -137723,7 +137723,7 @@ horse=
  },
  {
   "SerialNumber": "01584",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6568031472",
   "HorseName": "ベアトリーチェ",
   "Rare": "可",
@@ -137810,7 +137810,7 @@ horse=
  },
  {
   "SerialNumber": "01585",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4218665503",
   "HorseName": "ベルナルドレディ",
   "Rare": "可",
@@ -137897,7 +137897,7 @@ horse=
  },
  {
   "SerialNumber": "01586",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6468539712",
   "HorseName": "ベルベットスカイ",
   "Rare": "可",
@@ -137984,7 +137984,7 @@ horse=
  },
  {
   "SerialNumber": "01587",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3614530278",
   "HorseName": "ペスカトーレ",
   "Rare": "可",
@@ -138071,7 +138071,7 @@ horse=
  },
  {
   "SerialNumber": "01588",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1904823356",
   "HorseName": "ペディグリフェイス",
   "Rare": "可",
@@ -138158,7 +138158,7 @@ horse=
  },
  {
   "SerialNumber": "01589",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5712364188",
   "HorseName": "ボンヌショコラ",
   "Rare": "可",
@@ -138245,7 +138245,7 @@ horse=
  },
  {
   "SerialNumber": "01590",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6518731452",
   "HorseName": "マイネトリウム",
   "Rare": "可",
@@ -138332,7 +138332,7 @@ horse=
  },
  {
   "SerialNumber": "01591",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2671438658",
   "HorseName": "ミカエルリップ",
   "Rare": "可",
@@ -138419,7 +138419,7 @@ horse=
  },
  {
   "SerialNumber": "01592",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3452501986",
   "HorseName": "ミスクラリス",
   "Rare": "可",
@@ -138506,7 +138506,7 @@ horse=
  },
  {
   "SerialNumber": "01593",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2415360801",
   "HorseName": "ミスミステロン",
   "Rare": "可",
@@ -138593,7 +138593,7 @@ horse=
  },
  {
   "SerialNumber": "01594",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6548031492",
   "HorseName": "ミートアップセミナ",
   "Rare": "可",
@@ -138680,7 +138680,7 @@ horse=
  },
  {
   "SerialNumber": "01595",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3126841053",
   "HorseName": "ムッチャホリデイ",
   "Rare": "可",
@@ -138767,7 +138767,7 @@ horse=
  },
  {
   "SerialNumber": "01596",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "0264185380",
   "HorseName": "ムーブメントウィン",
   "Rare": "可",
@@ -138854,7 +138854,7 @@ horse=
  },
  {
   "SerialNumber": "01597",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4218656503",
   "HorseName": "メイクキャラメル",
   "Rare": "可",
@@ -138941,7 +138941,7 @@ horse=
  },
  {
   "SerialNumber": "01598",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4315468267",
   "HorseName": "メイプルカラー",
   "Rare": "可",
@@ -139028,7 +139028,7 @@ horse=
  },
  {
   "SerialNumber": "01599",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8865243107",
   "HorseName": "メグニアンドリア",
   "Rare": "可",
@@ -139115,7 +139115,7 @@ horse=
  },
  {
   "SerialNumber": "01600",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2860144553",
   "HorseName": "メグロテイオウ",
   "Rare": "可",
@@ -139202,7 +139202,7 @@ horse=
  },
  {
   "SerialNumber": "01601",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4408365213",
   "HorseName": "メヒョウブラスター",
   "Rare": "可",
@@ -139289,7 +139289,7 @@ horse=
  },
  {
   "SerialNumber": "01602",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1304829356",
   "HorseName": "モアアチーブメント",
   "Rare": "可",
@@ -139376,7 +139376,7 @@ horse=
  },
  {
   "SerialNumber": "01603",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "7468538712",
   "HorseName": "モストジョウオウ",
   "Rare": "可",
@@ -139463,7 +139463,7 @@ horse=
  },
  {
   "SerialNumber": "01604",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8410613245",
   "HorseName": "ユメノハジマリ",
   "Rare": "可",
@@ -139550,7 +139550,7 @@ horse=
  },
  {
   "SerialNumber": "01605",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6578031462",
   "HorseName": "ヨイノユキヤナギ",
   "Rare": "可",
@@ -139637,7 +139637,7 @@ horse=
  },
  {
   "SerialNumber": "01606",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8965243106",
   "HorseName": "ヨ－クダリア",
   "Rare": "可",
@@ -139724,7 +139724,7 @@ horse=
  },
  {
   "SerialNumber": "01607",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2860140593",
   "HorseName": "ラインシュシュ",
   "Rare": "可",
@@ -139811,7 +139811,7 @@ horse=
  },
  {
   "SerialNumber": "01608",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5864023610",
   "HorseName": "ラズベリーレッド",
   "Rare": "可",
@@ -139898,7 +139898,7 @@ horse=
  },
  {
   "SerialNumber": "01609",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1404828356",
   "HorseName": "リクエストラン",
   "Rare": "可",
@@ -139985,7 +139985,7 @@ horse=
  },
  {
   "SerialNumber": "01610",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6598031442",
   "HorseName": "リトルトゥルース",
   "Rare": "可",
@@ -140072,7 +140072,7 @@ horse=
  },
  {
   "SerialNumber": "01611",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "7485496231",
   "HorseName": "リバティーゲート",
   "Rare": "可",
@@ -140159,7 +140159,7 @@ horse=
  },
  {
   "SerialNumber": "01612",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8465243129",
   "HorseName": "リボンシトロン",
   "Rare": "可",
@@ -140246,7 +140246,7 @@ horse=
  },
  {
   "SerialNumber": "01613",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2671439558",
   "HorseName": "ロマニロースト",
   "Rare": "可",
@@ -140333,7 +140333,7 @@ horse=
  },
  {
   "SerialNumber": "01614",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6558031482",
   "HorseName": "ロードセレナーデ",
   "Rare": "可",
@@ -140420,7 +140420,7 @@ horse=
  },
  {
   "SerialNumber": "01615",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8665243109",
   "HorseName": "ワンチャンハシルデ",
   "Rare": "可",
@@ -140507,7 +140507,7 @@ horse=
  },
  {
   "SerialNumber": "01616",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "7885456231",
   "HorseName": "ワールドタイムス",
   "Rare": "可",
@@ -140594,7 +140594,7 @@ horse=
  },
  {
   "SerialNumber": "01617",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3452071786",
   "HorseName": "アクアシャンティー",
   "Rare": "無印",
@@ -140681,7 +140681,7 @@ horse=
  },
  {
   "SerialNumber": "01618",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5315458267",
   "HorseName": "アビスマルラヴァー",
   "Rare": "無印",
@@ -140768,7 +140768,7 @@ horse=
  },
  {
   "SerialNumber": "01619",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5712364782",
   "HorseName": "アラモープリモ",
   "Rare": "無印",
@@ -140855,7 +140855,7 @@ horse=
  },
  {
   "SerialNumber": "01620",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6508731462",
   "HorseName": "アーケードクイーン",
   "Rare": "無印",
@@ -140942,7 +140942,7 @@ horse=
  },
  {
   "SerialNumber": "01621",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "7264185310",
   "HorseName": "イエロースーツ",
   "Rare": "無印",
@@ -141029,7 +141029,7 @@ horse=
  },
  {
   "SerialNumber": "01622",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6315448267",
   "HorseName": "ウィリアムチョコ",
   "Rare": "無印",
@@ -141116,7 +141116,7 @@ horse=
  },
  {
   "SerialNumber": "01623",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4218604573",
   "HorseName": "ウマガアウカラ",
   "Rare": "無印",
@@ -141203,7 +141203,7 @@ horse=
  },
  {
   "SerialNumber": "01624",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1074825356",
   "HorseName": "エルダーローズ",
   "Rare": "無印",
@@ -141290,7 +141290,7 @@ horse=
  },
  {
   "SerialNumber": "01625",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2867140523",
   "HorseName": "カノンメロディ",
   "Rare": "無印",
@@ -141377,7 +141377,7 @@ horse=
  },
  {
   "SerialNumber": "01626",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8865243170",
   "HorseName": "キュートスティール",
   "Rare": "無印",
@@ -141464,7 +141464,7 @@ horse=
  },
  {
   "SerialNumber": "01627",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "0614537238",
   "HorseName": "クインアラベルト",
   "Rare": "無印",
@@ -141551,7 +141551,7 @@ horse=
  },
  {
   "SerialNumber": "01628",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "7122546839",
   "HorseName": "ケアポート",
   "Rare": "無印",
@@ -141638,7 +141638,7 @@ horse=
  },
  {
   "SerialNumber": "01629",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5712364386",
   "HorseName": "コイノヒナギク",
   "Rare": "無印",
@@ -141725,7 +141725,7 @@ horse=
  },
  {
   "SerialNumber": "01630",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6568731402",
   "HorseName": "コバルトフォルテ",
   "Rare": "無印",
@@ -141812,7 +141812,7 @@ horse=
  },
  {
   "SerialNumber": "01631",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "7214758365",
   "HorseName": "サンセットマイヤ",
   "Rare": "無印",
@@ -141899,7 +141899,7 @@ horse=
  },
  {
   "SerialNumber": "01632",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "7162546835",
   "HorseName": "サンバカフェ",
   "Rare": "無印",
@@ -141986,7 +141986,7 @@ horse=
  },
  {
   "SerialNumber": "01633",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3452471386",
   "HorseName": "サーフィンサンデイ",
   "Rare": "無印",
@@ -142073,7 +142073,7 @@ horse=
  },
  {
   "SerialNumber": "01634",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5214758367",
   "HorseName": "シンクロシスター",
   "Rare": "無印",
@@ -142160,7 +142160,7 @@ horse=
  },
  {
   "SerialNumber": "01635",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6528731442",
   "HorseName": "シンフォニアエリー",
   "Rare": "無印",
@@ -142247,7 +142247,7 @@ horse=
  },
  {
   "SerialNumber": "01636",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4218631573",
   "HorseName": "ジョッピンカル",
   "Rare": "無印",
@@ -142334,7 +142334,7 @@ horse=
  },
  {
   "SerialNumber": "01637",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8665243172",
   "HorseName": "スズノネチリリ",
   "Rare": "無印",
@@ -142421,7 +142421,7 @@ horse=
  },
  {
   "SerialNumber": "01638",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5712364584",
   "HorseName": "スターライトホール",
   "Rare": "無印",
@@ -142508,7 +142508,7 @@ horse=
  },
  {
   "SerialNumber": "01639",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3614537208",
   "HorseName": "スマイルドロップ",
   "Rare": "無印",
@@ -142595,7 +142595,7 @@ horse=
  },
  {
   "SerialNumber": "01640",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "7585486231",
   "HorseName": "セリノハナ",
   "Rare": "無印",
@@ -142682,7 +142682,7 @@ horse=
  },
  {
   "SerialNumber": "01641",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1614537228",
   "HorseName": "セレスアース",
   "Rare": "無印",
@@ -142769,7 +142769,7 @@ horse=
  },
  {
   "SerialNumber": "01642",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "7172546834",
   "HorseName": "センターラブリー",
   "Rare": "無印",
@@ -142856,7 +142856,7 @@ horse=
  },
  {
   "SerialNumber": "01643",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4218622573",
   "HorseName": "セントシルヴィア",
   "Rare": "無印",
@@ -142943,7 +142943,7 @@ horse=
  },
  {
   "SerialNumber": "01644",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "7785466231",
   "HorseName": "ソルティシャック",
   "Rare": "無印",
@@ -143030,7 +143030,7 @@ horse=
  },
  {
   "SerialNumber": "01645",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "9468536712",
   "HorseName": "ティアルミナ",
   "Rare": "無印",
@@ -143117,7 +143117,7 @@ horse=
  },
  {
   "SerialNumber": "01646",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2671436858",
   "HorseName": "ドーターライト",
   "Rare": "無印",
@@ -143204,7 +143204,7 @@ horse=
  },
  {
   "SerialNumber": "01647",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "0478065213",
   "HorseName": "ナースホワイト",
   "Rare": "無印",
@@ -143291,7 +143291,7 @@ horse=
  },
  {
   "SerialNumber": "01648",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5712364287",
   "HorseName": "ハイウエスト",
   "Rare": "無印",
@@ -143378,7 +143378,7 @@ horse=
  },
  {
   "SerialNumber": "01649",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "7315438267",
   "HorseName": "ハイラヴァヒット",
   "Rare": "無印",
@@ -143465,7 +143465,7 @@ horse=
  },
  {
   "SerialNumber": "01650",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3452271586",
   "HorseName": "ハッピーライク",
   "Rare": "無印",
@@ -143552,7 +143552,7 @@ horse=
  },
  {
   "SerialNumber": "01651",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8468537712",
   "HorseName": "ファンシードール",
   "Rare": "無印",
@@ -143639,7 +143639,7 @@ horse=
  },
  {
   "SerialNumber": "01652",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6214758366",
   "HorseName": "ファンタジアラッテ",
   "Rare": "無印",
@@ -143726,7 +143726,7 @@ horse=
  },
  {
   "SerialNumber": "01653",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3214758369",
   "HorseName": "ファントムマインド",
   "Rare": "無印",
@@ -143813,7 +143813,7 @@ horse=
  },
  {
   "SerialNumber": "01654",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3452171686",
   "HorseName": "フィルムカッシー",
   "Rare": "無印",
@@ -143900,7 +143900,7 @@ horse=
  },
  {
   "SerialNumber": "01655",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2671435958",
   "HorseName": "フォトンクラウン",
   "Rare": "無印",
@@ -143987,7 +143987,7 @@ horse=
  },
  {
   "SerialNumber": "01656",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2867142503",
   "HorseName": "ホワイトスノー",
   "Rare": "無印",
@@ -144074,7 +144074,7 @@ horse=
  },
  {
   "SerialNumber": "01657",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "7685476231",
   "HorseName": "マロンフェアリー",
   "Rare": "無印",
@@ -144161,7 +144161,7 @@ horse=
  },
  {
   "SerialNumber": "01658",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8265243176",
   "HorseName": "ミックスファント",
   "Rare": "無印",
@@ -144248,7 +144248,7 @@ horse=
  },
  {
   "SerialNumber": "01659",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3452571286",
   "HorseName": "ミルクブレッド",
   "Rare": "無印",
@@ -144335,7 +144335,7 @@ horse=
  },
  {
   "SerialNumber": "01660",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1274823356",
   "HorseName": "ムシノシラセ",
   "Rare": "無印",
@@ -144422,7 +144422,7 @@ horse=
  },
  {
   "SerialNumber": "01661",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "3452771086",
   "HorseName": "モーターブレイカー",
   "Rare": "無印",
@@ -144509,7 +144509,7 @@ horse=
  },
  {
   "SerialNumber": "01662",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "5712364683",
   "HorseName": "ライトブロッサム",
   "Rare": "無印",
@@ -144596,7 +144596,7 @@ horse=
  },
  {
   "SerialNumber": "01663",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "6558731412",
   "HorseName": "ラストスターダスト",
   "Rare": "無印",
@@ -144683,7 +144683,7 @@ horse=
  },
  {
   "SerialNumber": "01664",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8365243175",
   "HorseName": "ラブフレイヤ",
   "Rare": "無印",
@@ -144770,7 +144770,7 @@ horse=
  },
  {
   "SerialNumber": "01665",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "4762591738",
   "HorseName": "リゾートアッシュ",
   "Rare": "無印",
@@ -144857,7 +144857,7 @@ horse=
  },
  {
   "SerialNumber": "01666",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2315488267",
   "HorseName": "ルナアリス",
   "Rare": "無印",
@@ -144944,7 +144944,7 @@ horse=
  },
  {
   "SerialNumber": "01667",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "2671437758",
   "HorseName": "ロアコンチェルン",
   "Rare": "無印",
@@ -145031,7 +145031,7 @@ horse=
  },
  {
   "SerialNumber": "01668",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "8165243177",
   "HorseName": "ロイヤルビッテ",
   "Rare": "無印",
@@ -145118,7 +145118,7 @@ horse=
  },
  {
   "SerialNumber": "01669",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "7152546836",
   "HorseName": "ヴァイオハート",
   "Rare": "無印",
@@ -145205,7 +145205,7 @@ horse=
  },
  {
   "SerialNumber": "01670",
-  "Gender": "2",
+  "Gender": "1",
   "HorseId": "1574820356",
   "HorseName": "ヴァージンビート",
   "Rare": "無印",
