@@ -572,7 +572,7 @@ function initShow() {
     header.innerHTML = getHeader();
 
     horselist.innerHTML = getTabHorse();
-
+	
     footer.innerHTML = getFooter();
 }
 
@@ -630,8 +630,8 @@ function filterHorse(t_arr,ht_arr,mig_arr,jik_arr, ashi_arr, hosi_arr, sei, hibo
 	var sql_base  = 'SELECT * FROM ? h';
 	var sql_order = ' order by SerialNumber ASC';
 	
-	const sql_where_M = ' where Gender = "1"';
-	const sql_where_F = ' where Gender = "2"';
+	const sql_where_M = ' where Gender = "0"';
+	const sql_where_F = ' where Gender = "1"';
 
 	var sql_filter = '';
 	
@@ -664,8 +664,7 @@ function filterHorse(t_arr,ht_arr,mig_arr,jik_arr, ashi_arr, hosi_arr, sei, hibo
 	//繁殖牝馬の取得
 	var j_horselist_F = alasql(sql_F, [horse]);
 	
-	
-	var contents = formatHorse(j_horselist_M,j_horselist_F);
+	var contents = formatHorse(j_horselist_M, j_horselist_F, sei);
 	
 	horselist.innerHTML = contents;
 }
@@ -859,7 +858,7 @@ function filterSql_jik(arr, sql_filter, string) {
 }
 
 
-function formatHorse(j_horselist_M,j_horselist_F) {
+function formatHorse(j_horselist_M, j_horselist_F, sei) {
 	//html整形
 	var horse_idx_arr = [];
 	let Num_M = 0;
@@ -868,39 +867,44 @@ function formatHorse(j_horselist_M,j_horselist_F) {
 	let tag = '';
 	
 	Num_M = j_horselist_M.length
-    tag += '<div class="tabmenu-head"><div class="footer"><label><input name="tab-head" id="0" type="radio" checked="" class="sei"><em>種牡馬 ' + Num_M + '件</em>'
-	//種牡馬
-	while (j_horselist_M.length > cnt) {
-		//配列渡し
-		var j_horse = j_horselist_M[cnt];	
-		
-		//ヘッダ部作成
-		tag += getHeaderDetail(j_horse)
-		//血統部作成
-		tag += getContentsDetail(j_horse)
-		
-		cnt++;
-	}
-	tag += '</label>'
-	
 	Num_F = j_horselist_F.length
-    tag += '<label><input name="tab-head" id="1" type="radio" class="sei"><em>牝馬 ' + Num_F + '件</em>'	
-	//牝馬
-	cnt = 0;
-	while (j_horselist_F.length > cnt) {
-		//配列渡し
-		var j_horse = j_horselist_F[cnt];	
-		
-		//ヘッダ部作成
-		tag += getHeaderDetail(j_horse)
-		//血統部作成
-		tag += getContentsDetail(j_horse)
-		
-		cnt++;
-	}
 	
-	tag += '</label></div></div>';
+    tag += '<div class="tabmenu-head">';
+    if (sei == '0' ) {
+    	//牡馬選択時
+	    tag += '<label><input name="tab-head" id="0" type="radio" checked="" class="sei"><em>種牡馬 ' + Num_M + '件</em></label>';
+	    tag += '<label><input name="tab-head" id="1" type="radio" class="sei"><em>牝馬 ' + Num_F + '件</em></label></div>';
+		//種牡馬
+		while (j_horselist_M.length > cnt) {
+			//配列渡し
+			var j_horse = j_horselist_M[cnt];	
+			
+			//ヘッダ部作成
+			tag += getHeaderDetail(j_horse)
+			//血統部作成
+			tag += getContentsDetail(j_horse)
+			
+			cnt++;
+		}
+	} else {
+		//牝馬選択時
+	    tag += '<label><input name="tab-head" id="0" type="radio" class="sei"><em>種牡馬 ' + Num_M + '件</em></label>';
+	    tag += '<label><input name="tab-head" id="1" type="radio" checked="" class="sei"><em>牝馬 ' + Num_F + '件</em></label></div>';
+		//牝馬
+		while (j_horselist_F.length > cnt) {
+			//配列渡し
+			var j_horse = j_horselist_F[cnt];	
+			
+			//ヘッダ部作成
+			tag += getHeaderDetail(j_horse)
+			//血統部作成
+			tag += getContentsDetail(j_horse)
+			
+			cnt++;
+		}
+	}
 
+	
 	// 表示状態を維持
 	sessionStorage.setItem('horselist', tag);
 	// 条件保存 チェックボックス
@@ -955,7 +959,9 @@ function getHeader() {
 }
 
 function getTabHorse() {
-    let tag = '<div class="tabmenu-head"><div class="footer"><label><input name="tab-head" id="0" type="radio" checked="" class="sei"><em>種牡馬</em></label><label><input name="tab-head" id="1" type="radio" class="sei"><em>牝馬</em></label></div></div>';
+
+    //タブのボタン部分
+    let tag = '<div class="tabmenu-head"><label><input name="tab-head" id="0" type="radio" checked="" class="sei"><em>種牡馬</em></label><label><input name="tab-head" id="1" type="radio" class="sei"><em>牝馬</em></label></div>';
     sessionStorage.setItem('horselist', tag);
     return tag;
 }
