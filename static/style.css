@@ -136,7 +136,6 @@ tr:hover {
 
 .tabmenu-head{
 	position: relative;
-
 	font-size: 0;
 }
 .tabmenu-head span{
@@ -754,6 +753,8 @@ img {
 	background-image: none;
 	box-shadow: none;
 	appearance: none;
+	font-size: 16px;
+ 	transform: scale(calc(12 / 16));	
 }
 .cp_ipselect select::-ms-expand {
     display: none;
