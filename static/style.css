@@ -795,6 +795,7 @@ img {
 	border-radius: 50px;
 	border: 2px solid #DF575C;
 	font-size: 25px;
+	-webkit-appearance: none; /* iphone対策 */
 }
 
 .cp_ipselect span {
