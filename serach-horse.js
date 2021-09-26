@@ -1,3 +1,5 @@
+//グローバル変数
+
 var getHorselist = document.getElementById('getHorselist');
 var horselist = document.getElementById('horselist');
 var header = document.getElementById('header');
@@ -8,37 +10,13 @@ var detailHorse = '';
 var factorlist = '';
 var telentlist = '';
 
+//種牡馬リスト
+var j_horselist_M;
+//繁殖牝馬リスト
+var j_horselist_F;
+
+
 initShow();
-
-function detailShow(horse_id) {
-
-	var houseIdList = horse_id.split(',');
-	
-	if(factorlist == '') {
-		var sql_base = 'SELECT * FROM ? h order by id';
-		factorlist = alasql(sql_base, [factor]);
-	}
-	if(telentlist == '') {
-		var sql_base = 'SELECT * FROM ? h order by id';
-		telentlist = alasql(sql_base, [telent]);
-	}
-	
-	var sql_base = 'SELECT * FROM ? h  where id = ?';
-	var dHorseResult = alasql(sql_base, [horse, Number(houseIdList[0])]);
-	detailHorse =dHorseResult[0];
-	
-	header.innerHTML = getHeaderDetail() + getContentsDetailNavi(houseIdList)+ getContentsDetailHeader();
-	
-	var disp_hibon =  sessionStorage.getItem('disp_hibon');
-	if (houseIdList[2] == 'P' &&  disp_hibon == 1) {
-		horselist.innerHTML =  getContentsDetailHibon();
-	} else {
-		horselist.innerHTML =  getContentsDetail();
-	}
-	
-	
-	footer.innerHTML = "";
-}
 
 function getSelfFactorImg(Factor1, Factor2) {
 	var tag = '';
@@ -56,198 +34,6 @@ function getSelfFactorImg(Factor1, Factor2) {
 	return tag;
 }
 
-
-function getContentsDetailNavi(houseIdList) {
-	let tag = '<div class="title_panel"><table width="100%"><tbody><tr>';
-	var horse_idx  = sessionStorage.getItem('horse_idx_arr');
-	var horse_idx_arr  = horse_idx.split(',');
-	var idxBefore = '';
-	var idxNext = '';
-	var idx = Number(houseIdList[1]);
-	
-	if (idx != 0) { 
-		idxBefore = horse_idx_arr[idx -1];
-	}
-	
-	if (horse_idx_arr.length > idx +1) { 
-		idxNext = horse_idx_arr[idx + 1];
-	}
-	
-	tag += '</tr></tbody></table></div>';
-	return tag;
-}
-
-
-function getContentsDetailHeader() {
-	let tag = '<div class="content2"><div class="tabmenu-head"><div class="footer"><label><input name="tab-head" id="0" type="radio" checked="" class="hibon"><em>血統</em></label><label><input name="tab-head" id="1" type="radio" class="hibon"><em>非凡</em></label></div></div>';
-	return tag;
-}
-
-function dispHibon(hibon) {
-	
-	if (hibon == 1) {
-		horselist.innerHTML =  getContentsDetailHibon();
-	} else {
-		horselist.innerHTML =  getContentsDetail();
-	}
-}
-
-function getContentsDetailHibon() {
-	var tag = '<div class="content"><div class="hiboninfo">';	
-	if (detailHorse.hibon_id == 0) {
-		// 非凡なし
-		tag += '<h2>非凡なし</h2><div class="spaceInfo"></div>';	
-		tag += '</div></div>';	
-		return tag;
-	}
-	
-	
-	tag += '<h2>非凡1</h2>';
-	tag += '<h3>発揮効果</h3>';
-	
-	var result =telentlist[detailHorse.hibon_id -1].effect1.split(',');
-	if (result.length == 1)  {
-		tag += '<ul><li>';
-		tag += result[0];
-		tag += '</li></ul>';
-	} else {
-		let cnt = 0;
-		tag += '<ul>';
-		while (result.length > cnt) {
-		
-			var lines = result[cnt].split(' ');
-			var line = '';
-			let lcnt = 0;
-			if (lines.length > 1 ) {
-				while (lines.length > lcnt) {
-					line += lines[lcnt];
-					if (lcnt == 0) {
-						line += '<br>';
-					} 
-					lcnt++;
-				}
-			} else {
-				line = result[cnt];
-			}
-			tag += '<li>' + line + '</li>';
-			cnt++;
-		}
-		tag += '</ul>';
-	}
-
-	tag += '<h3>発揮条件</h3>';
-	result =telentlist[detailHorse.hibon_id -1].cond1.split(',');
-	if (result.length == 1)  {
-		tag += '<ul><li>';
-		tag += result[0];
-		tag += '</li></ul>';
-	} else {
-		let cnt = 0;
-		tag += '<ul>';
-		while (result.length > cnt) {
-			tag += '<li>' + result[cnt] + '</li>';
-			cnt++;
-		}
-		tag += '</ul>';
-		
-	}
-	tag += '<h3>発揮対象</h3>';
-	result =telentlist[detailHorse.hibon_id -1].target1.split(',');
-	if (result.length == 1)  {
-		tag += '<ul><li>';
-		tag += result[0];
-		tag += '</li></ul>';
-	} else {
-		let cnt = 0;
-		tag += '<ul>';
-		while (result.length > cnt) {
-			tag += '<li>' + result[cnt] + '</li>';
-			cnt++;
-		}
-		tag += '</ul>';
-	}
-	
-	tag += '<h3>発揮確率</h3>';
-	tag += '<div class="prob">' + telentlist[detailHorse.hibon_id -1].prob1 + '</div>';
-	
-	
-	if (telentlist[detailHorse.hibon_id -1].effect2 == '') {
-		tag += '</div></div>';
-		return tag;
-	}
-	
-	
-	tag += '<h2>非凡2</h2>';
-	tag += '<h3>発揮効果</h3>';
-	
-	var result =telentlist[detailHorse.hibon_id -1].effect2.split(',');
-	if (result.length == 1)  {
-		tag += '<ul><li>';
-		tag += result[0];
-		tag += '</li></ul>';
-	} else {
-		let cnt = 0;
-		tag += '<ul>';
-		while (result.length > cnt) {
-		
-			var lines = result[cnt].split(' ');
-			var line = '';
-			let lcnt = 0;
-			if (lines.length > 1 ) {
-				while (lines.length > lcnt) {
-					line += lines[lcnt];
-					if (lcnt == 0) {
-						line += '<br>';
-					} 
-					lcnt++;
-				}
-			} else {
-				line = result[cnt];
-			}
-			tag += '<li>' + line + '</li>';
-			cnt++;
-		}
-		tag += '</ul>';
-	}
-
-	tag += '<h3>発揮条件</h3>';
-	result =telentlist[detailHorse.hibon_id -1].cond2.split(',');
-	if (result.length == 1)  {
-		tag += '<ul><li>';
-		tag += result[0];
-		tag += '</li></ul>';
-	} else {
-		let cnt = 0;
-		tag += '<ul>';
-		while (result.length > cnt) {
-			tag += '<li>' + result[cnt] + '</li>';
-			cnt++;
-		}
-		tag += '</ul>';
-		
-	}
-	tag += '<h3>発揮対象</h3>';
-	result =telentlist[detailHorse.hibon_id -1].target2.split(',');
-	if (result.length == 1)  {
-		tag += '<ul><li>';
-		tag += result[0];
-		tag += '</li></ul>';
-	} else {
-		let cnt = 0;
-		tag += '<ul>';
-		while (result.length > cnt) {
-			tag += '<li>' + result[cnt] + '</li>';
-			cnt++;
-		}
-		tag += '</ul>';
-	}
-
-	tag += '<h3>発揮確率</h3>';
-	tag += '<div class="prob">' + telentlist[detailHorse.hibon_id -1].prob2 + '</div>';
-	tag += '</div></div>';
-	
-	return tag;
-}
 
 function getHeaderDetail(j_horse) {
 	var tag = '<div class="horsedata2"><table width="100%"><tbody><tr><th class="header01" width="10%">';
@@ -585,7 +371,7 @@ function getFactorList() {
 	tag += '<div class="tabmenu3">';
     tag += '<label><span>';
 	tag += '<div class="cp_ipselect cp_sl04">';
-	tag += '<select id="selectfact" style="text-align:-webkit-center;">';
+	tag += '<select id="selectfact" style="text-align:-webkit-center;font-size:16px;">';
 	tag += '<option value="" >因子検索</option>';
 	tag += formatFatorList(j_horselist);
 	tag += '</select><span class="resetimg"><img src="static/img/reset.png" alt=""  onclick="window.location.reload();"></div>';
@@ -598,18 +384,23 @@ function getFactorList() {
 }
 
 
-function filterHorse(t_arr,ht_arr,mig_arr,jik_arr, ashi_arr, hosi_arr, sei, hibon_arr, factor) {
+function filterHorse(t_arr,ht_arr,mig_arr,jik_arr, ashi_arr, rare_arr, sei, hibon_arr, factor) {
 	var sql_M = '';
 	var sql_F = '';
 	var sqlTmp = '';
 	
 	var sql_base  = 'SELECT * FROM ? h';
-	var sql_order = ' order by SerialNumber ASC';
+	var sql_order = ' order by Gender ASC, RareCd DESC, SerialNumber ASC';
 	
-	const sql_where_M = ' where Gender = "0"';
-	const sql_where_F = ' where Gender = "1"';
+	var sql_where_M = ' where Gender = "0"';
+	var sql_where_F = ' where Gender = "1"';
 
 	var sql_filter = '';
+
+	// レア牡馬
+	sql_where_M += filterSqlRare(rare_arr, '0');
+	// レア牝馬
+	sql_where_F += filterSqlRare(rare_arr, '1');
 	
 	// 父
 	sql_filter = filterSql('Paternal_t', t_arr, sql_filter, 1);
@@ -631,17 +422,54 @@ function filterHorse(t_arr,ht_arr,mig_arr,jik_arr, ashi_arr, hosi_arr, sei, hibo
 	sql_M = sql_base + sql_where_M + sqlTmp;
 	sql_F = sql_base + sql_where_F + sqlTmp;
 	
-	//種牡馬リストの取得
-	var j_horselist_M = alasql(sql_M, [horse]);
-	//繁殖牝馬の取得
-	var j_horselist_F = alasql(sql_F, [horse]);
+	//種牡馬リストの取得（グローバル変数）
+	j_horselist_M = alasql(sql_M, [horse]);
+	//繁殖牝馬の取得（グローバル変数）
+	j_horselist_F = alasql(sql_F, [horse]);
 	
-	var contents = formatHorse(j_horselist_M, j_horselist_F, sei);
+	//リスト表示
+	//var contents = formatHorse(j_horselist_M, j_horselist_F, sei);
+	formatHorse(sei);
 	
-	horselist.innerHTML = contents;
+}
+
+//レア度の検索
+function filterSqlRare(rare_arr, sei) {
+
+	// チェックされていないときは何も返さない
+	if (rare_arr.length == 0) {
+		return '';
+	}
+
+	let pos = 0;
+	let cnt = 0;
+	let sql_filter = '';
+	let sql_tmp = ' AND RareCd in ("';
+
+	// チェックされている分だけ
+	while (rare_arr.length > cnt) {
+		var value = rare_arr[cnt];
+		
+		if (sei == '0') {
+			if(!isNaN(value)){
+				//牡馬で数字型だったら条件に追加
+				sql_tmp += value + '","';
+			}
+		} else {
+			if(isNaN(value)){
+				//牝馬で数字型じゃない場合は条件に追加
+				sql_tmp += value + '","';
+			}
+		}
+		
+		cnt++;
+	}
 	
-	//loadjs();
+	//最後の[,]をカッコをつける
+	sql_filter = sql_tmp.substr(0,sql_tmp.length - 2);
+	sql_filter += ')';
 	
+	return sql_filter;
 }
 
 //因子検索
@@ -659,36 +487,8 @@ function filterSqlFactor(sql_filter, factor_id) {
 	return sql_filter;
 }
 
-function sqlOrderFactor( factor_id) {
-	var sql = '';
-	sql += ' order by  ';
-	var horse_name ='';
-	
-	if (factor_id.match(/[0-9]{1,}/)) {
-		var sql_base = 'SELECT name  FROM ? h  where id = ?';
-		horse_name = alasql(sql_base, [factor, Number(factor_id)]);
-		sql += 'name = "' + horse_name[0].name + '" desc , ';
-		sql += 'name LIKE \'' + horse_name[0].name + '-%\' desc , ';//因名
-		sql += 'name LIKE \'' + horse_name[0].name + '1___%\' desc , ';//年号
-		sql += 'name LIKE \'' + horse_name[0].name + '2___%\' desc , ';//年号
-		sql += 't=' +  factor_id + 'desc , '; //2
-		sql += 'tt=' +  factor_id + 'desc , ';//3
-		sql += 'ht=' +  factor_id + ' desc, ';//3
-		sql += 'ttt=' +  factor_id + ' desc, ';//4
-		sql += 'htt=' +  factor_id + ' desc, ';//4
-		sql += 'tht=' +  factor_id + ' desc, ';//4
-		sql += 'hht=' +  factor_id + ' desc, ';//4
-	} else {
-		horse_name = factor_id;
-		sql += 'name = "' + horse_name + '" desc , ';
-		sql += 'name LIKE \'' + horse_name + '-%\' desc , ';//因名
-		sql += 'name LIKE \'' + horse_name + '1___%\' desc , ';//年号
-		sql += 'name LIKE \'' + horse_name + '2___%\' desc , ';//年号
-	}
-	sql += ' hosi desc,name ';
-	return sql;
-}
 
+//父・母父の検索
 function filterSql(col_filter,arr, sql_filter, string) { 
 	let cnt = 0;
 	
@@ -801,7 +601,8 @@ function filterSql_jik(arr, sql_filter, string) {
 }
 
 
-function formatHorse(j_horselist_M, j_horselist_F, sei) {
+//function formatHorse(j_horselist_M, j_horselist_F, sei) {
+function formatHorse(sei) {
 	//html整形
 	var horse_idx_arr = [];
 	let Num_M = 0;
@@ -809,13 +610,15 @@ function formatHorse(j_horselist_M, j_horselist_F, sei) {
 	let cnt = 0;
 	let tag = '';
 	
+	//グローバル変数のリストから件数を取得する
 	Num_M = j_horselist_M.length
 	Num_F = j_horselist_F.length
 	
-
+	//性別タブの作成
 	tabHorse.innerHTML = getTabHorse('0',Num_M,Num_F,sei);
-	loadjs();
+	loadjs(1);
 
+	//リストの出力
     if (sei == '0' ) {
 		//牡馬選択時
 		//種牡馬
@@ -831,7 +634,7 @@ function formatHorse(j_horselist_M, j_horselist_F, sei) {
 			cnt++;
 		}
 	} else {
-		//牝馬
+		//牝馬選択時
 		while (j_horselist_F.length > cnt) {
 			//配列渡し
 			var j_horse = j_horselist_F[cnt];	
@@ -849,7 +652,10 @@ function formatHorse(j_horselist_M, j_horselist_F, sei) {
 	//sessionStorage.setItem('horselist', tag);
 	// 条件保存 チェックボックス
     sessionStorage.setItem('horse_idx_arr' ,horse_idx_arr.join(','));
-	return tag;
+    
+    horselist.innerHTML = tag;
+
+	//return tag;
 }
 
 function formatFatorList(j_horselist) {
@@ -860,7 +666,7 @@ function formatFatorList(j_horselist) {
 		var j_horse = j_horselist[cnt];	
 		var pos = j_horse.name.indexOf('(');
 		var opvalue = j_horse.name.substr(0, pos);
-		tag += '<option value="' + opvalue  + '">' + j_horse.name + '</option>';		
+		tag += '<option value="' + opvalue  + '">' + j_horse.name + '</option>';
 		cnt++;
 	}
 	return tag;
@@ -873,6 +679,8 @@ function getHeader() {
 	tag += '<label><input name="tab" type="radio" id="3"><em>母父</em><span><div class="btn2_wrap"><input value="Ro" id="ht-Ro" type="checkbox"><label for="ht-Ro">Ro</label></div><div class="btn2_wrap"><input value="Ne" id="ht-Ne" type="checkbox"><label for="ht-Ne">Ne</label></div><div class="btn2_wrap"><input value="Ns" id="ht-Ns" type="checkbox"><label for="ht-Ns">Ns</label></div><div class="btn2_wrap"><input value="Nt" id="ht-Nt" type="checkbox"><label for="ht-Nt">Nt</label></div><div class="btn2_wrap"><input value="Ha" id="ht-Ha" type="checkbox"><label for="ht-Ha">Ha</label></div><div class="btn2_wrap"><input value="St" id="ht-St" type="checkbox"><label for="ht-St">St</label></div><div class="btn2_wrap"><input value="He" id="ht-He" type="checkbox"><label for="ht-He">He</label></div><div class="btn2_wrap"><input value="Te" id="ht-Te" type="checkbox"><label for="ht-Te">Te</label></div><div class="btn2_wrap"><input value="Ph" id="ht-Ph" type="checkbox"><label for="ht-Ph">Ph</label></div><div class="btn2_wrap"><input value="Ma" id="ht-Ma" type="checkbox"><label for="ht-Ma">Ma</label></div><div class="btn2_wrap"><input value="Hi" id="ht-Hi" type="checkbox"><label for="ht-Hi">Hi</label></div><div class="btn2_wrap"><input value="Sw" id="ht-Sw" type="checkbox"><label for="ht-Sw">Sw</label></div><div class="btn2_wrap"><input value="Fa" id="ht-Fa" type="checkbox"><label for="ht-Fa">Fa</label></div><div class="btn2_wrap"><input value="To" id="ht-To" type="checkbox"><label for="ht-To">To</label></div><div class="btn2_wrap"><input value="Ec" id="ht-Ec" type="checkbox"><label for="ht-Ec">Ec</label></div></span></label>';
 	tag += '<label><input name="tab" type="radio" id="1"><em>見事</em><span><div class="btn2_wrap"><input value="Ro" id="mig-Ro" type="checkbox"><label for="mig-Ro">Ro</label></div><div class="btn2_wrap"><input value="Ne" id="mig-Ne" type="checkbox"><label for="mig-Ne">Ne</label></div><div class="btn2_wrap"><input value="Ns" id="mig-Ns" type="checkbox"><label for="mig-Ns">Ns</label></div><div class="btn2_wrap"><input value="Nt" id="mig-Nt" type="checkbox"><label for="mig-Nt">Nt</label></div><div class="btn2_wrap"><input value="Ha" id="mig-Ha" type="checkbox"><label for="mig-Ha">Ha</label></div><div class="btn2_wrap"><input value="St" id="mig-St" type="checkbox"><label for="mig-St">St</label></div><div class="btn2_wrap"><input value="He" id="mig-He" type="checkbox"><label for="mig-He">He</label></div><div class="btn2_wrap"><input value="Te" id="mig-Te" type="checkbox"><label for="mig-Te">Te</label></div><div class="btn2_wrap"><input value="Ph" id="mig-Ph" type="checkbox"><label for="mig-Ph">Ph</label></div><div class="btn2_wrap"><input value="Ma" id="mig-Ma" type="checkbox"><label for="mig-Ma">Ma</label></div><div class="btn2_wrap"><input value="Hi" id="mig-Hi" type="checkbox"><label for="mig-Hi">Hi</label></div><div class="btn2_wrap"><input value="Sw" id="mig-Sw" type="checkbox"><label for="mig-Sw">Sw</label></div><div class="btn2_wrap"><input value="Fa" id="mig-Fa" type="checkbox"><label for="mig-Fa">Fa</label></div><div class="btn2_wrap"><input value="To" id="mig-To" type="checkbox"><label for="mig-To">To</label></div><div class="btn2_wrap"><input value="Ec" id="mig-Ec" type="checkbox"><label for="mig-Ec">Ec</label></div></span></label>';
 	tag += '<label><input name="tab" type="radio" id="4"><em>１薄め</em><span><div class="btn2_wrap"><input value="Ro" id="jik-Ro" type="checkbox"><label for="jik-Ro">Ro</label></div><div class="btn2_wrap"><input value="Ne" id="jik-Ne" type="checkbox"><label for="jik-Ne">Ne</label></div><div class="btn2_wrap"><input value="Ns" id="jik-Ns" type="checkbox"><label for="jik-Ns">Ns</label></div><div class="btn2_wrap"><input value="Nt" id="jik-Nt" type="checkbox"><label for="jik-Nt">Nt</label></div><div class="btn2_wrap"><input value="Ha" id="jik-Ha" type="checkbox"><label for="jik-Ha">Ha</label></div><div class="btn2_wrap"><input value="St" id="jik-St" type="checkbox"><label for="jik-St">St</label></div><div class="btn2_wrap"><input value="He" id="jik-He" type="checkbox"><label for="jik-He">He</label></div><div class="btn2_wrap"><input value="Te" id="jik-Te" type="checkbox"><label for="jik-Te">Te</label></div><div class="btn2_wrap"><input value="Ph" id="jik-Ph" type="checkbox"><label for="jik-Ph">Ph</label></div><div class="btn2_wrap"><input value="Ma" id="jik-Ma" type="checkbox"><label for="jik-Ma">Ma</label></div><div class="btn2_wrap"><input value="Hi" id="jik-Hi" type="checkbox"><label for="jik-Hi">Hi</label></div><div class="btn2_wrap"><input value="Sw" id="jik-Sw" type="checkbox"><label for="jik-Sw">Sw</label></div><div class="btn2_wrap"><input value="Fa" id="jik-Fa" type="checkbox"><label for="jik-Fa">Fa</label></div><div class="btn2_wrap"><input value="To" id="jik-To" type="checkbox"><label for="jik-To">To</label></div><div class="btn2_wrap"><input value="Ec" id="jik-Ec" type="checkbox"><label for="jik-Ec">Ec</label></div></span></label>';
+	//究極・５・名牝・優をデフォルトでオン
+	tag += '<label><input name="tab" type="radio" id="5"><em>レア</em><span><div class="btn2_wrap"><input value="6" id="rare-6" type="checkbox" checked="checked"><label for="rare-6">極</label></div><div class="btn2_wrap"><input value="5" id="rare-5" type="checkbox" checked="checked"><label for="rare-5">５</label></div><div class="btn2_wrap"><input value="4" id="rare-4" type="checkbox"><label for="rare-4">４</label></div><div class="btn2_wrap"><input value="3" id="rare-3" type="checkbox"><label for="rare-3">３</label></div><div class="btn2_wrap"><input value="2" id="rare-2" type="checkbox"><label for="rare-2">２</label></div><div class="btn2_wrap"><input value="1" id="rare-1" type="checkbox"><label for="rare-1">１</label></div><div class="btn2_wrap"><input value="A" id="rare-A" type="checkbox" checked="checked"><label for="rare-A">名</label></div><div class="btn2_wrap"><input value="B" id="rare-B" type="checkbox" checked="checked"><label for="rare-B">優</label></div><div class="btn2_wrap"><input value="C" id="rare-C" type="checkbox"><label for="rare-C">良</label></div><div class="btn2_wrap"><input value="D" id="rare-D" type="checkbox"><label for="rare-D">可</label></div><div class="btn2_wrap"><input value="E" id="rare-E" type="checkbox"><label for="rare-E">無</label></div></span></label>';
 	tag += '</div>';
 	tag += getFactorList();
 	sessionStorage.setItem('header', tag);
