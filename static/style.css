@@ -1,3 +1,7 @@
+* {
+  font-size:16px;
+}
+
 body {
   font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", sans-serif;
   background: #4169e1;
@@ -212,7 +216,7 @@ tr:hover {
 .tabmenu3{
 	position: relative;
 	--height: 200px;
-	font-size: 16px;
+	font-size: 25px;
 }
 .tabmenu3 span{
 	top: 5px;
@@ -794,7 +798,6 @@ img {
 	border-radius: 50px;
 	border: 2px solid #DF575C;
 	font-size: 16px;
- 	transform: scale(calc(12 / 16));
 }
 
 .cp_ipselect span {
