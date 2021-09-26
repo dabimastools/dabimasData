@@ -253,7 +253,8 @@ tr:hover {
 	z-index: 100;
 	display: inline-block;
 	padding: 4px 0 0;
-	min-width: 25%;
+	/*min-width: 25%;*/
+	min-width: 20%;
 	-webkit-border-radius: 6px 6px 0 0;
 	border-radius: 6px 6px 0 0;
 	background: #ddd;
@@ -740,6 +741,9 @@ img {
 	text-align: center;
 	margin:0 auto;
 	width: 100%;
+	font-size: 16px;
+ 	transform: scale(calc(12 / 16));
+
 }
 .cp_ipselect select {
 	width: 80%;
@@ -754,15 +758,19 @@ img {
 	box-shadow: none;
 	appearance: none;
 	font-size: 16px;
- 	transform: scale(calc(12 / 16));	
+ 	transform: scale(calc(12 / 16));
 }
 .cp_ipselect select::-ms-expand {
     display: none;
+	font-size: 16px;
+ 	transform: scale(calc(12 / 16));
 }
 .cp_ipselect.cp_sl04 {
 	position: relative;
-  
 	background: #ffffff;
+	font-size: 16px;
+ 	transform: scale(calc(12 / 16));
+
 }
 .cp_ipselect.cp_sl04::before {a {
     color: #ec7b14;
@@ -779,6 +787,9 @@ img {
 	border-right: 6px solid transparent;
 	--border-top: 6px solid #FFAF99;
 	pointer-events: none;
+	font-size: 16px;
+ 	transform: scale(calc(12 / 16));
+
 }
 .cp_ipselect.cp_sl04 select {
 	padding: 8px 38px 8px 8px;
@@ -786,7 +797,8 @@ img {
 	border-radius: 2px;
 	border-radius: 50px;
 	border: 2px solid #DF575C;
-	font-size: 20px;
+	font-size: 16px;
+ 	transform: scale(calc(12 / 16));
 	overflow:scroll;
 }
 
@@ -794,6 +806,8 @@ img {
 	display:inline;
 	border:none;
     text-align: right;
+	font-size: 16px;
+ 	transform: scale(calc(12 / 16));
 }
 
 
