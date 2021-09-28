@@ -8,6 +8,45 @@ h1, h2 {
   margin: 0;
 }
 
+/* ボタンのスタイル */
+.page-top {
+  /* buttonタグのリセットCSS */
+  border: none;
+  cursor: pointer;
+  outline: none;
+  padding: 0;
+  appearance: none;
+
+  /* ボタンの装飾 */
+  position: fixed;
+  right: 30px;
+  bottom: 30px;
+  z-index: 100;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #115582;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+}
+
+/* 矢印のスタイル */
+.page-top::before {
+  content: "";
+  width: 12px;
+  height: 12px;
+  margin-bottom: -6px;
+  border-top: solid 3px #fff;
+  border-right: solid 3px #fff;
+  transform: rotate(-45deg);
+}
+
+/* ホバー時のスタイル */
+.page-top:hover {
+  transform: scale(1.1);
+}
 
 .page {
   margin: 2em auto;
@@ -737,13 +776,10 @@ img {
 
 
 .cp_ipselect {
-
 	overflow: hidden;
 	text-align: center;
 	margin:0 auto;
 	width: 100%;
-	font-size: 25px;
-
 }
 .cp_ipselect select {
 	width: 80%;
@@ -757,7 +793,6 @@ img {
 	background-image: none;
 	box-shadow: none;
 	appearance: none;
-	font-size: 20px;
 }
 .cp_ipselect select::-ms-expand {
     display: none;
@@ -766,13 +801,10 @@ img {
 .cp_ipselect.cp_sl04 {
 	position: relative;
 	background: #ffffff;
-	font-size: 25px;
-
 }
 .cp_ipselect.cp_sl04::before {a {
     color: #ec7b14;
     text-decoration: underline;
-	font-size: 25px;
 }
 	position: absolute;
 	top: 0.8em;
@@ -785,8 +817,6 @@ img {
 	border-right: 6px solid transparent;
 	--border-top: 6px solid #FFAF99;
 	pointer-events: none;
-	font-size: 25px;
-
 }
 .cp_ipselect.cp_sl04 select {
 	padding: 8px 38px 8px 8px;
@@ -794,15 +824,13 @@ img {
 	border-radius: 2px;
 	border-radius: 50px;
 	border: 2px solid #DF575C;
-	font-size: 25px;
-	-webkit-appearance: none; /* iphone対策 */
+	font-size: 16px;
 }
 
 .cp_ipselect span {
 	display:inline;
 	border:none;
     text-align: right;
-	font-size: 25px;
 }
 
 
