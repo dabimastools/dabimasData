@@ -682,8 +682,13 @@ ul li, ol li {
   border-bottom: 1px solid #DDDDDD; 
   }
 
-
+/* 普通 */
 .content .horse {
+  border-right: none; 
+  font-weight: bold;  }
+
+.content .horse_0 {
+  border-left: none; 
   border-right: none; 
   font-weight: bold;  }
 
@@ -692,7 +697,21 @@ ul li, ol li {
   border-right: none; 
   font-weight: bold;  }
 
+/* 該当する因子が入るとき */
+.content .horse_R0 {
+  border-left: none; 
+  border-right: none; 
+  font-weight: bold;  
+  color: #e2041b;  }
+
+
+/* 面白 */
 .content .omoshiro {
+  background: #b6ffbd;
+  border-right: none; 
+  font-weight: bold;  }
+
+.content .omoshiro_0 {
   background: #b6ffbd;
   border-right: none; 
   font-weight: bold;  }
@@ -711,7 +730,30 @@ ul li, ol li {
   text-align: center;
   font-weight: bold;  }
 
+/* 該当する因子が入るとき */
+.content .omoshiro_R0 {
+  background: #b6ffbd;
+  border-right: none; 
+  font-weight: bold; 
+  color: #e2041b;  }
+
+/* 一薄めで該当する親系統が入るとき */
+.content .omoshiro_R2 {
+  background: #b6ffbd;
+  border-right: none; 
+  border-left: none; 
+  text-align: center;
+  font-weight: bold;
+  color: #e2041b;  }
+  
+
+/* 見事 */
 .content .migoto {
+  background: #fffcaa;
+  border-right: none; 
+  font-weight: bold;  }
+
+.content .migoto_0 {
   background: #fffcaa;
   border-right: none; 
   font-weight: bold;  }
@@ -722,6 +764,22 @@ ul li, ol li {
   border-right: none; 
   text-align: right;
   font-weight: bold;  }
+
+/* 該当する因子が入るとき */
+.content .migoto_R0 {
+  background: #fffcaa;
+  border-right: none; 
+  font-weight: bold; 
+  color: #e2041b;  }
+
+/* 見事で該当する親系統が入るとき */
+.content .migoto_R1 {
+  background: #fffcaa;
+  border-left: none; 
+  border-right: none; 
+  text-align: right;
+  font-weight: bold; 
+  color: #e2041b;  }
 
 .content .factor_icn {
   padding: 3px;
@@ -779,10 +837,11 @@ img {
 	overflow: hidden;
 	text-align: center;
 	margin:0 auto;
-	width: 100%;
+	width: 50%;
+	display: inline;
 }
 .cp_ipselect select {
-	width: 80%;
+	width: 50%;
 	padding-right: 1em;
 	cursor: pointer;
 	text-indent: 0.01px;
@@ -796,7 +855,7 @@ img {
 }
 .cp_ipselect select::-ms-expand {
     display: none;
-	font-size: 25px;
+	font-size: 20px;
 }
 .cp_ipselect.cp_sl04 {
 	position: relative;
@@ -824,7 +883,7 @@ img {
 	border-radius: 2px;
 	border-radius: 50px;
 	border: 2px solid #DF575C;
-	font-size: 16px;
+	font-size: 18px;
 }
 
 .cp_ipselect span {
@@ -833,7 +892,100 @@ img {
     text-align: right;
 }
 
+.search-form {
+    width: 25%;
+    height: 100%;
+    display: block;
+    /*padding: 0px 20px;*/
+    padding: 8px 38px 8px 8px;
+    border-radius: 50px;
+    border: 2px solid #DF575C;
+    line-height: 1;
+    outline: 0;
+    display: inline;
+    justify-content: center;  align-items: center;
 
+    background: #FFF;
+    font-size: 14px;
+}
+.search-input {
+    border: none;  background: none;  outline: none;
+    width: 25%;
+    font-size: 18px;
+    color: #333;
+}
+.search-button {
+    border: none;  background: none;  outline: none;
+    color: #999;  font-weight: 1000;  font-family: "Font Awesome 5 Free";
+
+    transition: color 0.3s ease 0s;
+}
+.search-button:hover {
+    color: #333;
+}
+
+/*検索ボックス↓*/
+.cp_ipselect.cp_sl04 input {
+  width: 28%;
+  height: 100%;
+  display: block;
+  /*padding: 0px 20px;*/
+  padding: 8px 38px 8px 8px;
+  border-radius: 50px;
+  border: 2px solid #DF575C;
+  font-size: 18px;
+  line-height: 1;
+  outline: 0;
+  display: inline;
+}
+
+.cp_ipselect.cp_sl04 input:focus {
+  width: 28%;
+  height: 100%;
+  display: block;
+  padding: 8px 38px 8px 8px;
+  border-radius: 50px;
+  border: 2px solid #DF575C;
+  font-size: 18px;
+  line-height: 1;
+  outline: 0;
+  display: inline;
+}
+
+/*検索ボックス↑*/
+
+
+/*検索ボックス↓*/
+.header-inner input {
+  width: 50%;
+  height: 100%;
+  display: block;
+  padding: 0px 20px;
+  border-radius: 50px;
+  border: 2px solid #DF575C;
+  font-size: 18px;
+  line-height: 1;
+  outline: 0;
+}
+
+.header-inner input:focus {
+  width: 300px;
+  height: 100%;
+  display: block;
+  padding: 0px 20px;
+  border-radius: 50px;
+  border: 2px solid #DF575C;
+  font-size: 18px;
+  line-height: 1;
+  outline: 0;
+}
+
+.header-inner input::placeholder {
+  font-size: 14px;
+  position: relative;
+  bottom: 2px;
+}
+/*検索ボックス↑*/
 
 .title_panel {
     border: 1px #DDDDDD solid;
