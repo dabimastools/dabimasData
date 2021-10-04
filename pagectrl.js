@@ -12,6 +12,9 @@ function loadjs(mode){
   
   // チェックボックス全てを取得
   var chk = document.querySelectorAll("input[type='checkbox']");
+
+  //input要素の取得
+  var input = document.querySelector("#inputkeyword");
   
   //select要素の取得
   var select = document.querySelector("#selectfact");
@@ -29,7 +32,7 @@ function loadjs(mode){
   //var dtl_link = document.getElementsByClassName("clickable-row");
 
 
-  //初期起動時のみイベントを追加
+  //初期起動時のみイベントを追加（上に戻るボタン）
   if (mode == 0) {
 	const pagetopBtn = document.querySelector('#page-top');
 	pagetopBtn.addEventListener('click', () => {
@@ -38,6 +41,26 @@ function loadjs(mode){
 	    	behavior: "smooth"
 	  	});
 	});
+
+	// キーワードを入力した際のイベント取得
+	input.addEventListener('change', (event) => {
+	      let sei = 0;
+	      let ped = 0;
+
+	      for (let i = 0; i < sei_radio.length; i++) {
+	        if (sei_radio[i].id == "1" && sei_radio[i].checked ) {
+	        	sei = 1;
+	        }
+	      }
+	  	  for (let i = 0; i < ped_radio.length; i++) {
+	  		if ( ped_radio[i].checked ) {
+	  			ped =  i;
+	  		}
+	  	  }
+	  	  dispHorse(chk, sei, ped, select, input);
+	  	  console.count();
+	  	  lisnerLink();
+	});	  
 	
 	// 因子を選択した際のイベント取得
 	select.addEventListener('change', (event) => {
@@ -54,7 +77,7 @@ function loadjs(mode){
 	  			ped =  i;
 	  		}
 	  	  }
-	  	  dispHorse(chk , sei, ped, select);
+	  	  dispHorse(chk, sei, ped, select, input);
 	  	  console.count();
 	  	  lisnerLink();
 	});	  
@@ -76,7 +99,7 @@ function loadjs(mode){
 	  			ped =  i;
 	  		}
 	  	  }
-	  	  dispHorse(chk , sei, ped, select);
+	  	  dispHorse(chk , sei, ped, select, input);
 	  	  console.count();
 	  	  lisnerLink();
 	      });
@@ -248,7 +271,7 @@ function loadSession() {
 }
 
  //フロントに表示する関数
-function dispHorse(chk, sei, ped, factor) {
+function dispHorse(chk, sei, ped, factor, keyword) {
   var t_arr = [];
   var ht_arr = [];
   var mig_arr = [];
@@ -302,9 +325,6 @@ function dispHorse(chk, sei, ped, factor) {
      sessionStorage.setItem('factor_idx', factor.selectedIndex);
      
      // 絞り込み実施
-     filterHorse(t_arr, ht_arr, mig_arr, jik_arr,ashi_arr, rare_arr, sei, hibon_arr ,factor.value);
+     filterHorse(t_arr, ht_arr, mig_arr, jik_arr,ashi_arr, rare_arr, sei, keyword.value ,factor.value);
 }
-
-
-
 
