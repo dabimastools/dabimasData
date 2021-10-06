@@ -22,9 +22,6 @@ function loadjs(mode){
   //option要素の取得（配列）
   var options = document.querySelectorAll("#selectfact option");
   
-   // ラジオボタン
-  var ped_radio = document.getElementsByName("tab");
-
   var scroll_to_top_btn = document.querySelector('#scroll-to-top-btn');
 
   
@@ -34,78 +31,164 @@ function loadjs(mode){
 
   //初期起動時のみイベントを追加（上に戻るボタン）
   if (mode == 0) {
-	const pagetopBtn = document.querySelector('#page-top');
-	pagetopBtn.addEventListener('click', () => {
-		window.scrollTo({
-	    	top: 0,
-	    	behavior: "smooth"
-	  	});
-	});
+		const pagetopBtn = document.querySelector('#page-top');
+		pagetopBtn.addEventListener('click', () => {
+			window.scrollTo({
+		    	top: 0,
+		    	behavior: "smooth"
+		  	});
+		});
 
-	// キーワードを入力した際のイベント取得
-	input.addEventListener('change', (event) => {
-	      let sei = 0;
-	      let ped = 0;
+		// キーワードを入力した際のイベント取得
+		input.addEventListener('change', (event) => {
+		      let sei = 0;
 
-	      for (let i = 0; i < sei_radio.length; i++) {
-	        if (sei_radio[i].id == "1" && sei_radio[i].checked ) {
-	        	sei = 1;
-	        }
-	      }
-	  	  for (let i = 0; i < ped_radio.length; i++) {
-	  		if ( ped_radio[i].checked ) {
-	  			ped =  i;
-	  		}
-	  	  }
-	  	  dispHorse(chk, sei, ped, select, input);
-	  	  console.count();
-	  	  lisnerLink();
-	});	  
-	
-	// 因子を選択した際のイベント取得
-	select.addEventListener('change', (event) => {
-	      let sei = 0;
-	      let ped = 0;
+		      for (let i = 0; i < sei_radio.length; i++) {
+		        if (sei_radio[i].id == "1" && sei_radio[i].checked ) {
+		        	sei = 1;
+		        }
+		      }
+		  	  dispHorse(chk, sei, select, input, 1);
+		  	  console.count();
+		  	  lisnerLink();
+		});	  
 
-	      for (let i = 0; i < sei_radio.length; i++) {
-	        if (sei_radio[i].id == "1" && sei_radio[i].checked ) {
-	          sei = 1;
-	        }
-	      }
-	  	  for (let i = 0; i < ped_radio.length; i++) {
-	  		if ( ped_radio[i].checked ) {
-	  			ped =  i;
-	  		}
-	  	  }
-	  	  dispHorse(chk, sei, ped, select, input);
-	  	  console.count();
-	  	  lisnerLink();
-	});	  
+		// 因子を選択した際のイベント取得
+		select.addEventListener('change', (event) => {
+		      let sei = 0;
 
-	// 全てチェックボックスを選択した際のイベント取得
-	for (let i = 0; i < chk.length; i++) {
+		      for (let i = 0; i < sei_radio.length; i++) {
+		        if (sei_radio[i].id == "1" && sei_radio[i].checked ) {
+		          sei = 1;
+		        }
+		      }
 
-	    chk[i].addEventListener('change', (event) => {
-	      let sei = 0;
-	      let ped = 0;
-	    
-	  	  for (let i = 0; i < sei_radio.length; i++) {
-	  		if (sei_radio[i].id == "1" && sei_radio[i].checked ) {
-	  			sei = 1;
-	  		}
-	  	  }
-	  	  for (let i = 0; i < ped_radio.length; i++) {
-	  		if ( ped_radio[i].checked ) {
-	  			ped =  i;
-	  		}
-	  	  }
-	  	  dispHorse(chk , sei, ped, select, input);
-	  	  console.count();
-	  	  lisnerLink();
-	      });
-	}
+		  	  dispHorse(chk, sei, select, input, 1);
+		  	  console.count();
+		  	  lisnerLink();
+		});	  
+
+		// 全てチェックボックスを選択した際のイベント取得
+		for (let i = 0; i < chk.length; i++) {
+
+		    chk[i].addEventListener('change', (event) => {
+		      let sei = 0;
+		    
+		  	  for (let i = 0; i < sei_radio.length; i++) {
+		  		if (sei_radio[i].id == "1" && sei_radio[i].checked ) {
+		  			sei = 1;
+		  		}
+		  	  }
+		  	  dispHorse(chk , sei, select, input, 1);
+		  	  console.count();
+		  	  lisnerLink();
+		      });
+		}
   }
 
+	/* =================================================== */
+	// slideUp, slideDown, slideToggle関数を定義
+	/* =================================================== */
+
+	// 要素をスライドしながら非表示にする関数(jQueryのslideUpと同じ)
+	const slideUp = (el, duration = 300) => {
+	  el.style.height = el.offsetHeight + "px";
+	  el.offsetHeight;
+	  el.style.transitionProperty = "height, margin, padding";
+	  el.style.transitionDuration = duration + "ms";
+	  el.style.transitionTimingFunction = "ease";
+	  el.style.overflow = "hidden";
+	  el.style.height = 0;
+	  el.style.paddingTop = 0;
+	  el.style.paddingBottom = 0;
+	  el.style.marginTop = 0;
+	  el.style.marginBottom = 0;
+	  setTimeout(() => {
+	    el.style.display = "none";
+	    el.style.removeProperty("height");
+	    el.style.removeProperty("padding-top");
+	    el.style.removeProperty("padding-bottom");
+	    el.style.removeProperty("margin-top");
+	    el.style.removeProperty("margin-bottom");
+	    el.style.removeProperty("overflow");
+	    el.style.removeProperty("transition-duration");
+	    el.style.removeProperty("transition-property");
+	    el.style.removeProperty("transition-timing-function");
+	    el.classList.remove("is-open");
+	  }, duration);
+	};
+
+	// 要素をスライドしながら表示する関数(jQueryのslideDownと同じ)
+	const slideDown = (el, duration = 300) => {
+	  el.classList.add("is-open");
+	  el.style.removeProperty("display");
+	  let display = window.getComputedStyle(el).display;
+	  if (display === "none") {
+	    display = "block";
+	  }
+	  el.style.display = display;
+	  let height = el.offsetHeight;
+	  el.style.overflow = "hidden";
+	  el.style.height = 0;
+	  el.style.paddingTop = 0;
+	  el.style.paddingBottom = 0;
+	  el.style.marginTop = 0;
+	  el.style.marginBottom = 0;
+	  el.offsetHeight;
+	  el.style.transitionProperty = "height, margin, padding";
+	  el.style.transitionDuration = duration + "ms";
+	  el.style.transitionTimingFunction = "ease";
+	  el.style.height = height + "px";
+	  el.style.removeProperty("padding-top");
+	  el.style.removeProperty("padding-bottom");
+	  el.style.removeProperty("margin-top");
+	  el.style.removeProperty("margin-bottom");
+	  setTimeout(() => {
+	    el.style.removeProperty("height");
+	    el.style.removeProperty("overflow");
+	    el.style.removeProperty("transition-duration");
+	    el.style.removeProperty("transition-property");
+	    el.style.removeProperty("transition-timing-function");
+	  }, duration);
+	};
+
+	// 要素をスライドしながら交互に表示/非表示にする関数(jQueryのslideToggleと同じ)
+	const slideToggle = (el, duration = 300) => {
+	  if (window.getComputedStyle(el).display === "none") {
+	    return slideDown(el, duration);
+	  } else {
+	    return slideUp(el, duration);
+	  }
+	};
+
+	/* =================================================== */
+	// DOM操作
+	/* =================================================== */
+
+	// アコーディオンを全て取得
+	const accordions = document.querySelectorAll(".js-accordion");
+	// 取得したアコーディオンをArrayに変換(IE対策)
+	const accordionsArr = Array.prototype.slice.call(accordions);
+
+	accordionsArr.forEach((accordion) => {
+	  // Triggerを全て取得
+	  const accordionTriggers = accordion.querySelectorAll(".js-accordion-trigger");
+	  // TriggerをArrayに変換(IE対策)
+	  const accordionTriggersArr = Array.prototype.slice.call(accordionTriggers);
+
+	  accordionTriggersArr.forEach((trigger) => {
+	    // Triggerにクリックイベントを付与
+	    trigger.addEventListener("click", () => {
+	      // '.is-active'クラスを付与or削除
+	      trigger.classList.toggle("is-active");
+	      // 開閉させる要素を取得
+	      const content = trigger.querySelector(".accordion__content");
+	      // 要素を展開or閉じる
+	      slideToggle(content);
+	    });
+	  });
+	});
+	
   // 性別オプションを選択した際のイベント取得
   for (let i = 0; i < sei_radio.length; i++) {
   
@@ -117,14 +200,32 @@ function loadjs(mode){
   				sei = 1;
   			}
   		}
-  		for (let i = 0; i < ped_radio.length; i++) {
-  			if ( ped_radio[i].checked ) {
-  				ped =  i;
-  			}
+  		let t_arr = '';
+  		let ht_arr = '';
+  		let mig_arr = '';
+  		let jik_arr = '';
+  		let formatFlg = '';
+  		
+  		t_arr = sessionStorage.getItem('t_arr');
+  		ht_arr = sessionStorage.getItem('ht_arr');
+  		mig_arr = sessionStorage.getItem('mig_arr');
+  		jik_arr = sessionStorage.getItem('jik_arr');
+  		
+  		
+  		if (!t_arr && !ht_arr && !mig_arr && !jik_arr && select.selectedIndex == 0 && input.value === '') {
+  			//未検索
+  			formatFlg = 1;
+  		} else if ((t_arr.length == 0 && ht_arr.length == 0 && mig_arr.length == 0 && jik_arr.length == 0 && select.selectedIndex == 0 && input.value === '')) {
+  			//初期設定の場合
+  			formatFlg = 1;
+  		} else {
+  			//検索条件
+  			formatFlg = 2;
   		}
   		
-  		formatHorse(sei);
-  		//dispHorse(chk , sei, ped, select);
+  		console.count();
+  		formatHorse(sei, formatFlg, select.value, mig_arr, jik_arr);
+  		//dispHorse(chk , sei, select, input, 0);
   		lisnerLink();
   		});
   }
@@ -271,7 +372,7 @@ function loadSession() {
 }
 
  //フロントに表示する関数
-function dispHorse(chk, sei, ped, factor, keyword) {
+function dispHorse(chk, sei, factor, keyword, flg) {
   var t_arr = [];
   var ht_arr = [];
   var mig_arr = [];
@@ -283,10 +384,6 @@ function dispHorse(chk, sei, ped, factor, keyword) {
   for (let i = 0; i < chk.length; i++) {
     if (chk[i].checked) {
           // チェックされている値を取得
-          //t_arr.push(chk[i].value);
-          var tst = chk[i].id;
-          var test = chk[i].id.match(/^t_*/);
-          
           if ( chk[i].id.match(/^t\-/) != null) {
           	t_arr.push(chk[i].value);
           }
@@ -315,16 +412,24 @@ function dispHorse(chk, sei, ped, factor, keyword) {
      // 条件保存 牡馬牝馬
      sessionStorage.setItem('sei' ,sei);
      
-     // 条件保存 血統種別
-     sessionStorage.setItem('ped' ,ped);
+     // 父
+     sessionStorage.setItem('t_arr', t_arr);
+     // 母父
+     sessionStorage.setItem('ht_arr', ht_arr);
+     // 見事
+     sessionStorage.setItem('mig_arr', mig_arr);
+     // １薄め
+     sessionStorage.setItem('jik_arr', jik_arr);
+     // レア
+     sessionStorage.setItem('jik_arr', jik_arr);
      
      // 条件保存 チェックボックス
-     sessionStorage.setItem('chk_idx' ,chk_idx.join(','));
+     //sessionStorage.setItem('chk_idx' ,chk_idx.join(','));
      
     // 条件保存 因子
-     sessionStorage.setItem('factor_idx', factor.selectedIndex);
+     //sessionStorage.setItem('factor_idx', factor.selectedIndex);
      
      // 絞り込み実施
-     filterHorse(t_arr, ht_arr, mig_arr, jik_arr,ashi_arr, rare_arr, sei, keyword.value ,factor.value);
+     filterHorse(t_arr, ht_arr, mig_arr, jik_arr,ashi_arr, rare_arr, sei, keyword.value ,factor.value, flg);
 }
 

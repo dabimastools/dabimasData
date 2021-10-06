@@ -3,18 +3,15 @@
 var getHorselist = document.getElementById('getHorselist');
 var horselist = document.getElementById('horselist');
 var header = document.getElementById('header');
+var accordion = document.getElementById('accordion');
+var factorlist = document.getElementById('factorlist');
 var footer = document.getElementById('footer');
 var tabHorse = document.getElementById('tabHorse');
 
-var detailHorse = '';
-var factorlist = '';
-var telentlist = '';
-
 //種牡馬リスト
-var j_horselist_M;
+var j_horselist_M = '';
 //繁殖牝馬リスト
-var j_horselist_F;
-
+var j_horselist_F = '';
 
 initShow(0);
 
@@ -103,260 +100,12 @@ function getHeaderDetail(j_horse) {
 	return tag;
 }
 
-
-function getFactorImg(kbn,Factor1,Factor2) {
-	var tag = '';
-	var cnt = 0;
-	
-	//因子１
-	if (Factor1.length > 0) {
-		tag +=  '<td class="factor_' + kbn + '" width="64"><img src="static/img/rfactor_' + Factor1 + '.png" alt=""></td>';
-		cnt++;
-	}
-
-	//因子２
-	if (Factor2.length > 0) {
-		tag +=  '<td class="factor_' + kbn + '" width="64"><img src="static/img/rfactor_' + Factor2 + '.png" alt=""></td>';
-		cnt++;
-	}
-	
-	//因子が足りない分を穴埋めする
-	if (cnt == 1) {
-		tag =   '<td class="factor_' + kbn + '" width="64"></td>' + tag;
-	} else if (cnt == 0) {
-		tag = '<td class="factor_' + kbn + '" width="64"></td><td class="factor_' + kbn + '" width="64"></td>';
-	}
-	return tag;
-}
-
-function getContentsDetail(j_horse) {
-	
-	var tag = '<div class="content"><table class="pedigree" width="100%">';
-	tag += '<tbody>';
-	
-	//父（面白）
-	tag += '<tr>';
-	tag += '<td align="center" class="father" width="30">';
-	tag += '父</td>';
-	tag += '<td class="omoshiro" colspan="4">';
-	tag += j_horse.Ped_t;
-	tag += '</td>';
-	tag += '<td class="omoshiro_1" width="60">'
-	tag += j_horse.Paternal_t; //親系統
-	tag += '</td>'
-	tag += getFactorImg('omoshiro',j_horse.Factor_t_1,j_horse.Factor_t_2);
-	tag += '</tr>';
-	
-	//父父
-	tag += '<tr>';
-	tag += '<td align="center" class="father_1" rowspan="7" width="30">';
-	tag += '<td class="father" width="30">';
-	tag += '父</td>';
-	tag += '<td class="horse" colspan="3">';
-	tag += j_horse.Ped_tt;
-	tag += '</td>';
-	tag += '<td class="horse_1" width="60"></td>'
-	tag += getFactorImg('horse',j_horse.Factor_tt_1,j_horse.Factor_tt_2);
-	tag += '</tr>';
-	
-	//父父父
-	tag += '<tr>';
-	tag += '<td align="center" class="father_1" rowspan="3" width="30">';
-	tag += '<td class="father" width="30">';
-	tag += '父</td>';
-	tag += '<td class="horse" colspan="2">';
-	tag += j_horse.Ped_ttt;
-	tag += '</td>';
-	tag += '<td class="horse_1" width="60"></td>'
-	tag += getFactorImg('horse',j_horse.Factor_ttt_1,j_horse.Factor_ttt_2);
-	tag += '</tr>';
-	
-	//父父父父
-	tag += '<tr>';
-	tag += '<td align="center" class="father_1" width="30">';
-	tag += '<td class="father" width="30">';
-	tag += '父</td>';
-	tag += '<td class="horse">';
-	tag += j_horse.Ped_tttt;
-	tag += '</td>';
-	tag += '<td class="horse_1" width="60"></td>'
-	tag += getFactorImg('horse',j_horse.Factor_tttt_1,j_horse.Factor_tttt_2);
-	tag += '</tr>';
-	
-	//父父母父（見事）
-	tag += '<tr>';
-	tag += '<td class="mother">';
-	tag += '母</td>';
-	tag += '<td class="father">';
-	tag += '父</td>';
-	tag += '<td class="migoto">';
-	tag += j_horse.Ped_ttht;
-	tag += '</td>';
-	tag += '<td class="migoto_1" width="60">'
-	tag += j_horse.Paternal_ttht; //親系統
-	tag += '</td>'
-	tag += getFactorImg('migoto',j_horse.Factor_ttht_1,j_horse.Factor_ttht_2);
-	tag += '</tr>';
-	
-	//父母父（面白）
-	tag += '<tr>';
-	tag += '<td class="mother">';
-	tag += '母</td>';
-	tag += '<td class="father" rowspan="1">';
-	tag += '父</td>';
-	tag += '<td class="omoshiro" colspan="2">';
-	tag += j_horse.Ped_tht;
-	tag += '</td>';
-	tag += '<td class="omoshiro_2" width="60">'
-	tag += j_horse.Paternal_tht; //親系統
-	tag += '</td>'
-	tag += getFactorImg('omoshiro',j_horse.Factor_tht_1,j_horse.Factor_tht_2);
-	tag += '</tr>';
-	
-	//父母父父
-	tag += '<tr>';
-	tag += '<td class="mother_1" rowspan="2">';
-	tag += '<td class="father_1">';	
-	tag += '<td class="father">';
-	tag += '父</td>';
-	tag += '<td class="horse">';
-	tag += j_horse.Ped_thtt;
-	tag += '</td>';
-	tag += '<td class="horse_1" width="60"></td>'
-	tag += getFactorImg('horse',j_horse.Factor_thtt_1,j_horse.Factor_thtt_2);
-	tag += '</tr>';
-	
-	//父母母父（見事）
-	tag += '<tr>';
-	tag += '<td class="mother">';
-	tag += '母</td>';
-	tag += '<td class="father">';
-	tag += '父</td>';
-	tag += '<td class="migoto">';
-	tag += j_horse.Ped_thht;
-	tag += '</td>';
-	tag += '<td class="migoto_1" width="60">'
-	tag += j_horse.Paternal_thht; //親系統
-	tag += '</td>'
-	tag += getFactorImg('migoto',j_horse.Factor_thht_1,j_horse.Factor_thht_2);
-	tag += '</tr>';
-	
-	//母父（面白）
-	tag += '<tr>';
-	tag += '<td class="mother">';
-	tag += '母</td>';
-	tag += '<td class="father">';
-	tag += '父</td>';
-	tag += '<td class="omoshiro" colspan="3">';
-	tag += j_horse.Ped_ht;
-	tag += '</td>';
-	tag += '<td class="omoshiro_1" width="60">'
-	tag += j_horse.Paternal_ht; //親系統
-	tag += '</td>'
-	tag += getFactorImg('omoshiro',j_horse.Factor_ht_1,j_horse.Factor_ht_2);
-	tag += '</tr>';
-
-	//母父父
-	tag += '<tr>';
-	tag += '<td class="mother_1" rowspan="6">';
-	tag += '<td class="father_1" rowspan="3">';
-	tag += '<td class="father">';
-	tag += '父</td>';
-	tag += '<td class="horse" colspan="2">';
-	tag += j_horse.Ped_htt;
-	tag += '</td>';
-	tag += '<td class="horse_1" width="60"></td>'
-	tag += getFactorImg('horse',j_horse.Factor_htt_1,j_horse.Factor_htt_2);
-	tag += '</tr>';
-
-	//母父父父
-	tag += '<tr>';
-	tag += '<td class="father_1">';
-	tag += '<td class="father">';
-	tag += '父</td>';
-	tag += '<td class="horse">';
-	tag += j_horse.Ped_httt;
-	tag += '</td>';
-	tag += '<td class="horse_1" width="60"></td>'
-	tag += getFactorImg('horse',j_horse.Factor_httt_1,j_horse.Factor_httt_2);
-	tag += '</tr>';
-
-	//母父母父（見事）
-	tag += '<tr>';
-	tag += '<td class="mother">';
-	tag += '母</td>';
-	tag += '<td class="father">';
-	tag += '父</td>';
-	tag += '<td class="migoto">';
-	tag += j_horse.Ped_htht;
-	tag += '</td>'
-	tag += '<td class="migoto_1" width="60">'
-	tag += j_horse.Paternal_htht; //親系統
-	tag += '</td>'
-	tag += getFactorImg('migoto',j_horse.Factor_htht_1,j_horse.Factor_htht_2);
-	tag += '</tr>';
-
-	//母母父（面白）
-	tag += '<tr>';
-	tag += '<td class="mother">';
-	tag += '母</td>';
-	tag += '<td class="father">';
-	tag += '父</td>';
-	tag += '<td class="omoshiro" colspan="2">';
-	tag += j_horse.Ped_hht;
-	tag += '</td>'
-	tag += '<td class="omoshiro_2" width="60">'
-	tag += j_horse.Paternal_hht; //親系統
-	tag += '</td>'
-	tag += getFactorImg('omoshiro',j_horse.Factor_hht_1,j_horse.Factor_hht_2);
-	tag += '</tr>';
-
-	//母母父父
-	tag += '<tr>';
-	tag += '<td class="mother_1" rowspan="2">';
-	tag += '<td class="father_1" rowspan="1">';
-	tag += '<td class="father">';
-	tag += '父</td>';
-	tag += '<td class="horse">';
-	tag += j_horse.Ped_hhtt;
-	tag += '</td>'
-	tag += '<td class="horse_1" width="60"></td>'
-	tag += getFactorImg('horse',j_horse.Factor_hhtt_1,j_horse.Factor_hhtt_2);
-	tag += '</tr>';
-
-	//母母母父（見事）
-	tag += '<tr>';
-	tag += '<td class="mother">';
-	tag += '母</td>';
-	tag += '<td class="father">';
-	tag += '父</td>';
-	tag += '<td class="migoto">';
-	tag += j_horse.Ped_hhht;
-	tag += '</td>'
-	tag += '<td class="migoto_1" width="60">'
-	tag += j_horse.Paternal_hhht; //親系統
-	tag += '</td>'
-	tag += getFactorImg('migoto',j_horse.Factor_hhht_1,j_horse.Factor_hhht_2);
-	tag += '</tr>';
-
-	tag += '</tbody>';
-	tag += '</table>';
-	return tag;
-
-}
-
-
-function backShow() {
-    header.innerHTML = sessionStorage.getItem('header');
-    tabHorse.innerHTML = sessionStorage.getItem('tabHorse');
-    horselist.innerHTML = sessionStorage.getItem('contents');
-    footer.innerHTML =  sessionStorage.getItem('footer');
-
-}
-
 function initShow(mode) {
+    sessionStorage.clear();
     header.innerHTML = getHeader();
-	tabHorse.innerHTML = getTabHorse(0,0,0,'0');
+    accordion.innerHTML = getAccordion();
+    factorlist.innerHTML = getFactorList();
+    tabHorse.innerHTML = getTabHorse(0,0,0,'0');
     horselist.innerHTML = ''
     footer.innerHTML = getFooter();
     if (mode != 0 ) {
@@ -373,14 +122,11 @@ function getFactorList() {
 	var tag = '';
 	tag += '<div class="tabmenu3">';
     tag += '<label><span>';
-    
-    //tag += '<input type="text" id="inputkeyword" placeholder="キーワード検索&#128270">';
-    tag += '<form class="search-form" role="search">';
+	tag += '<div class="cp_ipselect cp_sl04">';    
     tag += '<input type="submit" value="&#xf002;" class="search-button">';
     tag += '<input type="text" class="search-input" id="inputkeyword" placeholder="キーワード検索">';
-    tag += '</form>';
+    //tag += '</form>';
     
-	tag += '<div class="cp_ipselect cp_sl04">';    
 	tag += '<select id="selectfact" style="text-align:-webkit-center;">';
 	tag += '<option value="" >因子検索</option>';
 	tag += formatFatorList(j_horselist);
@@ -394,10 +140,11 @@ function getFactorList() {
 }
 
 
-function filterHorse(t_arr,ht_arr,mig_arr,jik_arr, ashi_arr, rare_arr, sei, keyword, factor) {
+function filterHorse(t_arr,ht_arr,mig_arr,jik_arr, ashi_arr, rare_arr, sei, keyword, factor, flg) {
 	var sql_M = '';
 	var sql_F = '';
 	var sqlTmp = '';
+	
 	
 	var sql_base  = 'SELECT * FROM ? h';
 	//var sql_base  = 'SELECT Ped_t || Ped_tt || Ped_ttt || Ped_tttt || Ped_ttht || Ped_tht || Ped_thtt || Ped_thht || Ped_ht || Ped_htt || Ped_httt || Ped_htht || Ped_hht || Ped_hhtt || Ped_hhht FROM ? h';
@@ -408,6 +155,9 @@ function filterHorse(t_arr,ht_arr,mig_arr,jik_arr, ashi_arr, rare_arr, sei, keyw
 
 	var sql_filter = '';
 	var formatFlg = 0
+	
+	//
+	accordion.innerHTML = getAccordion(t_arr, ht_arr, mig_arr, jik_arr, rare_arr);
 	
 	// レア牡馬
 	sql_where_M += filterSqlRare(rare_arr, '0');
@@ -430,11 +180,11 @@ function filterHorse(t_arr,ht_arr,mig_arr,jik_arr, ashi_arr, rare_arr, sei, keyw
 	if (sql_filter.length > 0) {
 		sqlTmp += ' AND ';
 		sqlTmp += sql_filter;
-		formatFlg = 1;
+		formatFlg = 2;
 	} else {
 		//検索条件に何も入力されていない場合は0件検索となるように条件を設定する
 		sqlTmp += ' AND 1 = 0';
-		formatFlg = 0;
+		formatFlg = 1;
 	}
 	
 	sqlTmp += sql_order;
@@ -442,11 +192,13 @@ function filterHorse(t_arr,ht_arr,mig_arr,jik_arr, ashi_arr, rare_arr, sei, keyw
 	sql_M = sql_base + sql_where_M + sqlTmp;
 	sql_F = sql_base + sql_where_F + sqlTmp;
 	
-	//種牡馬リストの取得（グローバル変数に格納）
-	j_horselist_M = alasql(sql_M, [horse]);
-	//繁殖牝馬の取得（グローバル変数に格納）
-	j_horselist_F = alasql(sql_F, [horse]);	
-	
+	if (flg == 1) {
+		//性別のタブ以外を選択した場合は検索する
+		//種牡馬リストの取得（グローバル変数に格納）
+		j_horselist_M = alasql(sql_M, [horse]);
+		//繁殖牝馬の取得（グローバル変数に格納）
+		j_horselist_F = alasql(sql_F, [horse]);	
+	}	
 	//リスト表示
 	//var contents = formatHorse(j_horselist_M, j_horselist_F, sei);
 	formatHorse(sei, formatFlg, factor, mig_arr, jik_arr);
@@ -698,39 +450,43 @@ function formatHorse(sei, formatFlg, factor, mig_arr, jik_arr) {
     sessionStorage.setItem('horse_idx_arr' ,horse_idx_arr.join(','));
     
     //血統表に自家製が含まれているときは赤文字表示させる
-    if (jik_arr.length != 0) {
-		var reg = 'omoshiro_2">(';
-    	cnt = 0;
-		while (jik_arr.length > cnt) {
-			var value = jik_arr[cnt];
-			
-			reg += value;
-					
-			if(jik_arr.length != cnt + 1) {
-				reg += '|';
+    if (jik_arr != null) {
+	    if (jik_arr.length != 0) {
+			var reg = 'omoshiro_2">(';
+	    	cnt = 0;
+			while (jik_arr.length > cnt) {
+				var value = jik_arr[cnt];
+				
+				reg += value;
+						
+				if(jik_arr.length != cnt + 1) {
+					reg += '|';
+				}
+				cnt++;
 			}
-			cnt++;
-		}
-		reg += ')';
-		tag = tag.replace(new RegExp(reg,'g'),'omoshiro_R2">$1');
-    }
+			reg += ')';
+			tag = tag.replace(new RegExp(reg,'g'),'omoshiro_R2">$1');
+	    }
+	}
 
     //血統表に見事が含まれているときは赤文字表示させる
-    if (mig_arr.length != 0) {
-		var reg = 'migoto_1">(';
-    	cnt = 0;
-		while (mig_arr.length > cnt) {
-			var value = mig_arr[cnt];
-			
-			reg += value;
-					
-			if(mig_arr.length != cnt + 1) {
-				reg += '|';
+    if (mig_arr != null) {
+	    if (mig_arr.length != 0) {
+			var reg = 'migoto_1">(';
+	    	cnt = 0;
+			while (mig_arr.length > cnt) {
+				var value = mig_arr[cnt];
+				
+				reg += value;
+						
+				if(mig_arr.length != cnt + 1) {
+					reg += '|';
+				}
+				cnt++;
 			}
-			cnt++;
-		}
-		reg += ')';
-		tag = tag.replace(new RegExp(reg,'g'),'migoto_R1">$1');
+			reg += ')';
+			tag = tag.replace(new RegExp(reg,'g'),'migoto_R1">$1');
+	    }
     }
     
     //血統表に検索条件が含まれているときは赤文字で表示させる
@@ -762,41 +518,108 @@ function formatFatorList(j_horselist) {
 }
 
 function getHeader() {
-	//let tag = '<div class="header-inner"><input type="text" placeholder="キーワード検索&#128270"></div>';
-	let tag = '<div class="tabmenu">';
+	let tag = '';
+
+	tag += '<div class="tabmenu">';
 	// 親血統
 	tag += '<label><input name="tab" type="radio" id="0" checked="" ><em>父</em><span><div class="btn2_wrap"><input value="Ro" id="t-Ro" type="checkbox"><label for="t-Ro">Ro</label></div><div class="btn2_wrap"><input value="Ne" id="t-Ne" type="checkbox"><label for="t-Ne">Ne</label></div><div class="btn2_wrap"><input value="Ns" id="t-Ns" type="checkbox"><label for="t-Ns">Ns</label></div><div class="btn2_wrap"><input value="Nt" id="t-Nt" type="checkbox"><label for="t-Nt">Nt</label></div><div class="btn2_wrap"><input value="Ha" id="t-Ha" type="checkbox"><label for="t-Ha">Ha</label></div><div class="btn2_wrap"><input value="St" id="t-St" type="checkbox"><label for="t-St">St</label></div><div class="btn2_wrap"><input value="He" id="t-He" type="checkbox"><label for="t-He">He</label></div><div class="btn2_wrap"><input value="Te" id="t-Te" type="checkbox"><label for="t-Te">Te</label></div><div class="btn2_wrap"><input value="Ph" id="t-Ph" type="checkbox"><label for="t-Ph">Ph</label></div><div class="btn2_wrap"><input value="Ma" id="t-Ma" type="checkbox"><label for="t-Ma">Ma</label></div><div class="btn2_wrap"><input value="Hi" id="t-Hi" type="checkbox"><label for="t-Hi">Hi</label></div><div class="btn2_wrap"><input value="Sw" id="t-Sw" type="checkbox"><label for="t-Sw">Sw</label></div><div class="btn2_wrap"><input value="Fa" id="t-Fa" type="checkbox"><label for="t-Fa">Fa</label></div><div class="btn2_wrap"><input value="To" id="t-To" type="checkbox"><label for="t-To">To</label></div><div class="btn2_wrap"><input value="Ec" id="t-Ec" type="checkbox"><label for="t-Ec">Ec</label></div></span></label>';
 	tag += '<label><input name="tab" type="radio" id="3"><em>母父</em><span><div class="btn2_wrap"><input value="Ro" id="ht-Ro" type="checkbox"><label for="ht-Ro">Ro</label></div><div class="btn2_wrap"><input value="Ne" id="ht-Ne" type="checkbox"><label for="ht-Ne">Ne</label></div><div class="btn2_wrap"><input value="Ns" id="ht-Ns" type="checkbox"><label for="ht-Ns">Ns</label></div><div class="btn2_wrap"><input value="Nt" id="ht-Nt" type="checkbox"><label for="ht-Nt">Nt</label></div><div class="btn2_wrap"><input value="Ha" id="ht-Ha" type="checkbox"><label for="ht-Ha">Ha</label></div><div class="btn2_wrap"><input value="St" id="ht-St" type="checkbox"><label for="ht-St">St</label></div><div class="btn2_wrap"><input value="He" id="ht-He" type="checkbox"><label for="ht-He">He</label></div><div class="btn2_wrap"><input value="Te" id="ht-Te" type="checkbox"><label for="ht-Te">Te</label></div><div class="btn2_wrap"><input value="Ph" id="ht-Ph" type="checkbox"><label for="ht-Ph">Ph</label></div><div class="btn2_wrap"><input value="Ma" id="ht-Ma" type="checkbox"><label for="ht-Ma">Ma</label></div><div class="btn2_wrap"><input value="Hi" id="ht-Hi" type="checkbox"><label for="ht-Hi">Hi</label></div><div class="btn2_wrap"><input value="Sw" id="ht-Sw" type="checkbox"><label for="ht-Sw">Sw</label></div><div class="btn2_wrap"><input value="Fa" id="ht-Fa" type="checkbox"><label for="ht-Fa">Fa</label></div><div class="btn2_wrap"><input value="To" id="ht-To" type="checkbox"><label for="ht-To">To</label></div><div class="btn2_wrap"><input value="Ec" id="ht-Ec" type="checkbox"><label for="ht-Ec">Ec</label></div></span></label>';
 	tag += '<label><input name="tab" type="radio" id="1"><em>見事</em><span><div class="btn2_wrap"><input value="Ro" id="mig-Ro" type="checkbox"><label for="mig-Ro">Ro</label></div><div class="btn2_wrap"><input value="Ne" id="mig-Ne" type="checkbox"><label for="mig-Ne">Ne</label></div><div class="btn2_wrap"><input value="Ns" id="mig-Ns" type="checkbox"><label for="mig-Ns">Ns</label></div><div class="btn2_wrap"><input value="Nt" id="mig-Nt" type="checkbox"><label for="mig-Nt">Nt</label></div><div class="btn2_wrap"><input value="Ha" id="mig-Ha" type="checkbox"><label for="mig-Ha">Ha</label></div><div class="btn2_wrap"><input value="St" id="mig-St" type="checkbox"><label for="mig-St">St</label></div><div class="btn2_wrap"><input value="He" id="mig-He" type="checkbox"><label for="mig-He">He</label></div><div class="btn2_wrap"><input value="Te" id="mig-Te" type="checkbox"><label for="mig-Te">Te</label></div><div class="btn2_wrap"><input value="Ph" id="mig-Ph" type="checkbox"><label for="mig-Ph">Ph</label></div><div class="btn2_wrap"><input value="Ma" id="mig-Ma" type="checkbox"><label for="mig-Ma">Ma</label></div><div class="btn2_wrap"><input value="Hi" id="mig-Hi" type="checkbox"><label for="mig-Hi">Hi</label></div><div class="btn2_wrap"><input value="Sw" id="mig-Sw" type="checkbox"><label for="mig-Sw">Sw</label></div><div class="btn2_wrap"><input value="Fa" id="mig-Fa" type="checkbox"><label for="mig-Fa">Fa</label></div><div class="btn2_wrap"><input value="To" id="mig-To" type="checkbox"><label for="mig-To">To</label></div><div class="btn2_wrap"><input value="Ec" id="mig-Ec" type="checkbox"><label for="mig-Ec">Ec</label></div></span></label>';
-	tag += '<label><input name="tab" type="radio" id="4"><em>１薄め</em><span><div class="btn2_wrap"><input value="Ro" id="jik-Ro" type="checkbox"><label for="jik-Ro">Ro</label></div><div class="btn2_wrap"><input value="Ne" id="jik-Ne" type="checkbox"><label for="jik-Ne">Ne</label></div><div class="btn2_wrap"><input value="Ns" id="jik-Ns" type="checkbox"><label for="jik-Ns">Ns</label></div><div class="btn2_wrap"><input value="Nt" id="jik-Nt" type="checkbox"><label for="jik-Nt">Nt</label></div><div class="btn2_wrap"><input value="Ha" id="jik-Ha" type="checkbox"><label for="jik-Ha">Ha</label></div><div class="btn2_wrap"><input value="St" id="jik-St" type="checkbox"><label for="jik-St">St</label></div><div class="btn2_wrap"><input value="He" id="jik-He" type="checkbox"><label for="jik-He">He</label></div><div class="btn2_wrap"><input value="Te" id="jik-Te" type="checkbox"><label for="jik-Te">Te</label></div><div class="btn2_wrap"><input value="Ph" id="jik-Ph" type="checkbox"><label for="jik-Ph">Ph</label></div><div class="btn2_wrap"><input value="Ma" id="jik-Ma" type="checkbox"><label for="jik-Ma">Ma</label></div><div class="btn2_wrap"><input value="Hi" id="jik-Hi" type="checkbox"><label for="jik-Hi">Hi</label></div><div class="btn2_wrap"><input value="Sw" id="jik-Sw" type="checkbox"><label for="jik-Sw">Sw</label></div><div class="btn2_wrap"><input value="Fa" id="jik-Fa" type="checkbox"><label for="jik-Fa">Fa</label></div><div class="btn2_wrap"><input value="To" id="jik-To" type="checkbox"><label for="jik-To">To</label></div><div class="btn2_wrap"><input value="Ec" id="jik-Ec" type="checkbox"><label for="jik-Ec">Ec</label></div></span></label>';
+	tag += '<label><input name="tab" type="radio" id="4"><em>１薄</em><span><div class="btn2_wrap"><input value="Ro" id="jik-Ro" type="checkbox"><label for="jik-Ro">Ro</label></div><div class="btn2_wrap"><input value="Ne" id="jik-Ne" type="checkbox"><label for="jik-Ne">Ne</label></div><div class="btn2_wrap"><input value="Ns" id="jik-Ns" type="checkbox"><label for="jik-Ns">Ns</label></div><div class="btn2_wrap"><input value="Nt" id="jik-Nt" type="checkbox"><label for="jik-Nt">Nt</label></div><div class="btn2_wrap"><input value="Ha" id="jik-Ha" type="checkbox"><label for="jik-Ha">Ha</label></div><div class="btn2_wrap"><input value="St" id="jik-St" type="checkbox"><label for="jik-St">St</label></div><div class="btn2_wrap"><input value="He" id="jik-He" type="checkbox"><label for="jik-He">He</label></div><div class="btn2_wrap"><input value="Te" id="jik-Te" type="checkbox"><label for="jik-Te">Te</label></div><div class="btn2_wrap"><input value="Ph" id="jik-Ph" type="checkbox"><label for="jik-Ph">Ph</label></div><div class="btn2_wrap"><input value="Ma" id="jik-Ma" type="checkbox"><label for="jik-Ma">Ma</label></div><div class="btn2_wrap"><input value="Hi" id="jik-Hi" type="checkbox"><label for="jik-Hi">Hi</label></div><div class="btn2_wrap"><input value="Sw" id="jik-Sw" type="checkbox"><label for="jik-Sw">Sw</label></div><div class="btn2_wrap"><input value="Fa" id="jik-Fa" type="checkbox"><label for="jik-Fa">Fa</label></div><div class="btn2_wrap"><input value="To" id="jik-To" type="checkbox"><label for="jik-To">To</label></div><div class="btn2_wrap"><input value="Ec" id="jik-Ec" type="checkbox"><label for="jik-Ec">Ec</label></div></span></label>';
 	//究極・５・名牝・優をデフォルトでオン
 	tag += '<label><input name="tab" type="radio" id="5"><em>レア</em><span><div class="btn2_wrap"><input value="6" id="rare-6" type="checkbox" checked="checked"><label for="rare-6">極</label></div><div class="btn2_wrap"><input value="5" id="rare-5" type="checkbox" checked="checked"><label for="rare-5">５</label></div><div class="btn2_wrap"><input value="4" id="rare-4" type="checkbox"><label for="rare-4">４</label></div><div class="btn2_wrap"><input value="3" id="rare-3" type="checkbox"><label for="rare-3">３</label></div><div class="btn2_wrap"><input value="2" id="rare-2" type="checkbox"><label for="rare-2">２</label></div><div class="btn2_wrap"><input value="1" id="rare-1" type="checkbox"><label for="rare-1">１</label></div><div class="btn2_wrap"><input value="Z" id="rare-Z" type="checkbox" checked="checked"><label for="rare-Z">名</label></div><div class="btn2_wrap"><input value="Y" id="rare-Y" type="checkbox" checked="checked"><label for="rare-Y">優</label></div><div class="btn2_wrap"><input value="X" id="rare-X" type="checkbox"><label for="rare-X">良</label></div><div class="btn2_wrap"><input value="W" id="rare-W" type="checkbox"><label for="rare-W">可</label></div><div class="btn2_wrap"><input value="V" id="rare-V" type="checkbox"><label for="rare-V">無</label></div></span></label>';
 	tag += '</div>';
-	tag += getFactorList();
+
 	sessionStorage.setItem('header', tag);
 	return tag;
+}
+
+//アコーディオンのタグ作成
+function getAccordion(t_arr, ht_arr, mig_arr, jik_arr, rare_arr) {
+	let tag = '';
+	let condition = '';
+	
+	if (!t_arr && !ht_arr && !mig_arr && !jik_arr && !rare_arr) {
+		condition += '';
+	} else {
+		condition += getCondition('　父：',t_arr);
+		condition += getCondition('　母父：',ht_arr);
+		condition += getCondition('　見事：',mig_arr);
+		condition += getCondition('　１薄：',jik_arr);
+		//condition += getCondition('レア：',rare_arr);
+	}
+
+	tag += '<dl class="accordion js-accordion">';
+	tag += '<div class="accordion__item js-accordion-trigger">';
+    tag += '<dt class="accordion__title">検索条件の確認</dt>';
+    tag += '<dd class="accordion__content">' + condition + '</dd>';
+	tag += '</div>';
+	tag += '</dl>';
+	
+	return tag;
+}
+
+function getCondition(text,arr) {
+	let cnt = 0;
+	let condition = '';
+
+	if (arr != null) {
+		if (arr.length != 0) {
+	    	cnt = 0;
+	    	condition += text;
+			while (arr.length > cnt) {
+				var value = arr[cnt];
+				
+				condition += value;
+						
+				if(arr.length != cnt + 1) {
+					condition += ',';
+				}
+				cnt++;
+			}
+		}
+	}
+	return condition;
+
 }
 
 function getTabHorse(start,Num_M,Num_F,sei) {
 	let tag = ''
 	
     //タブのボタン部分
-    if (start == 0) {
-    	// 初期
-	    tag += '<div class="tabmenu-head"><label><input name="tab-head" id="0" type="radio" checked="" class="sei"><em>種牡馬</em></label><label><input name="tab-head" id="1" type="radio" class="sei"><em>牝馬</em></label></div>';
-	} else {
-		//2回目以降
-		tag += '<div class="tabmenu-head">';
-		if (sei == '0' ) {
-	    	//牡馬選択時
-		    tag += '<label><input name="tab-head" id="0" type="radio" checked="" class="sei"><em>種牡馬 ' + Num_M + '件</em></label>';
-		    tag += '<label><input name="tab-head" id="1" type="radio" class="sei"><em>牝馬 ' + Num_F + '件</em></label>';
-		} else {
-			//牝馬選択時
-		    tag += '<label><input name="tab-head" id="0" type="radio" class="sei"><em>種牡馬 ' + Num_M + '件</em></label>';
-		    tag += '<label><input name="tab-head" id="1" type="radio" checked="" class="sei"><em>牝馬 ' + Num_F + '件</em></label>';
-		}
-		tag += '</div>';
+    switch (start) {
+    	case 0:
+			// 初期
+			tag += '<div class="tabmenu-head"><label><input name="tab-head" id="0" type="radio" checked="" class="sei"><em>種牡馬</em></label><label><input name="tab-head" id="1" type="radio" class="sei"><em>牝馬</em></label></div>';
+			break;
+		case 1:
+			//2回目以降で検索条件未入力
+			tag += '<div class="tabmenu-head">';
+			if (sei == '0' ) {
+		    	//牡馬選択時
+			    tag += '<label><input name="tab-head" id="0" type="radio" checked="" class="sei"><em>種牡馬</em></label>';
+			    tag += '<label><input name="tab-head" id="1" type="radio" class="sei"><em>牝馬</em></label>';
+			} else {
+				//牝馬選択時
+			    tag += '<label><input name="tab-head" id="0" type="radio" class="sei"><em>種牡馬</em></label>';
+			    tag += '<label><input name="tab-head" id="1" type="radio" checked="" class="sei"><em>牝馬</em></label>';
+			}
+			tag += '</div>';
+			break;
+		case 2:
+			//2回目以降
+			tag += '<div class="tabmenu-head">';
+			if (sei == '0' ) {
+		    	//牡馬選択時
+			    tag += '<label><input name="tab-head" id="0" type="radio" checked="" class="sei"><em>種牡馬 ' + Num_M + '件</em></label>';
+			    tag += '<label><input name="tab-head" id="1" type="radio" class="sei"><em>牝馬 ' + Num_F + '件</em></label>';
+			} else {
+				//牝馬選択時
+			    tag += '<label><input name="tab-head" id="0" type="radio" class="sei"><em>種牡馬 ' + Num_M + '件</em></label>';
+			    tag += '<label><input name="tab-head" id="1" type="radio" checked="" class="sei"><em>牝馬 ' + Num_F + '件</em></label>';
+			}
+			tag += '</div>';
+			break;
 	}
 	sessionStorage.setItem('tabhorse', tag);
     return tag;
@@ -804,10 +627,261 @@ function getTabHorse(start,Num_M,Num_F,sei) {
 
 function getFooter() {
     let tag = '<div class="footertxt">';
-    tag += '<a class="tw_share" href="http://twitter.com/share?url=https://yanaifarm.github.io/index.html&text=ダビ娘&hashtags=ダビ娘" target="_blank">共有</a>';
-    tag += 'ダビ娘<a href="https://twitter.com/yanaiFarm">@やないあいこ牧場</a>　thanks to ふじろん牧場さま</div>';
+    tag += '<a class="tw_share" href="http://twitter.com/share?url=https://yanaifarm.github.io/dabimasData/index.html&text=ダビ娘&hashtags=ダビ娘" target="_blank">共有</a>';
+    tag += 'ダビ娘<a href="https://twitter.com/yanaiFarm">@やないあいこ牧場</a><BR>thanks to ふじろん牧場さま</div>';
     tag += '<button id="page-top" class="page-top"></button>';
 
     sessionStorage.setItem('footer', tag);	
     return tag;
+}
+
+
+
+function getFactorImg(kbn,Factor1,Factor2) {
+	var tag = '';
+	var cnt = 0;
+	
+	//因子１
+	if (Factor1.length > 0) {
+		tag +=  '<td class="factor_' + kbn + '" width="64"><img src="static/img/rfactor_' + Factor1 + '.png" alt=""></td>';
+		cnt++;
+	}
+
+	//因子２
+	if (Factor2.length > 0) {
+		tag +=  '<td class="factor_' + kbn + '" width="64"><img src="static/img/rfactor_' + Factor2 + '.png" alt=""></td>';
+		cnt++;
+	}
+	
+	//因子が足りない分を穴埋めする
+	if (cnt == 1) {
+		tag =   '<td class="factor_' + kbn + '" width="64"></td>' + tag;
+	} else if (cnt == 0) {
+		tag = '<td class="factor_' + kbn + '" width="64"></td><td class="factor_' + kbn + '" width="64"></td>';
+	}
+	return tag;
+}
+
+function getContentsDetail(j_horse) {
+	
+	var tag = '<div class="content"><table class="pedigree" width="100%">';
+	tag += '<tbody>';
+	
+	//父（面白）
+	tag += '<tr>';
+	tag += '<td align="center" class="father" width="30">';
+	tag += '父</td>';
+	tag += '<td class="omoshiro" colspan="4">';
+	tag += j_horse.Ped_t;
+	tag += '</td>';
+	tag += '<td class="omoshiro_1" width="60">'
+	tag += j_horse.Paternal_t; //親系統
+	tag += '</td>'
+	tag += getFactorImg('omoshiro',j_horse.Factor_t_1,j_horse.Factor_t_2);
+	tag += '</tr>';
+	
+	//父父
+	tag += '<tr>';
+	tag += '<td align="center" class="father_1" rowspan="7" width="30">';
+	tag += '<td class="father" width="30">';
+	tag += '父</td>';
+	tag += '<td class="horse" colspan="3">';
+	tag += j_horse.Ped_tt;
+	tag += '</td>';
+	tag += '<td class="horse_1" width="60"></td>'
+	tag += getFactorImg('horse',j_horse.Factor_tt_1,j_horse.Factor_tt_2);
+	tag += '</tr>';
+	
+	//父父父
+	tag += '<tr>';
+	tag += '<td align="center" class="father_1" rowspan="3" width="30">';
+	tag += '<td class="father" width="30">';
+	tag += '父</td>';
+	tag += '<td class="horse" colspan="2">';
+	tag += j_horse.Ped_ttt;
+	tag += '</td>';
+	tag += '<td class="horse_1" width="60"></td>'
+	tag += getFactorImg('horse',j_horse.Factor_ttt_1,j_horse.Factor_ttt_2);
+	tag += '</tr>';
+	
+	//父父父父
+	tag += '<tr>';
+	tag += '<td align="center" class="father_1" width="30">';
+	tag += '<td class="father" width="30">';
+	tag += '父</td>';
+	tag += '<td class="horse">';
+	tag += j_horse.Ped_tttt;
+	tag += '</td>';
+	tag += '<td class="horse_1" width="60"></td>'
+	tag += getFactorImg('horse',j_horse.Factor_tttt_1,j_horse.Factor_tttt_2);
+	tag += '</tr>';
+	
+	//父父母父（見事）
+	tag += '<tr>';
+	tag += '<td class="mother">';
+	tag += '母</td>';
+	tag += '<td class="father">';
+	tag += '父</td>';
+	tag += '<td class="migoto">';
+	tag += j_horse.Ped_ttht;
+	tag += '</td>';
+	tag += '<td class="migoto_1" width="60">'
+	tag += j_horse.Paternal_ttht; //親系統
+	tag += '</td>'
+	tag += getFactorImg('migoto',j_horse.Factor_ttht_1,j_horse.Factor_ttht_2);
+	tag += '</tr>';
+	
+	//父母父（面白）
+	tag += '<tr>';
+	tag += '<td class="mother">';
+	tag += '母</td>';
+	tag += '<td class="father" rowspan="1">';
+	tag += '父</td>';
+	tag += '<td class="omoshiro" colspan="2">';
+	tag += j_horse.Ped_tht;
+	tag += '</td>';
+	tag += '<td class="omoshiro_2" width="60">'
+	tag += j_horse.Paternal_tht; //親系統
+	tag += '</td>'
+	tag += getFactorImg('omoshiro',j_horse.Factor_tht_1,j_horse.Factor_tht_2);
+	tag += '</tr>';
+	
+	//父母父父
+	tag += '<tr>';
+	tag += '<td class="mother_1" rowspan="2">';
+	tag += '<td class="father_1">';	
+	tag += '<td class="father">';
+	tag += '父</td>';
+	tag += '<td class="horse">';
+	tag += j_horse.Ped_thtt;
+	tag += '</td>';
+	tag += '<td class="horse_1" width="60"></td>'
+	tag += getFactorImg('horse',j_horse.Factor_thtt_1,j_horse.Factor_thtt_2);
+	tag += '</tr>';
+	
+	//父母母父（見事）
+	tag += '<tr>';
+	tag += '<td class="mother">';
+	tag += '母</td>';
+	tag += '<td class="father">';
+	tag += '父</td>';
+	tag += '<td class="migoto">';
+	tag += j_horse.Ped_thht;
+	tag += '</td>';
+	tag += '<td class="migoto_1" width="60">'
+	tag += j_horse.Paternal_thht; //親系統
+	tag += '</td>'
+	tag += getFactorImg('migoto',j_horse.Factor_thht_1,j_horse.Factor_thht_2);
+	tag += '</tr>';
+	
+	//母父（面白）
+	tag += '<tr>';
+	tag += '<td class="mother">';
+	tag += '母</td>';
+	tag += '<td class="father">';
+	tag += '父</td>';
+	tag += '<td class="omoshiro" colspan="3">';
+	tag += j_horse.Ped_ht;
+	tag += '</td>';
+	tag += '<td class="omoshiro_1" width="60">'
+	tag += j_horse.Paternal_ht; //親系統
+	tag += '</td>'
+	tag += getFactorImg('omoshiro',j_horse.Factor_ht_1,j_horse.Factor_ht_2);
+	tag += '</tr>';
+
+	//母父父
+	tag += '<tr>';
+	tag += '<td class="mother_1" rowspan="6">';
+	tag += '<td class="father_1" rowspan="3">';
+	tag += '<td class="father">';
+	tag += '父</td>';
+	tag += '<td class="horse" colspan="2">';
+	tag += j_horse.Ped_htt;
+	tag += '</td>';
+	tag += '<td class="horse_1" width="60"></td>'
+	tag += getFactorImg('horse',j_horse.Factor_htt_1,j_horse.Factor_htt_2);
+	tag += '</tr>';
+
+	//母父父父
+	tag += '<tr>';
+	tag += '<td class="father_1">';
+	tag += '<td class="father">';
+	tag += '父</td>';
+	tag += '<td class="horse">';
+	tag += j_horse.Ped_httt;
+	tag += '</td>';
+	tag += '<td class="horse_1" width="60"></td>'
+	tag += getFactorImg('horse',j_horse.Factor_httt_1,j_horse.Factor_httt_2);
+	tag += '</tr>';
+
+	//母父母父（見事）
+	tag += '<tr>';
+	tag += '<td class="mother">';
+	tag += '母</td>';
+	tag += '<td class="father">';
+	tag += '父</td>';
+	tag += '<td class="migoto">';
+	tag += j_horse.Ped_htht;
+	tag += '</td>'
+	tag += '<td class="migoto_1" width="60">'
+	tag += j_horse.Paternal_htht; //親系統
+	tag += '</td>'
+	tag += getFactorImg('migoto',j_horse.Factor_htht_1,j_horse.Factor_htht_2);
+	tag += '</tr>';
+
+	//母母父（面白）
+	tag += '<tr>';
+	tag += '<td class="mother">';
+	tag += '母</td>';
+	tag += '<td class="father">';
+	tag += '父</td>';
+	tag += '<td class="omoshiro" colspan="2">';
+	tag += j_horse.Ped_hht;
+	tag += '</td>'
+	tag += '<td class="omoshiro_2" width="60">'
+	tag += j_horse.Paternal_hht; //親系統
+	tag += '</td>'
+	tag += getFactorImg('omoshiro',j_horse.Factor_hht_1,j_horse.Factor_hht_2);
+	tag += '</tr>';
+
+	//母母父父
+	tag += '<tr>';
+	tag += '<td class="mother_1" rowspan="2">';
+	tag += '<td class="father_1" rowspan="1">';
+	tag += '<td class="father">';
+	tag += '父</td>';
+	tag += '<td class="horse">';
+	tag += j_horse.Ped_hhtt;
+	tag += '</td>'
+	tag += '<td class="horse_1" width="60"></td>'
+	tag += getFactorImg('horse',j_horse.Factor_hhtt_1,j_horse.Factor_hhtt_2);
+	tag += '</tr>';
+
+	//母母母父（見事）
+	tag += '<tr>';
+	tag += '<td class="mother">';
+	tag += '母</td>';
+	tag += '<td class="father">';
+	tag += '父</td>';
+	tag += '<td class="migoto">';
+	tag += j_horse.Ped_hhht;
+	tag += '</td>'
+	tag += '<td class="migoto_1" width="60">'
+	tag += j_horse.Paternal_hhht; //親系統
+	tag += '</td>'
+	tag += getFactorImg('migoto',j_horse.Factor_hhht_1,j_horse.Factor_hhht_2);
+	tag += '</tr>';
+
+	tag += '</tbody>';
+	tag += '</table>';
+	return tag;
+
+}
+
+function backShow() {
+    header.innerHTML = sessionStorage.getItem('header');
+    tabHorse.innerHTML = sessionStorage.getItem('tabHorse');
+    horselist.innerHTML = sessionStorage.getItem('contents');
+    footer.innerHTML =  sessionStorage.getItem('footer');
+
 }
