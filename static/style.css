@@ -8,6 +8,77 @@ h1, h2 {
   margin: 0;
 }
 
+/* アコーディオン全体 */
+.accordion {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* アコーディオン */
+.accordion__item {
+  border: 1px solid #00aaee;
+  margin-top: 5px;
+  cursor: pointer;
+  background-color: #ecf0fc;
+  color: #4169e1;
+}
+
+/* アコーディオンのタイトル */
+.accordion__title {
+  position: relative;
+  padding: 5px 60px 15px 20px;
+  font-weight: bold;
+  cursor: pointer;
+  background-color: #4169e1;
+  color: #ecf0fc;
+  font-size: 20px;
+  height: 15px;
+}
+
+/* (+)アイコン */
+.accordion__title::before,
+.accordion__title::after {
+  content: "";
+  position: absolute;
+  right: 20px;
+  top: 0;
+  bottom: 0;
+  margin: auto 0;
+  background-color: #ecf0fc;
+  width: 20px;
+  height: 4px;
+  transition: all 0.3s;
+}
+
+.accordion__title::after {
+  transform: rotate(90deg);
+}
+
+/* アコーディオンのコンテンツ */
+.accordion__content {
+  padding: 10px 20px 15px 15px;
+  display: none;
+  cursor: pointer;
+  background-color: #ecf0fc;
+  color: #4169e1;
+  font-size: 20px;
+}
+
+.accordion__content.is-open {
+  display: block;
+}
+
+/* アコーディオン展開時の(-)アイコン */
+.accordion__item.is-active .accordion__title::before {
+  transform: rotate(180deg);
+}
+
+.accordion__item.is-active .accordion__title::after {
+  transform: rotate(180deg);
+  opacity: 0;
+}
+
+
 /* ボタンのスタイル */
 .page-top {
   /* buttonタグのリセットCSS */
@@ -212,7 +283,7 @@ tr:hover {
 }
 .tabmenu-head input[type="radio"]:checked + em{
 	background: #4169e1;
-	color: #fff;
+	color: #ecf0fc;
 }
 .tabmenu-head input[type="radio"]:checked + em::after {
 	position: absolute;
@@ -834,6 +905,7 @@ img {
 
 
 .cp_ipselect {
+	position: relative;
 	overflow: hidden;
 	text-align: center;
 	margin:0 auto;
@@ -906,15 +978,27 @@ img {
     justify-content: center;  align-items: center;
 
     background: #FFF;
-    font-size: 14px;
+    font-size: 18px;
 }
 .search-input {
+    width: 25%;
+    height: 100%;
+    display: block;
+    /*padding: 0px 20px;*/
+    padding: 8px 38px 8px 8px;
+    border-radius: 50px;
+    border: 2px solid #DF575C;
+    line-height: 1;
+    outline: 0;
+    display: inline;
+    justify-content: center;  align-items: center;
     border: none;  background: none;  outline: none;
     width: 25%;
     font-size: 18px;
     color: #333;
 }
 .search-button {
+
     border: none;  background: none;  outline: none;
     color: #999;  font-weight: 1000;  font-family: "Font Awesome 5 Free";
 
@@ -925,12 +1009,24 @@ img {
 }
 
 /*検索ボックス↓*/
-.cp_ipselect.cp_sl04 input {
+.cp_ipselect.cp_sl04 input[type='submit'] {
+
+    border: none;  background: none;  outline: none;
+    color: #999;  font-weight: 1000;  font-family: "Font Awesome 5 Free";
+
+    transition: color 0.3s ease 0s;
+    position: absolute;
+    top: 50%;
+    font-size: 20px;
+    transform: translateY(-50%);    
+}
+
+.cp_ipselect.cp_sl04 input[type='text'] {
   width: 28%;
   height: 100%;
   display: block;
   /*padding: 0px 20px;*/
-  padding: 8px 38px 8px 8px;
+  padding: 8px 8px 8px 30px;
   border-radius: 50px;
   border: 2px solid #DF575C;
   font-size: 18px;
@@ -939,11 +1035,11 @@ img {
   display: inline;
 }
 
-.cp_ipselect.cp_sl04 input:focus {
+.cp_ipselect.cp_sl04 input[type='text']:focus {
   width: 28%;
   height: 100%;
   display: block;
-  padding: 8px 38px 8px 8px;
+  padding: 8px 8px 8px 30px;
   border-radius: 50px;
   border: 2px solid #DF575C;
   font-size: 18px;
@@ -1029,7 +1125,7 @@ img {
   padding: .0em 1.0em;
   margin: 0.4em;
   background-color: #AAC4F2;
-  color: #fff;
+  color: #222730;
   text-decoration: none;
   border-style: none;
   border-radius: 5px;
