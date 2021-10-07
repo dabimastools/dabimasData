@@ -15,91 +15,6 @@ var j_horselist_F = '';
 
 initShow(0);
 
-function getSelfFactorImg(Factor1, Factor2) {
-	var tag = '';
-	var cnt = 0;
-
-	if(Factor1 != '') {
-		tag +=  '<img src="static/img/rfactor_' + Factor1 + '.png" alt="">';
-	}
-
-	if(Factor2 != '') {
-		tag +=  '<img src="static/img/rfactor_' + Factor2 + '.png" alt="">';
-	}
-	
-	tag +='&nbsp';
-	return tag;
-}
-
-
-function getHeaderDetail(j_horse) {
-	var tag = '<div class="horsedata2"><table class="horse_spec" width="100%"><tbody><tr><th class="header01" width="10%">';
-	//レア
-	if (j_horse.Ultimate == 1) {
-		tag += '究極';
-	} else {
-		tag += j_horse.Rare;
-	}
-	
-	tag += '</th><td width="60%"><label>';
-	//馬名
-	tag += j_horse.HorseName;
-	//自分の因子
-	tag += '<div class="factor_02_img" >';
-	tag += getSelfFactorImg(j_horse.Factor1, j_horse.Factor2);
-	//系統
-	tag += j_horse.Category
-	tag += '</div></label></td>';
-	tag += '</td>';
-	
-	tag += '<th class="header01" width="10%">非凡</th><td>';
-	if (j_horse.TalentId != 0) {
-		tag += j_horse.TalentName;
-	} else {
-		tag += 'なし'
-	}
-	tag += '</td></tr></tbody></table>';
-	
-	tag += '</tbody></table><table width="100%"><tbody><tr>';
-	tag += '<th class="header01">';
-	tag += '脚質</th><th class="header01">成長</th>	<th class="header01">実</th><th class="header01">気</th><th class="header01">安</th>';
-	tag += '<th class="header01">底</th><th class="header01">体</th><th class="header01">ダ</th><th class="header01">距離</th><th class="header01">面白</th><th class="header01">見事</th></tr><tr><td>';
-	tag += j_horse.RunningStyle;
-	tag += '</td><td>';
-	tag += j_horse.Growth;
-	tag += '</td><td>';
-	tag += j_horse.Achievement;
-	tag += '</td><td>';
-	tag += j_horse.Clemency;
-	tag += '</td><td>';
-	tag += j_horse.Stable;
-	tag += '</td><td>';
-	tag += j_horse.Potential;
-	tag += '</td><td>';
-	tag += j_horse.Health;
-	tag += '</td><td>';
-	tag += j_horse.Dirt;
-	tag += '</td><td>';
-	tag += '<p>';
-	tag += j_horse.DistanceMin;
-	tag += '～';
-	tag += '</p><p>';
-	tag += j_horse.DistanceMax;
-	tag += '</p></td><td>';
-	tag += j_horse.Paternal_t + ' ';
-	tag += j_horse.Paternal_tht + ' ';
-	tag += j_horse.Paternal_ht + ' ';
-	tag += j_horse.Paternal_hht + ' ';
-	tag += '</td><td>';
-	tag += j_horse.Paternal_ttht + ' ';
-	tag += j_horse.Paternal_thht + ' ';
-	tag += j_horse.Paternal_htht + ' ';
-	tag += j_horse.Paternal_hhht + ' ';
-	tag += '</td></tr></tbody></table></div>';
-	
-	return tag;
-}
-
 function initShow(mode) {
     sessionStorage.clear();
     header.innerHTML = getHeader();
@@ -522,11 +437,11 @@ function getHeader() {
     tag += '<input type="submit" value="&#xf002;" class="search-button">';
     tag += '<input type="text" class="search-input" id="inputkeyword" placeholder="キーワード検索">';
 
-    tag += '<img src="static/img/reset.png" alt="" align="right" width="35px" height="35px" onclick="initShow(1);">';
+    tag += '<img src="static/img/reset.png" alt="" align="right" width="38px" height="38px" onclick="initShow(1);">';
     tag += '</span></label>';
     tag += '</div>';
 
-
+	tag += '<form id="allcheck">';
 	tag += '<div class="tabmenu">';
 	// 親血統
 	tag += '<label><input name="tab" type="radio" id="0" checked="" ><em>父</em><span><div class="btn2_wrap"><input value="Ro" id="t-Ro" type="checkbox"><label for="t-Ro">Ro</label></div><div class="btn2_wrap"><input value="Ne" id="t-Ne" type="checkbox"><label for="t-Ne">Ne</label></div><div class="btn2_wrap"><input value="Ns" id="t-Ns" type="checkbox"><label for="t-Ns">Ns</label></div><div class="btn2_wrap"><input value="Nt" id="t-Nt" type="checkbox"><label for="t-Nt">Nt</label></div><div class="btn2_wrap"><input value="Ha" id="t-Ha" type="checkbox"><label for="t-Ha">Ha</label></div><div class="btn2_wrap"><input value="St" id="t-St" type="checkbox"><label for="t-St">St</label></div><div class="btn2_wrap"><input value="He" id="t-He" type="checkbox"><label for="t-He">He</label></div><div class="btn2_wrap"><input value="Te" id="t-Te" type="checkbox"><label for="t-Te">Te</label></div><div class="btn2_wrap"><input value="Ph" id="t-Ph" type="checkbox"><label for="t-Ph">Ph</label></div><div class="btn2_wrap"><input value="Ma" id="t-Ma" type="checkbox"><label for="t-Ma">Ma</label></div><div class="btn2_wrap"><input value="Hi" id="t-Hi" type="checkbox"><label for="t-Hi">Hi</label></div><div class="btn2_wrap"><input value="Sw" id="t-Sw" type="checkbox"><label for="t-Sw">Sw</label></div><div class="btn2_wrap"><input value="Fa" id="t-Fa" type="checkbox"><label for="t-Fa">Fa</label></div><div class="btn2_wrap"><input value="To" id="t-To" type="checkbox"><label for="t-To">To</label></div><div class="btn2_wrap"><input value="Ec" id="t-Ec" type="checkbox"><label for="t-Ec">Ec</label></div></span></label>';
@@ -536,7 +451,8 @@ function getHeader() {
 	//究極・５・名牝・優をデフォルトでオン
 	tag += '<label><input name="tab" type="radio" id="5"><em>レア</em><span><div class="btn2_wrap"><input value="6" id="rare-6" type="checkbox" checked="checked"><label for="rare-6">極</label></div><div class="btn2_wrap"><input value="5" id="rare-5" type="checkbox" checked="checked"><label for="rare-5">５</label></div><div class="btn2_wrap"><input value="4" id="rare-4" type="checkbox"><label for="rare-4">４</label></div><div class="btn2_wrap"><input value="3" id="rare-3" type="checkbox"><label for="rare-3">３</label></div><div class="btn2_wrap"><input value="2" id="rare-2" type="checkbox"><label for="rare-2">２</label></div><div class="btn2_wrap"><input value="1" id="rare-1" type="checkbox"><label for="rare-1">１</label></div><div class="btn2_wrap"><input value="Z" id="rare-Z" type="checkbox" checked="checked"><label for="rare-Z">名</label></div><div class="btn2_wrap"><input value="Y" id="rare-Y" type="checkbox" checked="checked"><label for="rare-Y">優</label></div><div class="btn2_wrap"><input value="X" id="rare-X" type="checkbox"><label for="rare-X">良</label></div><div class="btn2_wrap"><input value="W" id="rare-W" type="checkbox"><label for="rare-W">可</label></div><div class="btn2_wrap"><input value="V" id="rare-V" type="checkbox"><label for="rare-V">無</label></div></span></label>';
 	tag += '</div>';
-
+	tag += '</form>';
+	
 	sessionStorage.setItem('header', tag);
 	return tag;
 }
@@ -668,6 +584,8 @@ function getFooter() {
 }
 
 
+
+///////以下使わないソース
 
 function getFactorImg(kbn,Factor1,Factor2) {
 	var tag = '';
@@ -908,6 +826,91 @@ function getContentsDetail(j_horse) {
 	tag += '</table>';
 	return tag;
 
+}
+
+function getSelfFactorImg(Factor1, Factor2) {
+	var tag = '';
+	var cnt = 0;
+
+	if(Factor1 != '') {
+		tag +=  '<img src="static/img/rfactor_' + Factor1 + '.png" alt="">';
+	}
+
+	if(Factor2 != '') {
+		tag +=  '<img src="static/img/rfactor_' + Factor2 + '.png" alt="">';
+	}
+	
+	tag +='&nbsp';
+	return tag;
+}
+
+
+function getHeaderDetail(j_horse) {
+	var tag = '<div class="horsedata2"><table class="horse_spec" width="100%"><tbody><tr><th class="header01" width="10%">';
+	//レア
+	if (j_horse.Ultimate == 1) {
+		tag += '究極';
+	} else {
+		tag += j_horse.Rare;
+	}
+	
+	tag += '</th><td width="60%"><label>';
+	//馬名
+	tag += j_horse.HorseName;
+	//自分の因子
+	tag += '<div class="factor_02_img" >';
+	tag += getSelfFactorImg(j_horse.Factor1, j_horse.Factor2);
+	//系統
+	tag += j_horse.Category
+	tag += '</div></label></td>';
+	tag += '</td>';
+	
+	tag += '<th class="header01" width="10%">非凡</th><td>';
+	if (j_horse.TalentId != 0) {
+		tag += j_horse.TalentName;
+	} else {
+		tag += 'なし'
+	}
+	tag += '</td></tr></tbody></table>';
+	
+	tag += '</tbody></table><table width="100%"><tbody><tr>';
+	tag += '<th class="header01">';
+	tag += '脚質</th><th class="header01">成長</th>	<th class="header01">実</th><th class="header01">気</th><th class="header01">安</th>';
+	tag += '<th class="header01">底</th><th class="header01">体</th><th class="header01">ダ</th><th class="header01">距離</th><th class="header01">面白</th><th class="header01">見事</th></tr><tr><td>';
+	tag += j_horse.RunningStyle;
+	tag += '</td><td>';
+	tag += j_horse.Growth;
+	tag += '</td><td>';
+	tag += j_horse.Achievement;
+	tag += '</td><td>';
+	tag += j_horse.Clemency;
+	tag += '</td><td>';
+	tag += j_horse.Stable;
+	tag += '</td><td>';
+	tag += j_horse.Potential;
+	tag += '</td><td>';
+	tag += j_horse.Health;
+	tag += '</td><td>';
+	tag += j_horse.Dirt;
+	tag += '</td><td>';
+	tag += '<p>';
+	tag += j_horse.DistanceMin;
+	tag += '～';
+	tag += '</p><p>';
+	tag += j_horse.DistanceMax;
+	tag += '</p></td><td>';
+	tag += j_horse.Paternal_t + ' ';
+	tag += j_horse.Paternal_tht + ' ';
+	tag += j_horse.Paternal_ht + ' ';
+	tag += j_horse.Paternal_hht + ' ';
+	tag += '</td><td>';
+	tag += j_horse.Paternal_ttht + ' ';
+	tag += j_horse.Paternal_thht + ' ';
+	tag += j_horse.Paternal_htht + ' ';
+	tag += j_horse.Paternal_hhht + ' ';
+	tag += '</td></tr></tbody></table></div>';
+	
+	return tag;
 }
 
 function backShow() {
