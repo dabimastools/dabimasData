@@ -56,7 +56,7 @@ h1, h2 {
 
 /* アコーディオンのコンテンツ */
 .accordion__content {
-  padding: 10px 20px 15px 15px;
+  padding: 10px 20px 10px 0px;
   display: none;
   cursor: pointer;
   background-color: #ecf0fc;
@@ -248,6 +248,7 @@ tr:hover {
 .tabmenu-head{
 	position: relative;
 	font-size: 0;
+	display: inline;
 }
 .tabmenu-head span{
 	position: absolute;
@@ -258,7 +259,7 @@ tr:hover {
 	padding: 10px;
 	border: 1px solid #0ae;
 	-webkit-border-radius: 0 6px 6px 6px;
-	border-radius: 0 6px 6px 6px;
+	border-radius:  0 6px 6px 6px;
 	font-size: 18px;
 }
 .tabmenu-head input[type="radio"]{
@@ -269,9 +270,9 @@ tr:hover {
 	z-index: 100;
 	display: inline-block;
 	padding: 4px 0 0;
-	min-width: 50%;
-	-webkit-border-radius: 6px 6px 0 0;
-	border-radius: 6px 6px 0 0;
+	min-width: 25%;
+	-webkit-border-radius: 20px 20px 0 0;
+	border-radius: 20px 20px 0 0;
 	background: #ddd;
 	
 	color: #000;
@@ -280,6 +281,7 @@ tr:hover {
 	font-style: normal;
 	line-height: 30px;
 	cursor: pointer;
+	height: 35px;
 }
 .tabmenu-head input[type="radio"]:checked + em{
 	background: #4169e1;
@@ -300,6 +302,71 @@ tr:hover {
 .tabmenu-head input[type="radio"]:checked + em ~ span{
 	display: block;
 }
+
+/*因子検索↓ */
+.selectdiv {
+  position: relative;
+  /*Don't really need this just for demo styling*/
+  overflow: hidden;
+  text-align: center;
+  margin:0 auto;
+  width: 50%;
+  display: inline;
+  float: right;
+}
+
+/* IE11 hide native button */
+select::-ms-expand {
+display: none;
+}
+
+.selectdiv:after {
+  content: '<>';
+  font: 17px "Consolas", monospace;
+  color: #4169e1;
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+  right: 11px;
+  /*Adjust for position however you want*/
+  
+  top: 10px;
+  padding: 0 0 2px;
+  border-bottom: 1px solid #999;
+  /*left line */
+  
+  position: absolute;
+  pointer-events: none;
+}
+
+.selectdiv select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  /* Add some styling */
+  
+  display: block;
+  width: 100%;
+  max-width: 320px;
+  height: 30px;
+  float: right;
+  margin: 5px 0px;
+  padding: 0px 24px;
+  font-size: 16px;
+  line-height: 1.75;
+  color: #333;
+  background-color: #ffffff;
+  background-image: none;
+  border: 1px solid #4169e1;
+  -ms-word-break: normal;
+  word-break: normal;
+}
+
+.selectdiv select:focus {
+  outline: 1px solid #4169e1;
+}
+/*因子検索↑ */
 
 .tabmenu2{
 	position: relative;
@@ -329,9 +396,9 @@ tr:hover {
 	top: 5px;
 	display: block;
 	padding: 10px;
-	border-bottom:1px solid #0ae;
-    border-left:1px solid #0ae;
-    border-right:1px solid #0ae;
+	border-bottom:0px solid #0ae;
+    border-left:0px solid #0ae;
+    border-right:0px solid #0ae;
 	
 	--webkit-border-radius: 0 6px 6px 6px;
 	--border-radius: 0 6px 6px 6px;
@@ -366,8 +433,8 @@ tr:hover {
 	padding: 4px 0 0;
 	/*min-width: 25%;*/
 	min-width: 20%;
-	-webkit-border-radius: 6px 6px 0 0;
-	border-radius: 6px 6px 0 0;
+	-webkit-border-radius: 10px 10px 0 0;
+	border-radius: 10px 10px 0 0;
 	background: #ddd;
 	
 	color: #000;
@@ -395,6 +462,8 @@ tr:hover {
 .tabmenu input[type="radio"]:checked + em ~ span{
 	display: block;
 }
+
+
 
 .btn2_wrap{
     display:inline-block;
@@ -471,14 +540,6 @@ height:720px;
 
 }
 
-.horsedata2 {
-border-collapse: collapse;
-text-align: center;
- overflow-y:scroll;
- font-size: 20px;
-
-}
-
 .horsedata table {
 	border-collapse: collapse;
 	border-spacing: 0;
@@ -516,24 +577,21 @@ text-align: center;
 
 
 .horsedata2 {
-border-collapse: collapse;
-text-align: center;
- overflow-y:scroll;
-
+  width: 100%;
+  border-collapse: collapse;
+  text-align: center;
+  overflow-y:scroll;
 }
 
 .horsedata2 table {
-	border-collapse: collapse;
-	border-spacing: 0;
-	box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.33);
-	font-size: 20px;
-
+  border-collapse: collapse;
+  border-spacing: 0;
+  box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.33);
+  font-size: 20px;
 }
 
 .horsedata2 th {
-
    border-width:0px 1px 1px 1px;
-
 }
 
 .horsedata2 label {
@@ -544,11 +602,10 @@ text-align: center;
 .horsedata2 td, th {
   padding: 0;
   border: 1px solid #666;
- border-collapse: separate;
-  border-spacing: 5px 3px;	
+  border-collapse: separate;
+  border-spacing: 5px 3px;
   border: 1px solid #b9b9b9;
 }
-
 
 .horsedata2 .factor {
   border: none;
@@ -696,6 +753,15 @@ ul li, ol li {
 .content .inner {
   margin: 10px 0; }
 
+.content .father_0 {
+  background-color: #3e499c;
+  color: #FFFFFF;
+  border-bottom: 1px solid #3e499c;
+  vertical-align: middle;
+  font-size: x-large;
+  text-align: center;
+  font-weight: bold; }
+
 .content .father {
   background-color: #3e499c;
   color: #FFFFFF;
@@ -709,6 +775,15 @@ ul li, ol li {
   background-color: #3e499c;
   color: #FFFFFF;
   border-top: none;
+  vertical-align: middle;
+  font-size: x-large;
+  text-align: center;
+  font-weight: bold; }
+
+.content .mother_0 {
+  background-color: #b34e5f;
+  color: #FFFFFF;
+  border-bottom: 1px solid #b34e5f;
   vertical-align: middle;
   font-size: x-large;
   text-align: center;
@@ -904,184 +979,59 @@ img {
 }
 
 
-.cp_ipselect {
-	position: relative;
-	overflow: hidden;
-	text-align: center;
-	margin:0 auto;
-	width: 50%;
-	display: inline;
-}
-.cp_ipselect select {
-	width: 50%;
-	padding-right: 1em;
-	cursor: pointer;
-	text-indent: 0.01px;
-	text-overflow: ellipsis;
-	border: none;
-	outline: none;
-	background: transparent;
-	background-image: none;
-	box-shadow: none;
-	appearance: none;
-}
-.cp_ipselect select::-ms-expand {
-    display: none;
-	font-size: 20px;
-}
-.cp_ipselect.cp_sl04 {
-	position: relative;
-	background: #ffffff;
-}
-.cp_ipselect.cp_sl04::before {a {
-    color: #ec7b14;
-    text-decoration: underline;
-}
-	position: absolute;
-	top: 0.8em;
-	right: 0.8em;
-	width: 0;
-	height: 0;
-	padding: 0;
-	content: '';
-	border-left: 6px solid transparent;
-	border-right: 6px solid transparent;
-	--border-top: 6px solid #FFAF99;
-	pointer-events: none;
-}
-.cp_ipselect.cp_sl04 select {
-	padding: 8px 38px 8px 8px;
-	--color: #da3c41;
-	border-radius: 2px;
-	border-radius: 50px;
-	border: 2px solid #DF575C;
-	font-size: 18px;
-}
-
-.cp_ipselect span {
-	display:inline;
-	border:none;
-    text-align: right;
-}
-
-.search-form {
-    width: 25%;
-    height: 100%;
-    display: block;
-    /*padding: 0px 20px;*/
-    padding: 8px 38px 8px 8px;
-    border-radius: 50px;
-    border: 2px solid #DF575C;
-    line-height: 1;
-    outline: 0;
-    display: inline;
-    justify-content: center;  align-items: center;
-
-    background: #FFF;
-    font-size: 18px;
-}
-.search-input {
-    width: 25%;
-    height: 100%;
-    display: block;
-    /*padding: 0px 20px;*/
-    padding: 8px 38px 8px 8px;
-    border-radius: 50px;
-    border: 2px solid #DF575C;
-    line-height: 1;
-    outline: 0;
-    display: inline;
-    justify-content: center;  align-items: center;
-    border: none;  background: none;  outline: none;
-    width: 25%;
-    font-size: 18px;
-    color: #333;
-}
-.search-button {
-
-    border: none;  background: none;  outline: none;
-    color: #999;  font-weight: 1000;  font-family: "Font Awesome 5 Free";
-
-    transition: color 0.3s ease 0s;
-}
-.search-button:hover {
-    color: #333;
-}
 
 /*検索ボックス↓*/
-.cp_ipselect.cp_sl04 input[type='submit'] {
+.search{
+	position: relative;
+	--height: 200px;
+	font-size: 25px;
+}
+.search span{
+	top: 5px;
+	display: block;
+	padding: 10px;
+	border-bottom:0px;
+    border-left:0px;
+    border-right:0px;
+	font-size: 25px;
+}
 
-    border: none;  background: none;  outline: none;
-    color: #999;  font-weight: 1000;  font-family: "Font Awesome 5 Free";
-
-    transition: color 0.3s ease 0s;
-    position: absolute;
-    top: 50%;
+.search input[type='text'] {
+    width: 80%;
+    height: 100%;
+    display: block;
+    /*padding: 0px 20px;*/
+    padding: 8px 38px 8px 40px;
+    border-radius: 50px;
+    border: 1px solid #00aaee;
+    line-height: 1;
+    outline: 0;
+    display: inline;
+    justify-content: center;  align-items: center;
+    /*border: none;  background: none;  outline: none;*/
     font-size: 20px;
-    transform: translateY(-50%);    
+    color: #333;
 }
+.search input[type='submit'] {
 
-.cp_ipselect.cp_sl04 input[type='text'] {
-  width: 28%;
-  height: 100%;
-  display: block;
-  /*padding: 0px 20px;*/
-  padding: 8px 8px 8px 30px;
-  border-radius: 50px;
-  border: 2px solid #DF575C;
-  font-size: 18px;
-  line-height: 1;
-  outline: 0;
-  display: inline;
+    position: absolute; left: 10px; top: 50%; transform: translateY(-50%);
+    border: none;  background: none;  outline: none; font-size: 20px;
+    color: #999;  font-weight: 1000;  font-family: "Font Awesome 5 Free";
+    transition: color 0.3s ease 0s;
+
 }
-
-.cp_ipselect.cp_sl04 input[type='text']:focus {
-  width: 28%;
-  height: 100%;
-  display: block;
-  padding: 8px 8px 8px 30px;
-  border-radius: 50px;
-  border: 2px solid #DF575C;
-  font-size: 18px;
-  line-height: 1;
-  outline: 0;
-  display: inline;
+.search button:hover {
+    color: #333;
 }
 
 /*検索ボックス↑*/
 
 
-/*検索ボックス↓*/
-.header-inner input {
-  width: 50%;
-  height: 100%;
-  display: block;
-  padding: 0px 20px;
-  border-radius: 50px;
-  border: 2px solid #DF575C;
-  font-size: 18px;
-  line-height: 1;
-  outline: 0;
-}
 
-.header-inner input:focus {
-  width: 300px;
-  height: 100%;
-  display: block;
-  padding: 0px 20px;
-  border-radius: 50px;
-  border: 2px solid #DF575C;
-  font-size: 18px;
-  line-height: 1;
-  outline: 0;
-}
-
-.header-inner input::placeholder {
-  font-size: 14px;
-  position: relative;
-  bottom: 2px;
-}
 /*検索ボックス↑*/
+
+
+
 
 .title_panel {
     border: 1px #DDDDDD solid;
