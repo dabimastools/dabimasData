@@ -33,7 +33,7 @@ function getSelfFactorImg(Factor1, Factor2) {
 
 
 function getHeaderDetail(j_horse) {
-	var tag = '<div class="horsedata2"><table width="100%"><tbody><tr><th class="header01" width="10%">';
+	var tag = '<div class="horsedata2"><table class="horse_spec" width="100%"><tbody><tr><th class="header01" width="10%">';
 	//レア
 	if (j_horse.Ultimate == 1) {
 		tag += '究極';
@@ -105,7 +105,7 @@ function initShow(mode) {
     header.innerHTML = getHeader();
     accordion.innerHTML = getAccordion();
     factorlist.innerHTML = getFactorList();
-    tabHorse.innerHTML = getTabHorse(0,0,0,'0');
+    tabHorse.innerHTML = getTabHorse(0,0,0,'0',null);
     horselist.innerHTML = ''
     footer.innerHTML = getFooter();
     if (mode != 0 ) {
@@ -115,24 +115,9 @@ function initShow(mode) {
 
 function getFactorList() {
 	
-	var sql_base = '';
-	sql_base = 'select name from ?';
-	var j_horselist = alasql(sql_base, [factor]);
-	
 	var tag = '';
 	tag += '<div class="tabmenu3">';
     tag += '<label><span>';
-	tag += '<div class="cp_ipselect cp_sl04">';    
-    tag += '<input type="submit" value="&#xf002;" class="search-button">';
-    tag += '<input type="text" class="search-input" id="inputkeyword" placeholder="キーワード検索">';
-    //tag += '</form>';
-    
-	tag += '<select id="selectfact" style="text-align:-webkit-center;">';
-	tag += '<option value="" >因子検索</option>';
-	tag += formatFatorList(j_horselist);
-//	tag += '</select><span class="resetimg"><img src="static/img/reset.png" alt=""  onclick="window.location.reload();"></div>';
-	tag += '</select><span class="resetimg"><img src="static/img/reset.png" alt=""  onclick="initShow(1);">';
-	tag += '</div>';
     tag += '</span></label>';
     tag += '</div>';
 	
@@ -156,7 +141,7 @@ function filterHorse(t_arr,ht_arr,mig_arr,jik_arr, ashi_arr, rare_arr, sei, keyw
 	var sql_filter = '';
 	var formatFlg = 0
 	
-	//
+	//アコーディオンに検索条件をセットする
 	accordion.innerHTML = getAccordion(t_arr, ht_arr, mig_arr, jik_arr, rare_arr);
 	
 	// レア牡馬
@@ -173,9 +158,9 @@ function filterHorse(t_arr,ht_arr,mig_arr,jik_arr, ashi_arr, rare_arr, sei, keyw
 	// 自家製
 	sql_filter = filterSql_jik(jik_arr, sql_filter, 1);
 	// 因子
-	sql_filter = filterSqlFactor(sql_filter, factor);
+	sql_filter = filterSqlFactor(sql_filter, factor.value);
 	// キーワード検索
-	sql_filter = filterSqlKeyword(sql_filter, keyword);
+	sql_filter = filterSqlKeyword(sql_filter, keyword.value);
 	
 	if (sql_filter.length > 0) {
 		sqlTmp += ' AND ';
@@ -391,6 +376,7 @@ function filterSql_jik(arr, sql_filter, string) {
 function formatHorse(sei, formatFlg, factor, mig_arr, jik_arr) {
 	//html整形
 	var horse_idx_arr = [];
+	var factorName = '';
 	let Num_M = 0;
 	let Num_F = 0;
 	let cnt = 0;
@@ -401,9 +387,15 @@ function formatHorse(sei, formatFlg, factor, mig_arr, jik_arr) {
 	Num_F = j_horselist_F.length
 	
 	console.time('timer');
-	
-	//性別タブの作成
-	tabHorse.innerHTML = getTabHorse(formatFlg,Num_M,Num_F,sei);
+
+	//性別タブと因子セレクトボックスの作成
+	tabHorse.innerHTML = getTabHorse(formatFlg, Num_M, Num_F, sei);
+
+	//因子 選択されていたところを初期表示させる
+	var selectfactor = '';
+	var selectfactor = document.getElementById('selectfact');
+	selectfactor.options[factor.selectedIndex].selected = true;
+
 	loadjs(1);
 
 	//リストの出力
@@ -415,7 +407,9 @@ function formatHorse(sei, formatFlg, factor, mig_arr, jik_arr) {
 			var j_horse = j_horselist_M[cnt];	
 			
 			//ヘッダ部作成
-			tag += getHeaderDetail(j_horse)
+			//tag += getHeaderDetail(j_horse)
+			tag += j_horse.HeaderDetail;
+			
 			//血統部作成
 			tag += '<div class="content"><table class="pedigree" width="100%">';
 			tag += '<tbody>';
@@ -429,10 +423,12 @@ function formatHorse(sei, formatFlg, factor, mig_arr, jik_arr) {
 		//牝馬選択時
 		while (j_horselist_F.length > cnt) {
 			//配列渡し
-			var j_horse = j_horselist_F[cnt];	
+			var j_horse = j_horselist_F[cnt];
 			
 			//ヘッダ部作成
-			tag += getHeaderDetail(j_horse)
+			//tag += getHeaderDetail(j_horse)
+			tag += j_horse.HeaderDetail;
+			
 			//血統部作成
 			tag += '<div class="content"><table class="pedigree" width="100%">';
 			tag += '<tbody>';
@@ -490,10 +486,10 @@ function formatHorse(sei, formatFlg, factor, mig_arr, jik_arr) {
     }
     
     //血統表に検索条件が含まれているときは赤文字で表示させる
-    if (factor.length != 0) {
+    if (factor.value.length != 0) {
     	//因子
-    	let reg = '_0">' + factor;
-    	tag = tag.replace(new RegExp(reg,'g'),'_R0">' + factor);
+    	let reg = '_0">' + factor.value;
+    	tag = tag.replace(new RegExp(reg,'g'),'_R0">' + factor.value);
     }
     
     horselist.innerHTML = tag;
@@ -519,6 +515,17 @@ function formatFatorList(j_horselist) {
 
 function getHeader() {
 	let tag = '';
+
+	tag += '<div class="search">';
+    tag += '<label><span>';
+
+    tag += '<input type="submit" value="&#xf002;" class="search-button">';
+    tag += '<input type="text" class="search-input" id="inputkeyword" placeholder="キーワード検索">';
+
+    tag += '<img src="static/img/reset.png" alt="" align="right" width="35px" height="35px" onclick="initShow(1);">';
+    tag += '</span></label>';
+    tag += '</div>';
+
 
 	tag += '<div class="tabmenu">';
 	// 親血統
@@ -583,14 +590,32 @@ function getCondition(text,arr) {
 
 }
 
-function getTabHorse(start,Num_M,Num_F,sei) {
+//タブと因子の設定
+function getTabHorse(start, Num_M, Num_F, sei) {
 	let tag = ''
-	
+
     //タブのボタン部分
     switch (start) {
     	case 0:
 			// 初期
 			tag += '<div class="tabmenu-head"><label><input name="tab-head" id="0" type="radio" checked="" class="sei"><em>種牡馬</em></label><label><input name="tab-head" id="1" type="radio" class="sei"><em>牝馬</em></label></div>';
+
+			var sql_base = '';
+			sql_base = 'select name from ?';
+			var j_horselist = '';
+			j_horselist = alasql(sql_base, [factor]);
+
+			var selectfactor = ''
+		    selectfactor += '<div class="selectdiv">';
+			selectfactor += '<select id="selectfact">';
+			selectfactor += '<option value="" >因子検索</option>';
+			selectfactor += formatFatorList(j_horselist);
+			selectfactor += '</select>';
+			selectfactor += '</div>';
+			sessionStorage.setItem('selectfactor', selectfactor);
+			
+			tag += selectfactor;
+			
 			break;
 		case 1:
 			//2回目以降で検索条件未入力
@@ -605,6 +630,9 @@ function getTabHorse(start,Num_M,Num_F,sei) {
 			    tag += '<label><input name="tab-head" id="1" type="radio" checked="" class="sei"><em>牝馬</em></label>';
 			}
 			tag += '</div>';
+			//因子
+			tag += sessionStorage.getItem('selectfactor');
+			
 			break;
 		case 2:
 			//2回目以降
@@ -619,8 +647,12 @@ function getTabHorse(start,Num_M,Num_F,sei) {
 			    tag += '<label><input name="tab-head" id="1" type="radio" checked="" class="sei"><em>牝馬 ' + Num_F + '件</em></label>';
 			}
 			tag += '</div>';
+			//因子
+			tag += sessionStorage.getItem('selectfactor');
+
 			break;
 	}
+
 	sessionStorage.setItem('tabhorse', tag);
     return tag;
 }
