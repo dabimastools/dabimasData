@@ -196,52 +196,7 @@ function loadjs(mode) {
 		lisnerLink();
 	});
 		
-	// 性別オプションを選択した際のイベント取得
-	for (let i = 0; i < sei_radio.length; i++) {
 
-		sei_radio[i].addEventListener('change', (event) => {
-			let sei = 0;
-
-			for (let i = 0; i < sei_radio.length; i++) {
-				if (sei_radio[i].id == "1" && sei_radio[i].checked) {
-					sei = 1;
-				}
-			}
-			let t_arr = '';
-			let ht_arr = '';
-			let mig_arr = '';
-			let jik_arr = '';
-			let formatFlg = '';
-
-			t_arr = sessionStorage.getItem('t_arr');
-			ht_arr = sessionStorage.getItem('ht_arr');
-			mig_arr = sessionStorage.getItem('mig_arr');
-			jik_arr = sessionStorage.getItem('jik_arr');
-
-
-			if (!t_arr && !ht_arr && !mig_arr && !jik_arr && select.selectedIndex == 0 &&
-				input.value === '') {
-				//未検索
-				formatFlg = 1;
-			} else if ((t_arr.length == 0 && ht_arr.length == 0 && mig_arr.length == 0 &&
-					jik_arr.length == 0 && select.selectedIndex == 0 && input.value === '')) {
-				//初期設定の場合
-				formatFlg = 1;
-			} else {
-				//検索条件
-				formatFlg = 2;
-			}
-
-			console.count();
-			formatHorse(sei, formatFlg, select, mig_arr, jik_arr);
-			//dispHorse(chk , sei, select, input, 0);
-			lisnerLink();
-		});
-	}
-
-
-	
-	lisnerLink();
 }
 
 function loadjsDetail() {
