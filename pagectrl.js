@@ -59,7 +59,8 @@ function loadjs(mode) {
 			var selectfactor = document.getElementById('selectfact');
 
 			//因子に入力したもの
-			var factorValue =  document.getElementsByName('selectdiv').item(0).value;
+			//var factorValue =  document.getElementsByName('selectdiv').item(0).value;
+			var factorValue =  selectfactor.value;
 			
 			//因子オプションのチェックボックス取得
 			var factorChk = document.querySelectorAll("[id^='factor']");
@@ -84,7 +85,8 @@ function loadjs(mode) {
 			var selectfactor = document.getElementById('selectfact');
 
 			//因子に入力したもの
-			var factorValue =  document.getElementsByName('selectdiv').item(0).value;
+			//var factorValue =  document.getElementsByName('selectdiv').item(0).value;
+			var factorValue =  selectfactor.value;
 			
 			//因子オプションのチェックボックス取得
 			var factorChk = document.querySelectorAll("[id^='factor']");
@@ -111,7 +113,8 @@ function loadjs(mode) {
 				var selectfactor = document.getElementById('selectfact');
 
 				//因子に入力したもの
-				var factorValue =  document.getElementsByName('selectdiv').item(0).value;
+				//var factorValue =  document.getElementsByName('selectdiv').item(0).value;
+				var factorValue =  selectfactor.value;
 				
 				//因子オプションのチェックボックス取得
 				var factorChk = document.querySelectorAll("[id^='factor']");

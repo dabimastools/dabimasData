@@ -515,10 +515,12 @@ function formatFatorList(j_horselist) {
 	var b_name = '';
 	while (j_horselist.length > cnt) {
 		var j_horse = j_horselist[cnt];	
-		//var pos = j_horse.name.indexOf('(');
-		//var opvalue = j_horse.name.substr(0, pos);
-		//tag += '<option value="' + opvalue  + '">' + j_horse.name + '</option>';
-		tag += '<option value="' + j_horse.name  + '"></option>';
+		
+		var pos = j_horse.name.indexOf('(');
+		var opvalue = j_horse.name.substr(0, pos);
+		tag += '<option value="' + opvalue  + '">' + j_horse.name + '</option>';
+		
+		//tag += '<option value="' + j_horse.name  + '"></option>';
 		cnt++;
 	}
 	return tag;
@@ -641,12 +643,19 @@ function getFactorSearch() {
 	var j_horselist = '';
 	j_horselist = alasql(sql_base, [factor]);
 	var selectfactor = '';
-	selectfactor += '<label>';
-	selectfactor += '<input type="text" list="selectfact" name="selectdiv">';
-	selectfactor += '<datalist id="selectfact">';
+	//selectfactor += '<label>';
+	//selectfactor += '<input type="text" list="selectfact" name="selectdiv">';
+	//selectfactor += '<datalist id="selectfact">';
+	//selectfactor += formatFatorList(j_horselist);
+	//selectfactor += '</datalist>';
+	//selectfactor += '</label>';
+
+	selectfactor += '<div class="selectdiv">';
+	selectfactor += '<select id="selectfact">';
+	selectfactor += '<option value="" >因子検索</option>';
 	selectfactor += formatFatorList(j_horselist);
-	selectfactor += '</datalist>';
-	selectfactor += '</label>';
+	selectfactor += '</select>';
+	selectfactor += '</div>';
 
 	tag += selectfactor;
 
