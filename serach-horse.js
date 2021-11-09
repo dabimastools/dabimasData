@@ -1,11 +1,12 @@
 //グローバル変数
 
 var getHorselist = document.getElementById('getHorselist');
-var horselist = document.getElementById('horselist');
 var header = document.getElementById('header');
 var accordion = document.getElementById('accordion');
 var factorlist = document.getElementById('factorlist');
 var footer = document.getElementById('footer');
+var horselist = document.getElementById('horselist');
+var modalwindow = document.getElementById('modalwindow');
 var tabHorse = document.getElementById('tabHorse');
 
 //種牡馬リスト
@@ -17,11 +18,16 @@ initShow(0);
 
 function initShow(mode) {
     sessionStorage.clear();
+
+	tag = getFactorSearch();
+	modalwindow.innerHTML = tag;
+
     header.innerHTML = getHeader();
     accordion.innerHTML = getAccordion();
     factorlist.innerHTML = getFactorList();
     //tabHorse.innerHTML = getTabHorse(0,0,0,'0',null); 
-    horselist.innerHTML = formatHorse('0', '0', null, null, null);
+    //horselist.innerHTML = formatHorse('0', '0', null, null, null);
+    formatHorse('0', '0', null, null, null);
     footer.innerHTML = getFooter();
     if (mode != 0 ) {
     	loadjs(0)
@@ -40,7 +46,7 @@ function getFactorList() {
 }
 
 
-function filterHorse(t_arr,ht_arr,mig_arr,jik_arr, ashi_arr, rare_arr, sei, keyword, factor, flg) {
+function filterHorse(t_arr,ht_arr,mig_arr,jik_arr, ashi_arr, rare_arr, sei, keyword, factor, factorValue, factorChk, flg) {
 	var sql_M = '';
 	var sql_F = '';
 	var sqlTmp = '';
@@ -48,7 +54,7 @@ function filterHorse(t_arr,ht_arr,mig_arr,jik_arr, ashi_arr, rare_arr, sei, keyw
 	
 	var sql_base  = 'SELECT * FROM ? h';
 	//var sql_base  = 'SELECT Ped_t || Ped_tt || Ped_ttt || Ped_tttt || Ped_ttht || Ped_tht || Ped_thtt || Ped_thht || Ped_ht || Ped_htt || Ped_httt || Ped_htht || Ped_hht || Ped_hhtt || Ped_hhht FROM ? h';
-	var sql_order = ' order by Gender ASC, RareCd DESC, SerialNumber ASC';
+	var sql_order = ' order by Gender ASC, FactorFlg DESC, RareCd DESC, SerialNumber ASC';
 	
 	var sql_where_M = ' where Gender = "0"';
 	var sql_where_F = ' where Gender = "1"';
@@ -73,7 +79,7 @@ function filterHorse(t_arr,ht_arr,mig_arr,jik_arr, ashi_arr, rare_arr, sei, keyw
 	// 自家製
 	sql_filter = filterSql_jik(jik_arr, sql_filter, 1);
 	// 因子
-	sql_filter = filterSqlFactor(sql_filter, factor.value);
+	sql_filter = filterSqlFactor(sql_filter, factorValue, factorChk);
 	// キーワード検索
 	sql_filter = filterSqlKeyword(sql_filter, keyword.value);
 	
@@ -101,12 +107,9 @@ function filterHorse(t_arr,ht_arr,mig_arr,jik_arr, ashi_arr, rare_arr, sei, keyw
 	}	
 	//リスト表示
 	//var contents = formatHorse(j_horselist_M, j_horselist_F, sei);
-	horselist.innerHTML = formatHorse(sei, formatFlg, factor, mig_arr, jik_arr);
-
-	//因子 選択されていたところを初期表示させる
-	var selectfactor = '';
-	var selectfactor = document.getElementById('selectfact');
-	selectfactor.options[factor.selectedIndex].selected = true;
+	//horselist.innerHTML = formatHorse(sei, formatFlg, factor, mig_arr, jik_arr);
+	formatHorse(sei, formatFlg, factorValue, mig_arr, jik_arr);
+	
 	loadjs(1);
 
 }
@@ -151,17 +154,47 @@ function filterSqlRare(rare_arr, sei) {
 }
 
 //因子検索
-function filterSqlFactor(sql_filter, factor_id) {
-	if (factor_id.length == 0) {
+function filterSqlFactor(sql_filter, factorValue, factorChk) {
+
+	var wkFactor = '';
+	var wkSql = '';
+	var chkCnt = 0;
+	
+	//検索因子が入力されていないときは処理を抜ける
+	if (factorValue.length == 0) {
 		return sql_filter;
 	}
 	
-	if (sql_filter.length > 0 ) {
-		sql_filter += ' AND ';
+	//検索オプションにチェックが入っているのか確認
+	for (let i = 0; i < factorChk.length; i++) {
+		if (factorChk[i].checked) {
+			//検索オプションにチェックが入ってれば条件を設定
+			//wkFactor += 'Ped_All LIKE "%' + factorChk[i].value + factorValue + '%" or ';
+			wkFactor+= '「' + factorChk[i].value + factorValue + '」|';
+			chkCnt++;
+		}
 	}
 	
-	sql_filter += 'Ped_All LIKE "%' + factor_id + '%"';
-
+	// ひとつでもチェックが入っている場合
+	if (wkFactor.length > 0) {
+		if (sql_filter.length > 0 ) {
+			sql_filter += ' AND ';
+		}
+		
+		
+		if (chkCnt == 7) {
+			//すべてチェックされている場合
+			//wkSql = 'Ped_All LIKE "%' + factorValue + '%" ';
+			wkSql = '(Ped_All REGEXP "^(?=.*' + factorValue + ').*$")';
+		} else {
+			//SQL文の末尾2文字を削除する
+			//wkSql = '(' + wkSql.slice(0, -3) + ')';
+			wkSql = '(Ped_All REGEXP "' + wkFactor.slice(0, -1) + '")';
+		}
+		//取得したSQLをセット
+		sql_filter += wkSql;
+	}
+	
 	return sql_filter;
 }
 
@@ -175,7 +208,9 @@ function filterSqlKeyword(sql_filter, keyword) {
 		sql_filter += ' AND ';
 	}
 	
-	sql_filter += 'Ped_All LIKE "%' + keyword + '%"';
+	//sql_filter += 'Ped_All LIKE "%' + keyword + '%"';
+	//正規表現で検索
+	sql_filter += '(Ped_All REGEXP "^(?=.*' + keyword + ').*$")';
 
 	return sql_filter;
 }
@@ -230,25 +265,21 @@ function filterSql_mig(arr, sql_filter, string) {
 
 	cnt = 0;
 
-	sql_filter += '(';
+	// ^(?=.*St)(?=.*Ec).*$ みたいに正規表現で検索する
+	sql_filter += '(Paternal_mig REGEXP "^';
 	while (arr.length > cnt) {
 		var value = arr[cnt];
 		
-		sql_filter += 'Paternal_mig like ';
-
 		if (string == 1 ) {
-			sql_filter+= '"%' + value + '%"';
+			sql_filter+= '(?=.*' + value + ')';
 		} else {
 			sql_filter+=  value;
 		}
 				
-		if(arr.length != cnt + 1) {
-			sql_filter+= ' AND ';
-		}
 		cnt++;
 	}
 
-	sql_filter += ')';
+	sql_filter += '.*$")';
 
 	return sql_filter;
 }
@@ -269,25 +300,21 @@ function filterSql_jik(arr, sql_filter, string) {
 	
 	cnt = 0;
 
-	sql_filter += '(';	
+	// ^(?=.*St)(?=.*Ec).*$ みたいに正規表現で検索する
+	sql_filter += '(Paternal_jik REGEXP "^';
 	while (arr.length > cnt) {
 		var value = arr[cnt];
 		
-		sql_filter += 'Paternal_jik like ';
-
 		if (string == 1 ) {
-			sql_filter+= '"%' + value + '%"';
+			sql_filter+= '(?=.*' + value + ')';
 		} else {
 			sql_filter+=  value;
 		}
 				
-		if(arr.length != cnt + 1) {
-			sql_filter+= ' AND ';
-		}
 		cnt++;
 	}
 
-	sql_filter += ')';
+	sql_filter += '.*$")';
 
 	return sql_filter;
 }
@@ -312,31 +339,37 @@ function formatHorse(sei, formatFlg, factorName, mig_arr, jik_arr) {
 		//種牡馬
 		tag += '<input id="0" type="radio" name="tab-head" checked="checked">';
 		tag += '<label class="tabLabel" for="0">種牡馬</label>';
-		//tag += '<div class="content">';
-		//tag += '</div>';
 		
-		//繫殖牝馬
+		//繁殖牝馬
 		tag += '<input id="1" type="radio" name="tab-head">';
 		tag += '<label class="tabLabel" for="1">牝馬</label>';
-		//tag += '<div class="content">';
-		//tag += '</div>';
-		
-		//因子
-		var sql_base = '';
-		sql_base = 'select name from ?';
-		var j_horselist = '';
-		j_horselist = alasql(sql_base, [factor]);
-		var selectfactor = '';
-		selectfactor += '<select id="selectfact" class="selectdiv">';
-		selectfactor += '<option value="" >因子検索</option>';
-		selectfactor += formatFatorList(j_horselist);
-		selectfactor += '</select>';
+		//因子絞込ボタン
+		tag += '<label for="trigger" class="open_button01">因子絞込</label>';
 
-		sessionStorage.setItem('selectfactor', selectfactor);
-		tag += selectfactor;
 		tag += '</section>';
 		
-		return tag;
+		
+		horselist.innerHTML = tag;
+		
+		
+		//因子
+		//var sql_base = '';
+		//sql_base = 'select name from ?';
+		//var j_horselist = '';
+		//j_horselist = alasql(sql_base, [factor]);
+		//var selectfactor = '';
+		//selectfactor += '<select id="selectfact" class="selectdiv">';
+		//selectfactor += '<option value="" >因子検索</option>';
+		//selectfactor += formatFatorList(j_horselist);
+		//selectfactor += '</select>';
+		//sessionStorage.setItem('selectfactor', selectfactor);
+		//tag += selectfactor;
+
+		//tag = getFactorSearch();
+		//modalwindow.innerHTML = tag;
+		
+		
+		//return tag;
 		
 	} else {
 		//2回目以降
@@ -411,9 +444,16 @@ function formatHorse(sei, formatFlg, factorName, mig_arr, jik_arr) {
 			tag += '</div>';
 		}
 		
-		//因子
-		tag += sessionStorage.getItem('selectfactor');
+		//因子絞込ボタン
+	    if (factorName.length != 0) {
+	    	//因子絞り込み条件を設定している場合
+	    	tag += '<label for="trigger" class="open_button02">因子絞込</label>';
+		} else {
+			//因子絞り込み条件を設定していない場合
+			tag += '<label for="trigger" class="open_button01">因子絞込</label>';
+		}
 		tag += '</section>';
+
 
 	    //血統表に自家製が含まれているときは赤文字表示させる
 	    if (jik_arr != null) {
@@ -456,15 +496,16 @@ function formatHorse(sei, formatFlg, factorName, mig_arr, jik_arr) {
 	    }
 	    
 	    //血統表に検索条件が含まれているときは赤文字で表示させる
-	    if (factorName.value.length != 0) {
+	    if (factorName.length != 0) {
 	    	//因子
-	    	let reg = '_0">' + factorName.value;
-	    	tag = tag.replace(new RegExp(reg,'g'),'_R0">' + factorName.value);
+	    	let reg = '_0">' + factorName;
+	    	tag = tag.replace(new RegExp(reg,'g'),'_R0">' + factorName);
 	    }
 	    
+	    horselist.innerHTML = tag;
 		console.timeEnd('timer');
 		
-		return tag;
+		//return tag;
 	}
 }
 
@@ -474,9 +515,10 @@ function formatFatorList(j_horselist) {
 	var b_name = '';
 	while (j_horselist.length > cnt) {
 		var j_horse = j_horselist[cnt];	
-		var pos = j_horse.name.indexOf('(');
-		var opvalue = j_horse.name.substr(0, pos);
-		tag += '<option value="' + opvalue  + '">' + j_horse.name + '</option>';
+		//var pos = j_horse.name.indexOf('(');
+		//var opvalue = j_horse.name.substr(0, pos);
+		//tag += '<option value="' + opvalue  + '">' + j_horse.name + '</option>';
+		tag += '<option value="' + j_horse.name  + '"></option>';
 		cnt++;
 	}
 	return tag;
@@ -498,12 +540,15 @@ function getHeader() {
 	tag += '<form id="allcheck">';
 	tag += '<div class="tabmenu">';
 	// 親血統
-	tag += '<label><input name="tab" type="radio" id="A" checked="" ><em>父</em><span><div class="btn2_wrap"><input value="Ro" id="t-Ro" type="checkbox"><label for="t-Ro">Ro</label></div><div class="btn2_wrap"><input value="Ne" id="t-Ne" type="checkbox"><label for="t-Ne">Ne</label></div><div class="btn2_wrap"><input value="Ns" id="t-Ns" type="checkbox"><label for="t-Ns">Ns</label></div><div class="btn2_wrap"><input value="Nt" id="t-Nt" type="checkbox"><label for="t-Nt">Nt</label></div><div class="btn2_wrap"><input value="Ha" id="t-Ha" type="checkbox"><label for="t-Ha">Ha</label></div><div class="btn2_wrap"><input value="St" id="t-St" type="checkbox"><label for="t-St">St</label></div><div class="btn2_wrap"><input value="He" id="t-He" type="checkbox"><label for="t-He">He</label></div><div class="btn2_wrap"><input value="Te" id="t-Te" type="checkbox"><label for="t-Te">Te</label></div><div class="btn2_wrap"><input value="Ph" id="t-Ph" type="checkbox"><label for="t-Ph">Ph</label></div><div class="btn2_wrap"><input value="Ma" id="t-Ma" type="checkbox"><label for="t-Ma">Ma</label></div><div class="btn2_wrap"><input value="Hi" id="t-Hi" type="checkbox"><label for="t-Hi">Hi</label></div><div class="btn2_wrap"><input value="Sw" id="t-Sw" type="checkbox"><label for="t-Sw">Sw</label></div><div class="btn2_wrap"><input value="Fa" id="t-Fa" type="checkbox"><label for="t-Fa">Fa</label></div><div class="btn2_wrap"><input value="To" id="t-To" type="checkbox"><label for="t-To">To</label></div><div class="btn2_wrap"><input value="Ec" id="t-Ec" type="checkbox"><label for="t-Ec">Ec</label></div></span></label>';
-	tag += '<label><input name="tab" type="radio" id="B"><em>母父</em><span><div class="btn2_wrap"><input value="Ro" id="ht-Ro" type="checkbox"><label for="ht-Ro">Ro</label></div><div class="btn2_wrap"><input value="Ne" id="ht-Ne" type="checkbox"><label for="ht-Ne">Ne</label></div><div class="btn2_wrap"><input value="Ns" id="ht-Ns" type="checkbox"><label for="ht-Ns">Ns</label></div><div class="btn2_wrap"><input value="Nt" id="ht-Nt" type="checkbox"><label for="ht-Nt">Nt</label></div><div class="btn2_wrap"><input value="Ha" id="ht-Ha" type="checkbox"><label for="ht-Ha">Ha</label></div><div class="btn2_wrap"><input value="St" id="ht-St" type="checkbox"><label for="ht-St">St</label></div><div class="btn2_wrap"><input value="He" id="ht-He" type="checkbox"><label for="ht-He">He</label></div><div class="btn2_wrap"><input value="Te" id="ht-Te" type="checkbox"><label for="ht-Te">Te</label></div><div class="btn2_wrap"><input value="Ph" id="ht-Ph" type="checkbox"><label for="ht-Ph">Ph</label></div><div class="btn2_wrap"><input value="Ma" id="ht-Ma" type="checkbox"><label for="ht-Ma">Ma</label></div><div class="btn2_wrap"><input value="Hi" id="ht-Hi" type="checkbox"><label for="ht-Hi">Hi</label></div><div class="btn2_wrap"><input value="Sw" id="ht-Sw" type="checkbox"><label for="ht-Sw">Sw</label></div><div class="btn2_wrap"><input value="Fa" id="ht-Fa" type="checkbox"><label for="ht-Fa">Fa</label></div><div class="btn2_wrap"><input value="To" id="ht-To" type="checkbox"><label for="ht-To">To</label></div><div class="btn2_wrap"><input value="Ec" id="ht-Ec" type="checkbox"><label for="ht-Ec">Ec</label></div></span></label>';
-	tag += '<label><input name="tab" type="radio" id="C"><em>見事</em><span><div class="btn2_wrap"><input value="Ro" id="mig-Ro" type="checkbox"><label for="mig-Ro">Ro</label></div><div class="btn2_wrap"><input value="Ne" id="mig-Ne" type="checkbox"><label for="mig-Ne">Ne</label></div><div class="btn2_wrap"><input value="Ns" id="mig-Ns" type="checkbox"><label for="mig-Ns">Ns</label></div><div class="btn2_wrap"><input value="Nt" id="mig-Nt" type="checkbox"><label for="mig-Nt">Nt</label></div><div class="btn2_wrap"><input value="Ha" id="mig-Ha" type="checkbox"><label for="mig-Ha">Ha</label></div><div class="btn2_wrap"><input value="St" id="mig-St" type="checkbox"><label for="mig-St">St</label></div><div class="btn2_wrap"><input value="He" id="mig-He" type="checkbox"><label for="mig-He">He</label></div><div class="btn2_wrap"><input value="Te" id="mig-Te" type="checkbox"><label for="mig-Te">Te</label></div><div class="btn2_wrap"><input value="Ph" id="mig-Ph" type="checkbox"><label for="mig-Ph">Ph</label></div><div class="btn2_wrap"><input value="Ma" id="mig-Ma" type="checkbox"><label for="mig-Ma">Ma</label></div><div class="btn2_wrap"><input value="Hi" id="mig-Hi" type="checkbox"><label for="mig-Hi">Hi</label></div><div class="btn2_wrap"><input value="Sw" id="mig-Sw" type="checkbox"><label for="mig-Sw">Sw</label></div><div class="btn2_wrap"><input value="Fa" id="mig-Fa" type="checkbox"><label for="mig-Fa">Fa</label></div><div class="btn2_wrap"><input value="To" id="mig-To" type="checkbox"><label for="mig-To">To</label></div><div class="btn2_wrap"><input value="Ec" id="mig-Ec" type="checkbox"><label for="mig-Ec">Ec</label></div></span></label>';
-	tag += '<label><input name="tab" type="radio" id="D"><em>１薄</em><span><div class="btn2_wrap"><input value="Ro" id="jik-Ro" type="checkbox"><label for="jik-Ro">Ro</label></div><div class="btn2_wrap"><input value="Ne" id="jik-Ne" type="checkbox"><label for="jik-Ne">Ne</label></div><div class="btn2_wrap"><input value="Ns" id="jik-Ns" type="checkbox"><label for="jik-Ns">Ns</label></div><div class="btn2_wrap"><input value="Nt" id="jik-Nt" type="checkbox"><label for="jik-Nt">Nt</label></div><div class="btn2_wrap"><input value="Ha" id="jik-Ha" type="checkbox"><label for="jik-Ha">Ha</label></div><div class="btn2_wrap"><input value="St" id="jik-St" type="checkbox"><label for="jik-St">St</label></div><div class="btn2_wrap"><input value="He" id="jik-He" type="checkbox"><label for="jik-He">He</label></div><div class="btn2_wrap"><input value="Te" id="jik-Te" type="checkbox"><label for="jik-Te">Te</label></div><div class="btn2_wrap"><input value="Ph" id="jik-Ph" type="checkbox"><label for="jik-Ph">Ph</label></div><div class="btn2_wrap"><input value="Ma" id="jik-Ma" type="checkbox"><label for="jik-Ma">Ma</label></div><div class="btn2_wrap"><input value="Hi" id="jik-Hi" type="checkbox"><label for="jik-Hi">Hi</label></div><div class="btn2_wrap"><input value="Sw" id="jik-Sw" type="checkbox"><label for="jik-Sw">Sw</label></div><div class="btn2_wrap"><input value="Fa" id="jik-Fa" type="checkbox"><label for="jik-Fa">Fa</label></div><div class="btn2_wrap"><input value="To" id="jik-To" type="checkbox"><label for="jik-To">To</label></div><div class="btn2_wrap"><input value="Ec" id="jik-Ec" type="checkbox"><label for="jik-Ec">Ec</label></div></span></label>';
-	//究極・５・４・券・名牝・優をデフォルトでオン
-	tag += '<label><input name="tab" type="radio" id="E"><em>レア</em><span><div class="btn2_wrap"><input value="6" id="rare-6" type="checkbox" checked="checked"><label for="rare-6">極</label></div><div class="btn2_wrap"><input value="5" id="rare-5" type="checkbox" checked="checked"><label for="rare-5">５</label></div><div class="btn2_wrap"><input value="4" id="rare-4" type="checkbox" checked="checked"><label for="rare-4">４</label></div><div class="btn2_wrap"><input value="3" id="rare-3" type="checkbox"><label for="rare-3">３</label></div><div class="btn2_wrap"><input value="2" id="rare-2" type="checkbox"><label for="rare-2">２</label></div><div class="btn2_wrap"><input value="1" id="rare-1" type="checkbox"><label for="rare-1">１</label></div><div class="btn2_wrap"><input value="Z" id="rare-Z" type="checkbox" checked="checked"><label for="rare-Z">券</label></div><div class="btn2_wrap"><input value="Y" id="rare-Y" type="checkbox" checked="checked"><label for="rare-Y">名</label></div><div class="btn2_wrap"><input value="X" id="rare-X" type="checkbox"  checked="checked"><label for="rare-X">優</label></div><div class="btn2_wrap"><input value="W" id="rare-W" type="checkbox"><label for="rare-W">良</label></div><div class="btn2_wrap"><input value="V" id="rare-V" type="checkbox"><label for="rare-V">可</label></div><div class="btn2_wrap"><input value="U" id="rare-U" type="checkbox"><label for="rare-U">無</label></div></span></label>';
+
+	tag += '<label><input name="tab" type="radio" id="A" checked="" ><em>父</em><span><div class="btn2_wrap"><input value="Ro" id="chk-t-Ro" type="checkbox"><label for="chk-t-Ro">Ro</label></div><div class="btn2_wrap"><input value="Ne" id="chk-t-Ne" type="checkbox"><label for="chk-t-Ne">Ne</label></div><div class="btn2_wrap"><input value="Ns" id="chk-t-Ns" type="checkbox"><label for="chk-t-Ns">Ns</label></div><div class="btn2_wrap"><input value="Nt" id="chk-t-Nt" type="checkbox"><label for="chk-t-Nt">Nt</label></div><div class="btn2_wrap"><input value="Ha" id="chk-t-Ha" type="checkbox"><label for="chk-t-Ha">Ha</label></div><div class="btn2_wrap"><input value="St" id="chk-t-St" type="checkbox"><label for="chk-t-St">St</label></div><div class="btn2_wrap"><input value="He" id="chk-t-He" type="checkbox"><label for="chk-t-He">He</label></div><div class="btn2_wrap"><input value="Te" id="chk-t-Te" type="checkbox"><label for="chk-t-Te">Te</label></div><div class="btn2_wrap"><input value="Ph" id="chk-t-Ph" type="checkbox"><label for="chk-t-Ph">Ph</label></div><div class="btn2_wrap"><input value="Ma" id="chk-t-Ma" type="checkbox"><label for="chk-t-Ma">Ma</label></div><div class="btn2_wrap"><input value="Hi" id="chk-t-Hi" type="checkbox"><label for="chk-t-Hi">Hi</label></div><div class="btn2_wrap"><input value="Sw" id="chk-t-Sw" type="checkbox"><label for="chk-t-Sw">Sw</label></div><div class="btn2_wrap"><input value="Fa" id="chk-t-Fa" type="checkbox"><label for="chk-t-Fa">Fa</label></div><div class="btn2_wrap"><input value="To" id="chk-t-To" type="checkbox"><label for="chk-t-To">To</label></div><div class="btn2_wrap"><input value="Ec" id="chk-t-Ec" type="checkbox"><label for="chk-t-Ec">Ec</label></div></span></label>';
+	tag += '<label><input name="tab" type="radio" id="B"><em>母父</em><span><div class="btn2_wrap"><input value="Ro" id="chk-ht-Ro" type="checkbox"><label for="chk-ht-Ro">Ro</label></div><div class="btn2_wrap"><input value="Ne" id="chk-ht-Ne" type="checkbox"><label for="chk-ht-Ne">Ne</label></div><div class="btn2_wrap"><input value="Ns" id="chk-ht-Ns" type="checkbox"><label for="chk-ht-Ns">Ns</label></div><div class="btn2_wrap"><input value="Nt" id="chk-ht-Nt" type="checkbox"><label for="chk-ht-Nt">Nt</label></div><div class="btn2_wrap"><input value="Ha" id="chk-ht-Ha" type="checkbox"><label for="chk-ht-Ha">Ha</label></div><div class="btn2_wrap"><input value="St" id="chk-ht-St" type="checkbox"><label for="chk-ht-St">St</label></div><div class="btn2_wrap"><input value="He" id="chk-ht-He" type="checkbox"><label for="chk-ht-He">He</label></div><div class="btn2_wrap"><input value="Te" id="chk-ht-Te" type="checkbox"><label for="chk-ht-Te">Te</label></div><div class="btn2_wrap"><input value="Ph" id="chk-ht-Ph" type="checkbox"><label for="chk-ht-Ph">Ph</label></div><div class="btn2_wrap"><input value="Ma" id="chk-ht-Ma" type="checkbox"><label for="chk-ht-Ma">Ma</label></div><div class="btn2_wrap"><input value="Hi" id="chk-ht-Hi" type="checkbox"><label for="chk-ht-Hi">Hi</label></div><div class="btn2_wrap"><input value="Sw" id="chk-ht-Sw" type="checkbox"><label for="chk-ht-Sw">Sw</label></div><div class="btn2_wrap"><input value="Fa" id="chk-ht-Fa" type="checkbox"><label for="chk-ht-Fa">Fa</label></div><div class="btn2_wrap"><input value="To" id="chk-ht-To" type="checkbox"><label for="chk-ht-To">To</label></div><div class="btn2_wrap"><input value="Ec" id="chk-ht-Ec" type="checkbox"><label for="chk-ht-Ec">Ec</label></div></span></label>';
+	tag += '<label><input name="tab" type="radio" id="C"><em>見事</em><span><div class="btn2_wrap"><input value="Ro" id="chk-mig-Ro" type="checkbox"><label for="chk-mig-Ro">Ro</label></div><div class="btn2_wrap"><input value="Ne" id="chk-mig-Ne" type="checkbox"><label for="chk-mig-Ne">Ne</label></div><div class="btn2_wrap"><input value="Ns" id="chk-mig-Ns" type="checkbox"><label for="chk-mig-Ns">Ns</label></div><div class="btn2_wrap"><input value="Nt" id="chk-mig-Nt" type="checkbox"><label for="chk-mig-Nt">Nt</label></div><div class="btn2_wrap"><input value="Ha" id="chk-mig-Ha" type="checkbox"><label for="chk-mig-Ha">Ha</label></div><div class="btn2_wrap"><input value="St" id="chk-mig-St" type="checkbox"><label for="chk-mig-St">St</label></div><div class="btn2_wrap"><input value="He" id="chk-mig-He" type="checkbox"><label for="chk-mig-He">He</label></div><div class="btn2_wrap"><input value="Te" id="chk-mig-Te" type="checkbox"><label for="chk-mig-Te">Te</label></div><div class="btn2_wrap"><input value="Ph" id="chk-mig-Ph" type="checkbox"><label for="chk-mig-Ph">Ph</label></div><div class="btn2_wrap"><input value="Ma" id="chk-mig-Ma" type="checkbox"><label for="chk-mig-Ma">Ma</label></div><div class="btn2_wrap"><input value="Hi" id="chk-mig-Hi" type="checkbox"><label for="chk-mig-Hi">Hi</label></div><div class="btn2_wrap"><input value="Sw" id="chk-mig-Sw" type="checkbox"><label for="chk-mig-Sw">Sw</label></div><div class="btn2_wrap"><input value="Fa" id="chk-mig-Fa" type="checkbox"><label for="chk-mig-Fa">Fa</label></div><div class="btn2_wrap"><input value="To" id="chk-mig-To" type="checkbox"><label for="chk-mig-To">To</label></div><div class="btn2_wrap"><input value="Ec" id="chk-mig-Ec" type="checkbox"><label for="chk-mig-Ec">Ec</label></div></span></label>';
+	tag += '<label><input name="tab" type="radio" id="D"><em>１薄</em><span><div class="btn2_wrap"><input value="Ro" id="chk-jik-Ro" type="checkbox"><label for="chk-jik-Ro">Ro</label></div><div class="btn2_wrap"><input value="Ne" id="chk-jik-Ne" type="checkbox"><label for="chk-jik-Ne">Ne</label></div><div class="btn2_wrap"><input value="Ns" id="chk-jik-Ns" type="checkbox"><label for="chk-jik-Ns">Ns</label></div><div class="btn2_wrap"><input value="Nt" id="chk-jik-Nt" type="checkbox"><label for="chk-jik-Nt">Nt</label></div><div class="btn2_wrap"><input value="Ha" id="chk-jik-Ha" type="checkbox"><label for="chk-jik-Ha">Ha</label></div><div class="btn2_wrap"><input value="St" id="chk-jik-St" type="checkbox"><label for="chk-jik-St">St</label></div><div class="btn2_wrap"><input value="He" id="chk-jik-He" type="checkbox"><label for="chk-jik-He">He</label></div><div class="btn2_wrap"><input value="Te" id="chk-jik-Te" type="checkbox"><label for="chk-jik-Te">Te</label></div><div class="btn2_wrap"><input value="Ph" id="chk-jik-Ph" type="checkbox"><label for="chk-jik-Ph">Ph</label></div><div class="btn2_wrap"><input value="Ma" id="chk-jik-Ma" type="checkbox"><label for="chk-jik-Ma">Ma</label></div><div class="btn2_wrap"><input value="Hi" id="chk-jik-Hi" type="checkbox"><label for="chk-jik-Hi">Hi</label></div><div class="btn2_wrap"><input value="Sw" id="chk-jik-Sw" type="checkbox"><label for="chk-jik-Sw">Sw</label></div><div class="btn2_wrap"><input value="Fa" id="chk-jik-Fa" type="checkbox"><label for="chk-jik-Fa">Fa</label></div><div class="btn2_wrap"><input value="To" id="chk-jik-To" type="checkbox"><label for="chk-jik-To">To</label></div><div class="btn2_wrap"><input value="Ec" id="chk-jik-Ec" type="checkbox"><label for="chk-jik-Ec">Ec</label></div></span></label>';
+	//真究極・究極・５・４・券・名牝・優をデフォルトでオン
+	tag += '<label><input name="tab" type="radio" id="E"><em>レア</em><span><div class="btn2_wrap"><input value="7" id="chk-rare-7" type="checkbox" checked="checked"><label for="chk-rare-7">真</label></div><div class="btn2_wrap"><input value="6" id="chk-rare-6" type="checkbox" checked="checked"><label for="chk-rare-6">極</label></div><div class="btn2_wrap"><input value="5" id="chk-rare-5" type="checkbox" checked="checked"><label for="chk-rare-5">５</label></div><div class="btn2_wrap"><input value="4" id="chk-rare-4" type="checkbox" checked="checked"><label for="chk-rare-4">４</label></div><div class="btn2_wrap"><input value="3" id="chk-rare-3" type="checkbox"><label for="chk-rare-3">３</label></div><div class="btn2_wrap"><input value="2" id="chk-rare-2" type="checkbox"><label for="chk-rare-2">２</label></div><div class="btn2_wrap"><input value="1" id="chk-rare-1" type="checkbox"><label for="chk-rare-1">１</label></div><div class="btn2_wrap"><input value="Z" id="chk-rare-Z" type="checkbox" checked="checked"><label for="chk-rare-Z">券</label></div><div class="btn2_wrap"><input value="Y" id="chk-rare-Y" type="checkbox" checked="checked"><label for="chk-rare-Y">名</label></div><div class="btn2_wrap"><input value="X" id="chk-rare-X" type="checkbox"  checked="checked"><label for="chk-rare-X">優</label></div><div class="btn2_wrap"><input value="W" id="chk-rare-W" type="checkbox"><label for="chk-rare-W">良</label></div><div class="btn2_wrap"><input value="V" id="chk-rare-V" type="checkbox"><label for="chk-rare-V">可</label></div><div class="btn2_wrap"><input value="U" id="chk-rare-U" type="checkbox"><label for="chk-rare-U">無</label></div></span></label>';
+
+
 	tag += '</div>';
 	tag += '</form>';
 	
@@ -565,13 +610,79 @@ function getFooter() {
     let tag = '<div class="footertxt">';
     tag += '<a class="tw_share" href="http://twitter.com/share?url=https://yanaifarm.github.io/dabimasData/index.html&text=ダビ娘&hashtags=ダビ娘" target="_blank">共有</a>';
     tag += 'ダビ娘<a href="https://twitter.com/yanaiFarm">@やないあいこ牧場</a><BR>thanks to ふじろん牧場さま</div>';
+    //上に戻るボタン
     tag += '<button id="page-top" class="page-top"></button>';
-
+    
     sessionStorage.setItem('footer', tag);	
     return tag;
 }
 
 
+function getFactorSearch() {
+	let tag = '';
+
+	tag += '<div class="modal_wrap">';
+	tag += '<input id="trigger" type="checkbox">';
+	tag += '<div class="modal_overlay">';
+	tag += '<label for="trigger" class="modal_trigger"></label>';
+	tag += '<div class="modal_content">';
+
+	tag += '<label for="trigger" class="close_button">✖️</label>';
+
+	tag += '<form class="frmSmpl1">';
+	tag += '<ul>';
+	tag += '<li>';
+	tag += '因子指定';
+	tag += '<p>';
+
+	//因子
+	var sql_base = '';
+	sql_base = 'select name from ?';
+	var j_horselist = '';
+	j_horselist = alasql(sql_base, [factor]);
+	var selectfactor = '';
+	selectfactor += '<label>';
+	selectfactor += '<input type="text" list="selectfact" name="selectdiv">';
+	selectfactor += '<datalist id="selectfact">';
+	selectfactor += formatFatorList(j_horselist);
+	selectfactor += '</datalist>';
+	selectfactor += '</label>';
+
+	tag += selectfactor;
+
+	tag += '</p>';
+	tag += '</li>';
+	tag += '<li>';
+	tag += '因子検索場所指定';
+	tag += '<BR>';
+
+	tag += '<ul class="tg-list">';
+	tag += '<li class="tg-list-item">';
+	tag += '<label class="tgl-lbl">　自分自身</label><input class="tgl tgl-ios" id="factorOpOwn" type="checkbox" checked="checked" value="自身"/><label class="tgl-btn" for="factorOpOwn"></label>';
+	tag += '<label class="tgl-lbl">　　父</label><input class="tgl tgl-ios" id="factorOpT" type="checkbox" checked="checked" value="１父"/><label class="tgl-btn" for="factorOpT"></label>';
+	tag += '<label class="tgl-lbl">　父父</label><input class="tgl tgl-ios" id="factorOpTt" type="checkbox" checked="checked" value="父父"/><label class="tgl-btn" for="factorOpTt"></label>';
+	tag += '<label class="tgl-lbl">　　母父</label><input class="tgl tgl-ios" id="factorOpHt" type="checkbox" checked="checked" value="母父"/><label class="tgl-btn" for="factorOpHt"></label>';
+	tag += '<label class="tgl-lbl">　１薄</label><input class="tgl tgl-ios" id="factorOpJik" type="checkbox" checked="checked" value="１薄"/><label class="tgl-btn" for="factorOpJik"></label>';
+	tag += '<label class="tgl-lbl">　　見事</label><input class="tgl tgl-ios" id="factorOpMig" type="checkbox" checked="checked" value="見事"/><label class="tgl-btn" for="factorOpMig"></label>';
+	tag += '<label class="tgl-lbl">　上記以外</label><input class="tgl tgl-ios" id="factorOpOther" type="checkbox" checked="checked" value="以外"/><label class="tgl-btn" for="factorOpOther"></label>';
+	tag += '<label class="tgl-lbl-blank">　上記以外</label><input class="tgl tgl-ios" id="cb2-2" type="checkbox"/><label class="tgl-btn-blank" for="cb2-2"></label>';
+	tag += '</li>';
+	tag += '</ul>';
+	
+	tag += '</li>';
+	tag += '</ul>';
+	tag += '<div><label for="trigger" class="search_button" id="modal_factror_search_button">因子検索</label></div>';
+	tag += '</form>';
+
+	tag += '</div>';
+	tag += '</div>';
+	tag += '</div>';
+
+	//呼び出し元の検索ボタン
+	//tag += '<label for="trigger" class="open_button">因子絞込</label>';
+
+    return tag;
+}
 
 ///////以下使わないソース
 

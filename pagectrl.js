@@ -11,26 +11,31 @@ function loadjs(mode) {
 	var sei_radio = document.getElementsByName("tab-head");
 
 	// チェックボックス全てを取得
-	var chk = document.querySelectorAll("input[type='checkbox']");
-
+	//var chk = document.querySelectorAll("input[type='checkbox']");
+	var chk = document.querySelectorAll("[id^='chk']");
+	
 	//input要素の取得
 	var input = document.querySelector("#inputkeyword");
 
 	//select要素の取得
-	var select = document.querySelector("#selectfact");
+	var select = document.querySelector("#factor");
 
 	//option要素の取得（配列）
 	var options = document.querySelectorAll("#selectfact option");
 
+	//スクロールボタン
 	var scroll_to_top_btn = document.querySelector('#scroll-to-top-btn');
 
-
+	//因子検索ボタン
+	var factrorSearch = document.getElementById('modal_factror_search_button');
+	
 	// 詳細リンク
 	//var dtl_link = document.getElementsByClassName("clickable-row");
 
 
-	//初期起動時のみイベントを追加（上に戻るボタン）
+	
 	if (mode == 0) {
+		//初期起動時のみイベントを追加（上に戻るボタン）
 		const pagetopBtn = document.querySelector('#page-top');
 		pagetopBtn.addEventListener('click', () => {
 			window.scrollTo({
@@ -39,11 +44,12 @@ function loadjs(mode) {
 			});
 		});
 
-		// キーワードを入力した際のイベント取得
-		input.addEventListener('change', (event) => {
+		//因子検索ボタンを押したときのイベント取得
+		factrorSearch.addEventListener('click', () => {
 			let sei = 0;
 
 			for (let i = 0; i < sei_radio.length; i++) {
+				//性別オプション
 				if (sei_radio[i].id == "1" && sei_radio[i].checked) {
 					sei = 1;
 				}
@@ -51,8 +57,39 @@ function loadjs(mode) {
 
 			var selectfactor = '';
 			var selectfactor = document.getElementById('selectfact');
+
+			//因子に入力したもの
+			var factorValue =  document.getElementsByName('selectdiv').item(0).value;
 			
-			dispHorse(chk, sei, selectfactor, input, 1);
+			//因子オプションのチェックボックス取得
+			var factorChk = document.querySelectorAll("[id^='factor']");
+			
+			dispHorse(chk, sei, selectfactor, input, factorValue, factorChk, 1);
+			console.count();
+			lisnerLink();
+		});
+		
+		// キーワードを入力した際のイベント取得
+		input.addEventListener('change', (event) => {
+			let sei = 0;
+
+			for (let i = 0; i < sei_radio.length; i++) {
+				//性別オプション
+				if (sei_radio[i].id == "1" && sei_radio[i].checked) {
+					sei = 1;
+				}
+			}
+
+			var selectfactor = '';
+			var selectfactor = document.getElementById('selectfact');
+
+			//因子に入力したもの
+			var factorValue =  document.getElementsByName('selectdiv').item(0).value;
+			
+			//因子オプションのチェックボックス取得
+			var factorChk = document.querySelectorAll("[id^='factor']");
+			
+			dispHorse(chk, sei, selectfactor, input, factorValue, factorChk, 1);
 			console.count();
 			lisnerLink();
 		});
@@ -63,19 +100,31 @@ function loadjs(mode) {
 			chk[i].addEventListener('change', (event) => {
 				let sei = 0;
 
+				//性別オプション
 				for (let i = 0; i < sei_radio.length; i++) {
 					if (sei_radio[i].id == "1" && sei_radio[i].checked) {
 						sei = 1;
 					}
 				}
+				
 				var selectfactor = '';
 				var selectfactor = document.getElementById('selectfact');
+
+				//因子に入力したもの
+				var factorValue =  document.getElementsByName('selectdiv').item(0).value;
 				
-				dispHorse(chk, sei, selectfactor, input, 1);
+				//因子オプションのチェックボックス取得
+				var factorChk = document.querySelectorAll("[id^='factor']");
+				
+				dispHorse(chk, sei, selectfactor, input, factorValue, factorChk, 1);
+
 				console.count();
 				lisnerLink();
 			});
 		}
+
+
+
 	}
 
 	/* =================================================== */
@@ -153,6 +202,21 @@ function loadjs(mode) {
 		}
 	};
 
+
+	// 因子を選択した際のイベント取得
+	//select.addEventListener('change', (event) => {
+	//	let sei = 0;
+
+	//	for (let i = 0; i < sei_radio.length; i++) {
+	//		if (sei_radio[i].id == "1" && sei_radio[i].checked) {
+	//			sei = 1;
+	//		}
+	//	}
+	//	dispHorse(chk, sei, select, input, 1);
+	//	console.count();
+	//	lisnerLink();
+	//});
+	
 	/* =================================================== */
 	// DOM操作
 	/* =================================================== */
@@ -182,20 +246,8 @@ function loadjs(mode) {
 		});
 	});
 
-	// 因子を選択した際のイベント取得
-	select.addEventListener('change', (event) => {
-		let sei = 0;
 
-		for (let i = 0; i < sei_radio.length; i++) {
-			if (sei_radio[i].id == "1" && sei_radio[i].checked) {
-				sei = 1;
-			}
-		}
-		dispHorse(chk, sei, select, input, 1);
-		console.count();
-		lisnerLink();
-	});
-		
+
 
 }
 
@@ -246,9 +298,9 @@ function lisnerLink() {
 }
 
 //戻る・進むボタンを押したとき
-onpopstate = function(event) {
-		changeContents(location.pathname);
-	}
+//onpopstate = function(event) {
+//		changeContents(location.pathname);
+//	}
 	//コンテンツの切り替え
 function changeContents(url) {
 
@@ -328,7 +380,7 @@ function loadSession() {
 	}
 
 	// select 復元
-	select.options[factor_idx].selected = true;
+	//select.options[factor_idx].selected = true;
 
 	// 非凡リセット
 	sessionStorage.setItem('disp_hibon', 0);
@@ -336,7 +388,7 @@ function loadSession() {
 }
 
 //フロントに表示する関数
-function dispHorse(chk, sei, factor, keyword, flg) {
+function dispHorse(chk, sei, factor, keyword, factorValue, factorChk, flg) {
 	var t_arr = [];
 	var ht_arr = [];
 	var mig_arr = [];
@@ -347,23 +399,28 @@ function dispHorse(chk, sei, factor, keyword, flg) {
 	var hibon_arr = [];
 	for (let i = 0; i < chk.length; i++) {
 		if (chk[i].checked) {
-			// チェックされている値を取得
-			if (chk[i].id.match(/^t\-/) != null) {
+			// チェックされている値を取得 chk\-
+//			if (chk[i].id.match(/^t\-/) != null) {
+			if (chk[i].id.match(/^chk\-t\-/) != null) {
 				t_arr.push(chk[i].value);
 			}
-			if (chk[i].id.match(/^ht\-/) != null) {
+//			if (chk[i].id.match(/^ht\-/) != null) {
+			if (chk[i].id.match(/^chk\-ht\-/) != null) {
 				ht_arr.push(chk[i].value);
 			}
-			if (chk[i].id.match(/^mig\-/) != null) {
+//			if (chk[i].id.match(/^mig\-/) != null) {
+			if (chk[i].id.match(/^chk\-mig\-/) != null) {
 				mig_arr.push(chk[i].value);
 			}
-			if (chk[i].id.match(/^jik\-/) != null) {
+//			if (chk[i].id.match(/^jik\-/) != null) {
+			if (chk[i].id.match(/^chk\-jik\-/) != null) {
 				jik_arr.push(chk[i].value);
 			}
 			if (chk[i].id.match(/^ashi\-/) != null) {
 				ashi_arr.push(chk[i].value);
 			}
-			if (chk[i].id.match(/^rare\-/) != null) {
+//			if (chk[i].id.match(/^rare\-/) != null) {
+			if (chk[i].id.match(/^chk\-rare\-/) != null) {
 				rare_arr.push(chk[i].value);
 			}
 			if (chk[i].id.match(/^hibon/) != null) {
@@ -387,6 +444,14 @@ function dispHorse(chk, sei, factor, keyword, flg) {
 	// レア
 	sessionStorage.setItem('rare_arr', rare_arr);
 
+	// 因子名 '('以下を省く
+	var pos = factorValue.indexOf('(');
+	if (pos == -1) {
+		var wkFactorValue = factorValue;
+	} else {
+		var wkFactorValue = factorValue.substr(0, pos);
+	}
+	
 	// 条件保存 チェックボックス
 	//sessionStorage.setItem('chk_idx' ,chk_idx.join(','));
 
@@ -394,6 +459,5 @@ function dispHorse(chk, sei, factor, keyword, flg) {
 	//sessionStorage.setItem('factor_idx', factor.selectedIndex);
 
 	// 絞り込み実施
-	filterHorse(t_arr, ht_arr, mig_arr, jik_arr, ashi_arr, rare_arr, sei, keyword,
-		factor, flg);
+	filterHorse(t_arr, ht_arr, mig_arr, jik_arr, ashi_arr, rare_arr, sei, keyword, factor, wkFactorValue, factorChk, flg);
 }
