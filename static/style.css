@@ -391,9 +391,72 @@ section.horseData .open_button02 {	/*因子絞込ボタン（絞り込みあり�
 }
 
 
-section.horseData .selectdiv:focus {
+/*因子検索↓ */
+.selectdiv {
+  position: relative;
+  /*Don't really need this just for demo styling*/
+  overflow: hidden;
+  text-align: center;
+  margin:0 auto;
+  width: 50%;
+  display: inline;
+  /*float: right;*/
+}
+
+/* IE11 hide native button */
+select::-ms-expand {
+display: none;
+}
+
+.selectdiv:after {
+  content: '<>';
+  font: 20px "Consolas", monospace;
+  color: #4169e1;
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+  right: 11px;
+  /*Adjust for position however you want*/
+  
+  top: 5px;
+  padding: 0 0 2px;
+  border-bottom: 1px solid #999;
+  /*left line */
+  
+  position: absolute;
+  pointer-events: none;
+}
+
+.selectdiv select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  /* Add some styling */
+  
+  /*display: block;*/
+  width: 100%;
+  max-width: 500px;
+  height: 40px;
+  /*float: right;*/
+  /*margin: 5px 0px;*/
+  margin: 0 auto;
+  padding: 0px 10px;
+  font-size: 25px;
+  line-height: 1.75;
+  color: #333;
+  background-color: #ffffff;
+  background-image: none;
+  border: 1px solid #4169e1;
+  -ms-word-break: normal;
+  word-break: normal;
+}
+
+.selectdiv select:focus {
   outline: 1px solid #4169e1;
 }
+/*因子検索↑ */
+
 
 
 section.horseData .tabLabel:nth-last-of-type(1){ margin-right: 0; }
