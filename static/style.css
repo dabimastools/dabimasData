@@ -1,8 +1,16 @@
 
 body {
-  font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", sans-serif;
-  background: #4169e1;
+  font-family: "SF Pro Text","SF Pro Icons",
+    "Helvetica Neue",
+    Arial,
+    "Hiragino Kaku Gothic ProN",
+    "Hiragino Sans",
+    Meiryo,
+    sans-serif;
+    background: #4169e1;
 }
+
+
 
 h1, h2 {
   margin: 0;
@@ -93,14 +101,16 @@ h1, h2 {
   right: 30px;
   bottom: 30px;
   z-index: 100;
-  width: 70px;
-  height: 70px;
+  width: 100px;
+  height: 100px;
   border-radius: 50%;
-  background-color: #115582;
+  background-color: rgba(17,85,130,0.5);
   display: flex;
   align-items: center;
   justify-content: center;
   transition: all 0.3s ease;
+  
+  -webkit-tap-highlight-color:rgba(0,0,0,0);
 }
 
 /* 矢印のスタイル */
@@ -327,15 +337,16 @@ section.horseData .tabLabel {	/* タブ非選択 */
 	background: #ddd;
 	transition: .5s ;
 	cursor: pointer;
-	max-width: 20%;
+	max-width: 30%;
 	text-align: center;
 	font-size: 18px;
 	font-style: normal;
 	line-height: 30px;
 	height: 35px;
+	-webkit-tap-highlight-color:rgba(0,0,0,0);
 }
 
-section.horseData .selectdiv {	/* selectbox非選択 */
+section.horseData .open_button01 {	/*因子絞込ボタン（絞り込みなし）*/
 	margin-right: 3px;
 	padding: 3px 12px;
 	flex: 1;
@@ -345,14 +356,40 @@ section.horseData .selectdiv {	/* selectbox非選択 */
 	border: 1px solid #4169e1;
 	transition: .5s ;
 	cursor: pointer;
-	max-width: 50%;
+	max-width: 20%;
 	text-align: center;
 	font-size: 20px;
 	font-style: normal;
 	line-height: 30px;
 	height: 35px;
 	left: 5px;
+	bottom: 5px;
+	border-radius: 16px;
+	-webkit-tap-highlight-color:rgba(0,0,0,0);
 }
+
+section.horseData .open_button02 {	/*因子絞込ボタン（絞り込みあり）*/
+	margin-right: 3px;
+	padding: 3px 12px;
+	flex: 1;
+	order: -1;
+	color: #ffffff;
+	background-color: #4169e1;
+	background-image: none;
+	border: 1px solid #4169e1;
+	transition: .5s ;
+	cursor: pointer;
+	max-width: 20%;
+	text-align: center;
+	font-size: 20px;
+	font-style: normal;
+	line-height: 30px;
+	height: 35px;
+	left: 5px;
+	bottom: 5px;
+	border-radius: 16px;
+}
+
 
 section.horseData .selectdiv:focus {
   outline: 1px solid #4169e1;
@@ -360,7 +397,8 @@ section.horseData .selectdiv:focus {
 
 
 section.horseData .tabLabel:nth-last-of-type(1){ margin-right: 0; }
-section.horseData input {		/* ラジオボタン非表示 */
+
+section.horseData input[type="radio"] {		/* ラジオボタン非表示 */
 	display: none;
 }
 section.horseData .content {	/* 本文 */
@@ -383,72 +421,6 @@ section.horseData input:checked + .tabLabel + .content {
 	opacity: 1;
 }
 /*牡馬牝馬タブ↑ */
-
-
-/*因子検索↓ */
-section.horseData .selectdiv {
-  position: relative;
-  /*Don't really need this just for demo styling*/
-  overflow: hidden;
-  text-align: center;
-  margin:0 auto;
-  width: 50%;
-  display: inline;
-  float: right;
-}
-
-/* IE11 hide native button */
-select::-ms-expand {
-display: none;
-}
-
-section.horseData .selectdiv:after {
-  content: '<>';
-  font: 17px "Consolas", monospace;
-  color: #4169e1;
-  -webkit-transform: rotate(90deg);
-  -moz-transform: rotate(90deg);
-  -ms-transform: rotate(90deg);
-  transform: rotate(90deg);
-  right: 11px;
-  /*Adjust for position however you want*/
-  
-  top: 10px;
-  padding: 0 0 2px;
-  border-bottom: 1px solid #999;
-  /*left line */
-  
-  position: absolute;
-  pointer-events: none;
-}
-
-section.horseData .selectdiv select {
-  -webkit-appearance: none;
-  -moz-appearance: none;
-  appearance: none;
-  /* Add some styling */
-  
-  display: block;
-  width: 100%;
-  max-width: 320px;
-  height: 30px;
-  float: right;
-  margin: 5px 0px;
-  padding: 0px 24px;
-  font-size: 16px;
-  line-height: 1.75;
-  color: #333;
-  background-color: #ffffff;
-  background-image: none;
-  border: 1px solid #4169e1;
-  -ms-word-break: normal;
-  word-break: normal;
-}
-
-section.horseData .selectdiv select:focus {
-  outline: 1px solid #4169e1;
-}
-/*因子検索↑ */
 
 .tabmenu2{
 	position: relative;
@@ -510,7 +482,7 @@ section.horseData .selectdiv select:focus {
 }
 .tabmenu input[type="radio"] + em{
 	position: relative;
-	z-index: 100;
+	/*z-index: 100;*/
 	display: inline-block;
 	padding: 4px 0 0;
 	/*min-width: 25%;*/
@@ -564,7 +536,7 @@ section.horseData .selectdiv select:focus {
     cursor: pointer;
     transition: .5s;
     margin: 0.1em 0;
-
+    -webkit-tap-highlight-color:rgba(0,0,0,0);
 }
 
 }
@@ -738,6 +710,200 @@ height:720px;
   }
 }
 
+/*究極*/
+.header01_6{
+  color     : #fbffcd;            /* 文字の色 */
+  background: #f9cb16;
+  font-size      : 18pt;               /* 文字のサイズ */
+  /*letter-spacing : 3px;*/                /* 文字間 */
+  text-shadow    : 
+       2px  2px 1px #341f07,
+      -2px  2px 1px #341f07,
+       2px -2px 1px #341f07,
+      -2px -2px 1px #341f07,
+       2px  0px 1px #341f07,
+       0px  2px 1px #341f07,
+      -2px  0px 1px #341f07,
+       0px -2px 1px #341f07;        /* 文字の影 */
+}
+
+/*真究極*/
+.header01_7{
+  color     : #fbffcd;            /* 文字の色 */
+  background: #0B38c2;
+  font-size      : 18pt;               /* 文字のサイズ */
+  /*letter-spacing : 3px;*/                /* 文字間 */
+  text-shadow    : 
+       2px  2px 1px #341f07,
+      -2px  2px 1px #341f07,
+       2px -2px 1px #341f07,
+      -2px -2px 1px #341f07,
+       2px  0px 1px #341f07,
+       0px  2px 1px #341f07,
+      -2px  0px 1px #341f07,
+       0px -2px 1px #341f07;        /* 文字の影 */
+}
+
+/*短*/
+.header01_f01{
+  color     : #000000;            /* 文字の色 */
+  background: #fdfd00;
+  text-shadow    : 
+       1px  1px 0px #ffffff,
+      -1px  1px 0px #ffffff,
+       1px -1px 0px #ffffff,
+      -1px -1px 0px #ffffff,
+       1px  0px 0px #ffffff,
+       0px  1px 0px #ffffff,
+      -1px  0px 0px #ffffff,
+       0px -1px 0px #ffffff;        /* 文字の影 */
+}
+/*速*/
+.header01_f02{
+  color     : #000000;            /* 文字の色 */
+  background: #fdfda2;
+  text-shadow    : 
+       1px  1px 0px #ffffff,
+      -1px  1px 0px #ffffff,
+       1px -1px 0px #ffffff,
+      -1px -1px 0px #ffffff,
+       1px  0px 0px #ffffff,
+       0px  1px 0px #ffffff,
+      -1px  0px 0px #ffffff,
+       0px -1px 0px #ffffff;        /* 文字の影 */
+}
+/*底*/
+.header01_f03{
+  color     : #000000;            /* 文字の色 */
+  background: #fc6e00;
+  text-shadow    : 
+       1px  1px 0px #ffffff,
+      -1px  1px 0px #ffffff,
+       1px -1px 0px #ffffff,
+      -1px -1px 0px #ffffff,
+       1px  0px 0px #ffffff,
+       0px  1px 0px #ffffff,
+      -1px  0px 0px #ffffff,
+       0px -1px 0px #ffffff;        /* 文字の影 */
+}
+/*長*/
+.header01_f04{
+  color     : #000000;            /* 文字の色 */
+  background: #03fdfd;
+  text-shadow    : 
+       1px  1px 0px #ffffff,
+      -1px  1px 0px #ffffff,
+       1px -1px 0px #ffffff,
+      -1px -1px 0px #ffffff,
+       1px  0px 0px #ffffff,
+       0px  1px 0px #ffffff,
+      -1px  0px 0px #ffffff,
+       0px -1px 0px #ffffff;        /* 文字の影 */
+}
+/*ダ*/
+.header01_f05{
+  color     : #000000;            /* 文字の色 */
+  background: #fddba5;
+  text-shadow    : 
+       1px  1px 0px #ffffff,
+      -1px  1px 0px #ffffff,
+       1px -1px 0px #ffffff,
+      -1px -1px 0px #ffffff,
+       1px  0px 0px #ffffff,
+       0px  1px 0px #ffffff,
+      -1px  0px 0px #ffffff,
+       0px -1px 0px #ffffff;        /* 文字の影 */
+}
+/*丈*/
+.header01_f06{
+  color     : #000000;            /* 文字の色 */
+  background: #feabdd;
+  text-shadow    : 
+       1px  1px 0px #ffffff,
+      -1px  1px 0px #ffffff,
+       1px -1px 0px #ffffff,
+      -1px -1px 0px #ffffff,
+       1px  0px 0px #ffffff,
+       0px  1px 0px #ffffff,
+      -1px  0px 0px #ffffff,
+       0px -1px 0px #ffffff;        /* 文字の影 */
+}
+/*早*/
+.header01_f07{
+  color     : #000000;            /* 文字の色 */
+  background: #02fe02;
+  text-shadow    : 
+       1px  1px 0px #ffffff,
+      -1px  1px 0px #ffffff,
+       1px -1px 0px #ffffff,
+      -1px -1px 0px #ffffff,
+       1px  0px 0px #ffffff,
+       0px  1px 0px #ffffff,
+      -1px  0px 0px #ffffff,
+       0px -1px 0px #ffffff;        /* 文字の影 */
+}
+/*晩*/
+.header01_f08{
+  color     : #000000;            /* 文字の色 */
+  background: #a7de0d;
+  text-shadow    : 
+       1px  1px 0px #ffffff,
+      -1px  1px 0px #ffffff,
+       1px -1px 0px #ffffff,
+      -1px -1px 0px #ffffff,
+       1px  0px 0px #ffffff,
+       0px  1px 0px #ffffff,
+      -1px  0px 0px #ffffff,
+       0px -1px 0px #ffffff;        /* 文字の影 */
+}
+/*堅*/
+.header01_f09{
+  color     : #000000;            /* 文字の色 */
+  background: #a1a1a3;
+  text-shadow    : 
+       1px  1px 0px #ffffff,
+      -1px  1px 0px #ffffff,
+       1px -1px 0px #ffffff,
+      -1px -1px 0px #ffffff,
+       1px  0px 0px #ffffff,
+       0px  1px 0px #ffffff,
+      -1px  0px 0px #ffffff,
+       0px -1px 0px #ffffff;        /* 文字の影 */
+}
+/*難*/
+.header01_f10{
+  color     : #000000;            /* 文字の色 */
+  background: #fc00fc;
+  text-shadow    : 
+       1px  1px 0px #ffffff,
+      -1px  1px 0px #ffffff,
+       1px -1px 0px #ffffff,
+      -1px -1px 0px #ffffff,
+       1px  0px 0px #ffffff,
+       0px  1px 0px #ffffff,
+      -1px  0px 0px #ffffff,
+       0px -1px 0px #ffffff;        /* 文字の影 */
+}
+
+
+/*交換券*/
+.header01_Z{
+  color     : #fbffcd;            /* 文字の色 */
+  background: #fd98d2;
+  font-size      : 22pt;               /* 文字のサイズ */
+  /*letter-spacing : 3px;*/                /* 文字間 */
+  text-shadow    : 
+       2px  2px 1px #b81552,
+      -2px  2px 1px #b81552,
+       2px -2px 1px #b81552,
+      -2px -2px 1px #b81552,
+       2px  0px 1px #b81552,
+       0px  2px 1px #b81552,
+      -2px  0px 1px #b81552,
+       0px -2px 1px #b81552;        /* 文字の影 */
+}
+
+
 .content2 {
  -- margin-top: 20px;
    }
@@ -838,6 +1004,15 @@ ul li, ol li {
 .content .father_0 {
   background-color: #3e499c;
   color: #FFFFFF;
+  text-shadow    : 
+       1px  1px 0px #000000,
+      -1px  1px 0px #000000,
+       1px -1px 0px #000000,
+      -1px -1px 0px #000000,
+       1px  0px 0px #000000,
+       0px  1px 0px #000000,
+      -1px  0px 0px #000000,
+       0px -1px 0px #000000;        /* 文字の影 */
   border-bottom: 1px solid #3e499c;
   vertical-align: middle;
   font-size: x-large;
@@ -847,6 +1022,15 @@ ul li, ol li {
 .content .father {
   background-color: #3e499c;
   color: #FFFFFF;
+  text-shadow    : 
+       1px  1px 0px #000000,
+      -1px  1px 0px #000000,
+       1px -1px 0px #000000,
+      -1px -1px 0px #000000,
+       1px  0px 0px #000000,
+       0px  1px 0px #000000,
+      -1px  0px 0px #000000,
+       0px -1px 0px #000000;        /* 文字の影 */
   border-bottom: none; 
   vertical-align: middle;
   font-size: x-large;
@@ -856,6 +1040,15 @@ ul li, ol li {
 .content .father_1 {
   background-color: #3e499c;
   color: #FFFFFF;
+  text-shadow    : 
+       1px  1px 0px #000000,
+      -1px  1px 0px #000000,
+       1px -1px 0px #000000,
+      -1px -1px 0px #000000,
+       1px  0px 0px #000000,
+       0px  1px 0px #000000,
+      -1px  0px 0px #000000,
+       0px -1px 0px #000000;        /* 文字の影 */
   border-top: none;
   vertical-align: middle;
   font-size: x-large;
@@ -865,6 +1058,15 @@ ul li, ol li {
 .content .mother_0 {
   background-color: #b34e5f;
   color: #FFFFFF;
+  text-shadow    : 
+       1px  1px 0px #000000,
+      -1px  1px 0px #000000,
+       1px -1px 0px #000000,
+      -1px -1px 0px #000000,
+       1px  0px 0px #000000,
+       0px  1px 0px #000000,
+      -1px  0px 0px #000000,
+       0px -1px 0px #000000;        /* 文字の影 */
   border-bottom: 1px solid #b34e5f;
   vertical-align: middle;
   font-size: x-large;
@@ -874,6 +1076,15 @@ ul li, ol li {
 .content .mother {
   background-color: #b34e5f;
   color: #FFFFFF;
+  text-shadow    : 
+       1px  1px 0px #000000,
+      -1px  1px 0px #000000,
+       1px -1px 0px #000000,
+      -1px -1px 0px #000000,
+       1px  0px 0px #000000,
+       0px  1px 0px #000000,
+      -1px  0px 0px #000000,
+       0px -1px 0px #000000;        /* 文字の影 */
   border-bottom: none; 
   vertical-align: middle;
   font-size: x-large;
@@ -883,6 +1094,15 @@ ul li, ol li {
 .content .mother_1 {
   background-color: #b34e5f;
   color: #FFFFFF;
+  text-shadow    : 
+       1px  1px 0px #000000,
+      -1px  1px 0px #000000,
+       1px -1px 0px #000000,
+      -1px -1px 0px #000000,
+       1px  0px 0px #000000,
+       0px  1px 0px #000000,
+      -1px  0px 0px #000000,
+       0px -1px 0px #000000;        /* 文字の影 */
   border-top: none;
   vertical-align: middle;
   font-size: x-large;
@@ -1010,6 +1230,7 @@ ul li, ol li {
   color: #e2041b;  }
 
 .content .factor_icn {
+
   padding: 3px;
   text-align: right; }
 
@@ -1110,10 +1331,6 @@ img {
 
 
 
-/*検索ボックス↑*/
-
-
-
 
 .title_panel {
     border: 1px #DDDDDD solid;
@@ -1169,3 +1386,297 @@ img {
 }
 
 
+/* ↓因子検索ダイアログ↓ */
+
+.modal_wrap [type="checkbox"] {
+  display: none;
+}
+
+.modal_overlay{
+  display: flex;
+  justify-content: center;
+  overflow: auto;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.7);
+  opacity: 0;
+  transition: opacity 0.5s, transform 0s 0.5s;
+  transform: scale(0);
+}
+
+.modal_trigger{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.modal_content{
+  align-self: center;
+  width: 95%;
+  max-width: 800px;
+  padding: 15px 30px 15px;
+  box-sizing: border-box;
+  background: #fff;
+  line-height: 1.4em;
+  transform: scale(1.2);
+  transition: 0.5s;
+}
+
+.close_button input{
+  display: none;
+}
+
+.close_button{
+  position: absolute;
+  top: 14px;
+  right: 16px;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.modal_wrap input:checked ~ .modal_overlay{
+  opacity: 1;
+  transform: scale(1);
+  transition: opacity 0.5s;
+}
+
+.modal_wrap input:checked ~ .modal_overlay .modal_content{
+  transform: scale(1);
+}
+
+
+.search_button{
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  height: 30px;
+  padding: 8px 16px;
+  box-shadow: 0 1px 3px rgba(0,0,0,1);
+  border-radius: 16px;
+  cursor: pointer;
+  text-decoration: none;
+  background: #668ad8;/*ボタン色*/
+  color: #FFF;
+  border-bottom: solid 4px #627295;
+
+  bottom: 10px;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%);
+}
+
+
+
+
+/*因子検索フォーム*/
+.frmSmpl1 {
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	width:100%;
+	color: #666;
+	padding:.7em;
+	margin: 2em 0;
+	border:1px solid #ccc;
+	/*↓背景グラデーションの指定*/
+	background: #f0f8f1; /*←グラデーション未対応のブラウザ用*/
+	background: -webkit-linear-gradient(top, #fbfcfc, #f0f8f1); /*←オールドブラウザ用*/
+	background: linear-gradient(#fbfcfc, #f0f8f1); /*←標準型*/
+	font-size :30px;
+	text-align: center;
+}
+
+.frmSmpl1 ul { /*ul要素を初期化*/
+	padding:0;
+	margin: 0 auto;
+}
+.frmSmpl1 ul li { /*li要素も初期化し、ボーダーなどを指定*/
+	list-style:none; /*リストマーカー（●）を無しに*/
+	margin: 0 auto;
+	padding:.5em;
+	border-top: 2px solid #fff;
+	/*font-size:25px;*/
+}
+
+
+.frmSmpl1 ul li:first-child { /*最初のli要素はボーダー無し*/
+	border-top:none;
+}
+
+
+.frmSmpl1 p {
+	margin:.3em 0 0 1em;
+}
+.frmSmpl1 p label { /*チェックボックス・ラジオボタンの label要素を横に並べる*/
+	display: inline-block;
+	margin-left: .5em;
+	text-align: left;
+}
+.frmSmpl1 p label input {/*input要素とテキストがくっつかないように右マージンを少々*/
+	margin-right:0.5em;
+}
+
+
+.frmSmpl1 p.check label { /*チェックボックスのlabelの横幅を統一*/
+	width: 5em;
+}
+
+
+/*因子検索↓ */
+input[list] {
+  display: inline-block;
+  
+  position: relative;
+  /*Don't really need this just for demo styling*/
+  
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+  margin: 15px 0px;
+  overflow: hidden;
+  text-align: left;
+
+  width: 150%;
+  font-size: 25px;
+  height: 30px;
+  border: solid;
+  border-color: #4169e1;
+  border-top: transparent;
+  border-left: transparent;
+  border-right: transparent;
+  /*display: inline;*/
+  /*float: right;*/
+}
+
+input[list]:focus {
+  outline: 1px solid #4169e1;
+}
+
+/*因子検索↑ */
+
+
+/*トグルスイッチ↓ */
+.tg-list {
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+
+.tg-list-item {
+  margin: 0 2em;
+}
+
+.tgl {
+  display: none;
+}
+.tgl, .tgl:after, .tgl:before, .tgl *, .tgl *:after, .tgl *:before, .tgl + .tgl-btn {
+  box-sizing: border-box;
+}
+.tgl::-moz-selection, .tgl:after::-moz-selection, .tgl:before::-moz-selection, .tgl *::-moz-selection, .tgl *:after::-moz-selection, .tgl *:before::-moz-selection, .tgl + .tgl-btn::-moz-selection {
+  background: none;
+}
+.tgl::selection, .tgl:after::selection, .tgl:before::selection, .tgl *::selection, .tgl *:after::selection, .tgl *:before::selection, .tgl + .tgl-btn::selection {
+  background: none;
+}
+.tgl + .tgl-btn {
+  outline: 0;
+  display: inline-block;
+  width: 3em;
+  height: 1.5em;
+  position: relative;
+  cursor: pointer;
+  -webkit-tap-highlight-color:rgba(0,0,0,0);
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+.tgl + .tgl-btn:after, .tgl + .tgl-btn:before { /*トグルの○*/
+  position: relative;
+  display: block;
+  content: "";
+  width: 50%;
+  height: 100%;
+}
+.tgl + .tgl-btn:after {
+  left: 0;
+}
+.tgl + .tgl-btn:before {
+  display: none;
+}
+.tgl:checked + .tgl-btn:after {
+  left: 50%;
+}
+
+
+.tgl-ios + .tgl-btn {
+  background: #fbfbfb;
+  border-radius: 2em;
+  padding: 2px;
+  transition: all 0.4s ease;
+  border: 1px solid #e8eae9;
+}
+.tgl-ios + .tgl-btn:after {
+  border-radius: 2em;
+  background: #fbfbfb;
+  transition: left 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275), padding 0.3s ease, margin 0.3s ease;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1), 0 4px 0 rgba(0, 0, 0, 0.08);
+}
+.tgl-ios + .tgl-btn:hover:after {
+  will-change: padding;
+}
+.tgl-ios + .tgl-btn:active {
+  box-shadow: inset 0 0 0 2em #e8eae9;
+}
+.tgl-ios + .tgl-btn:active:after {
+  padding-right: 0.8em;
+}
+.tgl-ios:checked + .tgl-btn {
+  background: #86d993;
+}
+.tgl-ios:checked + .tgl-btn:active {
+  box-shadow: none;
+}
+.tgl-ios:checked + .tgl-btn:active:after {
+  margin-left: -0.8em;
+}
+
+.tgl-lbl {
+  color: #999;
+  vertical-align: top;
+  display:inline-block;
+  text-align: left;
+  min-width: 170px;
+}
+
+.tgl-lbl-blank{
+  display:inline-block;
+  color: #fcfcfc;
+  min-width: 170px;
+}
+.tgl-btn-blank {
+  background: #fcfcfc;
+
+}
+.tgl + .tgl-btn-blank {
+  outline: 0;
+  display: inline-block;
+  width: 3em;
+  height: 1.5em;
+  position: relative;
+  cursor: pointer;
+  -webkit-tap-highlight-color:rgba(0,0,0,0);
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+
+/*トグルスイッチ↑ */
