@@ -1,6 +1,6 @@
-
+@import url(http://fonts.googleapis.com/earlyaccess/notosansjapanese.css);
 body {
-  font-family: "SF Pro Text","SF Pro Icons",
+  font-family: "Noto Sans Japanese", "SF Pro Text","SF Pro Icons",
     "Helvetica Neue",
     Arial,
     "Hiragino Kaku Gothic ProN",
@@ -602,7 +602,6 @@ section.horseData input:checked + .tabLabel + .content {
     -webkit-tap-highlight-color:rgba(0,0,0,0);
 }
 
-}
 .btn2_wrap label:hover,
 .btn2_wrap input:focus + label{
     box-shadow: 0 0 4px #af975e;
@@ -611,11 +610,13 @@ section.horseData input:checked + .tabLabel + .content {
 .btn2_wrap label span:after{
   color          : #aaa;
 }
+
 .btn2_wrap input:checked + label{
   color          : #ffffff;
   background     : #4169e1;             /* 背景色             */
   box-shadow     : none;                /* 影を消す           */
 }
+
 .btn2_wrap input:checked + label  span:after{
   color          : #fff;                /* 文字色             */
 }
