@@ -610,8 +610,8 @@ function getCondition(text,arr) {
 
 function getFooter() {
     let tag = '<div class="footertxt">';
-    tag += '<a class="tw_share" href="http://twitter.com/share?url=https://yanaifarm.github.io/dabimasData/index.html&text=ダビ娘&hashtags=ダビ娘" target="_blank">共有</a>';
-    tag += 'ダビ娘<a href="https://twitter.com/yanaiFarm">@やないあいこ牧場</a><BR>thanks to ふじろん牧場さま</div>';
+    tag += '<a class="tw_share" href="http://twitter.com/share?url=https://yanaifarm.github.io/dabimasData/index.html&text=ダビむす&hashtags=ダビむす" target="_blank">共有</a>';
+    tag += 'ダビむす<a href="https://twitter.com/DabimusDabimas"></a><BR>thanks to ふじろん牧場さま</div>';
     //上に戻るボタン
     tag += '<button id="page-top" class="page-top"></button>';
     
