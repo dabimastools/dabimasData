@@ -581,7 +581,7 @@ section.horseData input:checked + .tabLabel + .content {
 }
 
 
-
+/*
 .btn2_wrap{
     display:inline-block;
     position: relative;
@@ -606,7 +606,38 @@ section.horseData input:checked + .tabLabel + .content {
 .btn2_wrap input:focus + label{
     box-shadow: 0 0 4px #af975e;
 }
- /* === ON側のチェックボックスのラベル（ONのとき） ========== */
+*/
+
+
+
+[class^="btn2_wrap"]{
+    display:inline-block;
+    position: relative;
+}
+[class^="btn2_wrap"] input{
+    opacity: 0;
+    position: absolute;
+    left: 0;
+}
+[class^="btn2_wrap"] label{
+    padding: 12px 18px;
+    border-radius: 20px;
+    background: #eee;
+    display: inline-block;
+    cursor: pointer;
+    transition: .5s;
+    margin: 0.1em 0;
+    -webkit-tap-highlight-color:rgba(0,0,0,0);
+}
+
+[class^="btn2_wrap"] label:hover,
+[class^="btn2_wrap"] input:focus + label{
+    box-shadow: 0 0 4px #af975e;
+}
+
+
+
+ /* === ON側のチェックボックスのラベル（ONのとき）普通 ========== */
 .btn2_wrap label span:after{
   color          : #aaa;
 }
@@ -621,6 +652,235 @@ section.horseData input:checked + .tabLabel + .content {
   color          : #fff;                /* 文字色             */
 }
 
+
+/* === ON側のチェックボックスのラベル（ONのとき）Ro  ========== */
+.btn2_wrap_Ro label span:after{
+  color          : #aaa;
+}
+
+.btn2_wrap_Ro input:checked + label{
+  color          : #000000;
+  background     : #f9afd1;             /* 背景色             */
+  box-shadow     : none;                /* 影を消す           */
+}
+
+.btn2_wrap_Ro input:checked + label  span:after{
+  color          : #000000;                /* 文字色             */
+}
+
+/* === ON側のチェックボックスのラベル（ONのとき）Ne  ========== */
+.btn2_wrap_Ne label span:after{
+  color          : #aaa;
+}
+
+.btn2_wrap_Ne input:checked + label{
+  color          : #000000;
+  background     : #fdff75;             /* 背景色             */
+  box-shadow     : none;                /* 影を消す           */
+}
+
+.btn2_wrap_Ne input:checked + label  span:after{
+  color          : #000000;                /* 文字色             */
+}
+
+/* === ON側のチェックボックスのラベル（ONのとき）Ns  ========== */
+.btn2_wrap_Ns label span:after{
+  color          : #aaa;
+}
+
+.btn2_wrap_Ns input:checked + label{
+  color          : #000000;
+  background     : #11f90e;             /* 背景色             */
+  box-shadow     : none;                /* 影を消す           */
+}
+
+.btn2_wrap_Ns input:checked + label  span:after{
+  color          : #000000;                /* 文字色             */
+}
+
+/* === ON側のチェックボックスのラベル（ONのとき）Nt  ========== */
+.btn2_wrap_Nt label span:after{
+  color          : #aaa;
+}
+
+.btn2_wrap_Nt input:checked + label{
+  color          : #000000;
+  background     : #66e2ff;             /* 背景色             */
+  box-shadow     : none;                /* 影を消す           */
+}
+
+.btn2_wrap_Nt input:checked + label  span:after{
+  color          : #000000;                /* 文字色             */
+}
+
+/* === ON側のチェックボックスのラベル（ONのとき）Ha  ========== */
+.btn2_wrap_Ha label span:after{
+  color          : #aaa;
+}
+
+.btn2_wrap_Ha input:checked + label{
+  color          : #000000;
+  background     : #90ff61;             /* 背景色             */
+  box-shadow     : none;                /* 影を消す           */
+}
+
+.btn2_wrap_Ha input:checked + label  span:after{
+  color          : #000000;                /* 文字色             */
+}
+
+/* === ON側のチェックボックスのラベル（ONのとき）St  ========== */
+.btn2_wrap_St label span:after{
+  color          : #aaa;
+}
+
+.btn2_wrap_St input:checked + label{
+  color          : #000000;
+  background     : #9988fe;             /* 背景色             */
+  box-shadow     : none;                /* 影を消す           */
+}
+
+.btn2_wrap_St input:checked + label  span:after{
+  color          : #000000;                /* 文字色             */
+}
+
+/* === ON側のチェックボックスのラベル（ONのとき）He  ========== */
+.btn2_wrap_He label span:after{
+  color          : #aaa;
+}
+
+.btn2_wrap_He input:checked + label{
+  color          : #000000;
+  background     : #c8fffc;             /* 背景色             */
+  box-shadow     : none;                /* 影を消す           */
+}
+
+.btn2_wrap_He input:checked + label  span:after{
+  color          : #000000;                /* 文字色             */
+}
+
+/* === ON側のチェックボックスのラベル（ONのとき）Te  ========== */
+.btn2_wrap_Te label span:after{
+  color          : #aaa;
+}
+
+.btn2_wrap_Te input:checked + label{
+  color          : #ffffff;
+  background     : #8813f7;             /* 背景色             */
+  box-shadow     : none;                /* 影を消す           */
+}
+
+.btn2_wrap_Te input:checked + label  span:after{
+  color          : #ffffff;                /* 文字色             */
+}
+
+/* === ON側のチェックボックスのラベル（ONのとき）Ph  ========== */
+.btn2_wrap_Ph label span:after{
+  color          : #aaa;
+}
+
+.btn2_wrap_Ph input:checked + label{
+  color          : #000000;
+  background     : #d1eaff;             /* 背景色             */
+  box-shadow     : none;                /* 影を消す           */
+}
+
+.btn2_wrap_Ph input:checked + label  span:after{
+  color          : #000000;                /* 文字色             */
+}
+
+/* === ON側のチェックボックスのラベル（ONのとき）Ma  ========== */
+.btn2_wrap_Ma label span:after{
+  color          : #aaa;
+}
+
+.btn2_wrap_Ma input:checked + label{
+  color          : #000000;
+  background     : #cda9ff;             /* 背景色             */
+  box-shadow     : none;                /* 影を消す           */
+}
+
+.btn2_wrap_Ma input:checked + label  span:after{
+  color          : #000000;                /* 文字色             */
+}
+
+/* === ON側のチェックボックスのラベル（ONのとき）Hi  ========== */
+.btn2_wrap_Hi label span:after{
+  color          : #aaa;
+}
+
+.btn2_wrap_Hi input:checked + label{
+  color          : #ffffff;
+  background     : #3766ff;             /* 背景色             */
+  box-shadow     : none;                /* 影を消す           */
+}
+
+.btn2_wrap_Hi input:checked + label  span:after{
+  color          : #ffffff;                /* 文字色             */
+}
+
+/* === ON側のチェックボックスのラベル（ONのとき）Sw  ========== */
+.btn2_wrap_Sw label span:after{
+  color          : #aaa;
+}
+
+.btn2_wrap_Sw input:checked + label{
+  color          : #000000;
+  background     : #fbd6db;             /* 背景色             */
+  box-shadow     : none;                /* 影を消す           */
+}
+
+.btn2_wrap_Sw input:checked + label  span:after{
+  color          : #000000;                /* 文字色             */
+}
+
+/* === ON側のチェックボックスのラベル（ONのとき）Fa  ========== */
+.btn2_wrap_Fa label span:after{
+  color          : #aaa;
+}
+
+.btn2_wrap_Fa input:checked + label{
+  color          : #000000;
+  background     : #ffcd3e;             /* 背景色             */
+  box-shadow     : none;                /* 影を消す           */
+}
+
+.btn2_wrap_Fa input:checked + label  span:after{
+  color          : #000000;                /* 文字色             */
+}
+
+/* === ON側のチェックボックスのラベル（ONのとき）To  ========== */
+.btn2_wrap_To label span:after{
+  color          : #aaa;
+}
+
+.btn2_wrap_To input:checked + label{
+  color          : #000000;
+  background     : #ff9942;             /* 背景色             */
+  box-shadow     : none;                /* 影を消す           */
+}
+
+.btn2_wrap_To input:checked + label  span:after{
+  color          : #000000;                /* 文字色             */
+}
+
+/* === ON側のチェックボックスのラベル（ONのとき）Ec  ========== */
+.btn2_wrap_Ec label span:after{
+  color          : #aaa;
+}
+
+.btn2_wrap_Ec input:checked + label{
+  color          : #000000;
+  background     : #ffffff;             /* 背景色             */
+  box-shadow     : none;                /* 影を消す           */
+  border-color   : #eee;
+  border-style   : solid;
+  border-width   : 1px;
+
+}
+
+.btn2_wrap_Ec input:checked + label  span:after{
+  color          : #000000;                /* 文字色             */
+}
 
 .btn3_wrap{
     display:inline-block;
