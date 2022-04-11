@@ -470,6 +470,20 @@ section.horseData .content {	/* 本文 */
 	overflow: hidden;
 	opacity: 0;
 }
+section.horseData .contentM {	/* 本文 */
+	width: 100%;
+	height: 0;
+	overflow: hidden;
+	opacity: 0;
+}
+section.horseData .contentF {	/* 本文 */
+	width: 100%;
+	height: 0;
+	overflow: hidden;
+	opacity: 0;
+}
+
+
 /*アクティブ設定*/
 section.horseData input:checked + .tabLabel {
 	background: #4169e1;
@@ -483,6 +497,24 @@ section.horseData input:checked + .tabLabel + .content {
 	transition: .5s opacity;
 	opacity: 1;
 }
+section.horseData input:checked + .tabLabel + .contentM {
+	/*padding: 15px;*/
+	height: auto;
+	overflow: auto;
+	box-shadow: 0 0 5px rgba(0,0,0,.2);
+	transition: .5s opacity;
+	opacity: 1;
+}
+section.horseData input:checked + .tabLabel + .contentF {
+	/*padding: 15px;*/
+	height: auto;
+	overflow: auto;
+	box-shadow: 0 0 5px rgba(0,0,0,.2);
+	transition: .5s opacity;
+	opacity: 1;
+}
+
+
 /*牡馬牝馬タブ↑ */
 
 .tabmenu2{
@@ -1290,12 +1322,12 @@ ul li, ol li {
 } 
  
 
-.content {
+.detail {
 -webkit-text-size-adjust: 100%;
  }
 
 
-.content h2 {
+.detail h2 {
   background-image: none;
   background-color: transparent;
   color: #465535;
@@ -1308,7 +1340,7 @@ ul li, ol li {
    }
 
    
-.content h3 {
+.detail h3 {
   background-image: none;
   background-color: transparent;
   color: #465535;
@@ -1317,7 +1349,7 @@ ul li, ol li {
   margin: 10px 0 0;
   border-radius: 0; }
   
-.content h4 {
+.detail h4 {
   margin: 10px 0 10px 0;
   font-weight: bold;
   line-height: 16px;
@@ -1326,37 +1358,37 @@ ul li, ol li {
   padding: 0 7px 0 7px;
   border-left: 3px solid #ec7b14; }
   
-.content .paper {
+.detail .paper {
   /*height:240px;*/
   padding: 15px 20px 15px;
   /*overflow:scroll;
  *   overflow-x:hidden;*/ }
 
-.content .topic ~ .topic {
+.detail .topic ~ .topic {
   border-top: 1px dotted #465535;
   padding-top: 15px;
   margin-top: 15px; }
 
-.content time {
+.detail time {
   font-size: 12px;
   line-height: 1; }
 
-.content img {
+.detail img {
   margin: 0px; }
 
-.content .description {
+.detail .description {
   font-size: 14px;
   word-break: break-all;
   word-wrap: break-word;
   padding: 10px 10px 0; }
 
-.content .description p {
+.detail .description p {
   margin-bottom: 1em; }
 
-.content .inner {
+.detail .inner {
   margin: 10px 0; }
 
-.content .father_0 {
+.detail .father_0 {
   background-color: #3e499c;
   color: #FFFFFF;
   text-shadow    : 
@@ -1374,7 +1406,7 @@ ul li, ol li {
   text-align: center;
   font-weight: bold; }
 
-.content .father {
+.detail .father {
   background-color: #3e499c;
   color: #FFFFFF;
   text-shadow    : 
@@ -1392,7 +1424,7 @@ ul li, ol li {
   text-align: center;
   font-weight: bold; }
 
-.content .father_1 {
+.detail .father_1 {
   background-color: #3e499c;
   color: #FFFFFF;
   text-shadow    : 
@@ -1410,7 +1442,7 @@ ul li, ol li {
   text-align: center;
   font-weight: bold; }
 
-.content .mother_0 {
+.detail .mother_0 {
   background-color: #b34e5f;
   color: #FFFFFF;
   text-shadow    : 
@@ -1428,7 +1460,7 @@ ul li, ol li {
   text-align: center;
   font-weight: bold; }
 
-.content .mother {
+.detail .mother {
   background-color: #b34e5f;
   color: #FFFFFF;
   text-shadow    : 
@@ -1446,7 +1478,7 @@ ul li, ol li {
   text-align: center;
   font-weight: bold; }
 
-.content .mother_1 {
+.detail .mother_1 {
   background-color: #b34e5f;
   color: #FFFFFF;
   text-shadow    : 
@@ -1464,44 +1496,44 @@ ul li, ol li {
   text-align: center;
   font-weight: bold; }
 
-.content .factor {
+.detail .factor {
   border: none;
   border-bottom: 1px solid #DDDDDD; }
 
-.content .factor_horse {
+.detail .factor_horse {
   border: none;
   border-bottom: 1px solid #DDDDDD; 
   }
 
-.content .factor_omoshiro {
+.detail .factor_omoshiro {
   background: #b6ffbd;
   border: none;
   border-bottom: 1px solid #DDDDDD; 
   }
 
-.content .factor_migoto {
+.detail .factor_migoto {
   background: #fffcaa;
   border: none;
   border-bottom: 1px solid #DDDDDD; 
   }
 
 /* 普通 */
-.content .horse {
+.detail .horse {
   border-right: none; 
   font-weight: bold;  }
 
-.content .horse_0 {
+.detail .horse_0 {
   border-left: none; 
   border-right: none; 
   font-weight: bold;  }
 
-.content .horse_1 {
+.detail .horse_1 {
   border-left: none; 
   border-right: none; 
   font-weight: bold;  }
 
 /* 該当する因子が入るとき */
-.content .horse_R0 {
+.detail .horse_R0 {
   border-left: none; 
   border-right: none; 
   font-weight: bold;  
@@ -1509,24 +1541,24 @@ ul li, ol li {
 
 
 /* 面白 */
-.content .omoshiro {
+.detail .omoshiro {
   background: #b6ffbd;
   border-right: none; 
   font-weight: bold;  }
 
-.content .omoshiro_0 {
+.detail .omoshiro_0 {
   background: #b6ffbd;
   border-right: none; 
   font-weight: bold;  }
 
-.content .omoshiro_1 {
+.detail .omoshiro_1 {
   background: #b6ffbd;
   border-right: none; 
   border-left: none; 
   text-align: left;
   font-weight: bold;  }
 
-.content .omoshiro_2 {
+.detail .omoshiro_2 {
   background: #b6ffbd;
   border-right: none; 
   border-left: none; 
@@ -1534,14 +1566,14 @@ ul li, ol li {
   font-weight: bold;  }
 
 /* 該当する因子が入るとき */
-.content .omoshiro_R0 {
+.detail .omoshiro_R0 {
   background: #b6ffbd;
   border-right: none; 
   font-weight: bold; 
   color: #e2041b;  }
 
 /* 一薄めで該当する親系統が入るとき */
-.content .omoshiro_R2 {
+.detail .omoshiro_R2 {
   background: #b6ffbd;
   border-right: none; 
   border-left: none; 
@@ -1551,17 +1583,17 @@ ul li, ol li {
   
 
 /* 見事 */
-.content .migoto {
+.detail .migoto {
   background: #fffcaa;
   border-right: none; 
   font-weight: bold;  }
 
-.content .migoto_0 {
+.detail .migoto_0 {
   background: #fffcaa;
   border-right: none; 
   font-weight: bold;  }
 
-.content .migoto_1 {
+.detail .migoto_1 {
   background: #fffcaa;
   border-left: none; 
   border-right: none; 
@@ -1569,14 +1601,14 @@ ul li, ol li {
   font-weight: bold;  }
 
 /* 該当する因子が入るとき */
-.content .migoto_R0 {
+.detail .migoto_R0 {
   background: #fffcaa;
   border-right: none; 
   font-weight: bold; 
   color: #e2041b;  }
 
 /* 見事で該当する親系統が入るとき */
-.content .migoto_R1 {
+.detail .migoto_R1 {
   background: #fffcaa;
   border-left: none; 
   border-right: none; 
@@ -1584,12 +1616,12 @@ ul li, ol li {
   font-weight: bold; 
   color: #e2041b;  }
 
-.content .factor_icn {
+.detail .factor_icn {
 
   padding: 3px;
   text-align: right; }
 
-.content .factor_value {
+.detail .factor_value {
   text-align: right; }
  
 table.pedigree, table.horse_spec, div.horse_spec {
@@ -1721,23 +1753,12 @@ img {
 	color: #848484;
 }
 .footertxt a {
-	color: #848484;
+	color: #1d9bf0;
 }
 
 .tw_share {
-  font-weight: bold;
-  padding: .0em 1.0em;
-  margin: 0.4em;
-  background-color: #AAC4F2;
-  color: #222730;
+  color: #1d9bf0;
   text-decoration: none;
-  border-style: none;
-  border-radius: 5px;
-}
-.tw_share:hover {
-  opacity: 0.6;
-  transition: 1.0s ;
-  color: #fff;
 }
 
 
@@ -2035,3 +2056,47 @@ input[list]:focus {
 }
 
 /*トグルスイッチ↑ */
+
+
+
+.loader,
+.loader:after {
+  border-radius: 50%;
+  width: 10em;
+  height: 10em;
+}
+.loader {
+  margin: 10px auto;
+  font-size: 5px;
+  position: relative;
+  text-indent: -9999em;
+  border-top: 1.1em solid rgba(0, 0, 0, 0.2);
+  border-right: 1.1em solid rgba(0, 0, 0, 0.2);
+  border-bottom: 1.1em solid rgba(0, 0, 0, 0.2);
+  border-left: 1.1em solid #000000;
+  -webkit-transform: translateZ(0);
+  -ms-transform: translateZ(0);
+  transform: translateZ(0);
+  -webkit-animation: load8 1.1s infinite linear;
+  animation: load8 1.1s infinite linear;
+}
+@-webkit-keyframes load8 {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@keyframes load8 {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
