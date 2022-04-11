@@ -25,7 +25,7 @@ if(isiOS) {
 <link rel=apple-touch-icon href=static/apple-touch-icon-48x48.png>
 <link rel=apple-touch-icon sizes=96x96 href=static/apple-touch-icon-96x96.png>
 <link rel=apple-touch-icon sizes=196x196 href=static/apple-touch-icon-196x196.png>
-<link href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" rel="stylesheet">
+<link rel="stylesheet" href="css/all.css">
 
 <script src="https://dq310.com/js/jquery.min.js"></script>
 <script src="smoothscroll.js"></script>
@@ -42,13 +42,16 @@ if(isiOS) {
 <div class="page">
     <div id="article" class="article">
 		<div id="modalwindow" class="modalwindow"></div>
-
 		<div id="header" class="header"></div>
 		<div id="accordion" class="accordion"></div>
 		<div id="factorlist" class="factorlist"></div>
 		<div id="tabHorse" class="tabHorse"></div>
-		<div id="horselist" class="horselist"></div>
+		<div id="horselist" class="horselist">
+			<div id="contentM" class="contentM"></div>
+			<div id="contentF" class="contentF"></div>
+		</div>
 		<div id="footer" class="footer"></div>
+
 	</div>
 </div>
 
@@ -56,6 +59,7 @@ if(isiOS) {
 <script src="static/factor.js?20211007"></script>
 <script src="https://dq310.com/js/alasql@0.6"></script>
 <script src="serach-horse.js"></script>
+
 
 <script async src="https://cdn.jsdelivr.net/npm/pwacompat" crossorigin="anonymous"></script>
 <script>

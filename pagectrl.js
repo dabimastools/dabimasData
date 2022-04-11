@@ -31,10 +31,21 @@ function loadjs(mode) {
 	
 	// 詳細リンク
 	//var dtl_link = document.getElementsByClassName("clickable-row");
-
-
 	
 	if (mode == 0) {
+
+		//$(window).on('scroll', function () {
+		//	var doch = $(document).innerHeight(); //ページ全体の高さ
+		//	var winh = $(window).innerHeight(); //ウィンドウの高さ
+		//	var bottom = doch - winh; //ページ全体の高さ - ウィンドウの高さ = ページの最下部位置
+		//	var scrollTop = $(window).scrollTop()
+		//	//if (bottom <= $(window).scrollTop()) {
+		//	if (bottom * 0.95 <= scrollTop) {
+		//		//一番下までスクロールした時に実行
+		//		console.log("最底辺！");
+		//	}
+		//});
+
 		//初期起動時のみイベントを追加（上に戻るボタン）
 		const pagetopBtn = document.querySelector('#page-top');
 		pagetopBtn.addEventListener('click', () => {
@@ -126,8 +137,18 @@ function loadjs(mode) {
 			});
 		}
 
+		// 牡馬牝馬タブを選択した際のイベント取得
+		for (let i = 0; i < sei_radio.length; i++) {
+			sei_radio[i].addEventListener('change', (event) => {
+				let publicSei = 0;
 
-
+				for (let i = 0; i < sei_radio.length; i++) {
+					if (sei_radio[i].id == "1" && sei_radio[i].checked) {
+						publicSei = 1;
+					}
+				}
+			});
+		}
 	}
 
 	/* =================================================== */
@@ -464,3 +485,7 @@ function dispHorse(chk, sei, factor, keyword, factorValue, factorChk, flg) {
 	// 絞り込み実施
 	filterHorse(t_arr, ht_arr, mig_arr, jik_arr, ashi_arr, rare_arr, sei, keyword, factor, wkFactorValue, factorChk, flg);
 }
+
+
+
+

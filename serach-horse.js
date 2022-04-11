@@ -8,6 +8,22 @@ var footer = document.getElementById('footer');
 var horselist = document.getElementById('horselist');
 var modalwindow = document.getElementById('modalwindow');
 var tabHorse = document.getElementById('tabHorse');
+//詳細表示
+var contentM = document.getElementById('contentM');
+var contentF = document.getElementById('contentF');
+
+var contentM_HTML = '';
+var contentF_HTML = '';
+const tagStart = '<section class="horseData">';
+const tagEnd = '</section>';
+const tagMStart = '<div class="contentM">';
+const tagMEnd = '</div>';
+const tagFStart = '<div class="contentF">';
+const tagFEnd = '</div>';
+var tagFactor = '';
+var publicSei = '';
+
+
 
 //種牡馬リスト
 var j_horselist_M = '';
@@ -327,186 +343,314 @@ function formatHorse(sei, formatFlg, factorName, mig_arr, jik_arr) {
 	let Num_M = 0;
 	let Num_F = 0;
 	let cnt = 0;
-	let tag = '';
-	let checkedTag0 = '';
-	let checkedTag1 = '';
+	let tagWork = '';
+	var checkedTag0 = '';
+	var checkedTag1 = '';
+	var tagTabM = '';
+	var tagTabF = '';
+	var tagTab = '';
 	
+	//public変数の初期化
+	contentM_HTML = '';
+	contentF_HTML = '';
+	
+
 	//初期起動時 or 条件に何も入力しなかった場合
 	if (formatFlg == '0' | formatFlg == '1') {
 		
-		tag += '<section class="horseData">';
+		//tag += tagStart;
 		
 		//種牡馬
-		tag += '<input id="0" type="radio" name="tab-head" checked="checked">';
-		tag += '<label class="tabLabel" for="0">種牡馬</label>';
+		tagTabM += '<input id="0" type="radio" name="tab-head" checked="checked">';
+		tagTabM += '<label class="tabLabel" for="0">種牡馬</label>';
+		contentM.innerHTML = '';
+		contentM_HTML = '';
 		
 		//繁殖牝馬
-		tag += '<input id="1" type="radio" name="tab-head">';
-		tag += '<label class="tabLabel" for="1">牝馬</label>';
+		tagTabF += '<input id="1" type="radio" name="tab-head">';
+		tagTabF += '<label class="tabLabel" for="1">牝馬</label>';
+		contentF.innerHTML = '';
+		contentF_HTML = '';
+		
 		//因子絞込ボタン
-		tag += '<label for="trigger" class="open_button01">因子絞込</label>';
+		tagFactor = '<label for="trigger" class="open_button01">因子絞込</label>';
 
-		tag += '</section>';
-		
-		
-		horselist.innerHTML = tag;
-		
-		
-		//因子
-		//var sql_base = '';
-		//sql_base = 'select name from ?';
-		//var j_horselist = '';
-		//j_horselist = alasql(sql_base, [factor]);
-		//var selectfactor = '';
-		//selectfactor += '<select id="selectfact" class="selectdiv">';
-		//selectfactor += '<option value="" >因子検索</option>';
-		//selectfactor += formatFatorList(j_horselist);
-		//selectfactor += '</select>';
-		//sessionStorage.setItem('selectfactor', selectfactor);
-		//tag += selectfactor;
-
-		//tag = getFactorSearch();
-		//modalwindow.innerHTML = tag;
-		
-		
-		//return tag;
+		//horselist.innerHTML = tag;
+		//horselist.innerHTML = tagStart + tagM + contentM.innerHTML + '</div>' + tagF + contentF.innerHTML + '</div>' + tagFactor + tagEnd;
+		horselist.innerHTML = tagStart + tagTabM + tagMStart + contentM_HTML + tagMEnd + tagTabF + tagFStart + contentF_HTML + tagFEnd + tagFactor + tagEnd;
 		
 	} else {
-		//2回目以降
-		//グローバル変数のリストから件数を取得する
-		Num_M = j_horselist_M.length
-		Num_F = j_horselist_F.length
-		
+
 		console.time('timer');
-
-	    if (sei == '0' ) {
-			checkedTag0 = 'checked="checked"';
-			checkedTag1 = '';
-	    } else {
-			checkedTag0 = '';
-			checkedTag1 = 'checked="checked"';
-	    }
-
-		tag += '<section class="horseData">';
-		tag += '<input id="0" type="radio" name="tab-head" '+ checkedTag0 +'>';
-		tag += '<label class="tabLabel" for="0">種牡馬' + Num_M + '件</label>';
-		if (Num_M > 0) {
-			tag += '<div class="content">';
-			cnt = 0;
-			//種牡馬
-			while (j_horselist_M.length > cnt) {
-				//配列渡し
-				var j_horse = j_horselist_M[cnt];	
-				
-				//ヘッダ部作成
-				//tag += getHeaderDetail(j_horse)
-				tag += j_horse.HeaderDetail;
-				
-				//血統部作成
-				tag += '<div class="detail">';
-				tag += '<table class="pedigree" width="100%">';
-				tag += '<tbody>';
-				tag += j_horse.Ped_t + j_horse.Ped_tt + j_horse.Ped_ttt + j_horse.Ped_tttt + j_horse.Ped_ttht + j_horse.Ped_tht + j_horse.Ped_thtt + j_horse.Ped_thht + j_horse.Ped_ht + j_horse.Ped_htt + j_horse.Ped_httt + j_horse.Ped_htht + j_horse.Ped_hht + j_horse.Ped_hhtt + j_horse.Ped_hhht;
-				tag += '</tbody>';
-				tag += '</table>';
-				tag += '</div>';
-				
-				cnt++;
-			}
-			tag += '</div>';
-		}
 		
-		tag += '<input id="1" type="radio" name="tab-head" '+ checkedTag1 +'>';
-		tag += '<label class="tabLabel" for="1">牝馬' + Num_F + '件</label>';
-		if (Num_F > 0) {
-			tag += '<div class="content">';
-			cnt = 0;
-			//牝馬
-			while (j_horselist_F.length > cnt) {
-				//配列渡し
-				var j_horse = j_horselist_F[cnt];
-				
-				//ヘッダ部作成
-				//tag += getHeaderDetail(j_horse)
-				tag += j_horse.HeaderDetail;
-				
-				//血統部作成
-				tag += '<div class="detail">';
-				tag += '<table class="pedigree" width="100%">';
-				tag += '<tbody>';
-				tag += j_horse.Ped_t + j_horse.Ped_tt + j_horse.Ped_ttt + j_horse.Ped_tttt + j_horse.Ped_ttht + j_horse.Ped_tht + j_horse.Ped_thtt + j_horse.Ped_thht + j_horse.Ped_ht + j_horse.Ped_htt + j_horse.Ped_httt + j_horse.Ped_htht + j_horse.Ped_hht + j_horse.Ped_hhtt + j_horse.Ped_hhht;
-				tag += '</tbody>';
-				tag += '</table>';
-				tag += '</div>';
-				
-				cnt++;
-			}
-			tag += '</div>';
-		}
-		
-		//因子絞込ボタン
-	    if (factorName.length != 0) {
-	    	//因子絞り込み条件を設定している場合
-	    	tag += '<label for="trigger" class="open_button02">因子絞込</label>';
-		} else {
-			//因子絞り込み条件を設定していない場合
-			tag += '<label for="trigger" class="open_button01">因子絞込</label>';
-		}
-		tag += '</section>';
+	    // 無限スクロール
+	    const infiniteScrollObserver = new IntersectionObserver(entries => {
+	        entries.forEach(entry => {
+	            if ( ! entry.isIntersecting ) return;
 
+	            infiniteScrollObserver.unobserve(entry.target);
+	            loadContent();
 
-	    //血統表に自家製が含まれているときは赤文字表示させる
-	    if (jik_arr != null) {
-		    if (jik_arr.length != 0) {
-				var reg = 'omoshiro_2">(';
-		    	cnt = 0;
-				while (jik_arr.length > cnt) {
-					var value = jik_arr[cnt];
-					
-					reg += value;
-							
-					if(jik_arr.length != cnt + 1) {
-						reg += '|';
-					}
-					cnt++;
-				}
-				reg += ')';
-				tag = tag.replace(new RegExp(reg,'g'),'omoshiro_R2">$1');
-		    }
-		}
+	        });
+	    });
 
-	    //血統表に見事が含まれているときは赤文字表示させる
-	    if (mig_arr != null) {
-		    if (mig_arr.length != 0) {
-				var reg = 'migoto_1">(';
-		    	cnt = 0;
-				while (mig_arr.length > cnt) {
-					var value = mig_arr[cnt];
-					
-					reg += value;
-							
-					if(mig_arr.length != cnt + 1) {
-						reg += '|';
-					}
-					cnt++;
-				}
-				reg += ')';
-				tag = tag.replace(new RegExp(reg,'g'),'migoto_R1">$1');
-		    }
-	    }
+	    // 
+	    let loopCntM = 0; //種牡馬のループカウント
+	    let loopCntF = 0; //繫殖牝馬のループカウント
 	    
-	    //血統表に検索条件が含まれているときは赤文字で表示させる
-	    if (factorName.length != 0) {
-	    	//因子
-	    	let reg = '_0">' + factorName;
-	    	tag = tag.replace(new RegExp(reg,'g'),'_R0">' + factorName);
-	    }
+	    const num = 30; //一度に取り出す件数
+	    const maxM = j_horselist_M.length; //種牡馬の検索件数
+	    const maxF = j_horselist_F.length; //繫殖牝馬の検索件数
+	    const loadContent = async () => {
+	    	//種牡馬を選択されているときのみ
+	    	var seiRadio = document.getElementsByName("tab-head");
+	    	var tag = ''
+		    let tagTab = '';
+		    let tagTabM = '';
+		    let tagTabF = '';
+
+	        if ( loopCntM == 0 && loopCntF == 0 ) {
+	            //初回	            
+	            tagTab = getTabHTML(j_horselist_M.length, j_horselist_F.length);
+				//種牡馬
+				tagTabM = tagTab[0];
+				//繫殖牝馬
+				tagTabF = tagTab[1];
+
+		        // 種牡馬
+		        tag = getHorseDetails(j_horselist_M, num, loopCntM);
+		        tag = toFontColorRed(tag, factorName, mig_arr, jik_arr);
+		        contentM_HTML += tag;
+		        
+		        loopCntM++;
+
+
+		        // 繫殖牝馬
+		        // 指定したところから30件取得
+		        tag = '';
+		        tag = getHorseDetails(j_horselist_F, num, loopCntF);
+		        tag = toFontColorRed(tag, factorName, mig_arr, jik_arr);
+		        contentF_HTML += tag;
+		        
+		        loopCntF++;
+
+		    } else if ( loopCntM * num < maxM || loopCntF * num < maxF ) {
+			    //2回目以降
+		    	//種牡馬側
+	            tagTab = getTabHTML(j_horselist_M.length, j_horselist_F.length);
+				//種牡馬タブ
+				tagTabM = tagTab[0];
+				//繫殖牝馬タブ
+				tagTabF = tagTab[1];
+		    
+			    if ( seiRadio[0].checked && loopCntM * num < maxM ) {
+			        // 種牡馬
+			        tag = getHorseDetails(j_horselist_M, num, loopCntM);
+			        tag = toFontColorRed(tag, factorName, mig_arr, jik_arr);
+			        contentM_HTML += tag;
+			        
+			        loopCntM++;
+			        console.log('発火牡馬' + loopCntM);
+			    } else if ( seiRadio[1].checked && loopCntF * num < maxF ) {
+			        // 種牡馬
+			        tag = getHorseDetails(j_horselist_F, num, loopCntF);
+			        tag = toFontColorRed(tag, factorName, mig_arr, jik_arr);
+			        contentF_HTML += tag;
+			        
+			        loopCntF++;
+			        console.log('発火牝馬' + loopCntF);
+			    }
+	        }
+
+	        // 表示
+	        horselist.innerHTML = tagStart + tagTabM + tagMStart + contentM_HTML + tagMEnd + tagTabF + tagFStart + contentF_HTML + tagFEnd + tagFactor + tagEnd;
+	        
+	        // 種牡馬と繫殖牝馬の両方のループが終わるまで監視
+	        if ( loopCntM * num < maxM || loopCntF * num < maxF ) infiniteScrollObserver.observe(footer.firstElementChild);
+
+	    }; //loadContent
 	    
-	    horselist.innerHTML = tag;
-		console.timeEnd('timer');
+	    loadContent();
+
+		console.timeEnd('timer'); 
 		
-		//return tag;
 	}
+}
+
+//種牡馬牝馬タブの表示を返す
+function getTabHTML(Num_M, Num_F) {
+	var checkedTag0 = '';
+	var checkedTag1 = '';
+   	var tagTabM = '';
+	var tagTabF = '';
+
+    var seiRadio = document.getElementsByName("tab-head");
+    
+    //デフォルトチェックを取得
+    if ( seiRadio[0].checked ) {
+		checkedTag0 = 'checked="checked"';
+		checkedTag1 = '';
+    } else {
+		checkedTag0 = '';
+		checkedTag1 = 'checked="checked"';
+    }
+
+	//牡馬
+	tagTabM += '<input id="0" type="radio" name="tab-head" '+ checkedTag0 +'>';
+	tagTabM += '<label class="tabLabel" for="0">種牡馬' + Num_M + '件</label>';
+
+	//牝馬
+	tagTabF += '<input id="1" type="radio" name="tab-head" '+ checkedTag1 +'>';
+	tagTabF += '<label class="tabLabel" for="1">牝馬' + Num_F + '件</label>';
+
+    return [tagTabM, tagTabF];
+    
+}
+
+//詳細情報取得
+function getHorseDetails(j_horselist, num, loopCnt) {
+    //30件ずつ取得する
+    let j_horselistSlice = j_horselist.slice((num * loopCnt),(num * (loopCnt + 1)));
+    
+    let tag = '';
+    
+    for(const j_horse of j_horselistSlice) {
+        tag += j_horse.HeaderDetail;
+        
+        //血統部作成
+        tag += '<div class="detail">';
+        tag += '<table class="pedigree" width="100%">';
+        tag += '<tbody>';
+        tag += j_horse.Ped_t + j_horse.Ped_tt + j_horse.Ped_ttt + j_horse.Ped_tttt + j_horse.Ped_ttht + j_horse.Ped_tht + j_horse.Ped_thtt + j_horse.Ped_thht + j_horse.Ped_ht + j_horse.Ped_htt + j_horse.Ped_httt + j_horse.Ped_htht + j_horse.Ped_hht + j_horse.Ped_hhtt + j_horse.Ped_hhht;
+        tag += '</tbody>';
+        tag += '</table>';
+        tag += '</div>';
+    }
+    
+    return tag;
+}
+
+//馬表示
+function dispDetails(j_horselist_M, j_horselist_F, factorName, mig_arr, jik_arr) {
+
+    // 無限スクロール
+    const infiniteScrollObserver = new IntersectionObserver(entries => {
+        entries.forEach(entry => {
+            if ( ! entry.isIntersecting ) return;
+
+            infiniteScrollObserver.unobserve(entry.target);
+            loadContent();
+
+        });
+    });
+
+    // 
+    let loopCnt = 0;
+    const num = 30; //一度に取り出す件数
+    const max = j_horselist_M.length;
+    const loadContent = async () => {
+    	//種牡馬を選択されているときのみ
+    	var seiRadio = document.getElementsByName("tab-head");
+        if ( loopCnt == 0 || seiRadio[0].checked ) {
+	        var tag = ''
+	        let tagTabM = '';
+	        let tagTabF = '';
+	        let tagTab = '';
+            
+            tagTab = getTabHTML(j_horselist_M.length, j_horselist_F.length);
+			//種牡馬
+			tagTabM = tagTab[0];
+			//繫殖牝馬
+			tagTabF = tagTab[1];
+            
+	        // 指定したところから30件取得
+	        const j_horselistSlice = j_horselist_M.slice((num * loopCnt),(num * (loopCnt + 1)));
+	        // 取得した分だけtagを取得する
+	        for(const j_horse of j_horselistSlice) {
+	            tag += j_horse.HeaderDetail;
+	            
+	            //血統部作成
+	            tag += '<div class="detail">';
+	            tag += '<table class="pedigree" width="100%">';
+	            tag += '<tbody>';
+	            tag += j_horse.Ped_t + j_horse.Ped_tt + j_horse.Ped_ttt + j_horse.Ped_tttt + j_horse.Ped_ttht + j_horse.Ped_tht + j_horse.Ped_thtt + j_horse.Ped_thht + j_horse.Ped_ht + j_horse.Ped_htt + j_horse.Ped_httt + j_horse.Ped_htht + j_horse.Ped_hht + j_horse.Ped_hhtt + j_horse.Ped_hhht;
+	            tag += '</tbody>';
+	            tag += '</table>';
+	            tag += '</div>';
+
+	        }
+
+	        tag = toFontColorRed(tag, factorName, mig_arr, jik_arr);
+	        contentM_HTML += tag;
+	        
+	        horselist.innerHTML = tagStart + tagTabM + tagMStart + contentM_HTML + tagMEnd + tagTabF + tagFStart + contentF_HTML + tagFEnd + tagFactor + tagEnd;
+	        
+	        loopCnt++;
+	        console.log('発火' + loopCnt);
+	        // 牡馬でループが終わるまで監視
+	        if ( loopCnt * num < max ) infiniteScrollObserver.observe(footer.firstElementChild);
+	    } else {
+	        infiniteScrollObserver.observe(footer.firstElementChild);
+        }
+
+    };
+    
+    //
+    loadContent();
+
+}
+
+
+function toFontColorRed(tag, factorName, mig_arr, jik_arr) {
+	//条件に該当する場合は赤色表示
+    //血統表に自家製が含まれているときは赤文字表示させる
+    if (jik_arr != null) {
+	    if (jik_arr.length != 0) {
+			var reg = 'omoshiro_2">(';
+	    	cnt = 0;
+			while (jik_arr.length > cnt) {
+				var value = jik_arr[cnt];
+				
+				reg += value;
+						
+				if(jik_arr.length != cnt + 1) {
+					reg += '|';
+				}
+				cnt++;
+			}
+			reg += ')';
+			tag = tag.replace(new RegExp(reg,'g'),'omoshiro_R2">$1');
+	    }
+	}
+
+    //血統表に見事が含まれているときは赤文字表示させる
+    if (mig_arr != null) {
+	    if (mig_arr.length != 0) {
+			var reg = 'migoto_1">(';
+	    	cnt = 0;
+			while (mig_arr.length > cnt) {
+				var value = mig_arr[cnt];
+				
+				reg += value;
+						
+				if(mig_arr.length != cnt + 1) {
+					reg += '|';
+				}
+				cnt++;
+			}
+			reg += ')';
+			tag = tag.replace(new RegExp(reg,'g'),'migoto_R1">$1');
+	    }
+    }
+    
+    //血統表に検索条件が含まれているときは赤文字で表示させる
+    if (factorName.length != 0) {
+    	//因子
+    	let reg = '_0">' + factorName;
+    	tag = tag.replace(new RegExp(reg,'g'),'_R0">' + factorName);
+    }
+    
+    return tag;
 }
 
 function formatFatorList(j_horselist) {
@@ -613,8 +757,11 @@ function getCondition(text,arr) {
 
 function getFooter() {
     let tag = '<div class="footertxt">';
-    tag += '<a class="tw_share" href="http://twitter.com/share?url=https://yanaifarm.github.io/dabimasData/index.html&text=ダビむす&hashtags=ダビむす" target="_blank">共有</a>';
-    tag += 'ダビむす<a href="https://twitter.com/DabimusDabimas"></a><BR>thanks to ふじろん牧場さま</div>';
+    tag += '<a class="tw_share fa-brands fa-twitter-square fa-3x faa-flash animated" href="http://twitter.com/share?url=https://yanaifarm.github.io/dabimasData/index.html&text=ダビむす&hashtags=ダビむす" target="_blank"></a>';
+    //tag += '<a class="tw_share" href="http://twitter.com/share?url=https://yanaifarm.github.io/dabimasData/index.html&text=ダビむす&hashtags=ダビむす" target="_blank">共有</a>';
+    tag += '<a href="https://twitter.com/DabimusDabimas"></a><BR>thanks to ふじろん牧場さま';
+    tag += '</div>';
+
     //上に戻るボタン
     tag += '<button id="page-top" class="page-top"></button>';
     
