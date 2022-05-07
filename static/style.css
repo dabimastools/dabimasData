@@ -11,8 +11,9 @@ body {
 }
 
 
+
 .v-autocomplete {
-  font-size: 25px !important;
+  font-size: 20px !important;
 }
 
 
@@ -378,7 +379,7 @@ tr:hover {
 	margin-left: 30px;
 	transition: .5s ;
 	cursor: pointer;
-	font-size: 30px;
+	/*font-size: 30px;*/
 	height: 35px;
 	max-width: 1%;
 	padding: 1px 30px;
