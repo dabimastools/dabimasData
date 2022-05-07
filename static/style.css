@@ -11,6 +11,10 @@ body {
 }
 
 
+.v-autocomplete {
+  font-size: 25px !important;
+}
+
 
 h1, h2 {
   margin: 0;
@@ -40,7 +44,7 @@ h1, h2 {
   background-color: #4169e1;
   color: #ecf0fc;
   font-size: 20px;
-  height: 15px;
+  height: 40px;
 }
 
 /* (+)アイコン */
@@ -314,22 +318,38 @@ tr:hover {
 }
 
 /*牡馬牝馬タブ↓ */
-section.horseData{
+.horseDataAll {
+	display: flex;
+	flex-wrap: nowrap;
+	/*justify-content:space-between;*/
+	width: 100%;
+}
+
+.horseData {
+	position:relative;
+	left: -170px;
+
 	display: flex;
 	flex-wrap: wrap;
+	/*width: 444px;*/
+	/*justify-content:space-between;*/
 }
-section.horseData::after {	
+
+.horseData::after {	
 	content: '';
-	width: 100%;
+	
+	width: 614px;
 	height: 3px;
 	order: -1;
 	display: block;
 	background: #4169e1;
 }
-section.horseData .tabLabel {	/* タブ非選択 */
-	margin-right: 3px;
+
+.horseData .tabLabel {	/* タブ非選択 */
+	position:relative;
+	left: 170px;
+	flex-wrap: nowrap;
 	padding: 3px 12px;
-	flex: 1;
 	order: -1;
 	-webkit-border-radius: 20px 20px 0 0;
 	border-radius: 20px 20px 0 0;
@@ -337,38 +357,35 @@ section.horseData .tabLabel {	/* タブ非選択 */
 	background: #ddd;
 	transition: .5s ;
 	cursor: pointer;
-	max-width: 30%;
+	max-width: 100%;
 	text-align: center;
 	font-size: 18px;
 	font-style: normal;
 	line-height: 30px;
 	height: 35px;
+	width: 220px;
 	-webkit-tap-highlight-color:rgba(0,0,0,0);
 }
 
-section.horseData .open_button01 {	/*因子絞込ボタン（絞り込みなし）*/
-	margin-right: 3px;
-	padding: 3px 12px;
-	flex: 1;
-	order: -1;
-	background-color: #ffffff;
-	background-image: none;
-	border: 1px solid #4169e1;
+.searchButton {
+	width: 170px;
+}
+
+.searchButton .open_button01 {	/*因子絞込ボタン（絞り込みなし）*/
+	position:relative;
+	z-index: 999;
+	justify-content: flex-end;
+	margin-left: 30px;
 	transition: .5s ;
 	cursor: pointer;
-	max-width: 20%;
-	text-align: center;
-	font-size: 20px;
-	font-style: normal;
-	line-height: 30px;
+	font-size: 30px;
 	height: 35px;
-	left: 5px;
-	bottom: 5px;
-	border-radius: 16px;
+	max-width: 1%;
+	padding: 1px 30px;
 	-webkit-tap-highlight-color:rgba(0,0,0,0);
 }
 
-section.horseData .open_button02 {	/*因子絞込ボタン（絞り込みあり）*/
+.searchButton .open_button02 {	/*因子絞込ボタン（絞り込みあり）*/
 	margin-right: 3px;
 	padding: 3px 12px;
 	flex: 1;
@@ -391,92 +408,25 @@ section.horseData .open_button02 {	/*因子絞込ボタン（絞り込みあり�
 }
 
 
-/*因子検索↓ */
-.selectdiv {
-  position: relative;
-  /*Don't really need this just for demo styling*/
-  overflow: hidden;
-  text-align: center;
-  margin:0 auto;
-  width: 50%;
-  display: inline;
-  /*float: right;*/
-}
+.horseData .tabLabel:nth-last-of-type(1){ margin-right: 0; }
 
-/* IE11 hide native button */
-select::-ms-expand {
-display: none;
-}
-
-.selectdiv:after {
-  content: '<>';
-  font: 20px "Consolas", monospace;
-  color: #4169e1;
-  -webkit-transform: rotate(90deg);
-  -moz-transform: rotate(90deg);
-  -ms-transform: rotate(90deg);
-  transform: rotate(90deg);
-  right: 11px;
-  /*Adjust for position however you want*/
-  
-  top: 5px;
-  padding: 0 0 2px;
-  border-bottom: 1px solid #999;
-  /*left line */
-  
-  position: absolute;
-  pointer-events: none;
-}
-
-.selectdiv select {
-  -webkit-appearance: none;
-  -moz-appearance: none;
-  appearance: none;
-  /* Add some styling */
-  
-  /*display: block;*/
-  width: 100%;
-  max-width: 500px;
-  height: 40px;
-  /*float: right;*/
-  /*margin: 5px 0px;*/
-  margin: 0 auto;
-  padding: 0px 10px;
-  font-size: 25px;
-  line-height: 1.75;
-  color: #333;
-  background-color: #ffffff;
-  background-image: none;
-  border: 1px solid #4169e1;
-  -ms-word-break: normal;
-  word-break: normal;
-}
-
-.selectdiv select:focus {
-  outline: 1px solid #4169e1;
-}
-/*因子検索↑ */
-
-
-
-section.horseData .tabLabel:nth-last-of-type(1){ margin-right: 0; }
-
-section.horseData input[type="radio"] {		/* ラジオボタン非表示 */
+.horseData input[type="radio"] {		/* ラジオボタン非表示 */
 	display: none;
 }
-section.horseData .content {	/* 本文 */
+.horseData .content {	/* 本文 */
 	width: 100%;
 	height: 0;
 	overflow: hidden;
 	opacity: 0;
 }
-section.horseData .contentM {	/* 本文 */
+.horseData .contentM {	/* 本文 */
+
 	width: 100%;
 	height: 0;
 	overflow: hidden;
 	opacity: 0;
 }
-section.horseData .contentF {	/* 本文 */
+.horseData .contentF {	/* 本文 */
 	width: 100%;
 	height: 0;
 	overflow: hidden;
@@ -485,11 +435,11 @@ section.horseData .contentF {	/* 本文 */
 
 
 /*アクティブ設定*/
-section.horseData input:checked + .tabLabel {
+.horseData input:checked + .tabLabel {
 	background: #4169e1;
 	color: #ecf0fc;
 }
-section.horseData input:checked + .tabLabel + .content {
+.horseData input:checked + .tabLabel + .content {
 	/*padding: 15px;*/
 	height: auto;
 	overflow: auto;
@@ -497,7 +447,7 @@ section.horseData input:checked + .tabLabel + .content {
 	transition: .5s opacity;
 	opacity: 1;
 }
-section.horseData input:checked + .tabLabel + .contentM {
+.horseData input:checked + .tabLabel + .contentM {
 	/*padding: 15px;*/
 	height: auto;
 	overflow: auto;
@@ -505,7 +455,7 @@ section.horseData input:checked + .tabLabel + .contentM {
 	transition: .5s opacity;
 	opacity: 1;
 }
-section.horseData input:checked + .tabLabel + .contentF {
+.horseData input:checked + .tabLabel + .contentF {
 	/*padding: 15px;*/
 	height: auto;
 	overflow: auto;
@@ -513,7 +463,6 @@ section.horseData input:checked + .tabLabel + .contentF {
 	transition: .5s opacity;
 	opacity: 1;
 }
-
 
 /*牡馬牝馬タブ↑ */
 
@@ -570,7 +519,7 @@ section.horseData input:checked + .tabLabel + .contentF {
 	--webkit-border-radius: 0 6px 6px 6px;
 	--border-radius: 0 6px 6px 6px;
 	font-size: 25px;
-	height: 130px;
+	height: 150px;
 }
 .tabmenu input[type="radio"]{
 	display: none;
@@ -692,7 +641,7 @@ section.horseData input:checked + .tabLabel + .contentF {
 
 .btn2_wrap_Ro input:checked + label{
   color          : #000000;
-  background     : #f9afd1;             /* 背景色             */
+  background     : lightpink;           /* 背景色             */
   box-shadow     : none;                /* 影を消す           */
 }
 
@@ -707,7 +656,7 @@ section.horseData input:checked + .tabLabel + .contentF {
 
 .btn2_wrap_Ne input:checked + label{
   color          : #000000;
-  background     : #fdff75;             /* 背景色             */
+  background     : yellow;              /* 背景色             */
   box-shadow     : none;                /* 影を消す           */
 }
 
@@ -722,7 +671,7 @@ section.horseData input:checked + .tabLabel + .contentF {
 
 .btn2_wrap_Ns input:checked + label{
   color          : #000000;
-  background     : #11f90e;             /* 背景色             */
+  background     : mediumaquamarine;    /* 背景色             */
   box-shadow     : none;                /* 影を消す           */
 }
 
@@ -737,7 +686,7 @@ section.horseData input:checked + .tabLabel + .contentF {
 
 .btn2_wrap_Nt input:checked + label{
   color          : #000000;
-  background     : #66e2ff;             /* 背景色             */
+  background     : lightskyblue;        /* 背景色             */
   box-shadow     : none;                /* 影を消す           */
 }
 
@@ -752,7 +701,7 @@ section.horseData input:checked + .tabLabel + .contentF {
 
 .btn2_wrap_Ha input:checked + label{
   color          : #000000;
-  background     : #90ff61;             /* 背景色             */
+  background     : chartreuse;          /* 背景色             */
   box-shadow     : none;                /* 影を消す           */
 }
 
@@ -766,13 +715,13 @@ section.horseData input:checked + .tabLabel + .contentF {
 }
 
 .btn2_wrap_St input:checked + label{
-  color          : #000000;
-  background     : #9988fe;             /* 背景色             */
+  color          : #ffffff;
+  background     : slateblue;           /* 背景色             */
   box-shadow     : none;                /* 影を消す           */
 }
 
 .btn2_wrap_St input:checked + label  span:after{
-  color          : #000000;                /* 文字色             */
+  color          : #ffffff;                /* 文字色             */
 }
 
 /* === ON側のチェックボックスのラベル（ONのとき）He  ========== */
@@ -782,7 +731,7 @@ section.horseData input:checked + .tabLabel + .contentF {
 
 .btn2_wrap_He input:checked + label{
   color          : #000000;
-  background     : #c8fffc;             /* 背景色             */
+  background     : aqua;                /* 背景色             */
   box-shadow     : none;                /* 影を消す           */
 }
 
@@ -797,7 +746,7 @@ section.horseData input:checked + .tabLabel + .contentF {
 
 .btn2_wrap_Te input:checked + label{
   color          : #ffffff;
-  background     : #8813f7;             /* 背景色             */
+  background     : purple;              /* 背景色             */
   box-shadow     : none;                /* 影を消す           */
 }
 
@@ -812,7 +761,7 @@ section.horseData input:checked + .tabLabel + .contentF {
 
 .btn2_wrap_Ph input:checked + label{
   color          : #000000;
-  background     : #d1eaff;             /* 背景色             */
+  background     : lightsteelblue;      /* 背景色             */
   box-shadow     : none;                /* 影を消す           */
 }
 
@@ -826,13 +775,13 @@ section.horseData input:checked + .tabLabel + .contentF {
 }
 
 .btn2_wrap_Ma input:checked + label{
-  color          : #000000;
-  background     : #cda9ff;             /* 背景色             */
+  color          : #ffffff;
+  background     : darkorchid;          /* 背景色             */
   box-shadow     : none;                /* 影を消す           */
 }
 
 .btn2_wrap_Ma input:checked + label  span:after{
-  color          : #000000;                /* 文字色             */
+  color          : #ffffff;                /* 文字色             */
 }
 
 /* === ON側のチェックボックスのラベル（ONのとき）Hi  ========== */
@@ -842,7 +791,7 @@ section.horseData input:checked + .tabLabel + .contentF {
 
 .btn2_wrap_Hi input:checked + label{
   color          : #ffffff;
-  background     : #3766ff;             /* 背景色             */
+  background     : mediumblue;          /* 背景色             */
   box-shadow     : none;                /* 影を消す           */
 }
 
@@ -857,7 +806,7 @@ section.horseData input:checked + .tabLabel + .contentF {
 
 .btn2_wrap_Sw input:checked + label{
   color          : #000000;
-  background     : #fbd6db;             /* 背景色             */
+  background     : peachpuff;           /* 背景色             */
   box-shadow     : none;                /* 影を消す           */
 }
 
@@ -872,7 +821,7 @@ section.horseData input:checked + .tabLabel + .contentF {
 
 .btn2_wrap_Fa input:checked + label{
   color          : #000000;
-  background     : #ffcd3e;             /* 背景色             */
+  background     : khaki;               /* 背景色             */
   box-shadow     : none;                /* 影を消す           */
 }
 
@@ -886,13 +835,13 @@ section.horseData input:checked + .tabLabel + .contentF {
 }
 
 .btn2_wrap_To input:checked + label{
-  color          : #000000;
-  background     : #ff9942;             /* 背景色             */
+  color          : #ffffff;
+  background     : orange;             /* 背景色             */
   box-shadow     : none;                /* 影を消す           */
 }
 
 .btn2_wrap_To input:checked + label  span:after{
-  color          : #000000;                /* 文字色             */
+  color          : #ffffff;                /* 文字色             */
 }
 
 /* === ON側のチェックボックスのラベル（ONのとき）Ec  ========== */
@@ -1687,7 +1636,7 @@ img {
 }
 
 .search input[type='text'] {
-    width: 80%;
+    width: 92%;
     height: 100%;
     display: block;
     /*padding: 0px 20px;*/
@@ -1702,9 +1651,11 @@ img {
     font-size: 20px;
     color: #333;
 }
+
+/*虫メガネ*/
 .search input[type='submit'] {
 
-    position: absolute; left: 10px; top: 50%; transform: translateY(-50%);
+    position: absolute; left: 20px; top: 50%; transform: translateY(-50%);
     border: none;  background: none;  outline: none; font-size: 20px;
     color: #999;  font-weight: 1000;  font-family: "Font Awesome 5 Free";
     transition: color 0.3s ease 0s;
@@ -2056,7 +2007,6 @@ input[list]:focus {
 }
 
 /*トグルスイッチ↑ */
-
 
 
 .loader,
