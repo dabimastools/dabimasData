@@ -458,7 +458,8 @@ function formatHorse(sei, formatFlg, factorName, mig_arr, jik_arr) {
 			tagFactor += '<v-row justify="end">';
 			tagFactor += '<v-card-actions>';
 			tagFactor += '  <v-spacer></v-spacer>';
-			tagFactor += '  <v-btn x-large text @click="dialog = false"><v-icon>mdi-close</icon></v-btn>';
+			//×ボタン
+			tagFactor += '  <v-btn x-large fab text @click="dialog = false"><v-icon>mdi-close</icon></v-btn>';
 			tagFactor += '  <v-spacer></v-spacer>';
 			tagFactor += '</v-card-actions>';
 			tagFactor += '</v-row>';
