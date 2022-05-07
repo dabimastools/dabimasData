@@ -34,18 +34,6 @@ function loadjs(mode) {
 	
 	if (mode == 0) {
 
-		//$(window).on('scroll', function () {
-		//	var doch = $(document).innerHeight(); //ページ全体の高さ
-		//	var winh = $(window).innerHeight(); //ウィンドウの高さ
-		//	var bottom = doch - winh; //ページ全体の高さ - ウィンドウの高さ = ページの最下部位置
-		//	var scrollTop = $(window).scrollTop()
-		//	//if (bottom <= $(window).scrollTop()) {
-		//	if (bottom * 0.95 <= scrollTop) {
-		//		//一番下までスクロールした時に実行
-		//		console.log("最底辺！");
-		//	}
-		//});
-
 		//初期起動時のみイベントを追加（上に戻るボタン）
 		const pagetopBtn = document.querySelector('#page-top');
 		pagetopBtn.addEventListener('click', () => {
@@ -53,32 +41,6 @@ function loadjs(mode) {
 				top: 0,
 				behavior: "smooth"
 			});
-		});
-
-		//因子検索ボタンを押したときのイベント取得
-		factrorSearch.addEventListener('click', () => {
-			let sei = 0;
-
-			for (let i = 0; i < sei_radio.length; i++) {
-				//性別オプション
-				if (sei_radio[i].id == "1" && sei_radio[i].checked) {
-					sei = 1;
-				}
-			}
-
-			var selectfactor = '';
-			var selectfactor = document.getElementById('selectfact');
-
-			//因子に入力したもの
-			//var factorValue =  document.getElementsByName('selectdiv').item(0).value;
-			var factorValue =  selectfactor.value;
-			
-			//因子オプションのチェックボックス取得
-			var factorChk = document.querySelectorAll("[id^='factor']");
-			
-			dispHorse(chk, sei, selectfactor, input, factorValue, factorChk, 1);
-			console.count();
-			lisnerLink();
 		});
 		
 		// キーワードを入力した際のイベント取得
@@ -92,17 +54,17 @@ function loadjs(mode) {
 				}
 			}
 
-			var selectfactor = '';
-			var selectfactor = document.getElementById('selectfact');
+			// 因子
+			var factorValue = '';
+			var selectfact = document.getElementById('selectfact');
+			if (selectfact) {
+				factorValue = selectfact.value;
+			}
 
-			//因子に入力したもの
-			//var factorValue =  document.getElementsByName('selectdiv').item(0).value;
-			var factorValue =  selectfactor.value;
-			
 			//因子オプションのチェックボックス取得
 			var factorChk = document.querySelectorAll("[id^='factor']");
 			
-			dispHorse(chk, sei, selectfactor, input, factorValue, factorChk, 1);
+			dispHorse(chk, sei, input, factorValue, factorChk, 1);
 			console.count();
 			lisnerLink();
 		});
@@ -120,17 +82,16 @@ function loadjs(mode) {
 					}
 				}
 				
-				var selectfactor = '';
-				var selectfactor = document.getElementById('selectfact');
-
-				//因子に入力したもの
-				//var factorValue =  document.getElementsByName('selectdiv').item(0).value;
-				var factorValue =  selectfactor.value;
+				// 因子
+				var factorValue = '';
+				var selectfact = document.getElementById('selectfact');
+				if (selectfact) {
+					factorValue = selectfact.value;
+				}
 				
 				//因子オプションのチェックボックス取得
 				var factorChk = document.querySelectorAll("[id^='factor']");
-				
-				dispHorse(chk, sei, selectfactor, input, factorValue, factorChk, 1);
+				dispHorse(chk, sei, input, factorValue, factorChk, 1);
 
 				console.count();
 				lisnerLink();
@@ -227,20 +188,6 @@ function loadjs(mode) {
 	};
 
 
-	// 因子を選択した際のイベント取得
-	//select.addEventListener('change', (event) => {
-	//	let sei = 0;
-
-	//	for (let i = 0; i < sei_radio.length; i++) {
-	//		if (sei_radio[i].id == "1" && sei_radio[i].checked) {
-	//			sei = 1;
-	//		}
-	//	}
-	//	dispHorse(chk, sei, select, input, 1);
-	//	console.count();
-	//	lisnerLink();
-	//});
-	
 	/* =================================================== */
 	// DOM操作
 	/* =================================================== */
@@ -269,9 +216,6 @@ function loadjs(mode) {
 			});
 		});
 	});
-
-
-
 
 }
 
@@ -412,7 +356,7 @@ function loadSession() {
 }
 
 //フロントに表示する関数
-function dispHorse(chk, sei, factor, keyword, factorValue, factorChk, flg) {
+function dispHorse(chk, sei, keyword, factorValue, factorChk, flg) {
 	var t_arr = [];
 	var ht_arr = [];
 	var mig_arr = [];
@@ -476,14 +420,8 @@ function dispHorse(chk, sei, factor, keyword, factorValue, factorChk, flg) {
 		var wkFactorValue = factorValue.substr(0, pos);
 	}
 	
-	// 条件保存 チェックボックス
-	//sessionStorage.setItem('chk_idx' ,chk_idx.join(','));
-
-	// 条件保存 因子
-	//sessionStorage.setItem('factor_idx', factor.selectedIndex);
-
 	// 絞り込み実施
-	filterHorse(t_arr, ht_arr, mig_arr, jik_arr, ashi_arr, rare_arr, sei, keyword, factor, wkFactorValue, factorChk, flg);
+	filterHorse(t_arr, ht_arr, mig_arr, jik_arr, ashi_arr, rare_arr, sei, keyword, wkFactorValue, factorChk, flg);
 }
 
 

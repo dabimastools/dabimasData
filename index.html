@@ -1,7 +1,9 @@
 <!doctype html>
 <title>ダビ娘</title>
 <meta charset="utf-8">
-<meta name="viewport" content="width=750">
+<link href="https://cdn.jsdelivr.net/npm/@mdi/font@4.x/css/materialdesignicons.min.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.min.css" rel="stylesheet">
+<meta name="viewport" content="width=750, minimal-ui">
 
 <script>
 var ua = navigator.userAgent.toLowerCase();
@@ -16,6 +18,8 @@ if(isiOS) {
 </script>
 
 <link rel=stylesheet type=text/css href="static/style.css">
+
+
 
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="author" content="yanaifarm">
@@ -46,14 +50,22 @@ if(isiOS) {
 		<div id="accordion" class="accordion"></div>
 		<div id="factorlist" class="factorlist"></div>
 		<div id="tabHorse" class="tabHorse"></div>
-		<div id="horselist" class="horselist">
-			<div id="contentM" class="contentM"></div>
-			<div id="contentF" class="contentF"></div>
+		<div id="horseDataAll" class="horseDataAll">
+			<section id="searchButton" class="searchButton"></section>
+			<section id="horseData" class="horseData">
+				<div id="contentM" class="contentM"></div>
+				<div id="contentF" class="contentF"></div>
+			</section>
 		</div>
 		<div id="footer" class="footer"></div>
 
 	</div>
 </div>
+
+<script src="https://cdn.jsdelivr.net/npm/vue@2.x/dist/vue.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.js"></script>
+<link href="css/vuetify.css" rel="stylesheet">
+
 
 <script src="static/horselist.js?20211005"></script>
 <script src="static/factor.js?20211007"></script>
