@@ -158,7 +158,7 @@ function filterHorse(t_arr,ht_arr,mig_arr,jik_arr, ashi_arr, rare_arr, sei, keyw
 	var formatFlg = 0
 	
 	//アコーディオンに検索条件をセットする
-	accordion.innerHTML = getAccordion(t_arr, ht_arr, mig_arr, jik_arr, rare_arr);
+	accordion.innerHTML = getAccordion(t_arr, ht_arr, mig_arr, jik_arr, rare_arr, factorValue);
 	
 	// レア牡馬
 	sql_where_M += filterSqlRare(rare_arr, '0');
@@ -934,17 +934,18 @@ function getHeader() {
 }
 
 //アコーディオンのタグ作成
-function getAccordion(t_arr, ht_arr, mig_arr, jik_arr, rare_arr) {
+function getAccordion(t_arr, ht_arr, mig_arr, jik_arr, rare_arr, factorValue) {
 	let tag = '';
 	let condition = '';
 	
-	if (!t_arr && !ht_arr && !mig_arr && !jik_arr && !rare_arr) {
+	if (!t_arr && !ht_arr && !mig_arr && !jik_arr && !rare_arr && !factorValue) {
 		condition += '';
 	} else {
 		condition += getCondition('　父：',t_arr);
 		condition += getCondition('　母父：',ht_arr);
 		condition += getCondition('　見事：',mig_arr);
 		condition += getCondition('　１薄：',jik_arr);
+		condition += '　因子：' + factorValue;
 		//condition += getCondition('レア：',rare_arr);
 	}
 
