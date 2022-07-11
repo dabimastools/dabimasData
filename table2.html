@@ -4,6 +4,18 @@ body,td,th {font-family:"Noto Sans Japanese", "ヒラギノ角ゴ Pro W3";font-s
 td {overflow: hidden; max-width: 0; white-space: nowrap;}
 </style>
 
+<script>
+var ua = navigator.userAgent.toLowerCase();
+var isiOS = (ua.indexOf('iphone') > -1) || (ua.indexOf('ipad') > -1);
+if(isiOS) {
+  var viewport = document.querySelector('meta[name="viewport"]');
+  if(viewport) {
+    var viewportContent = viewport.getAttribute('content');
+    viewport.setAttribute('content', viewportContent + ', user-scalable=no');
+  }
+}
+</script>
+
 <table width="100%" border="3" style="border-right: none; table-layout: fixed; border-collapse: collapse; border-color: #143cdb">
 	<tbody valign="top">
 		<tr bgcolor="#002cdb" style="color:#ffffff">
