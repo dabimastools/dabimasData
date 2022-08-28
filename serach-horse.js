@@ -57,7 +57,7 @@
       var selectfact = document.getElementById('selectfact');
       var factorValue = selectfact.value;
       // 因子検索トグル
-      var factorChk = document.querySelectorAll("[id^='factor']");
+      var factorChk = document.querySelectorAll("[id^='toggleFactor']");
       // 検索
       dispHorse(chk, sei, input, factorValue, factorChk, 1);
     },
@@ -186,6 +186,8 @@ function filterHorse(t_arr,ht_arr,mig_arr,jik_arr, ashi_arr, rare_arr, sei, keyw
 		//検索条件に何も入力されていない場合は0件検索となるように条件を設定する
 		sqlTmp += ' AND 1 = 0';
 		formatFlg = 1;
+		j_horselist_M = '';
+		j_horselist_F = '';
 	}
 	
 	sqlTmp += sql_order;
@@ -198,7 +200,7 @@ function filterHorse(t_arr,ht_arr,mig_arr,jik_arr, ashi_arr, rare_arr, sei, keyw
 		//種牡馬リストの取得（グローバル変数に格納）
 		j_horselist_M = alasql(sql_M, [horse]);
 		//繁殖牝馬の取得（グローバル変数に格納）
-		j_horselist_F = alasql(sql_F, [horse]);	
+		j_horselist_F = alasql(sql_F, [horse]);
 	}	
 	//リスト表示
 	//var contents = formatHorse(j_horselist_M, j_horselist_F, sei);
@@ -265,7 +267,8 @@ function filterSqlFactor(sql_filter, factorValue, factorChk) {
 		if (factorChk[i].checked) {
 			//検索オプションにチェックが入ってれば条件を設定
 			//wkFactor += 'Ped_All LIKE "%' + factorChk[i].value + factorValue + '%" or ';
-			wkFactor+= '「' + factorChk[i].labels[0].innerHTML + factorValue + '」|';
+			//wkFactor+= '「' + factorChk[i].labels[0].innerHTML + factorValue + '」|';
+			wkFactor+= '「' + factorChk[i].value + factorValue + '」|';
 			chkCnt++;
 		}
 	}
@@ -446,7 +449,7 @@ function formatHorse(sei, formatFlg, factorName, mig_arr, jik_arr) {
 			tagFactor += '<v-main>';
 			tagFactor += '<v-container>';
 			tagFactor += '<v-row justify="center">';
-			tagFactor += '<v-btn block width="150px" height="35px" right x-large outlined rounded color="#4169e1" @click.stop="dialog = true">因子絞込</v-btn>';
+			tagFactor += '<v-btn block width="150px" height="35px" right x-large outlined rounded color="#4169e1" @click.stop="dialog = true">祖先絞込</v-btn>';
 
 			tagFactor += '<v-dialog';
 			tagFactor += '  v-model="dialog"';
@@ -465,7 +468,7 @@ function formatHorse(sei, formatFlg, factorName, mig_arr, jik_arr) {
 			tagFactor += '</v-row>';
 			tagFactor += '   ';
 			tagFactor += '<v-row justify="center" no-gutters>';
-			tagFactor += '<v-col cols="10" align="center"><v-card color="#4169e1" class="white--text">因子指定</v-card></v-col>';
+			tagFactor += '<v-col cols="10" align="center"><v-card color="#4169e1" class="white--text">祖先指定</v-card></v-col>';
 			tagFactor += '</v-row>';
 			
 			tagFactor += '<v-row justify="center" no-gutters>';
@@ -487,7 +490,7 @@ function formatHorse(sei, formatFlg, factorName, mig_arr, jik_arr) {
 			tagFactor += '</v-row>';
 			
 			tagFactor += '<v-row justify="center" no-gutters>';
-			tagFactor += '  <v-col cols="10" align="center"><v-card color="#4169e1" class="white--text">因子検索場所指定</v-card></v-col>';
+			tagFactor += '  <v-col cols="10" align="center"><v-card color="#4169e1" class="white--text">祖先位置指定</v-card></v-col>';
 			tagFactor += '</v-row>';
 
 			tagFactor += '<v-row justify="center" no-gutters>';
@@ -495,20 +498,22 @@ function formatHorse(sei, formatFlg, factorName, mig_arr, jik_arr) {
 			tagFactor += '<v-switch';
 			tagFactor += '  v-model="sValue1"';
 			tagFactor += '  label="自分自身"';
+			tagFactor += '  value="自身"';
 			tagFactor += '  color="#2dcb45"';
 			tagFactor += '  hide-details';
 			tagFactor += '  inset';
-			tagFactor += '  id="factorOpOwn"';
+			tagFactor += '  id="toggleFactorOpOwn"';
 			tagFactor += '></v-switch>';
 			tagFactor += '  </v-col>';
 			tagFactor += '  <v-col cols="5" align="center">';
 			tagFactor += '<v-switch';
 			tagFactor += '  v-model="sValue2"';
 			tagFactor += '  label="父"';
+			tagFactor += '  value="１父"';
 			tagFactor += '  color="#2dcb45"';
 			tagFactor += '  hide-details';
 			tagFactor += '  inset';
-			tagFactor += '  id="factorOpT"';
+			tagFactor += '  id="toggleFactorOpT"';
 			tagFactor += '></v-switch>';
 			tagFactor += '  </v-col>';
 			tagFactor += '</v-row>';
@@ -518,20 +523,22 @@ function formatHorse(sei, formatFlg, factorName, mig_arr, jik_arr) {
 			tagFactor += '<v-switch';
 			tagFactor += '  v-model="sValue3"';
 			tagFactor += '  label="父父"';
+			tagFactor += '  value="父父"';
 			tagFactor += '  color="#2dcb45"';
 			tagFactor += '  hide-details';
 			tagFactor += '  inset';
-			tagFactor += '  id="factorOpTt"';
+			tagFactor += '  id="toggleFactorOpTt"';
 			tagFactor += '></v-switch>';
 			tagFactor += '  </v-col>';
 			tagFactor += '  <v-col cols="5" align="center">';
 			tagFactor += '<v-switch';
 			tagFactor += '  v-model="sValue4"';
 			tagFactor += '  label="母父"';
+			tagFactor += '  value="母父"';
 			tagFactor += '  color="#2dcb45"';
 			tagFactor += '  hide-details';
 			tagFactor += '  inset';
-			tagFactor += '  id="factorOpHt"';
+			tagFactor += '  id="toggleFactorOpHt"';
 			tagFactor += '></v-switch>';
 			tagFactor += '  </v-col>';
 			tagFactor += '</v-row>';
@@ -541,20 +548,22 @@ function formatHorse(sei, formatFlg, factorName, mig_arr, jik_arr) {
 			tagFactor += '<v-switch';
 			tagFactor += '  v-model="sValue5"';
 			tagFactor += '  label="１薄"';
+			tagFactor += '  value="１薄"';
 			tagFactor += '  color="#2dcb45"';
 			tagFactor += '  hide-details';
 			tagFactor += '  inset';
-			tagFactor += '  id="factorOpJik"';
+			tagFactor += '  id="toggleFactorOpJik"';
 			tagFactor += '></v-switch>';
 			tagFactor += '  </v-col>';
 			tagFactor += '  <v-col cols="5" align="center">';
 			tagFactor += '<v-switch';
 			tagFactor += '  v-model="sValue6"';
 			tagFactor += '  label="見事"';
+			tagFactor += '  value="見事"';
 			tagFactor += '  color="#2dcb45"';
 			tagFactor += '  hide-details';
 			tagFactor += '  inset';
-			tagFactor += '  id="factorOpMig"';
+			tagFactor += '  id="toggleFactorOpMig"';
 			tagFactor += '></v-switch>';
 			tagFactor += '  </v-col>';
 			tagFactor += '</v-row>';
@@ -564,10 +573,11 @@ function formatHorse(sei, formatFlg, factorName, mig_arr, jik_arr) {
 			tagFactor += '<v-switch';
 			tagFactor += '  v-model="sValue7"';
 			tagFactor += '  label="上記以外"';
+			tagFactor += '  value="以外"';
 			tagFactor += '  color="#2dcb45"';
 			tagFactor += '  hide-details';
 			tagFactor += '  inset';
-			tagFactor += '  id="factorOpOther"';
+			tagFactor += '  id="toggleFactorOpOther"';
 			tagFactor += '></v-switch>';
 			tagFactor += '  </v-col>';
 			tagFactor += '  <v-col cols="5" align="center"></v-col>';
@@ -999,6 +1009,8 @@ function getFooter() {
 }
 
 
+///////以下使わないソース
+
 function getFactorSearch() {
 	let tag = '';
 
@@ -1072,9 +1084,6 @@ function getFactorSearch() {
     return tag;
 }
 
-
-
-///////以下使わないソース
 
 function getFactorImg(kbn,Factor1,Factor2) {
 	var tag = '';
