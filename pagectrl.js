@@ -4,6 +4,8 @@ $(window).on('load', function() {
 	loadjs(0);
 });
 
+// 共通
+var getfactorChk = '';
 
 function loadjs(mode) {
 
@@ -62,9 +64,9 @@ function loadjs(mode) {
 			}
 
 			//因子オプションのチェックボックス取得
-			var factorChk = document.querySelectorAll("[id^='factor']");
+			//var factorChk = document.querySelectorAll("[id^='toggleFactor']");
 			
-			dispHorse(chk, sei, input, factorValue, factorChk, 1);
+			dispHorse(chk, sei, input, factorValue, getfactorChk, 1);
 			console.count();
 			lisnerLink();
 		});
@@ -90,8 +92,8 @@ function loadjs(mode) {
 				}
 				
 				//因子オプションのチェックボックス取得
-				var factorChk = document.querySelectorAll("[id^='factor']");
-				dispHorse(chk, sei, input, factorValue, factorChk, 1);
+				//var factorChk = document.querySelectorAll("[id^='toggleFactor']");
+				dispHorse(chk, sei, input, factorValue, getfactorChk, 1);
 
 				console.count();
 				lisnerLink();
@@ -419,6 +421,9 @@ function dispHorse(chk, sei, keyword, factorValue, factorChk, flg) {
 	} else {
 		var wkFactorValue = factorValue.substr(0, pos);
 	}
+	
+	//祖先絞り込みチェック場所を保持
+	getfactorChk = factorChk;
 	
 	// 絞り込み実施
 	filterHorse(t_arr, ht_arr, mig_arr, jik_arr, ashi_arr, rare_arr, sei, keyword, wkFactorValue, factorChk, flg);

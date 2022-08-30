@@ -4,19 +4,23 @@
 
   el: '#app',
   vuetify: new Vuetify(),
-  data: {
+  data() {
+    return {
+       sValue:[],
+       model: "",
+       factor:[],
+       showContent: false,
+       dialog: false,
+    }
     // ダイアログの開く/閉じるを制御します。
-    dialog: false,
-    sValue1: true,
-    sValue2: true,
-    sValue3: true,
-    sValue4: true,
-    sValue5: true,
-    sValue6: true,
-    sValue7: true,
-    model: "",
-    factor:[],
-    showContent: false,
+    
+    //sValue1: true,
+    //sValue2: true,
+    //sValue3: true,
+    //sValue4: true,
+    //sValue5: true,
+    //sValue6: true,
+    //sValue7: true,
   },
   methods: {
     openModal: function(){
@@ -38,7 +42,8 @@
           this.factor = json.factor
         })
     },
-    search: function(text) {
+    search: function() {
+//    search: function(check1,check2,check3,check4,check5,check6,check7) {
       //input要素の取得
       // ラジオボタン
       var sei_radio = document.getElementsByName("tab-head");
@@ -59,7 +64,7 @@
       // 因子検索トグル
       var factorChk = document.querySelectorAll("[id^='toggleFactor']");
       // 検索
-      dispHorse(chk, sei, input, factorValue, factorChk, 1);
+      dispHorse(chk, sei, input, factorValue, this.sValue, 1);
     },
   },
   mounted: function(){
@@ -264,13 +269,11 @@ function filterSqlFactor(sql_filter, factorValue, factorChk) {
 	
 	//検索オプションにチェックが入っているのか確認
 	for (let i = 0; i < factorChk.length; i++) {
-		if (factorChk[i].checked) {
-			//検索オプションにチェックが入ってれば条件を設定
-			//wkFactor += 'Ped_All LIKE "%' + factorChk[i].value + factorValue + '%" or ';
-			//wkFactor+= '「' + factorChk[i].labels[0].innerHTML + factorValue + '」|';
-			wkFactor+= '「' + factorChk[i].value + factorValue + '」|';
-			chkCnt++;
-		}
+		//検索オプションにチェックが入ってれば条件を設定
+		//wkFactor += 'Ped_All LIKE "%' + factorChk[i].value + factorValue + '%" or ';
+		//wkFactor+= '「' + factorChk[i].labels[0].innerHTML + factorValue + '」|';
+		wkFactor+= '「' + factorChk[i] + factorValue + '」|';
+		chkCnt++;
 	}
 	
 	// ひとつでもチェックが入っている場合
@@ -496,10 +499,10 @@ function formatHorse(sei, formatFlg, factorName, mig_arr, jik_arr) {
 			tagFactor += '<v-row justify="center" no-gutters>';
 			tagFactor += '  <v-col cols="5" align="center">';
 			tagFactor += '<v-switch';
-			tagFactor += '  v-model="sValue1"';
 			tagFactor += '  label="自分自身"';
 			tagFactor += '  value="自身"';
 			tagFactor += '  color="#2dcb45"';
+			tagFactor += '  v-model="sValue"';
 			tagFactor += '  hide-details';
 			tagFactor += '  inset';
 			tagFactor += '  id="toggleFactorOpOwn"';
@@ -507,9 +510,9 @@ function formatHorse(sei, formatFlg, factorName, mig_arr, jik_arr) {
 			tagFactor += '  </v-col>';
 			tagFactor += '  <v-col cols="5" align="center">';
 			tagFactor += '<v-switch';
-			tagFactor += '  v-model="sValue2"';
 			tagFactor += '  label="父"';
 			tagFactor += '  value="１父"';
+			tagFactor += '  v-model="sValue"';
 			tagFactor += '  color="#2dcb45"';
 			tagFactor += '  hide-details';
 			tagFactor += '  inset';
@@ -521,9 +524,9 @@ function formatHorse(sei, formatFlg, factorName, mig_arr, jik_arr) {
 			tagFactor += '<v-row justify="center" no-gutters>';
 			tagFactor += '  <v-col cols="5" align="center">';
 			tagFactor += '<v-switch';
-			tagFactor += '  v-model="sValue3"';
 			tagFactor += '  label="父父"';
 			tagFactor += '  value="父父"';
+			tagFactor += '  v-model="sValue"';
 			tagFactor += '  color="#2dcb45"';
 			tagFactor += '  hide-details';
 			tagFactor += '  inset';
@@ -532,10 +535,10 @@ function formatHorse(sei, formatFlg, factorName, mig_arr, jik_arr) {
 			tagFactor += '  </v-col>';
 			tagFactor += '  <v-col cols="5" align="center">';
 			tagFactor += '<v-switch';
-			tagFactor += '  v-model="sValue4"';
 			tagFactor += '  label="母父"';
 			tagFactor += '  value="母父"';
 			tagFactor += '  color="#2dcb45"';
+			tagFactor += '  v-model="sValue"';
 			tagFactor += '  hide-details';
 			tagFactor += '  inset';
 			tagFactor += '  id="toggleFactorOpHt"';
@@ -546,10 +549,10 @@ function formatHorse(sei, formatFlg, factorName, mig_arr, jik_arr) {
 			tagFactor += '<v-row justify="center" no-gutters>';
 			tagFactor += '  <v-col cols="5" align="center">';
 			tagFactor += '<v-switch';
-			tagFactor += '  v-model="sValue5"';
 			tagFactor += '  label="１薄"';
 			tagFactor += '  value="１薄"';
 			tagFactor += '  color="#2dcb45"';
+			tagFactor += '  v-model="sValue"';
 			tagFactor += '  hide-details';
 			tagFactor += '  inset';
 			tagFactor += '  id="toggleFactorOpJik"';
@@ -557,10 +560,10 @@ function formatHorse(sei, formatFlg, factorName, mig_arr, jik_arr) {
 			tagFactor += '  </v-col>';
 			tagFactor += '  <v-col cols="5" align="center">';
 			tagFactor += '<v-switch';
-			tagFactor += '  v-model="sValue6"';
 			tagFactor += '  label="見事"';
 			tagFactor += '  value="見事"';
 			tagFactor += '  color="#2dcb45"';
+			tagFactor += '  v-model="sValue"';
 			tagFactor += '  hide-details';
 			tagFactor += '  inset';
 			tagFactor += '  id="toggleFactorOpMig"';
@@ -571,9 +574,9 @@ function formatHorse(sei, formatFlg, factorName, mig_arr, jik_arr) {
 			tagFactor += '<v-row justify="center" no-gutters>';
 			tagFactor += '  <v-col cols="5" align="center">';
 			tagFactor += '<v-switch';
-			tagFactor += '  v-model="sValue7"';
 			tagFactor += '  label="上記以外"';
 			tagFactor += '  value="以外"';
+			tagFactor += '  v-model="sValue"';
 			tagFactor += '  color="#2dcb45"';
 			tagFactor += '  hide-details';
 			tagFactor += '  inset';
@@ -584,7 +587,9 @@ function formatHorse(sei, formatFlg, factorName, mig_arr, jik_arr) {
 			tagFactor += '</v-row>';
 			tagFactor += '<v-card-actions>';
 			tagFactor += '  <v-spacer></v-spacer>';
-			tagFactor += '  <v-btn x-large @click="dialog = false;search(\'サンデーサイレンス\')"><v-icon>mdi-file-search</icon></v-btn>';
+			//tagFactor += '  <v-btn x-large @click="dialog = false;search(\'サンデーサイレンス\')"><v-icon>mdi-file-search</icon></v-btn>';
+			//tagFactor += '  <v-btn x-large @click="dialog = false;search(sValue1,sValue2,sValue3,sValue4,sValue5,sValue6,sValue7)"><v-icon>mdi-file-search</icon></v-btn>';
+			tagFactor += '  <div @click="dialog = false;search()"><v-btn x-large><v-icon>mdi-file-search</icon></v-btn></div>';
 			tagFactor += '  <v-spacer></v-spacer>';
 			tagFactor += '</v-card-actions>';
 			tagFactor += '  </v-card>';
