@@ -640,8 +640,8 @@ function formatHorse(sei, formatFlg, factorName, mig_arr, jik_arr) {
 	    let loopCntF = 0; //繫殖牝馬のループカウント
 	    
 	    const num = 30; //一度に取り出す件数
-	    const maxM = j_horselist_M.length; //種牡馬の検索件数
-	    const maxF = j_horselist_F.length; //繫殖牝馬の検索件数
+	    let maxM = j_horselist_M.length; //種牡馬の検索件数
+	    let maxF = j_horselist_F.length; //繫殖牝馬の検索件数
 	    const loadContent = async () => {
 	    	//種牡馬を選択されているときのみ
 	    	var seiRadio = document.getElementsByName("tab-head");
@@ -676,6 +676,8 @@ function formatHorse(sei, formatFlg, factorName, mig_arr, jik_arr) {
 		        loopCntF++;
 
 		    } else if ( loopCntM * num < maxM || loopCntF * num < maxF ) {
+				maxM = j_horselist_M.length;
+				maxF = j_horselist_F.length;
 			    //2回目以降
 		    	//種牡馬側
 	            tagTab = getTabHTML(j_horselist_M.length, j_horselist_F.length);
@@ -707,7 +709,8 @@ function formatHorse(sei, formatFlg, factorName, mig_arr, jik_arr) {
 	        horseData.innerHTML = tagTabM + tagMStart + contentM_HTML + tagMEnd + tagTabF + tagFStart + contentF_HTML + tagFEnd;
 	        
 	        // 種牡馬と繫殖牝馬の両方のループが終わるまで監視
-	        if ( loopCntM * num < maxM || loopCntF * num < maxF ) infiniteScrollObserver.observe(footer.firstElementChild);
+	        //if ( loopCntM * num < maxM || loopCntF * num < maxF ) infiniteScrollObserver.observe(footer.firstElementChild);
+	        if ( ( seiRadio[0].checked && loopCntM * num < maxM ) || ( seiRadio[1].checked && loopCntF * num < maxF ) ) infiniteScrollObserver.observe(footer.firstElementChild);
 
 	    }; //loadContent
 	    
