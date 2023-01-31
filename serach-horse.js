@@ -210,7 +210,8 @@ function filterHorse(t_arr,ht_arr,mig_arr,jik_arr, ashi_arr, rare_arr, sei, keyw
 	//リスト表示
 	//var contents = formatHorse(j_horselist_M, j_horselist_F, sei);
 	//horselist.innerHTML = formatHorse(sei, formatFlg, factor, mig_arr, jik_arr);
-	formatHorse(sei, formatFlg, factorValue, mig_arr, jik_arr);
+	//formatHorse(sei, formatFlg, factorValue, mig_arr, jik_arr);
+	formatHorse(sei, formatFlg, factorValue, t_arr, ht_arr, mig_arr, jik_arr);
 	
 	loadjs(1);
 
@@ -421,8 +422,9 @@ function filterSql_jik(arr, sql_filter, string) {
 }
 
 
-//function formatHorse(j_horselist_M, j_horselist_F, sei) {
-function formatHorse(sei, formatFlg, factorName, mig_arr, jik_arr) {
+//function formatHorse(j_horselist_M, j_horselist_F, sei) { 
+//function formatHorse(sei, formatFlg, factorName, mig_arr, jik_arr) {
+function formatHorse(sei, formatFlg, factorName, t_arr, ht_arr, mig_arr, jik_arr) {
 	//html整形
 	var horse_idx_arr = [];
 	let Num_M = 0;
@@ -660,7 +662,8 @@ function formatHorse(sei, formatFlg, factorName, mig_arr, jik_arr) {
 
 		        // 種牡馬
 		        tag = getHorseDetails(j_horselist_M, num, loopCntM);
-		        tag = toFontColorRed(tag, factorName, mig_arr, jik_arr);
+		        //tag = toFontColorRed(tag, factorName, mig_arr, jik_arr); 
+		        tag = toFontColorRed(tag, factorName, t_arr, ht_arr, mig_arr, jik_arr);
 		        contentM_HTML += tag;
 		        
 		        loopCntM++;
@@ -670,7 +673,7 @@ function formatHorse(sei, formatFlg, factorName, mig_arr, jik_arr) {
 		        // 指定したところから30件取得
 		        tag = '';
 		        tag = getHorseDetails(j_horselist_F, num, loopCntF);
-		        tag = toFontColorRed(tag, factorName, mig_arr, jik_arr);
+		        tag = toFontColorRed(tag, factorName, t_arr, ht_arr, mig_arr, jik_arr);
 		        contentF_HTML += tag;
 		        
 		        loopCntF++;
@@ -689,15 +692,17 @@ function formatHorse(sei, formatFlg, factorName, mig_arr, jik_arr) {
 			    if ( seiRadio[0].checked && loopCntM * num < maxM ) {
 			        // 種牡馬
 			        tag = getHorseDetails(j_horselist_M, num, loopCntM);
-			        tag = toFontColorRed(tag, factorName, mig_arr, jik_arr);
+			        //tag = toFontColorRed(tag, factorName, mig_arr, jik_arr);
+			        tag = toFontColorRed(tag, factorName, t_arr, ht_arr, mig_arr, jik_arr);
 			        contentM_HTML += tag;
 			        
 			        loopCntM++;
 			        console.log('発火牡馬' + loopCntM);
 			    } else if ( seiRadio[1].checked && loopCntF * num < maxF ) {
-			        // 種牡馬
+			        // 牝馬
 			        tag = getHorseDetails(j_horselist_F, num, loopCntF);
-			        tag = toFontColorRed(tag, factorName, mig_arr, jik_arr);
+			        //tag = toFontColorRed(tag, factorName, mig_arr, jik_arr);
+			        tag = toFontColorRed(tag, factorName, t_arr, ht_arr, mig_arr, jik_arr);
 			        contentF_HTML += tag;
 			        
 			        loopCntF++;
@@ -775,83 +780,58 @@ function getHorseDetails(j_horselist, num, loopCnt) {
     return tag;
 }
 
-//馬表示
-function dispDetails(j_horselist_M, j_horselist_F, factorName, mig_arr, jik_arr) {
-
-    // 無限スクロール
-    const infiniteScrollObserver = new IntersectionObserver(entries => {
-        entries.forEach(entry => {
-            if ( ! entry.isIntersecting ) return;
-
-            infiniteScrollObserver.unobserve(entry.target);
-            loadContent();
-
-        });
-    });
-
-    // 
-    let loopCnt = 0;
-    const num = 30; //一度に取り出す件数
-    const max = j_horselist_M.length;
-    const loadContent = async () => {
-    	//種牡馬を選択されているときのみ
-    	var seiRadio = document.getElementsByName("tab-head");
-        if ( loopCnt == 0 || seiRadio[0].checked ) {
-	        var tag = ''
-	        let tagTabM = '';
-	        let tagTabF = '';
-	        let tagTab = '';
-            
-            tagTab = getTabHTML(j_horselist_M.length, j_horselist_F.length);
-			//種牡馬
-			tagTabM = tagTab[0];
-			//繫殖牝馬
-			tagTabF = tagTab[1];
-            
-	        // 指定したところから30件取得
-	        const j_horselistSlice = j_horselist_M.slice((num * loopCnt),(num * (loopCnt + 1)));
-	        // 取得した分だけtagを取得する
-	        for(const j_horse of j_horselistSlice) {
-	            tag += j_horse.HeaderDetail;
-	            
-	            //血統部作成
-	            tag += '<div class="detail">';
-	            tag += '<table class="pedigree" width="100%">';
-	            tag += '<tbody>';
-	            tag += j_horse.Ped_t + j_horse.Ped_tt + j_horse.Ped_ttt + j_horse.Ped_tttt + j_horse.Ped_ttht + j_horse.Ped_tht + j_horse.Ped_thtt + j_horse.Ped_thht + j_horse.Ped_ht + j_horse.Ped_htt + j_horse.Ped_httt + j_horse.Ped_htht + j_horse.Ped_hht + j_horse.Ped_hhtt + j_horse.Ped_hhht;
-	            tag += '</tbody>';
-	            tag += '</table>';
-	            tag += '</div>';
-
-	        }
-
-	        tag = toFontColorRed(tag, factorName, mig_arr, jik_arr);
-	        contentM_HTML += tag;
-	        
-	        horselist.innerHTML = tagStart + tagTabM + tagMStart + contentM_HTML + tagMEnd + tagTabF + tagFStart + contentF_HTML + tagFEnd + tagFactor + tagEnd;
-	        
-	        loopCnt++;
-	        console.log('発火' + loopCnt);
-	        // 牡馬でループが終わるまで監視
-	        if ( loopCnt * num < max ) infiniteScrollObserver.observe(footer.firstElementChild);
-	    } else {
-	        infiniteScrollObserver.observe(footer.firstElementChild);
-        }
-
-    };
-    
-    //
-    loadContent();
-
-}
-
-
-function toFontColorRed(tag, factorName, mig_arr, jik_arr) {
+//function toFontColorRed(tag, factorName, mig_arr, jik_arr) {
+function toFontColorRed(tag, factorName, t_arr, ht_arr, mig_arr, jik_arr) {
 	//条件に該当する場合は赤色表示
+	//父系統で検索したときに合致するものを表示させる
+    if (t_arr != null) {
+	    if (t_arr.length != 0) {
+			//var reg = 'omoshiro_2">(';
+			var reg = '(omoshiro(_mare)*_)11">(';
+	    	cnt = 0;
+			while (t_arr.length > cnt) {
+				var value = t_arr[cnt];
+				
+				reg += value;
+						
+				if(t_arr.length != cnt + 1) {
+					reg += '|';
+				}
+				cnt++;
+			}
+			reg += ')';
+			//tag = tag.replace(new RegExp(reg,'g'),'omoshiro_R2">$1');
+			tag = tag.replace(new RegExp(reg,'g'),'$1R11">$3');
+	    }
+	}
+	
+	//母父系統で検索したときに合致するものを表示させる
+    if (ht_arr != null) {
+	    if (ht_arr.length != 0) {
+			//var reg = 'omoshiro_2">(';
+			var reg = '(omoshiro(_mare)*_)12">(';
+	    	cnt = 0;
+			while (ht_arr.length > cnt) {
+				var value = ht_arr[cnt];
+				
+				reg += value;
+						
+				if(ht_arr.length != cnt + 1) {
+					reg += '|';
+				}
+				cnt++;
+			}
+			reg += ')';
+			//tag = tag.replace(new RegExp(reg,'g'),'omoshiro_R2">$1');
+			tag = tag.replace(new RegExp(reg,'g'),'$1R12">$3');
+	    }
+	}
+	
     //血統表に自家製が含まれているときは赤文字表示させる
     if (jik_arr != null) {
 	    if (jik_arr.length != 0) {
-			var reg = 'omoshiro_2">(';
+			//var reg = 'omoshiro_2">(';
+			var reg = '(omoshiro(_mare)*_)2">(';
 	    	cnt = 0;
 			while (jik_arr.length > cnt) {
 				var value = jik_arr[cnt];
@@ -864,7 +844,8 @@ function toFontColorRed(tag, factorName, mig_arr, jik_arr) {
 				cnt++;
 			}
 			reg += ')';
-			tag = tag.replace(new RegExp(reg,'g'),'omoshiro_R2">$1');
+			//tag = tag.replace(new RegExp(reg,'g'),'omoshiro_R2">$1');
+			tag = tag.replace(new RegExp(reg,'g'),'$1R2">$3');
 	    }
 	}
 
