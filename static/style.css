@@ -1507,19 +1507,37 @@ ul li, ol li {
   border-right: none; 
   font-weight: bold;  }
 
-.detail .omoshiro_0_mare {
+.detail .omoshiro_mare_0 {
   background: linear-gradient(135deg, #b6ffbd 00%, #b6ffbd 70%, #fffcaa 50%, #fffcaa 100%);
   border-right: none; 
   font-weight: bold;  }
 
-.detail .omoshiro_1 {
+/* 種牡馬の父 */
+.detail .omoshiro_11 {
   background: #b6ffbd;
   border-right: none; 
   border-left: none; 
   text-align: left;
   font-weight: bold;  }
 
-.detail .omoshiro_1_mare {
+/* 種牡馬の母父 */
+.detail .omoshiro_12 {
+  background: #b6ffbd;
+  border-right: none; 
+  border-left: none; 
+  text-align: left;
+  font-weight: bold;  }
+
+/* 繫殖牝馬の父 */
+.detail .omoshiro_mare_11 {
+  background: #fffcaa;
+  border-right: none; 
+  border-left: none; 
+  text-align: left;
+  font-weight: bold;  }
+
+/* 繫殖牝馬の母父 */
+.detail .omoshiro_mare_12 {
   background: #fffcaa;
   border-right: none; 
   border-left: none; 
@@ -1533,7 +1551,7 @@ ul li, ol li {
   text-align: center;
   font-weight: bold;  }
 
-.detail .omoshiro_2_mare {
+.detail .omoshiro_mare_2 {
   background: #fffcaa;
   border-right: none; 
   border-left: none; 
@@ -1547,6 +1565,53 @@ ul li, ol li {
   font-weight: bold; 
   color: #e2041b;  }
 
+.detail .omoshiro_mare_R0 {
+  background: linear-gradient(135deg, #b6ffbd 00%, #b6ffbd 70%, #fffcaa 50%, #fffcaa 100%);
+  border-right: none; 
+  font-weight: bold; 
+  color: #e2041b;  }
+
+/* 種牡馬で該当する親系統が入るとき↓ */
+/* 種牡馬の父 */
+.detail .omoshiro_R11 {
+  background: #b6ffbd;
+  border-right: none; 
+  border-left: none; 
+  text-align: left;
+  font-weight: bold; 
+  color: #e2041b;  }
+
+/* 種牡馬の母父 */
+.detail .omoshiro_R12 {
+  background: #b6ffbd;
+  border-right: none; 
+  border-left: none; 
+  text-align: left;
+  font-weight: bold;
+  color: #e2041b;  }
+/* 種牡馬で該当する親系統が入るとき↑ */
+
+/* 繫殖牝馬で該当する親系統が入るとき↓ */
+/* 繫殖牝馬の父 */
+.detail .omoshiro_mare_R11 {
+  background: #fffcaa;
+  border-right: none; 
+  border-left: none; 
+  text-align: left;
+  font-weight: bold;
+  color: #e2041b;  }
+
+/* 繫殖牝馬の母父 */
+.detail .omoshiro_mare_R12 {
+  background: #fffcaa;
+  border-right: none;
+  border-left: none;
+  text-align: left;
+  font-weight: bold;
+  color: #e2041b;  }
+/* 繫殖牝馬で該当する親系統が入るとき↑ */
+
+
 /* 一薄めで該当する親系統が入るとき */
 .detail .omoshiro_R2 {
   background: #b6ffbd;
@@ -1555,6 +1620,15 @@ ul li, ol li {
   text-align: center;
   font-weight: bold;
   color: #e2041b;  }
+
+.detail .omoshiro_mare_R2 {
+  background: #fffcaa;
+  border-right: none; 
+  border-left: none; 
+  text-align: center;
+  font-weight: bold;
+  color: #e2041b;  }
+
   
 
 /* 見事 */
