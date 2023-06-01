@@ -679,18 +679,18 @@ tr:hover {
   color          : #000000;                /* 文字色             */
 }
 
-/* === ON側のチェックボックスのラベル（ONのとき）Nt  ========== */
-.btn2_wrap_Nt label span:after{
+/* === ON側のチェックボックスのラベル（ONのとき）Na  ========== */
+.btn2_wrap_Na label span:after{
   color          : #aaa;
 }
 
-.btn2_wrap_Nt input:checked + label{
+.btn2_wrap_Na input:checked + label{
   color          : #000000;
   background     : lightskyblue;        /* 背景色             */
   box-shadow     : none;                /* 影を消す           */
 }
 
-.btn2_wrap_Nt input:checked + label  span:after{
+.btn2_wrap_Na input:checked + label  span:after{
   color          : #000000;                /* 文字色             */
 }
 
