@@ -10,7 +10,7 @@ var getfactorChk = '';
 function loadjs(mode) {
 
 	// ラジオボタン
-	var sei_radio = document.getElementsByName("tab-head");
+	var sei_radio = document.getElementsByName("horselist");
 
 	// チェックボックス全てを取得
 	//var chk = document.querySelectorAll("input[type='checkbox']");
