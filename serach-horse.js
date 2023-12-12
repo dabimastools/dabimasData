@@ -4,12 +4,404 @@ document.addEventListener("DOMContentLoaded", function (event) {
     el: "#app",
     vuetify: new Vuetify(),
     data() {
+      const srcs = {
+        Ro: "./static/img/category/Ro.png",
+        Ne: "./static/img/category/Ne.png",
+        Ns: "./static/img/category/Ns.png",
+        Na: "./static/img/category/Na.png",
+        Ha: "./static/img/category/Ha.png",
+        St: "./static/img/category/St.png",
+        He: "./static/img/category/He.png",
+        Te: "./static/img/category/Te.png",
+        Ph: "./static/img/category/Ph.png",
+        Ma: "./static/img/category/Ma.png",
+        Hi: "./static/img/category/Hi.png",
+        Sw: "./static/img/category/Sw.png",
+        Fa: "./static/img/category/Fa.png",
+        To: "./static/img/category/To.png",
+        Ec: "./static/img/category/Ec.png",
+      };
+
       return {
         sValue: [],
         model: "",
         factor: [],
         showContent: false,
         dialog: false,
+        selectedLine: [],
+        lines: [
+          {
+            name: "ヘイルトゥリーズン系",
+            halfName: "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+            group: "Royal Charger",
+            groupShort: "Ro",
+            avatar: srcs["Ro"],
+          },
+          {
+            name: "サーゲイロード系",
+            halfName: "ｻｰｹﾞｲﾛｰﾄﾞ",
+            group: "Royal Charger",
+            groupShort: "Ro",
+            avatar: srcs["Ro"],
+          },
+          {
+            name: "ハビタット系",
+            halfName: "ﾊﾋﾞﾀｯﾄ",
+            group: "Royal Charger",
+            groupShort: "Ro",
+            avatar: srcs["Ro"],
+          },
+          {
+            name: "ロイヤルチャージャー系",
+            halfName: "ﾛｲﾔﾙﾁｬｰｼﾞｬｰ",
+            group: "Royal Charger",
+            groupShort: "Ro",
+            avatar: srcs["Ro"],
+          },
+          { divider: true },
+          {
+            name: "ニアークティック系",
+            halfName: "ﾆｱｰｸﾃｨｯｸ",
+            group: "Nearctic",
+            groupShort: "Ne",
+            avatar: srcs["Ne"],
+          },
+          {
+            name: "ノーザンダンサー系",
+            halfName: "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+            group: "Nearctic",
+            groupShort: "Ne",
+            avatar: srcs["Ne"],
+          },
+          { divider: true },
+          {
+            name: "ゼダーン系",
+            halfName: "ｾﾞﾀﾞｰﾝ",
+            group: "Nasrullah",
+            groupShort: "Ns",
+            avatar: srcs["Ns"],
+          },
+          {
+            name: "ナスルーラ系",
+            halfName: "ﾅｽﾙｰﾗ",
+            group: "Nasrullah",
+            groupShort: "Ns",
+            avatar: srcs["Ns"],
+          },
+          {
+            name: "ネヴァーセイダイ系",
+            halfName: "ﾈｳﾞｧｰｾｲﾀﾞｲ",
+            group: "Nasrullah",
+            groupShort: "Ns",
+            avatar: srcs["Ns"],
+          },
+          {
+            name: "ネヴァーベンド系",
+            halfName: "ﾈｳﾞｧｰﾍﾞﾝﾄﾞ",
+            group: "Nasrullah",
+            groupShort: "Ns",
+            avatar: srcs["Ns"],
+          },
+          {
+            name: "フォルティノ系",
+            halfName: "ﾌｫﾙﾃｨﾉ",
+            group: "Nasrullah",
+            groupShort: "Ns",
+            avatar: srcs["Ns"],
+          },
+          {
+            name: "プリンスリーギフト系",
+            halfName: "ﾌﾟﾘﾝｽﾘｰｷﾞﾌﾄ",
+            group: "Nasrullah",
+            groupShort: "Ns",
+            avatar: srcs["Ns"],
+          },
+          {
+            name: "ボールドルーラー系",
+            halfName: "ﾎﾞｰﾙﾄﾞﾙｰﾗｰ",
+            group: "Nasrullah",
+            groupShort: "Ns",
+            avatar: srcs["Ns"],
+          },
+          {
+            name: "レッドゴッド系",
+            halfName: "ﾚｯﾄﾞｺﾞｯﾄﾞ",
+            group: "Nasrullah",
+            groupShort: "Ns",
+            avatar: srcs["Ns"],
+          },
+          { divider: true },
+          {
+            name: "エタン系",
+            halfName: "ｴﾀﾝ",
+            group: "Native Dancer",
+            groupShort: "Na",
+            avatar: srcs["Na"],
+          },
+          {
+            name: "ネイティヴダンサー系",
+            halfName: "ﾈｲﾃｨｳﾞﾀﾞﾝｻｰ",
+            group: "Native Dancer",
+            groupShort: "Na",
+            avatar: srcs["Na"],
+          },
+          {
+            name: "レイズアネイティヴ系",
+            halfName: "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+            group: "Native Dancer",
+            groupShort: "Na",
+            avatar: srcs["Na"],
+          },
+          { divider: true },
+          {
+            name: "オリオール系",
+            halfName: "ｵﾘｵｰﾙ",
+            group: "Hampton",
+            groupShort: "Ha",
+            avatar: srcs["Ha"],
+          },
+          {
+            name: "オーエンテューダー系",
+            halfName: "ｵｰｴﾝﾃｭｰﾀﾞｰ",
+            group: "Hampton",
+            groupShort: "Ha",
+            avatar: srcs["Ha"],
+          },
+          {
+            name: "カーレッド系",
+            halfName: "ｶｰﾚｯﾄﾞ",
+            group: "Hampton",
+            groupShort: "Ha",
+            avatar: srcs["Ha"],
+          },
+          {
+            name: "サンインロー系",
+            halfName: "ｻﾝｲﾝﾛｰ",
+            group: "Hampton",
+            groupShort: "Ha",
+            avatar: srcs["Ha"],
+          },
+          {
+            name: "ハイペリオン系",
+            halfName: "ﾊｲﾍﾟﾘｵﾝ",
+            group: "Hampton",
+            groupShort: "Ha",
+            avatar: srcs["Ha"],
+          },
+          {
+            name: "ハンプトン系",
+            halfName: "ﾊﾝﾌﾟﾄﾝ",
+            group: "Hampton",
+            groupShort: "Ha",
+            avatar: srcs["Ha"],
+          },
+          {
+            name: "ファイントップ系",
+            halfName: "ﾌｧｲﾝﾄｯﾌﾟ",
+            group: "Hampton",
+            groupShort: "Ha",
+            avatar: srcs["Ha"],
+          },
+          {
+            name: "ロックフェラ系",
+            halfName: "ﾛｯｸﾌｪﾗ",
+            group: "Hampton",
+            groupShort: "Ha",
+            avatar: srcs["Ha"],
+          },
+          { divider: true },
+          {
+            name: "プリンスキロ系",
+            halfName: "ﾌﾟﾘﾝｽｷﾛ",
+            group: "St.Simon",
+            groupShort: "St",
+            avatar: srcs["St"],
+          },
+          {
+            name: "プリンスビオ系",
+            halfName: "ﾌﾟﾘﾝｽﾋﾞｵ",
+            group: "St.Simon",
+            groupShort: "St",
+            avatar: srcs["St"],
+          },
+          {
+            name: "プリンスローズ系",
+            halfName: "ﾌﾟﾘﾝｽﾛｰｽﾞ",
+            group: "St.Simon",
+            groupShort: "St",
+            avatar: srcs["St"],
+          },
+          {
+            name: "ボワルセル系",
+            halfName: "ﾎﾞﾜﾙｾﾙ",
+            group: "St.Simon",
+            groupShort: "St",
+            avatar: srcs["St"],
+          },
+          {
+            name: "リボー系",
+            halfName: "ﾘﾎﾞｰ",
+            group: "St.Simon",
+            groupShort: "St",
+            avatar: srcs["St"],
+          },
+          { divider: true },
+          {
+            name: "クラリオン系",
+            halfName: "ｸﾗﾘｵﾝ",
+            group: "Herod",
+            groupShort: "He",
+            avatar: srcs["He"],
+          },
+          {
+            name: "トウルビヨン系",
+            halfName: "ﾄｳﾙﾋﾞﾖﾝ",
+            group: "Herod",
+            groupShort: "He",
+            avatar: srcs["He"],
+          },
+          {
+            name: "マイバブー系",
+            halfName: "ﾏｲﾊﾞﾌﾞｰ",
+            group: "Herod",
+            groupShort: "He",
+            avatar: srcs["He"],
+          },
+          { divider: true },
+          {
+            name: "テディ系",
+            halfName: "ﾃﾃﾞｨ",
+            group: "Teddy",
+            groupShort: "Te",
+            avatar: srcs["Te"],
+          },
+          { divider: true },
+          {
+            name: "ダンテ系",
+            halfName: "ﾀﾞﾝﾃ",
+            group: "Phalaris",
+            groupShort: "Ph",
+            avatar: srcs["Ph"],
+          },
+          {
+            name: "ネアルコ系",
+            halfName: "ﾈｱﾙｺ",
+            group: "Phalaris",
+            groupShort: "Ph",
+            avatar: srcs["Ph"],
+          },
+          {
+            name: "ファリス系",
+            halfName: "ﾌｧﾘｽ",
+            group: "Phalaris",
+            groupShort: "Ph",
+            avatar: srcs["Ph"],
+          },
+          {
+            name: "ファロス系",
+            halfName: "ﾌｧﾛｽ",
+            group: "Phalaris",
+            groupShort: "Ph",
+            avatar: srcs["Ph"],
+          },
+          {
+            name: "モスボロー系",
+            halfName: "ﾓｽﾎﾞﾛｰ",
+            group: "Phalaris",
+            groupShort: "Ph",
+            avatar: srcs["Ph"],
+          },
+          { divider: true },
+          {
+            name: "インテント系",
+            halfName: "ｲﾝﾃﾝﾄ",
+            group: "Matchem",
+            groupShort: "Ma",
+            avatar: srcs["Ma"],
+          },
+          {
+            name: "マッチェム系",
+            halfName: "ﾏｯﾁｪﾑ",
+            group: "Matchem",
+            groupShort: "Ma",
+            avatar: srcs["Ma"],
+          },
+          {
+            name: "マンノウォー系",
+            halfName: "ﾏﾝﾉｳｫｰ",
+            group: "Matchem",
+            groupShort: "Ma",
+            avatar: srcs["Ma"],
+          },
+          {
+            name: "レリック系",
+            halfName: "ﾚﾘｯｸ",
+            group: "Matchem",
+            groupShort: "Ma",
+            avatar: srcs["Ma"],
+          },
+          { divider: true },
+          {
+            name: "ヒムヤー系",
+            halfName: "ﾋﾑﾔｰ",
+            group: "Himyar",
+            groupShort: "Hi",
+            avatar: srcs["Hi"],
+          },
+          { divider: true },
+          {
+            name: "ブラントーム系",
+            halfName: "ﾌﾞﾗﾝﾄｰﾑ",
+            group: "Swynford",
+            groupShort: "Sw",
+            avatar: srcs["Sw"],
+          },
+          {
+            name: "ブランドフォード系",
+            halfName: "ﾌﾞﾗﾝﾄﾞﾌｫｰﾄﾞ",
+            group: "Swynford",
+            groupShort: "Sw",
+            avatar: srcs["Sw"],
+          },
+          {
+            name: "ブレニム系",
+            halfName: "ﾌﾞﾚﾆﾑ",
+            group: "Swynford",
+            groupShort: "Sw",
+            avatar: srcs["Sw"],
+          },
+          { divider: true },
+          {
+            name: "フェアウェイ系",
+            halfName: "ﾌｪｱｳｪｲ",
+            group: "Fairway",
+            groupShort: "Fa",
+            avatar: srcs["Fa"],
+          },
+          {
+            name: "フェアトライアル系",
+            halfName: "ﾌｪｱﾄﾗｲｱﾙ",
+            group: "Fairway",
+            groupShort: "Fa",
+            avatar: srcs["Fa"],
+          },
+          { divider: true },
+          {
+            name: "トムフール系",
+            halfName: "ﾄﾑﾌｰﾙ",
+            group: "Tom Fool",
+            groupShort: "To",
+            avatar: srcs["To"],
+          },
+          { divider: true },
+          {
+            name: "エクリプス系",
+            halfName: "ｴｸﾘﾌﾟｽ",
+            group: "Eclipse",
+            groupShort: "Ec",
+            avatar: srcs["Ec"],
+          },
+        ],
       };
       // ダイアログの開く/閉じるを制御します。
 
@@ -42,7 +434,6 @@ document.addEventListener("DOMContentLoaded", function (event) {
           });
       },
       search: function () {
-        //    search: function(check1,check2,check3,check4,check5,check6,check7) {
         //input要素の取得
         // ラジオボタン
         var sei_radio = document.getElementsByName("horselist");
@@ -62,8 +453,10 @@ document.addEventListener("DOMContentLoaded", function (event) {
         var factorValue = selectfact.value;
         // 因子検索トグル
         var factorChk = document.querySelectorAll("[id^='toggleFactor']");
+        // var lineValue = this.selectedLine[0];
+        var lineValue = this.selectedLine;
         // 検索
-        dispHorse(chk, sei, input, factorValue, this.sValue, 1);
+        dispHorse(chk, sei, input, factorValue, this.sValue, lineValue, 1);
       },
     },
     mounted: function () {
@@ -152,6 +545,7 @@ function filterHorse(
   keyword,
   factorValue,
   factorChk,
+  line,
   flg
 ) {
   var sql_M = "";
@@ -176,7 +570,8 @@ function filterHorse(
     mig_arr,
     jik_arr,
     rare_arr,
-    factorValue
+    factorValue,
+    line
   );
 
   // レア牡馬
@@ -194,6 +589,8 @@ function filterHorse(
   sql_filter = filterSql_jik(jik_arr, sql_filter, 1);
   // 因子
   sql_filter = filterSqlFactor(sql_filter, factorValue, factorChk);
+  // 子系統
+  sql_filter = filterSqlLine(sql_filter, line);
   // キーワード検索
   sql_filter = filterSqlKeyword(sql_filter, keyword.value);
 
@@ -282,8 +679,6 @@ function filterSqlFactor(sql_filter, factorValue, factorChk) {
   //検索オプションにチェックが入っているのか確認
   for (let i = 0; i < factorChk.length; i++) {
     //検索オプションにチェックが入ってれば条件を設定
-    //wkFactor += 'Ped_All LIKE "%' + factorChk[i].value + factorValue + '%" or ';
-    //wkFactor+= '「' + factorChk[i].labels[0].innerHTML + factorValue + '」|';
     wkFactor += "「" + factorChk[i] + factorValue + "」|";
     chkCnt++;
   }
@@ -296,11 +691,9 @@ function filterSqlFactor(sql_filter, factorValue, factorChk) {
 
     if (chkCnt == 7) {
       //すべてチェックされている場合
-      //wkSql = 'Ped_All LIKE "%' + factorValue + '%" ';
       wkSql = '(Ped_All REGEXP "^(?=.*' + factorValue + ').*$")';
     } else {
       //SQL文の末尾2文字を削除する
-      //wkSql = '(' + wkSql.slice(0, -3) + ')';
       wkSql = '(Ped_All REGEXP "' + wkFactor.slice(0, -1) + '")';
     }
     //取得したSQLをセット
@@ -320,9 +713,24 @@ function filterSqlKeyword(sql_filter, keyword) {
     sql_filter += " AND ";
   }
 
-  //sql_filter += 'Ped_All LIKE "%' + keyword + '%"';
   //正規表現で検索
   sql_filter += '(Ped_All REGEXP "^(?=.*' + keyword + ').*$")';
+
+  return sql_filter;
+}
+
+//子系統検索
+function filterSqlLine(sql_filter, line) {
+  if (line.length == 0) {
+    return sql_filter;
+  }
+
+  if (sql_filter.length > 0) {
+    sql_filter += " AND ";
+  }
+
+  //正規表現で検索
+  sql_filter += '(Category REGEXP "^(?=.*' + line + ').*$")';
 
   return sql_filter;
 }
@@ -443,16 +851,8 @@ function formatHorse(
   jik_arr
 ) {
   //html整形
-  var horse_idx_arr = [];
-  let Num_M = 0;
-  let Num_F = 0;
-  let cnt = 0;
-  let tagWork = "";
-  var checkedTag0 = "";
-  var checkedTag1 = "";
   var tagTabM = "";
   var tagTabF = "";
-  var tagTab = "";
 
   //public変数の初期化
   contentM_HTML = "";
@@ -489,11 +889,53 @@ function formatHorse(
       tagFactor += "</v-card-actions>";
       tagFactor += "</v-row>";
       tagFactor += "   ";
+
+      // 子系統指定↓
+      tagFactor += '<v-row justify="center" no-gutters>';
+      tagFactor +=
+        '<v-col cols="10" align="center"><v-card color="#4169e1" class="white--text">自身の子系統指定</v-card></v-col>';
+      tagFactor += "</v-row>";
+      tagFactor += '<v-row justify="center" no-gutters>';
+      tagFactor += '<v-col dense cols="10">';
+
+      tagFactor += " <v-autocomplete";
+      tagFactor += '   v-model="selectedLine"';
+      tagFactor += '   :items="lines"';
+      tagFactor += '   color="blue-grey lighten-2"';
+      tagFactor += '   item-text="name"';
+      tagFactor += '   item-value="name"';
+      tagFactor += '   placeholder="子系統を選んでください。"';
+      tagFactor += '   no-data-text="見つかりません.."';
+      tagFactor += " >";
+      tagFactor += '   <template #selection="data">';
+      tagFactor += "     <v-avatar left>";
+      tagFactor += '       <img :src="data.item.avatar">';
+      tagFactor += "     </v-avatar>";
+      tagFactor += '     <div id="selectline">{{ data.item.name }}</div>';
+      tagFactor += "   </template>";
+      tagFactor += '   <template v-slot:item="data">';
+      tagFactor += "     <template>";
+      tagFactor += "       <v-list-item-avatar>";
+      tagFactor += '         <img :src="data.item.avatar">';
+      tagFactor += "       </v-list-item-avatar>";
+      tagFactor += "       <v-list-item-content>";
+      tagFactor +=
+        '         <v-list-item-title v-html="data.item.name"></v-list-item-title>';
+      tagFactor +=
+        '         <v-list-item-subtitle v-html="data.item.group"></v-list-item-subtitle>';
+      tagFactor += "       </v-list-item-content>";
+      tagFactor += "     </template>";
+      tagFactor += "   </template>";
+      tagFactor += " </v-autocomplete>";
+
+      tagFactor += "</v-col>";
+      tagFactor += "</v-row>";
+      tagFactor += "<v-divider></v-divider>";
+      // 祖先指定↓
       tagFactor += '<v-row justify="center" no-gutters>';
       tagFactor +=
         '<v-col cols="10" align="center"><v-card color="#4169e1" class="white--text">祖先指定</v-card></v-col>';
       tagFactor += "</v-row>";
-
       tagFactor += '<v-row justify="center" no-gutters>';
       tagFactor += '<v-col dense cols="10">';
 
@@ -503,7 +945,7 @@ function formatHorse(
       tagFactor += ' item-text="name"';
       tagFactor += ' item-value="id"';
       tagFactor += " persistent-hint";
-      tagFactor += ' label="種牡馬"';
+      tagFactor += ' placeholder="種牡馬を選んでください。"';
       tagFactor += ' no-data-text="見つかりません.."';
       tagFactor += ' id="selectfact"';
       tagFactor += ">";
@@ -608,8 +1050,6 @@ function formatHorse(
       tagFactor += "</v-row>";
       tagFactor += "<v-card-actions>";
       tagFactor += "  <v-spacer></v-spacer>";
-      //tagFactor += '  <v-btn x-large @click="dialog = false;search(\'サンデーサイレンス\')"><v-icon>mdi-file-search</icon></v-btn>';
-      //tagFactor += '  <v-btn x-large @click="dialog = false;search(sValue1,sValue2,sValue3,sValue4,sValue5,sValue6,sValue7)"><v-icon>mdi-file-search</icon></v-btn>';
       tagFactor +=
         '  <div @click="dialog = false;search()"><v-btn x-large><v-icon>mdi-file-search</icon></v-btn></div>';
       tagFactor += "  <v-spacer></v-spacer>";
@@ -627,13 +1067,15 @@ function formatHorse(
     }
 
     //種牡馬
-    tagTabM += '<input id="stallion" type="radio" class="tab_active" name="horselist" checked="checked" />';
+    tagTabM +=
+      '<input id="stallion" type="radio" class="tab_active" name="horselist" checked="checked" />';
     tagTabM += '<label class="tab_label" for="stallion">種牡馬</label>';
     //contentM.innerHTML = tagTabM;
     contentM_HTML = "";
 
     //繁殖牝馬
-    tagTabF += '<input id="broodmare" type="radio" class="tab_active" name="horselist" />';
+    tagTabF +=
+      '<input id="broodmare" type="radio" class="tab_active" name="horselist" />';
     tagTabF += '<label class="tab_label" for="broodmare">牝馬</label>';
     //contentF.innerHTML = tagTabF;
     contentF_HTML = "";
@@ -647,7 +1089,6 @@ function formatHorse(
       tagFStart +
       contentF_HTML +
       tagFEnd;
-
   } else {
     console.time("timer");
 
@@ -792,12 +1233,20 @@ function getTabHTML(Num_M, Num_F) {
   }
 
   //牡馬
-  tagTabM += '<input id="stallion" type="radio" class="tab_active" name="horselist" ' + checkedTag0 + " />";
-  tagTabM += '<label class="tab_label" for="stallion">種牡馬' + Num_M + "件</label>";
+  tagTabM +=
+    '<input id="stallion" type="radio" class="tab_active" name="horselist" ' +
+    checkedTag0 +
+    " />";
+  tagTabM +=
+    '<label class="tab_label" for="stallion">種牡馬' + Num_M + "件</label>";
 
   //牝馬
-  tagTabF += '<input id="broodmare" type="radio" class="tab_active" name="horselist" ' + checkedTag1 + " />";
-  tagTabF += '<label class="tab_label" for="broodmare">牝馬' + Num_F + "件</label>";
+  tagTabF +=
+    '<input id="broodmare" type="radio" class="tab_active" name="horselist" ' +
+    checkedTag1 +
+    " />";
+  tagTabF +=
+    '<label class="tab_label" for="broodmare">牝馬' + Num_F + "件</label>";
 
   return [tagTabM, tagTabF];
 }
@@ -998,18 +1447,37 @@ function getHeader() {
 }
 
 //アコーディオンのタグ作成
-function getAccordion(t_arr, ht_arr, mig_arr, jik_arr, rare_arr, factorValue) {
+function getAccordion(
+  t_arr,
+  ht_arr,
+  mig_arr,
+  jik_arr,
+  rare_arr,
+  factorValue,
+  line
+) {
   let tag = "";
   let condition = "";
 
-  if (!t_arr && !ht_arr && !mig_arr && !jik_arr && !rare_arr && !factorValue) {
+  if (
+    !t_arr &&
+    !ht_arr &&
+    !mig_arr &&
+    !jik_arr &&
+    !rare_arr &&
+    !factorValue &&
+    !line
+  ) {
     condition += "";
   } else {
-    condition += getCondition("　父：", t_arr);
-    condition += getCondition("　母父：", ht_arr);
-    condition += getCondition("　見事：", mig_arr);
-    condition += getCondition("　１薄：", jik_arr);
-    condition += "　因子：" + factorValue;
+    condition += t_arr ? getCondition("　父：", t_arr) : "";
+    condition += ht_arr ? getCondition("　母父：", ht_arr) : "";
+    condition += mig_arr ? getCondition("　見事：", mig_arr) : "";
+    condition += jik_arr ? getCondition("　１薄：", jik_arr) : "";
+    condition += factorValue ? "　因子：" + factorValue : "";
+    condition += condition ? "\n" : "";
+    condition += line ? "　子系統：" + line : "";
+
     //condition += getCondition('レア：',rare_arr);
   }
 
@@ -1048,7 +1516,7 @@ function getCondition(text, arr) {
 
 const repaint = async () => {
   for (let i = 0; i < 2; i++) {
-      await new Promise(resolve => requestAnimationFrame(resolve));
+    await new Promise((resolve) => requestAnimationFrame(resolve));
   }
 };
 
