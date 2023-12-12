@@ -492,7 +492,7 @@ tr:hover {
 	background: #4169e1;
 	color: #ecf0fc;
   cursor: pointer;
-  z-index: 1000;
+  z-index: 200;
 }
 .horselist input:checked + .tab_label + .tab_content {
 	height: auto;
