@@ -1397,9 +1397,10 @@ ul li, ol li {
        0px -1px 0px #000000;        /* 文字の影 */
   border-bottom: 1px solid #3e499c;
   vertical-align: middle;
-  font-size: x-large;
+  font-size: large;
   text-align: center;
-  font-weight: bold; }
+  font-weight: bold;
+  width: 15px }
 
 .detail .father {
   background-color: #3e499c;
@@ -1415,9 +1416,10 @@ ul li, ol li {
        0px -1px 0px #000000;        /* 文字の影 */
   border-bottom: none; 
   vertical-align: middle;
-  font-size: x-large;
+  font-size: large;
   text-align: center;
-  font-weight: bold; }
+  font-weight: bold;
+  width: 15px }
 
 .detail .father_1 {
   background-color: #3e499c;
@@ -1433,9 +1435,10 @@ ul li, ol li {
        0px -1px 0px #000000;        /* 文字の影 */
   border-top: none;
   vertical-align: middle;
-  font-size: x-large;
+  font-size: large;
   text-align: center;
-  font-weight: bold; }
+  font-weight: bold; 
+  width: 15px }
 
 .detail .mother_0 {
   background-color: #b34e5f;
@@ -1451,9 +1454,10 @@ ul li, ol li {
        0px -1px 0px #000000;        /* 文字の影 */
   border-bottom: 1px solid #b34e5f;
   vertical-align: middle;
-  font-size: x-large;
+  font-size: large;
   text-align: center;
-  font-weight: bold; }
+  font-weight: bold; 
+  width: 15px }
 
 .detail .mother {
   background-color: #b34e5f;
@@ -1469,9 +1473,10 @@ ul li, ol li {
        0px -1px 0px #000000;        /* 文字の影 */
   border-bottom: none; 
   vertical-align: middle;
-  font-size: x-large;
+  font-size: large;
   text-align: center;
-  font-weight: bold; }
+  font-weight: bold; 
+  width: 15px }
 
 .detail .mother_1 {
   background-color: #b34e5f;
@@ -1487,9 +1492,10 @@ ul li, ol li {
        0px -1px 0px #000000;        /* 文字の影 */
   border-top: none;
   vertical-align: middle;
-  font-size: x-large;
+  font-size: large;
   text-align: center;
-  font-weight: bold; }
+  font-weight: bold; 
+  width: 15px }
 
 .detail .factor {
   border: none;
@@ -1553,7 +1559,7 @@ ul li, ol li {
   font-weight: bold;  }
 
 .detail .omoshiro_mare_0 {
-  background: linear-gradient(135deg, #b6ffbd 00%, #b6ffbd 70%, #fffcaa 50%, #fffcaa 100%);
+  background: linear-gradient(135deg, #b6ffbd 00%, #b6ffbd 88%, #fffcaa 20%, #fffcaa 100%);
   border-right: none; 
   font-weight: bold;  }
 
@@ -1723,7 +1729,7 @@ table.pedigree, table.horse_spec, div.horse_spec {
   background-color: #FFFFFF; 
   border-collapse: collapse;
   border-spacing: 0;
-  font-size: 20px;
+  font-size: 16px;
   }
 
 /* a > .horse_spec {
@@ -1739,7 +1745,7 @@ a > .horse_spec:hover {
 
 table.pedigree td, table.horse_spec td {
   border: 1px solid #DDDDDD;
-  padding: 3px;
+  padding: 2px 0;
    }
 
 /* table.horse_spec td.item_name, table.horse_spec td.item_value {
