@@ -52,10 +52,17 @@ function loadjs(mode) {
         lineValue = selectline.textContent;
       }
 
+      // 母父の子系統
+      var lineValueHt= "";
+      var selectlineHt = document.getElementById("selectlineht");
+      if (selectlineHt) {
+        lineValueHt = selectlineHt.textContent;
+      }
+
       //因子オプションのチェックボックス取得
       //var factorChk = document.querySelectorAll("[id^='toggleFactor']");
 
-      dispHorse(chk, sei, input, factorValue, getfactorChk, lineValue, 1);
+      dispHorse(chk,sei,input,factorValue,getfactorChk,lineValue,lineValueHt,1);
       console.count();
       lisnerLink();
     });
@@ -86,9 +93,15 @@ function loadjs(mode) {
           lineValue = selectline.textContent;
         }
 
+        // 母父の子系統
+        var lineValueHt = "";
+        var selectlineHt = document.getElementById("selectlineht");
+        if (selectlineHt) {
+          lineValueHt = selectlineHt.textContent;
+        }
+
         //因子オプションのチェックボックス取得
-        //var factorChk = document.querySelectorAll("[id^='toggleFactor']");
-        dispHorse(chk, sei, input, factorValue, getfactorChk, lineValue, 1);
+        dispHorse(chk, sei, input, factorValue, getfactorChk, lineValue, lineValueHt, 1);
 
         console.count();
         lisnerLink();
@@ -343,7 +356,7 @@ function loadSession() {
 }
 
 //フロントに表示する関数
-function dispHorse(chk, sei, keyword, factorValue, factorChk, line, flg) {
+function dispHorse(chk, sei, keyword, factorValue, factorChk, line, lineHt, flg) {
   var t_arr = [];
   var ht_arr = [];
   var mig_arr = [];
@@ -423,6 +436,7 @@ function dispHorse(chk, sei, keyword, factorValue, factorChk, line, flg) {
     wkFactorValue,
     factorChk,
     line,
+    lineHt,
     flg
   );
 }

@@ -28,7 +28,10 @@ document.addEventListener("DOMContentLoaded", function (event) {
         factor: [],
         showContent: false,
         dialog: false,
+        // 自身の子系統
         selectedLine: [],
+        // 母父の子系統
+        selectedLineHt: [],
         lines: [
           {
             name: "ヘイルトゥリーズン系",
@@ -74,6 +77,13 @@ document.addEventListener("DOMContentLoaded", function (event) {
             avatar: srcs["Ne"],
           },
           { divider: true },
+          {
+            name: "グレイソヴリン系",
+            halfName: "ｸﾞﾚｲｿｳﾞﾘﾝ",
+            group: "Nasrullah",
+            groupShort: "Ns",
+            avatar: srcs["Ns"],
+          },
           {
             name: "ゼダーン系",
             halfName: "ｾﾞﾀﾞｰﾝ",
@@ -241,6 +251,13 @@ document.addEventListener("DOMContentLoaded", function (event) {
           {
             name: "リボー系",
             halfName: "ﾘﾎﾞｰ",
+            group: "St.Simon",
+            groupShort: "St",
+            avatar: srcs["St"],
+          },
+          {
+            name: "ワイルドリスク系",
+            halfName: "ﾜｲﾙﾄﾞﾘｽｸ",
             group: "St.Simon",
             groupShort: "St",
             avatar: srcs["St"],
@@ -453,10 +470,11 @@ document.addEventListener("DOMContentLoaded", function (event) {
         var factorValue = selectfact.value;
         // 因子検索トグル
         var factorChk = document.querySelectorAll("[id^='toggleFactor']");
-        // var lineValue = this.selectedLine[0];
-        var lineValue = this.selectedLine;
+
+        var lineValue = this.selectedLine.length > 0 ? this.selectedLine : '';
+        var lineValueHt = this.selectedLineHt.length > 0 ? this.selectedLineHt : "";
         // 検索
-        dispHorse(chk, sei, input, factorValue, this.sValue, lineValue, 1);
+        dispHorse(chk, sei, input, factorValue, this.sValue, lineValue, lineValueHt, 1);
       },
     },
     mounted: function () {
@@ -546,6 +564,7 @@ function filterHorse(
   factorValue,
   factorChk,
   line,
+  lineHt,
   flg
 ) {
   var sql_M = "";
@@ -571,7 +590,8 @@ function filterHorse(
     jik_arr,
     rare_arr,
     factorValue,
-    line
+    line,
+    lineHt
   );
 
   // レア牡馬
@@ -591,6 +611,9 @@ function filterHorse(
   sql_filter = filterSqlFactor(sql_filter, factorValue, factorChk);
   // 子系統
   sql_filter = filterSqlLine(sql_filter, line);
+  // 母父の子系統
+  sql_filter = filterSqlLineHt(sql_filter, lineHt);
+
   // キーワード検索
   sql_filter = filterSqlKeyword(sql_filter, keyword.value);
 
@@ -619,9 +642,6 @@ function filterHorse(
     j_horselist_F = alasql(sql_F, [horse]);
   }
   //リスト表示
-  //var contents = formatHorse(j_horselist_M, j_horselist_F, sei);
-  //horselist.innerHTML = formatHorse(sei, formatFlg, factor, mig_arr, jik_arr);
-  //formatHorse(sei, formatFlg, factorValue, mig_arr, jik_arr);
   formatHorse(sei, formatFlg, factorValue, t_arr, ht_arr, mig_arr, jik_arr);
 
   loadjs(1);
@@ -731,6 +751,22 @@ function filterSqlLine(sql_filter, line) {
 
   //正規表現で検索
   sql_filter += '(Category REGEXP "^(?=.*' + line + ').*$")';
+
+  return sql_filter;
+}
+
+//母父の子系統検索
+function filterSqlLineHt(sql_filter, lineHt) {
+  if (lineHt.length == 0) {
+    return sql_filter;
+  }
+
+  if (sql_filter.length > 0) {
+    sql_filter += " AND ";
+  }
+
+  //正規表現で検索
+  sql_filter += '(Category_ht REGEXP "^(?=.*' + lineHt + ').*$")';
 
   return sql_filter;
 }
@@ -930,7 +966,54 @@ function formatHorse(
 
       tagFactor += "</v-col>";
       tagFactor += "</v-row>";
+      tagFactor += "<v-spacer></v-spacer>";
       tagFactor += "<v-divider></v-divider>";
+      tagFactor += "<v-spacer></v-spacer>";
+
+      // 母父の子系統指定↓
+      tagFactor += '<v-row justify="center" no-gutters>';
+      tagFactor +=
+        '<v-col cols="10" align="center"><v-card color="#4169e1" class="white--text">母父の子系統指定</v-card></v-col>';
+      tagFactor += "</v-row>";
+      tagFactor += '<v-row justify="center" no-gutters>';
+      tagFactor += '<v-col dense cols="10">';
+
+      tagFactor += " <v-autocomplete";
+      tagFactor += '   v-model="selectedLineHt"';
+      tagFactor += '   :items="lines"';
+      tagFactor += '   color="blue-grey lighten-2"';
+      tagFactor += '   item-text="name"';
+      tagFactor += '   item-value="name"';
+      tagFactor += '   placeholder="子系統を選んでください。"';
+      tagFactor += '   no-data-text="見つかりません.."';
+      tagFactor += " >";
+      tagFactor += '   <template #selection="data">';
+      tagFactor += "     <v-avatar left>";
+      tagFactor += '       <img :src="data.item.avatar">';
+      tagFactor += "     </v-avatar>";
+      tagFactor += '     <div id="selectlineht">{{ data.item.name }}</div>';
+      tagFactor += "   </template>";
+      tagFactor += '   <template v-slot:item="data">';
+      tagFactor += "     <template>";
+      tagFactor += "       <v-list-item-avatar>";
+      tagFactor += '         <img :src="data.item.avatar">';
+      tagFactor += "       </v-list-item-avatar>";
+      tagFactor += "       <v-list-item-content>";
+      tagFactor +=
+        '         <v-list-item-title v-html="data.item.name"></v-list-item-title>';
+      tagFactor +=
+        '         <v-list-item-subtitle v-html="data.item.group"></v-list-item-subtitle>';
+      tagFactor += "       </v-list-item-content>";
+      tagFactor += "     </template>";
+      tagFactor += "   </template>";
+      tagFactor += " </v-autocomplete>";
+
+      tagFactor += "</v-col>";
+      tagFactor += "</v-row>";
+      tagFactor += "<v-spacer></v-spacer>";
+      tagFactor += "<v-divider></v-divider>";
+      tagFactor += "<v-spacer></v-spacer>";
+
       // 祖先指定↓
       tagFactor += '<v-row justify="center" no-gutters>';
       tagFactor +=
@@ -1454,8 +1537,10 @@ function getAccordion(
   jik_arr,
   rare_arr,
   factorValue,
-  line
+  line,
+  lineHt
 ) {
+
   let tag = "";
   let condition = "";
 
@@ -1466,7 +1551,8 @@ function getAccordion(
     !jik_arr &&
     !rare_arr &&
     !factorValue &&
-    !line
+    !line &&
+    !lineHt
   ) {
     condition += "";
   } else {
@@ -1477,6 +1563,7 @@ function getAccordion(
     condition += factorValue ? "　因子：" + factorValue : "";
     condition += condition ? "\n" : "";
     condition += line ? "　子系統：" + line : "";
+    condition += lineHt ? "　母父の子系統：" + lineHt : "";
 
     //condition += getCondition('レア：',rare_arr);
   }
