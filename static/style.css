@@ -1527,17 +1527,20 @@ ul li, ol li {
 /* 普通 */
 .detail .horse {
   border-right: none; 
-  font-weight: bold;  }
+  /* font-weight: bold; */
+  }
 
 .detail .horse_0 {
   border-left: none; 
   border-right: none; 
-  font-weight: bold;  }
+  /* font-weight: bold; */
+  }
 
 .detail .horse_1 {
   border-left: none; 
   border-right: none; 
-  font-weight: bold;  }
+  /* font-weight: bold; */
+  }
 
 /* 該当する因子が入るとき */
 .detail .horse_R0 {
@@ -1550,18 +1553,22 @@ ul li, ol li {
 /* 面白 */
 .detail .omoshiro {
   background: #b6ffbd;
-  border-right: none; 
-  font-weight: bold;  }
+  border-right: none;
+  border-left: none;
+  /* font-weight: bold; */
+  }
 
 .detail .omoshiro_0 {
   background: #b6ffbd;
   border-right: none; 
-  font-weight: bold;  }
+  /* font-weight: bold; */
+  }
 
 .detail .omoshiro_mare_0 {
   background: linear-gradient(135deg, #b6ffbd 00%, #b6ffbd 88%, #fffcaa 20%, #fffcaa 100%);
   border-right: none; 
-  font-weight: bold;  }
+  /* font-weight: bold; */
+  }
 
 /* 種牡馬の父 */
 .detail .omoshiro_11 {
@@ -1569,7 +1576,8 @@ ul li, ol li {
   border-right: none; 
   border-left: none; 
   text-align: left;
-  font-weight: bold;  }
+  font-weight: bold;
+  }
 
 /* 種牡馬の母父 */
 .detail .omoshiro_12 {
@@ -1577,7 +1585,8 @@ ul li, ol li {
   border-right: none; 
   border-left: none; 
   text-align: left;
-  font-weight: bold;  }
+  font-weight: bold;
+  }
 
 /* 繫殖牝馬の父 */
 .detail .omoshiro_mare_11 {
@@ -1585,7 +1594,8 @@ ul li, ol li {
   border-right: none; 
   border-left: none; 
   text-align: left;
-  font-weight: bold;  }
+  /* font-weight: bold; */
+  }
 
 /* 繫殖牝馬の母父 */
 .detail .omoshiro_mare_12 {
@@ -1593,7 +1603,8 @@ ul li, ol li {
   border-right: none; 
   border-left: none; 
   text-align: left;
-  font-weight: bold;  }
+  font-weight: bold;
+  }
 
 .detail .omoshiro_2 {
   background: #b6ffbd;
@@ -1686,19 +1697,23 @@ ul li, ol li {
 .detail .migoto {
   background: #fffcaa;
   border-right: none; 
-  font-weight: bold;  }
+  /* font-weight: bold; */
+  }
 
 .detail .migoto_0 {
   background: #fffcaa;
+  border-left: none;
   border-right: none; 
-  font-weight: bold;  }
+  /* font-weight: bold; */
+  }
 
 .detail .migoto_1 {
   background: #fffcaa;
   border-left: none; 
   border-right: none; 
   text-align: right;
-  font-weight: bold;  }
+  font-weight: bold;
+  }
 
 /* 該当する因子が入るとき */
 .detail .migoto_R0 {
@@ -1729,31 +1744,13 @@ table.pedigree, table.horse_spec, div.horse_spec {
   background-color: #FFFFFF; 
   border-collapse: collapse;
   border-spacing: 0;
-  font-size: 16px;
+  font-size: 20px;
   }
-
-/* a > .horse_spec {
-  border: #DDDDDD 1px solid;
-  text-decoration: none;
-  background-color: #FFFFFF;
-  color: #465535;
-  cursor: pointer;
-  cursor: hand; }
-
-a > .horse_spec:hover {
-  border: 1px #f78b28 solid; } */
 
 table.pedigree td, table.horse_spec td {
   border: 1px solid #DDDDDD;
   padding: 2px 0;
    }
-
-/* table.horse_spec td.item_name, table.horse_spec td.item_value {
-  text-align: center;
-  vertical-align: middle;
-  
-  
-   } */
 
 table.horse_spec td.item_name {
   border-right: none; }
