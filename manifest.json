@@ -1,7 +1,7 @@
 {
     "short_name": "ダビむす",
     "name": "ダビむす",
-    "display": "standalone",
+    "display": "fullscreen",
     "start_url": "https://yanaifarm.github.io/dabimasData/index.html",
     "background_color": "#4169e1",
      "icons": [
@@ -32,3 +32,11 @@
     }
   ]
 }
+
+     'レア
+     If (strRare <> "Z") Then
+         strTag = strTag & "<th class=""header01"" width=""10%"">" & dicBMSRare(strRare)
+     Else
+         '引換券牝馬
+         strTag = strTag & "<th class=""header01_Z"" width=""10%"">券"
+     End If
