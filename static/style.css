@@ -369,6 +369,7 @@ tr:hover {
 
 /*牡馬牝馬タブ↓ new*/
 .horselist {
+  border: 0px none;
 	position:relative;
 	left: -170px;
 	display: flex;
@@ -384,8 +385,10 @@ tr:hover {
   width: 614px;
   order: -1;
   outline: none;
+  border: 0px none;
 }
 .horselist .tab_label {
+  border: 0px none;
 	position:relative;
 	left: 150px;
 	flex-wrap: nowrap;
@@ -486,7 +489,6 @@ tr:hover {
 	overflow: hidden;
 	opacity: 0;
 }
-
 
 .horselist input:checked + .tab_label {
 	background: #4169e1;
@@ -1271,7 +1273,39 @@ height:720px;
       -1px  0px 0px #ffffff,
        0px -1px 0px #ffffff;        /* 文字の影 */
 }
+/*走*/
+.header01_f11 {
+  color: #000000;
+  /* 文字の影 */
+  background: #f1eeea;
+  text-shadow:
+    1px 1px 0px #ffffff,
+    -1px 1px 0px #ffffff,
+    1px -1px 0px #ffffff,
+    -1px -1px 0px #ffffff,
+    1px 0px 0px #ffffff,
+    0px 1px 0px #ffffff,
+    -1px 0px 0px #ffffff,
+    0px -1px 0px #ffffff;
+  /* 文字の影 */
+}
 
+/*中*/
+.header01_f12 {
+  color: #000000;
+  /* 文字の影 */
+  background: #117e28;
+  text-shadow:
+    1px 1px 0px #ffffff,
+    -1px 1px 0px #ffffff,
+    1px -1px 0px #ffffff,
+    -1px -1px 0px #ffffff,
+    1px 0px 0px #ffffff,
+    0px 1px 0px #ffffff,
+    -1px 0px 0px #ffffff,
+    0px -1px 0px #ffffff;
+  /* 文字の影 */
+}
 
 /*交換券*/
 .header01_Z{
