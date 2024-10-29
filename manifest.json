@@ -32,11 +32,3 @@
     }
   ]
 }
-
-     'レア
-     If (strRare <> "Z") Then
-         strTag = strTag & "<th class=""header01"" width=""10%"">" & dicBMSRare(strRare)
-     Else
-         '引換券牝馬
-         strTag = strTag & "<th class=""header01_Z"" width=""10%"">券"
-     End If
