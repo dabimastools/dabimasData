@@ -1,5 +1,5 @@
 // cache name, cache files
-var CACHE_NAME = 'dabimas-cache-v20250925';
+var CACHE_NAME = 'dabimas-cache-v20251004';
 var urlsToCache = [
     '/index.html',
     '/detail.html',

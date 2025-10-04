@@ -699,7 +699,8 @@ function filterSqlFactor(sql_filter, factorValue, factorChk) {
   //検索オプションにチェックが入っているのか確認
   for (let i = 0; i < factorChk.length; i++) {
     //検索オプションにチェックが入ってれば条件を設定
-    wkFactor += "「" + factorChk[i] + factorValue + "」|";
+    //wkFactor += "「" + factorChk[i] + factorValue + "」|";
+    wkFactor += "[" + factorChk[i] + factorValue + "]|";
     chkCnt++;
   }
 
